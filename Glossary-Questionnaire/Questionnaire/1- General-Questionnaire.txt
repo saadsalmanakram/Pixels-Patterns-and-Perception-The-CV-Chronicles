@@ -910,6 +910,18 @@ Ans- Convolution is an operation where a kernel moves over an image to compute t
 
 (-------------------------------------------------------------------------)
 
+153- What is the importance of padding in convolution?
+
+Ans- Padding adds extra pixels around the image border to ensure that the convolution operation covers the entire image.
+
+(-------------------------------------------------------------------------)
+
+154- What is stride in convolution?
+
+Ans- Stride is the number of pixels the kernel moves over the image during the convolution process.
+
+(-------------------------------------------------------------------------)
+
 
 
 
