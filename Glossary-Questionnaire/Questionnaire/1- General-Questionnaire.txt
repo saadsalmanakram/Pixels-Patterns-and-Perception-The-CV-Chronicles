@@ -580,3 +580,8 @@ Ans- Balancing dimensionality is crucial for efficient processing and storage wh
 
 (-------------------------------------------------------------------------)
 
+98- What role does locality play in a good descriptor?
+
+Ans- Locality ensures that the descriptor captures specific regions or keypoints within an image.
+
+(-------------------------------------------------------------------------)
