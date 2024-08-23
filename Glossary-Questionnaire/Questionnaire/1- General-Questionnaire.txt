@@ -160,6 +160,12 @@ Ans- Common tasks include image classification, segmentation, and object detecti
 
 (------------------------------------------------------------------------)
 
+28- How do computational costs compare between processing images, videos, and tabular data?
+
+Ans- Image processing is generally less expensive than video processing, while tabular data processing is usually less expensive compared to both images and videos.
+
+(------------------------------------------------------------------------)
+
 
 
 
