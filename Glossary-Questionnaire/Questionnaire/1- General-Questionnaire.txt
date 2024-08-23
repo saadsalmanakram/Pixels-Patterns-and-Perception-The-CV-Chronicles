@@ -394,3 +394,9 @@ Ans- It suggests similar products by analyzing images or videos of items viewed 
 
 (------------------------------------------------------------------------)
 
+67- How does computer vision assist in tumor detection in radiology?
+
+Ans- It segments and detects tumors in MRI or CT scans, aiding in diagnosis and treatment planning.
+
+(------------------------------------------------------------------------)
+
