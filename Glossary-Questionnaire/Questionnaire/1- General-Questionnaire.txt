@@ -208,6 +208,12 @@ Ans- Key components are illumination, reflectance, sampling, and quantization.
 
 (------------------------------------------------------------------------)
 
+36- What factors influence the resolution and quality of a digital image?
+
+Ans- Resolution and quality depend on the number of samples, discrete intensity levels, and the system's dynamic range.
+
+(------------------------------------------------------------------------)
+
 
 
 
