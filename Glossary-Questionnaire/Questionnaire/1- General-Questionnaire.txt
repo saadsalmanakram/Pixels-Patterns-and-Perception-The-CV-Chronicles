@@ -1036,6 +1036,12 @@ Ans- CNNs are commonly used in image classification, object detection, and segme
 
 (-------------------------------------------------------------------------)
 
+174- What is the function of a softmax layer in a CNN?
+
+Ans- The softmax layer converts logits into probabilities, enabling multi-class classification.
+
+(-------------------------------------------------------------------------)
+
 
 
 
