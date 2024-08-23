@@ -1234,6 +1234,12 @@ Ans- LRN is used to normalize feature maps, helping the network to converge duri
 
 (-------------------------------------------------------------------------)
 
+207- How does GoogLeNet's average pooling layer differ from traditional pooling layers?
+
+Ans- GoogLeNet uses global average pooling, which pools across the entire spatial dimensions of the feature map.
+
+(-------------------------------------------------------------------------)
+
 
 
 
