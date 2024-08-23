@@ -1222,6 +1222,12 @@ Ans- There are nine Inception modules in the GoogLeNet architecture.
 
 (-------------------------------------------------------------------------)
 
+205- How does GoogLeNet handle downsampling in the network?
+
+Ans- Downsampling is handled using max pooling layers after certain Inception blocks.
+
+(-------------------------------------------------------------------------)
+
 
 
 
