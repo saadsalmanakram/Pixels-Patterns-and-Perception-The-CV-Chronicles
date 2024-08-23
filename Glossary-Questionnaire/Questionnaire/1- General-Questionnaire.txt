@@ -358,3 +358,9 @@ Ans- An example is image sharpening, where the input and output are both images.
 
 (------------------------------------------------------------------------)
 
+61- What is a high-level image understanding task?
+
+Ans- A high-level task could be recognizing a specific object or scene in an image, akin to human cognition.
+
+(------------------------------------------------------------------------)
+
