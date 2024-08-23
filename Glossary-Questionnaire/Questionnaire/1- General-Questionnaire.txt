@@ -736,3 +736,9 @@ Ans- LoFTR uses transformers and a learning-based approach to match features wit
 
 (-------------------------------------------------------------------------)
 
+124- How does LoFTR handle image transformations like rotation and scaling?
+
+Ans- LoFTR is robust to transformations, maintaining accuracy even when features are rotated or resized.
+
+(-------------------------------------------------------------------------)
+
