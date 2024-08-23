@@ -1198,6 +1198,12 @@ Ans- They provide additional loss functions that ensure the early layers receive
 
 (-------------------------------------------------------------------------)
 
+201- What happens to auxiliary classifiers during inference?
+
+Ans- They are removed during inference, as their purpose is only to aid training.
+
+(-------------------------------------------------------------------------)
+
 
 
 
