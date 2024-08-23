@@ -808,6 +808,12 @@ Ans- Object tracking involves continuously detecting and following key features 
 
 (-------------------------------------------------------------------------)
 
+136- How is object tracking applied in automotive safety?
+
+Ans- Tesla’s Autopilot uses object tracking to monitor surrounding vehicles, enhancing driving safety.
+
+(-------------------------------------------------------------------------)
+
 
 
 
