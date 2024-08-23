@@ -952,6 +952,12 @@ Ans- Pooling is a downsampling operation that reduces the spatial dimensions of 
 
 (-------------------------------------------------------------------------)
 
+160- What is max pooling?
+
+Ans- Max pooling selects the maximum value from each window of a feature map, reducing the dimensionality while preserving important features.
+
+(-------------------------------------------------------------------------)
+
 
 
 
