@@ -550,3 +550,9 @@ Ans- Categorical features can be represented using dictionaries/lists or one-hot
 
 (-------------------------------------------------------------------------)
 
+93- How are image features commonly represented in data?
+
+Ans- Image features are represented as pixel value matrices or using features extracted by CNNs.
+
+(-------------------------------------------------------------------------)
+
