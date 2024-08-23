@@ -94,3 +94,12 @@ Ans- 3D images are represented by the function F(X,Y,Z), where X, Y, and Z are s
 
 (------------------------------------------------------------------------)
 
+17- What is a voxel?
+
+Ans- A voxel is the 3D equivalent of a pixel, representing a value in a volumetric image at coordinates (X, Y, Z)
+
+(------------------------------------------------------------------------)
+
+
+
+
