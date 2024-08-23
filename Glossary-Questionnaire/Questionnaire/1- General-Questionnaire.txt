@@ -700,3 +700,9 @@ Ans- The ratio test filters out weak matches by comparing the distances of the n
 
 (-------------------------------------------------------------------------)
 
+118- How does ORB differ from SIFT in feature matching?
+
+Ans- ORB uses binary descriptors and matches features using Hamming Distance, making it faster and more efficient.
+
+(-------------------------------------------------------------------------)
+
