@@ -64,4 +64,9 @@ Ans- An image is a visual representation of objects, scenes, or concepts, typica
 
 (------------------------------------------------------------------------)
 
+12- How is an image represented mathematically?
+
+Ans- An image is represented as an n-dimensional function F(X,Y) with the function value indicating the intensity or gray level at a specific point.
+
+(------------------------------------------------------------------------)
 
