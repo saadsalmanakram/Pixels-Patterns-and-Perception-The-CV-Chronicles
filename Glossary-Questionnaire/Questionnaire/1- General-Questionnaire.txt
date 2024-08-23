@@ -232,6 +232,13 @@ Ans- Restoration aims to recover a degraded image, while enhancement improves vi
 
 (------------------------------------------------------------------------)
 
+40- Why is color important in image processing?
+
+Ans- Color helps in object identification and recognition, utilizing both pseudo-color and full-color processing.
+
+(------------------------------------------------------------------------)
+
+
 
 
 
