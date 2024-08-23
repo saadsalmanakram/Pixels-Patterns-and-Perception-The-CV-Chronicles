@@ -178,6 +178,12 @@ Ans- Common image file types include JPEG, PNG, and RAW.
 
 (------------------------------------------------------------------------)
 
+31- What is the first step in digital image processing?
+
+Ans- Image acquisition is the first step, involving the capture of physical phenomena into a digital representation.
+
+(------------------------------------------------------------------------)
+
 
 
 
