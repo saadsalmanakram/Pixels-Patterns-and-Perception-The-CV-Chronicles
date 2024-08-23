@@ -988,6 +988,12 @@ Ans- Parameter sharing reduces the number of parameters by using the same filter
 
 (-------------------------------------------------------------------------)
 
+166- What is sparse connectivity in CNNs?
+
+Ans- Sparse connectivity means each output neuron is connected to only a small region of the input, reducing computational complexity.
+
+(-------------------------------------------------------------------------)
+
 
 
 
