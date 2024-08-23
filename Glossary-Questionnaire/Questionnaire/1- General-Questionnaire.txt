@@ -418,3 +418,9 @@ Ans- Biases can lead to unfair outcomes, perpetuating social inequalities.
 
 (------------------------------------------------------------------------)
 
+71- What is the importance of transparency in computer vision systems?
+
+Ans- Users need to understand how these systems make decisions to ensure accountability and trust.
+
+(------------------------------------------------------------------------)
+
