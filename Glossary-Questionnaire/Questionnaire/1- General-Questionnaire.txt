@@ -1168,6 +1168,12 @@ Ans- A 1x1 convolution, 3x3 convolution, 5x5 convolution, and a 3x3 max pooling,
 
 (-------------------------------------------------------------------------)
 
+196- How does the 1x1 convolution contribute to the Inception module?
+
+Ans- It reduces the dimensionality of the feature maps, thereby decreasing the computational load.
+
+(-------------------------------------------------------------------------)
+
 
 
 
