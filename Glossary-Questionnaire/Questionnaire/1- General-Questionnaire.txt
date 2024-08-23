@@ -436,3 +436,9 @@ Ans- Logical operations apply rules to image pixels to produce new images, often
 
 (------------------------------------------------------------------------)
 
+74- Can you explain the difference between element-wise and matrix operations in image processing?
+
+Ans- Element-wise operations process each pixel individually, while matrix operations manipulate the entire image using matrix theory.
+
+(------------------------------------------------------------------------)
+
