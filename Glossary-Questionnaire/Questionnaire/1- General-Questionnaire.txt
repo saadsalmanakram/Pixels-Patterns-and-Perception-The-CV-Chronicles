@@ -646,3 +646,9 @@ Ans- SURF uses integral images and Haar wavelet approximations for faster featur
 
 (-------------------------------------------------------------------------)
 
+109- What is the basic working principle of SURF?
+
+Ans- SURF detects blobs using the Hessian matrix, assigns orientations, and matches descriptors across images.
+
+(-------------------------------------------------------------------------)
+
