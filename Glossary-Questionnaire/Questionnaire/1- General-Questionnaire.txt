@@ -1282,6 +1282,12 @@ Ans- Fewer parameters lead to reduced computational cost, memory usage, and over
 
 (-------------------------------------------------------------------------)
 
+215- What is the main benefit of stacking Inception modules in GoogLeNet?
+
+Ans- It allows the network to capture complex features without needing to increase the depth drastically.
+
+(-------------------------------------------------------------------------)
+
 
 
 
