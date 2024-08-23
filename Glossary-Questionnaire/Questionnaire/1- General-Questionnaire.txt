@@ -1258,6 +1258,12 @@ Ans- The final fully connected layer outputs a vector of size 1000, correspondin
 
 (-------------------------------------------------------------------------)
 
+211- Why is the Inception architecture sometimes referred to as "Network In Network"?
+
+Ans- Because it includes multiple parallel convolutions within a single layer, effectively creating a network inside a network.
+
+(-------------------------------------------------------------------------)
+
 
 
 
