@@ -694,3 +694,9 @@ Ans- k-NN helps find the closest matches for descriptors between two images.
 
 (-------------------------------------------------------------------------)
 
+117- What is the purpose of the ratio test in feature matching?
+
+Ans- The ratio test filters out weak matches by comparing the distances of the nearest neighbors.
+
+(-------------------------------------------------------------------------)
+
