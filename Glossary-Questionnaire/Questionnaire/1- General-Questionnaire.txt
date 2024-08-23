@@ -214,6 +214,12 @@ Ans- Resolution and quality depend on the number of samples, discrete intensity 
 
 (------------------------------------------------------------------------)
 
+37- What does spatial resolution refer to in digital imaging?
+
+Ans- Spatial resolution refers to the smallest distinguishable detail in an image.
+
+(------------------------------------------------------------------------)
+
 
 
 
