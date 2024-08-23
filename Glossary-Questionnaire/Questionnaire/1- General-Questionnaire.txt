@@ -244,6 +244,12 @@ Ans- The RGB color model is used for digital displays, representing images with 
 
 (------------------------------------------------------------------------)
 
+42- What is the primary goal of image compression?
+
+Ans- Image compression aims to reduce data redundancy to efficiently represent information.
+
+(------------------------------------------------------------------------)
+
 
 
 
