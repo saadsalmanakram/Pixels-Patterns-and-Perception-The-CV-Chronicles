@@ -886,6 +886,24 @@ Ans- Visual features are specific patterns or characteristics in an image, such 
 
 (-------------------------------------------------------------------------)
 
+149- What is edge detection?
+
+Ans- Edge detection is the process of identifying and locating sharp discontinuities in an image, which represent object boundaries.
+
+(-------------------------------------------------------------------------)
+
+150- Name two popular edge detection methods.
+
+Ans- Sobel and Canny edge detection methods.
+
+(-------------------------------------------------------------------------)
+
+151- What is the role of a kernel in image processing?
+
+Ans- A kernel, or filter, is used to modify the image by performing convolution to extract features like edges or textures.
+
+(-------------------------------------------------------------------------)
+
 
 
 
