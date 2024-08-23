@@ -1204,6 +1204,12 @@ Ans- They are removed during inference, as their purpose is only to aid training
 
 (-------------------------------------------------------------------------)
 
+202- What kind of pooling is used in GoogLeNet instead of fully connected layers?
+
+Ans- Average pooling is used to reduce the feature maps along the spatial dimensions, minimizing the need for fully connected layers.
+
+(-------------------------------------------------------------------------)
+
 
 
 
