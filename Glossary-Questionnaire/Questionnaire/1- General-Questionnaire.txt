@@ -292,3 +292,9 @@ Ans- Picture 51 was crucial in the discovery of DNA's double helix structure.
 
 (------------------------------------------------------------------------)
 
+50- What challenges were faced in capturing the first image of a black hole?
+
+Ans- Capturing the black hole required synchronizing a global network of telescopes to create a massive virtual telescope.
+
+(------------------------------------------------------------------------)
+
