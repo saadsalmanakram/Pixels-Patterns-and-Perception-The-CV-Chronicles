@@ -340,3 +340,15 @@ Ans- Concerns include privacy issues in surveillance and the potential for miscl
 
 (------------------------------------------------------------------------)
 
+58- What role does image preprocessing play in computer vision?
+
+Ans- Image preprocessing helps extract features and improve data quality before applying more complex models or machine learning algorithms.
+
+(------------------------------------------------------------------------)
+
+59- What is scene recognition in computer vision?
+
+Ans- Scene recognition involves identifying and understanding the overall environment or context within an image.
+
+(------------------------------------------------------------------------)
+
