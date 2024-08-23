@@ -520,4 +520,16 @@ Ans- By generating varied data points, it decreases the need for manual labeling
 
 (------------------------------------------------------------------------)
 
+88- What tools are commonly used for image data augmentation?
+
+Ans- Tools like PyTorch, Augmentor, Albumentations, Imgaug, and OpenCV are popular for implementing various augmentations.
+
+(------------------------------------------------------------------------)
+
+89- How does batch-wise augmentation during model training conserve disk space?
+
+Ans- It generates transformed images on-the-fly during training, avoiding the need to store them permanently.
+
+(-------------------------------------------------------------------------)
+
 
