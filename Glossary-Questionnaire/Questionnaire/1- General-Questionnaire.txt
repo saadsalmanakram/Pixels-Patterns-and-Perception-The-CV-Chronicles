@@ -562,3 +562,9 @@ Ans- A good descriptor is invariant to transformations, distinctive, and efficie
 
 (-------------------------------------------------------------------------)
 
+95- Why is invariance important in a descriptor?
+
+Ans- Invariance ensures that the descriptor remains consistent despite changes in rotation, scale, or illumination.
+
+(-------------------------------------------------------------------------)
+
