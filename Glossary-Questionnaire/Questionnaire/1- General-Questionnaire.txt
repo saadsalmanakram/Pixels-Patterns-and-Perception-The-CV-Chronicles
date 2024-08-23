@@ -1300,6 +1300,11 @@ Ans- The "Network In Network" approach and the need for efficient multi-scale fe
 
 (-------------------------------------------------------------------------)
 
+218- How does GoogLeNet contribute to reducing overfitting?
+
+Ans- Through the use of auxiliary classifiers, dropout, and dimensionality reduction via 1x1 convolutions.
+
+(-------------------------------------------------------------------------)
 
 
 
