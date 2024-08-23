@@ -604,3 +604,9 @@ Ans- Computational efficiency is critical for real-time applications where quick
 
 (-------------------------------------------------------------------------)
 
+102- What is adaptability in the context of descriptors?
+
+Ans- Adaptability allows descriptors to adjust or learn from the data, making them effective in dynamic environments.
+
+(-------------------------------------------------------------------------)
+
