@@ -1090,6 +1090,12 @@ Ans- The Inception module is a network architecture that uses multiple convoluti
 
 (-------------------------------------------------------------------------)
 
+183- How does the VGGNet architecture differ from others?
+
+Ans- VGGNet uses small 3x3 convolutional filters stacked deep to capture complex patterns, resulting in a large network with uniform layer sizes.
+
+(-------------------------------------------------------------------------)
+
 
 
 
