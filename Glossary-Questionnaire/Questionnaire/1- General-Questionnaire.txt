@@ -514,4 +514,10 @@ Ans- Challenges include maintaining quality assurance and avoiding the persisten
 
 (------------------------------------------------------------------------)
 
+87- How does data augmentation reduce the cost of data labeling?
+
+Ans- By generating varied data points, it decreases the need for manual labeling, saving time and resources.
+
+(------------------------------------------------------------------------)
+
 
