@@ -928,6 +928,12 @@ Ans- A feature map is the output of a convolutional layer, highlighting the dete
 
 (-------------------------------------------------------------------------)
 
+156- What is the difference between a Prewitt and a Sobel filter?
+
+Ans- Both are edge detection filters, but the Sobel filter gives more emphasis to edges by weighting the center pixel more heavily.
+
+(-------------------------------------------------------------------------)
+
 
 
 
