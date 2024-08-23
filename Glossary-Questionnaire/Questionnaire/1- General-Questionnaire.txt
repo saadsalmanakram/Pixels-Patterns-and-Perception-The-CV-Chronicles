@@ -40,3 +40,9 @@ Ans- Computer vision involves algorithms and models that process visual data dif
 
 (------------------------------------------------------------------------)
 
+8- Why is adaptability important in computer vision systems?
+
+Ans- Adaptability allows computer vision systems to handle varied scenarios and context-rich environments, similar to human perception.
+
+(------------------------------------------------------------------------)
+
