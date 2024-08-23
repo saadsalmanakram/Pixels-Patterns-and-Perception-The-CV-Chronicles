@@ -850,6 +850,12 @@ Ans- It underpins a wide range of applications, enhancing security, medical diag
 
 (-------------------------------------------------------------------------)
 
+143- How might the scope of feature extraction evolve with advancing technology?
+
+Ans- As technology progresses, feature extraction will offer more sophisticated solutions across diverse sectors, driving future innovations.
+
+(-------------------------------------------------------------------------)
+
 
 
 
