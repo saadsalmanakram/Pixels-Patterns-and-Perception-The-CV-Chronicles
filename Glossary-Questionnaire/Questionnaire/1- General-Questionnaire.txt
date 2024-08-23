@@ -585,3 +585,10 @@ Ans- Balancing dimensionality is crucial for efficient processing and storage wh
 Ans- Locality ensures that the descriptor captures specific regions or keypoints within an image.
 
 (-------------------------------------------------------------------------)
+
+99- What is meant by the repeatability of a descriptor?
+
+Ans- Repeatability refers to the consistency of a descriptor across different instances of the same object or scene.
+
+(-------------------------------------------------------------------------)
+
