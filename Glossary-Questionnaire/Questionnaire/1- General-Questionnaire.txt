@@ -994,6 +994,18 @@ Ans- Sparse connectivity means each output neuron is connected to only a small r
 
 (-------------------------------------------------------------------------)
 
+167- What is the role of the activation function in a CNN?
+
+Ans- The activation function introduces non-linearity, allowing the CNN to model complex patterns.
+
+(-------------------------------------------------------------------------)
+
+168- Why is the ReLU activation function commonly used in CNNs?
+
+Ans- ReLU (Rectified Linear Unit) introduces non-linearity while being computationally efficient and helping mitigate the vanishing gradient problem.
+
+(-------------------------------------------------------------------------)
+
 
 
 
