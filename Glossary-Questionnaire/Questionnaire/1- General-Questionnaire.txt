@@ -502,4 +502,10 @@ Ans- Synthetic data is entirely generated from scratch, often using techniques l
 
 (------------------------------------------------------------------------)
 
+85- Why is data augmentation important in scenarios with limited training data?
+
+Ans- It helps in expanding the dataset and improving model accuracy without the need for additional data collection.
+
+(------------------------------------------------------------------------)
+
 
