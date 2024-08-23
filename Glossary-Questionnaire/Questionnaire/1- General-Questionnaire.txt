@@ -622,3 +622,9 @@ Ans- SIFT (Scale-Invariant Feature Transform) is an algorithm used to detect and
 
 (-------------------------------------------------------------------------)
 
+105- What is the basic working principle of SIFT?
+
+Ans- SIFT detects keypoints across scales, assigns orientations, and generates descriptors for matching.
+
+(-------------------------------------------------------------------------)
+
