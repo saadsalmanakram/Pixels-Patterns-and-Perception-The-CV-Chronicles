@@ -190,6 +190,18 @@ Ans- Energy types include conventional light, electromagnetic waves, and ultraso
 
 (------------------------------------------------------------------------)
 
+33- How does a sensor contribute to image acquisition?
+
+Ans- Sensors convert incident energy into electrical signals, which are then digitized into an image.
+
+(------------------------------------------------------------------------)
+
+34- What is the role of sensor arrays like CCDs in digital cameras?
+
+Ans- CCDs capture a complete image simultaneously without the need for motion.
+
+(------------------------------------------------------------------------)
+
 
 
 
