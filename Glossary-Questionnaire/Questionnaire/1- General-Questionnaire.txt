@@ -1144,6 +1144,19 @@ Ans- GoogLeNet is named as a tribute to LeNet, one of the earliest CNN architect
 
 (-------------------------------------------------------------------------)
 
+192- What problem does the Inception architecture solve?
+
+Ans- It addresses the need for deeper networks without drastically increasing computational cost or encountering issues like overfitting and vanishing gradients.
+
+(-------------------------------------------------------------------------)
+
+193- What is the fundamental building block of the Inception architecture?
+
+Ans- The Inception Module, which applies multiple convolution filters of different sizes in parallel.
+
+(-------------------------------------------------------------------------)
+
+
 
 
 
