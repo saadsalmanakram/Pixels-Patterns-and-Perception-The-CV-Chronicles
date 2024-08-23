@@ -748,3 +748,9 @@ Ans- RANSAC is used to clean up correspondences by filtering outliers, ensuring 
 
 (-------------------------------------------------------------------------)
 
+126- What libraries are essential for implementing feature matching in Python?
+
+Ans- Libraries like OpenCV, Kornia, and torch are essential for feature matching implementation.
+
+(-------------------------------------------------------------------------)
+
