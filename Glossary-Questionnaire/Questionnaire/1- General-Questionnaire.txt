@@ -1294,6 +1294,12 @@ Ans- By first reducing the feature dimensions with 1x1 convolutions before apply
 
 (-------------------------------------------------------------------------)
 
+217- What inspired the design of the Inception module?
+
+Ans- The "Network In Network" approach and the need for efficient multi-scale feature extraction.
+
+(-------------------------------------------------------------------------)
+
 
 
 
