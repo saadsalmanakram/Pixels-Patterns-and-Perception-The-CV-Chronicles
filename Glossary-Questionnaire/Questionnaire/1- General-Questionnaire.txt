@@ -784,6 +784,12 @@ Ans- Feature extraction is the process of identifying and isolating relevant vis
 
 (-------------------------------------------------------------------------)
 
+132- What role does feature extraction play in facial recognition?
+
+Ans- It identifies unique facial features like distances between eyes, nose shape, and jawline contours, crucial for accurate recognition.
+
+(-------------------------------------------------------------------------)
+
 
 
 
