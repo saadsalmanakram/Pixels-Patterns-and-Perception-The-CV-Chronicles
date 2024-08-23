@@ -256,6 +256,18 @@ Ans- Coding redundancy arises when intensity values are not uniformly distribute
 
 (------------------------------------------------------------------------)
 
+44- How does run-length encoding reduce spatial redundancy?
+
+Ans- Run-length encoding compresses data by reducing the redundancy in images with constant intensity lines.
+
+(------------------------------------------------------------------------)
+
+45- What is the significance of Huffman coding in image compression?
+
+Ans- Huffman coding removes coding redundancy by efficiently representing source symbols based on their probability.
+
+(------------------------------------------------------------------------)
+
 
 
 
