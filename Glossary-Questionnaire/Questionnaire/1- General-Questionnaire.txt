@@ -442,3 +442,9 @@ Ans- Element-wise operations process each pixel individually, while matrix opera
 
 (------------------------------------------------------------------------)
 
+75- How is set theory applied in digital image processing?
+
+Ans- Set theory helps perform operations like union and intersection on binary images to analyze pixel relationships.
+
+(------------------------------------------------------------------------)
+
