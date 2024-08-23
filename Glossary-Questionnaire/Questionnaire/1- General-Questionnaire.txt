@@ -58,3 +58,10 @@ Ans- The AI renaissance has enabled the creation of advanced computer vision mod
 
 (------------------------------------------------------------------------)
 
+11- What is an image in the context of computer vision?
+
+Ans- An image is a visual representation of objects, scenes, or concepts, typically represented as a 2D function F(X,Y) where X and Y are spatial Coordinates.
+
+(------------------------------------------------------------------------)
+
+
