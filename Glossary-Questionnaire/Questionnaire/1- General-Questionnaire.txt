@@ -334,3 +334,9 @@ Ans- Applications include image captioning, anomaly detection, image restoration
 
 (------------------------------------------------------------------------)
 
+57- What ethical concerns arise with computer vision applications?
+
+Ans- Concerns include privacy issues in surveillance and the potential for misclassification in critical tasks like medical diagnosis.
+
+(------------------------------------------------------------------------)
+
