@@ -352,3 +352,9 @@ Ans- Scene recognition involves identifying and understanding the overall enviro
 
 (------------------------------------------------------------------------)
 
+60- What is an example of a low-level image understanding task?
+
+Ans- An example is image sharpening, where the input and output are both images.
+
+(------------------------------------------------------------------------)
+
