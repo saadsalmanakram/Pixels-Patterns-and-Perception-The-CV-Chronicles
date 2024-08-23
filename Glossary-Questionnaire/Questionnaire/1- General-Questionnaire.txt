@@ -976,6 +976,12 @@ Ans- Dropout randomly sets a fraction of input units to zero during training to 
 
 (-------------------------------------------------------------------------)
 
+164- How does backpropagation work in CNNs?
+
+Ans- Backpropagation adjusts the weights of the filters by computing the gradient of the loss function with respect to each weight and updating them.
+
+(-------------------------------------------------------------------------)
+
 
 
 
