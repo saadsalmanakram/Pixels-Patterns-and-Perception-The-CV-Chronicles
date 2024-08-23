@@ -1180,6 +1180,12 @@ Ans- It reduces the output features of the max pooling before concatenation, mai
 
 (-------------------------------------------------------------------------)
 
+198- Why is ReLU activation used after every convolution in the Inception module?
+
+Ans- To introduce non-linearity, which allows the model to learn more complex representations.
+
+(-------------------------------------------------------------------------)
+
 
 
 
