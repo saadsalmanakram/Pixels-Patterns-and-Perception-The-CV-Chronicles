@@ -1030,6 +1030,12 @@ Ans- Flattening converts the 2D feature maps into a 1D vector, which can be fed 
 
 (-------------------------------------------------------------------------)
 
+173- What is a typical use case for CNNs?
+
+Ans- CNNs are commonly used in image classification, object detection, and segmentation tasks.
+
+(-------------------------------------------------------------------------)
+
 
 
 
