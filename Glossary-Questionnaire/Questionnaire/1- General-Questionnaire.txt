@@ -412,3 +412,9 @@ Ans- They raise ethical issues, particularly in surveillance and facial recognit
 
 (------------------------------------------------------------------------)
 
+70- Why is bias a significant concern in computer vision systems?
+
+Ans- Biases can lead to unfair outcomes, perpetuating social inequalities.
+
+(------------------------------------------------------------------------)
+
