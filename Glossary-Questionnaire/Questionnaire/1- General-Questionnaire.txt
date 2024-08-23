@@ -466,4 +466,10 @@ Ans- A linear spatial filter applies a convolution operation, with types includi
 
 (------------------------------------------------------------------------)
 
+79- What are the applications of Gaussian and box filters?
+
+Ans- Gaussian filters are used for smoothing images, while box filters are simpler and used for basic blurring.
+
+(------------------------------------------------------------------------)
+
 
