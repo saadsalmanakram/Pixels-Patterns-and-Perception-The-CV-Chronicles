@@ -904,6 +904,12 @@ Ans- A kernel, or filter, is used to modify the image by performing convolution 
 
 (-------------------------------------------------------------------------)
 
+152- What is convolution in image processing?
+
+Ans- Convolution is an operation where a kernel moves over an image to compute the sum of element-wise products, producing a feature map.
+
+(-------------------------------------------------------------------------)
+
 
 
 
