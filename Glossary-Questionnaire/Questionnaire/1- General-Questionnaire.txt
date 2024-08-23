@@ -100,6 +100,12 @@ Ans- A voxel is the 3D equivalent of a pixel, representing a value in a volumetr
 
 (------------------------------------------------------------------------)
 
+18- What are image channels?
+
+Ans- Image channels refer to the different color components of an image, with each channel representing intensity levels of a specific color, like red, green, or blue.
+
+(------------------------------------------------------------------------)
+
 
 
 
