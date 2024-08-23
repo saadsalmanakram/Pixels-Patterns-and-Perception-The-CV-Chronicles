@@ -1246,6 +1246,12 @@ Ans- ReLU (Rectified Linear Unit) activation function.
 
 (-------------------------------------------------------------------------)
 
+209- What dropout rate is used in the auxiliary classifiers of GoogLeNet?
+
+Ans- A dropout rate of 0.7 is used.
+
+(-------------------------------------------------------------------------)
+
 
 
 
