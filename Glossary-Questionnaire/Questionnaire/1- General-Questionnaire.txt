@@ -1252,6 +1252,12 @@ Ans- A dropout rate of 0.7 is used.
 
 (-------------------------------------------------------------------------)
 
+210- What is the final output size of the fully connected layer in GoogLeNet?
+
+Ans- The final fully connected layer outputs a vector of size 1000, corresponding to the number of classes in ImageNet.
+
+(-------------------------------------------------------------------------)
+
 
 
 
