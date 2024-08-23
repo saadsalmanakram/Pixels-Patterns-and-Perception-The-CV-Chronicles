@@ -508,4 +508,10 @@ Ans- It helps in expanding the dataset and improving model accuracy without the 
 
 (------------------------------------------------------------------------)
 
+86- What are the challenges associated with data augmentation?
+
+Ans- Challenges include maintaining quality assurance and avoiding the persistence of biases present in the original dataset.
+
+(------------------------------------------------------------------------)
+
 
