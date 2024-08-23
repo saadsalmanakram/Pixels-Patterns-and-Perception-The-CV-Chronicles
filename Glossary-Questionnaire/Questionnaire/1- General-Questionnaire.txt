@@ -868,6 +868,12 @@ Ans- A digital image is represented as a matrix of pixel values.
 
 (-------------------------------------------------------------------------)
 
+146- What is the difference between grayscale and color images?
+
+Ans- Grayscale images have one channel representing intensity, while color images have three channels (RGB) representing red, green, and blue intensities.
+
+(-------------------------------------------------------------------------)
+
 
 
 
