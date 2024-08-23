@@ -982,6 +982,12 @@ Ans- Backpropagation adjusts the weights of the filters by computing the gradien
 
 (-------------------------------------------------------------------------)
 
+165- What is the significance of parameter sharing in CNNs?
+
+Ans- Parameter sharing reduces the number of parameters by using the same filter (weights) across different positions in the input image.
+
+(-------------------------------------------------------------------------)
+
 
 
 
