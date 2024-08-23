@@ -664,3 +664,9 @@ Ans- Feature matching involves comparing key attributes in different images to i
 
 (-------------------------------------------------------------------------)
 
+112- What is the purpose of feature matching in computer vision applications?
+
+Ans- It is used in scene understanding, image stitching, object tracking, and pattern recognition.
+
+(-------------------------------------------------------------------------)
+
