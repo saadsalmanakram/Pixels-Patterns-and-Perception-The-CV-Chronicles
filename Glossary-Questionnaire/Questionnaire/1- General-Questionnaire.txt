@@ -1078,6 +1078,12 @@ Ans- 1D convolutions are used for temporal data, 2D for images, and 3D for volum
 
 (------------------------------------------------------------------------)
 
+181- What is a residual connection in CNNs?
+
+Ans- Residual connections, used in ResNets, bypass one or more layers by adding the input to the output, helping to train deeper networks.
+
+(-------------------------------------------------------------------------)
+
 
 
 
