@@ -1216,6 +1216,12 @@ Ans- To slightly improve top-1 accuracy, though it contributes minimally to the 
 
 (-------------------------------------------------------------------------)
 
+204- How many Inception modules are there in GoogLeNet?
+
+Ans- There are nine Inception modules in the GoogLeNet architecture.
+
+(-------------------------------------------------------------------------)
+
 
 
 
