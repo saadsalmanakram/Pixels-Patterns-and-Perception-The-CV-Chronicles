@@ -238,6 +238,12 @@ Ans- Color helps in object identification and recognition, utilizing both pseudo
 
 (------------------------------------------------------------------------)
 
+41- What is the RGB color model used for?
+
+Ans- The RGB color model is used for digital displays, representing images with red, green, and blue components.
+
+(------------------------------------------------------------------------)
+
 
 
 
