@@ -790,6 +790,12 @@ Ans- It identifies unique facial features like distances between eyes, nose shap
 
 (-------------------------------------------------------------------------)
 
+133- Describe an application of facial recognition in healthcare.
+
+Ans- Tools like Face2Gene analyze facial features to help diagnose genetic conditions.
+
+(-------------------------------------------------------------------------)
+
 
 
 
