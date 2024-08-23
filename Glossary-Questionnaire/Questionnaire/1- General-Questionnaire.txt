@@ -742,3 +742,9 @@ Ans- LoFTR is robust to transformations, maintaining accuracy even when features
 
 (-------------------------------------------------------------------------)
 
+125- Why is RANSAC used in LoFTR, and what is its purpose?
+
+Ans- RANSAC is used to clean up correspondences by filtering outliers, ensuring reliable feature matches.
+
+(-------------------------------------------------------------------------)
+
