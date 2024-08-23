@@ -838,6 +838,12 @@ Ans- BMW uses it to detect defects in car parts during production.
 
 (-------------------------------------------------------------------------)
 
+141- What is the role of anomaly detection in healthcare diagnostics?
+
+Ans- It aids in identifying tumors or abnormalities in medical imaging, with AI-driven platforms assisting radiologists.
+
+(-------------------------------------------------------------------------)
+
 
 
 
