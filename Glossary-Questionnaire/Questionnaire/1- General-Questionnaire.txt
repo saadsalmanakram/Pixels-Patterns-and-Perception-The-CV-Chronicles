@@ -370,3 +370,9 @@ Ans- Classical methods can aid in data augmentation, improving the quality and d
 
 (------------------------------------------------------------------------)
 
+63-  What are some challenges in pedestrian detection using computer vision?
+
+Ans- Challenges include varying lighting conditions, occlusions, and low-resolution images, which complicate the detection process.
+
+(------------------------------------------------------------------------)
+
