@@ -598,3 +598,9 @@ Ans- Descriptors should be suitable for the specific matching algorithm, whether
 
 (-------------------------------------------------------------------------)
 
+101- Why is computational efficiency important for descriptors?
+
+Ans- Computational efficiency is critical for real-time applications where quick processing is needed.
+
+(-------------------------------------------------------------------------)
+
