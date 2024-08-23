@@ -124,6 +124,12 @@ Ans- A 2D image is a static representation at a single point in time, while a vi
 
 (------------------------------------------------------------------------)
 
+22- How are images typically represented in computers?
+
+Ans- Images are commonly represented as matrices, where each element corresponds to a pixel's intensity value in a 2D array.
+
+(------------------------------------------------------------------------)
+
 
 
 
