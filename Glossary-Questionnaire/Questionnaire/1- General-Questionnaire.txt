@@ -118,6 +118,12 @@ Ans- A labeled image assigns labels to pixels, often used to differentiate foreg
 
 (------------------------------------------------------------------------)
 
+21- What is the difference between a 2D image and a video?
+
+Ans- A 2D image is a static representation at a single point in time, while a video is a sequence of images over time, represented by the function F(X,Y,T).
+
+(------------------------------------------------------------------------)
+
 
 
 
