@@ -226,6 +226,12 @@ Ans- Intensity resolution is often quantized in binary increments, such as 8-bit
 
 (------------------------------------------------------------------------)
 
+39- What is the difference between image restoration and image enhancement?
+
+Ans- Restoration aims to recover a degraded image, while enhancement improves visual appearance.
+
+(------------------------------------------------------------------------)
+
 
 
 
