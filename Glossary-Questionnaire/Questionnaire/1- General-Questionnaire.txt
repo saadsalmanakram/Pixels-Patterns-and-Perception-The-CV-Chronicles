@@ -706,3 +706,9 @@ Ans- ORB uses binary descriptors and matches features using Hamming Distance, ma
 
 (-------------------------------------------------------------------------)
 
+119- What is Hamming Distance, and when is it used?
+
+Ans- Hamming Distance measures the difference between two binary strings, commonly used in ORB-based matching.
+
+(-------------------------------------------------------------------------)
+
