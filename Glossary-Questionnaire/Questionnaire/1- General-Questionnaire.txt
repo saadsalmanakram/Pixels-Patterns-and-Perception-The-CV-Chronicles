@@ -670,3 +670,9 @@ Ans- It is used in scene understanding, image stitching, object tracking, and pa
 
 (-------------------------------------------------------------------------)
 
+113- What is Brute-Force Search in feature matching?
+
+Ans- Brute-Force Search compares every pixel or descriptor from one image to every pixel or descriptor in another, ensuring exhaustive matching.
+
+(-------------------------------------------------------------------------)
+
