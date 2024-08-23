@@ -1114,6 +1114,12 @@ Ans- Overfitting can be handled using techniques like dropout, data augmentation
 
 (-------------------------------------------------------------------------)
 
+187- What is early stopping in CNN training?
+
+Ans- Early stopping is a technique where training is halted when the model's performance on a validation set starts to degrade, preventing overfitting.
+
+(-------------------------------------------------------------------------)
+
 
 
 
