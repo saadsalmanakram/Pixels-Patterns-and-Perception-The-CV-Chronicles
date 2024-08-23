@@ -148,6 +148,12 @@ Ans- Feature extraction for images involves identifying important characteristic
 
 (------------------------------------------------------------------------)
 
+26- What are the key differences between images and other data types like audio or tabular data?
+
+Ans- Images are visual data often represented as 2D arrays, videos add a time dimension, audio is typically 1D, and tabular data is structured in rows and columns.
+
+(------------------------------------------------------------------------)
+
 
 
 
