@@ -880,6 +880,12 @@ Ans- Channels are separate layers in an image, like red, green, and blue in RGB 
 
 (-------------------------------------------------------------------------)
 
+148- What are visual features in the context of computer vision?
+
+Ans- Visual features are specific patterns or characteristics in an image, such as edges, corners, textures, or shapes.
+
+(-------------------------------------------------------------------------)
+
 
 
 
