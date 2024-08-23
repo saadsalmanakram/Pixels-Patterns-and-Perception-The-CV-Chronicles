@@ -1012,6 +1012,12 @@ Ans- Kernel size refers to the dimensions of the filter used during convolution,
 
 (-------------------------------------------------------------------------)
 
+170- What are some common loss functions used in CNNs?
+
+Ans- Common loss functions include cross-entropy loss for classification tasks and mean squared error for regression tasks.
+
+(-------------------------------------------------------------------------)
+
 
 
 
