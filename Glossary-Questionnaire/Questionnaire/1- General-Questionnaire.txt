@@ -46,3 +46,9 @@ Ans- Adaptability allows computer vision systems to handle varied scenarios and 
 
 (------------------------------------------------------------------------)
 
+9- What are some practical applications of computer vision in sports?
+
+Ans- Computer vision can track balls in sports for real-time decisions and make events more accessible to those with visual impairments.
+
+(------------------------------------------------------------------------)
+
