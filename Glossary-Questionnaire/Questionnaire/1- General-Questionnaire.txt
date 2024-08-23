@@ -1162,6 +1162,13 @@ Ans- By using parallel operations at multiple scales, reducing the depth require
 
 (-------------------------------------------------------------------------)
 
+195- What operations are performed within an Inception module?
+
+Ans- A 1x1 convolution, 3x3 convolution, 5x5 convolution, and a 3x3 max pooling, all in parallel.
+
+(-------------------------------------------------------------------------)
+
+
 
 
 
