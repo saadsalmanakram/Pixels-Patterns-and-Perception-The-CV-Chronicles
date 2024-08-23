@@ -304,3 +304,9 @@ Ans- Scientists encoded images into DNA using CRISPR, demonstrating a novel way 
 
 (------------------------------------------------------------------------)
 
+52- What is computer vision?
+
+Ans- Computer vision is the science and technology of making machines see, involving methods to acquire, process, analyze, and understand visual data.
+
+(------------------------------------------------------------------------)
+
