@@ -856,6 +856,12 @@ Ans- As technology progresses, feature extraction will offer more sophisticated 
 
 (-------------------------------------------------------------------------)
 
+144- What are pixels in an image?
+
+Ans- Pixels are the smallest units of an image, representing color and intensity at a specific location.
+
+(-------------------------------------------------------------------------)
+
 
 
 
