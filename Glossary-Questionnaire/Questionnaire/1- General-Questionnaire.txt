@@ -1192,6 +1192,12 @@ Ans- They are small classifiers branched from intermediate layers to provide add
 
 (-------------------------------------------------------------------------)
 
+200- How do auxiliary classifiers contribute during training?
+
+Ans- They provide additional loss functions that ensure the early layers receive meaningful gradients.
+
+(-------------------------------------------------------------------------)
+
 
 
 
