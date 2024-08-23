@@ -754,3 +754,9 @@ Ans- Libraries like OpenCV, Kornia, and torch are essential for feature matching
 
 (-------------------------------------------------------------------------)
 
+127- How does Kornia facilitate feature matching in Python?
+
+Ans- Kornia provides tools for loading images, converting them to grayscale, and applying matching algorithms like LoFTR.
+
+(-------------------------------------------------------------------------)
+
