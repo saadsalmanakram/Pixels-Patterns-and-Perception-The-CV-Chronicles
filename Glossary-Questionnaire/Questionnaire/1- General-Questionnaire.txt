@@ -1108,6 +1108,12 @@ Ans- CNNs are designed for spatial data like images, while RNNs are used for seq
 
 (-------------------------------------------------------------------------)
 
+186- How do you handle overfitting in CNN models?
+
+Ans- Overfitting can be handled using techniques like dropout, data augmentation, regularization, and early stopping.
+
+(-------------------------------------------------------------------------)
+
 
 
 
