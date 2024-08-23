@@ -376,3 +376,9 @@ Ans- Challenges include varying lighting conditions, occlusions, and low-resolut
 
 (------------------------------------------------------------------------)
 
+64- What role does computer vision play in autonomous vehicles?
+
+Ans- It helps vehicles perceive and interpret their surroundings for real-time decision-making.
+
+(------------------------------------------------------------------------)
+
