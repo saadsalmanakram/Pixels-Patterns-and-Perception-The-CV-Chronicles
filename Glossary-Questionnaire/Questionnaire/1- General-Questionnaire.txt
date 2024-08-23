@@ -970,6 +970,12 @@ Ans- A fully connected layer connects every neuron from the previous layer to ev
 
 (-------------------------------------------------------------------------)
 
+163- What is dropout in CNNs?
+
+Ans- Dropout randomly sets a fraction of input units to zero during training to prevent overfitting.
+
+(-------------------------------------------------------------------------)
+
 
 
 
