@@ -406,3 +406,9 @@ Ans- Issues include data variability, scalability, accuracy, and robustness to n
 
 (------------------------------------------------------------------------)
 
+69- How do privacy concerns impact the deployment of computer vision systems?
+
+Ans- They raise ethical issues, particularly in surveillance and facial recognition applications.
+
+(------------------------------------------------------------------------)
+
