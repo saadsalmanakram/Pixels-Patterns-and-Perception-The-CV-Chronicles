@@ -430,3 +430,9 @@ Ans- Logical, Statistical, Geometrical, Mathematical, and Transform operations.
 
 (------------------------------------------------------------------------)
 
+73- What is the purpose of logical operations in image processing?
+
+Ans- Logical operations apply rules to image pixels to produce new images, often used in binary image manipulation.
+
+(------------------------------------------------------------------------)
+
