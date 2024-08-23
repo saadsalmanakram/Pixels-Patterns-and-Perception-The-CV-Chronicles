@@ -52,3 +52,9 @@ Ans- Computer vision can track balls in sports for real-time decisions and make 
 
 (------------------------------------------------------------------------)
 
+10- How has the AI renaissance impacted computer vision?
+
+Ans- The AI renaissance has enabled the creation of advanced computer vision models that can detect, generate, and describe images more effectively.
+
+(------------------------------------------------------------------------)
+
