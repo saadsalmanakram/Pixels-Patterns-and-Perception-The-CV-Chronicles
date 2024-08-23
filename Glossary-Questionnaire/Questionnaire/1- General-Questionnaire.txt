@@ -250,6 +250,12 @@ Ans- Image compression aims to reduce data redundancy to efficiently represent i
 
 (------------------------------------------------------------------------)
 
+43- What causes coding redundancy in digital images?
+
+Ans- Coding redundancy arises when intensity values are not uniformly distributed, leading to inefficient use of bits.
+
+(------------------------------------------------------------------------)
+
 
 
 
