@@ -1024,6 +1024,12 @@ Ans- Batch normalization normalizes the output of a previous layer by subtractin
 
 (-------------------------------------------------------------------------)
 
+172- What is the purpose of flattening in a CNN?
+
+Ans- Flattening converts the 2D feature maps into a 1D vector, which can be fed into a fully connected layer for classification.
+
+(-------------------------------------------------------------------------)
+
 
 
 
