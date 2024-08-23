@@ -1120,6 +1120,12 @@ Ans- Early stopping is a technique where training is halted when the model's per
 
 (-------------------------------------------------------------------------)
 
+188- What is the role of the ImageNet dataset in CNNs?
+
+Ans- ImageNet is a large dataset used for benchmarking CNN models and pre-training them for various computer vision tasks.
+
+(-------------------------------------------------------------------------)
+
 
 
 
