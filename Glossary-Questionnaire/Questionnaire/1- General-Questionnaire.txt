@@ -1156,6 +1156,12 @@ Ans- The Inception Module, which applies multiple convolution filters of differe
 
 (-------------------------------------------------------------------------)
 
+194- How does the Inception module mitigate the vanishing gradient problem?
+
+Ans- By using parallel operations at multiple scales, reducing the depth required for complex feature extraction.
+
+(-------------------------------------------------------------------------)
+
 
 
 
