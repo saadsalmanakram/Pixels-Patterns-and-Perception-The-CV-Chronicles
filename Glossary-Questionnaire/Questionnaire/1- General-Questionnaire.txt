@@ -274,6 +274,12 @@ Ans- Higher resolution can introduce more noise, require more resources, and may
 
 (------------------------------------------------------------------------)
 
+47- How does image resolution affect model training in machine learning?
+
+Ans- Higher resolution requires more computational resources, longer training times, and may reduce the number of images that can be processed.
+
+(------------------------------------------------------------------------)
+
 
 
 
