@@ -388,3 +388,9 @@ Ans- It powers object recognition, recommendation systems, and inventory trackin
 
 (------------------------------------------------------------------------)
 
+66- Can you explain how computer vision enhances customer experience in online shopping?
+
+Ans- It suggests similar products by analyzing images or videos of items viewed or purchased by customers.
+
+(------------------------------------------------------------------------)
+
