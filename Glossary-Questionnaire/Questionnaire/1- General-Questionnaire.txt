@@ -1186,6 +1186,12 @@ Ans- To introduce non-linearity, which allows the model to learn more complex re
 
 (-------------------------------------------------------------------------)
 
+199- What are auxiliary classifiers in GoogLeNet?
+
+Ans- They are small classifiers branched from intermediate layers to provide additional gradient flow during training, helping to combat the vanishing gradient problem.
+
+(-------------------------------------------------------------------------)
+
 
 
 
