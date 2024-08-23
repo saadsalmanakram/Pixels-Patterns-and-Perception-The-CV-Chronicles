@@ -1042,6 +1042,18 @@ Ans- The softmax layer converts logits into probabilities, enabling multi-class 
 
 (-------------------------------------------------------------------------)
 
+175- What is an epoch in CNN training?
+
+Ans- An epoch is one complete pass of the training dataset through the neural network.
+
+(-------------------------------------------------------------------------)
+
+176- Why is data augmentation used in CNN training?
+
+Ans- Data augmentation increases the diversity of the training data by applying transformations like rotation, scaling, or flipping, improving model generalization.
+
+(-------------------------------------------------------------------------)
+
 
 
 
