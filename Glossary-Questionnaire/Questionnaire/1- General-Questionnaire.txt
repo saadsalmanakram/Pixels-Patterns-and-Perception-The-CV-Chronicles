@@ -1126,6 +1126,12 @@ Ans- ImageNet is a large dataset used for benchmarking CNN models and pre-traini
 
 (-------------------------------------------------------------------------)
 
+189- What is GoogLeNet?
+
+Ans- GoogLeNet is a deep convolutional neural network architecture introduced by Google that won the ImageNet 2014 challenge.
+
+(-------------------------------------------------------------------------)
+
 
 
 
