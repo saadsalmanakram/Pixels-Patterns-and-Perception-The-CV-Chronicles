@@ -106,6 +106,12 @@ Ans- Image channels refer to the different color components of an image, with ea
 
 (------------------------------------------------------------------------)
 
+19- What is the range of intensity values in a single color channel?
+
+Ans- The intensity values in a color channel typically range from 0 to 255, where 0 represents no intensity and 255 represents maximum intensity.
+
+(------------------------------------------------------------------------)
+
 
 
 
