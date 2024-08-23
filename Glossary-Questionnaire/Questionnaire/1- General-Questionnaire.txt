@@ -574,3 +574,9 @@ Ans- Distinctiveness means the descriptor can uniquely identify and differentiat
 
 (-------------------------------------------------------------------------)
 
+97- Why is the dimensionality of a descriptor important?
+
+Ans- Balancing dimensionality is crucial for efficient processing and storage while conveying sufficient information.
+
+(-------------------------------------------------------------------------)
+
