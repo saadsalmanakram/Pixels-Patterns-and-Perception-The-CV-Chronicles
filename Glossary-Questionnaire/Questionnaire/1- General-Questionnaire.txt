@@ -616,3 +616,9 @@ Ans- Noise robustness ensures that a descriptor can handle image noise without l
 
 (-------------------------------------------------------------------------)
 
+104- What is SIFT in computer vision?
+
+Ans- SIFT (Scale-Invariant Feature Transform) is an algorithm used to detect and describe local features in images.
+
+(-------------------------------------------------------------------------)
+
