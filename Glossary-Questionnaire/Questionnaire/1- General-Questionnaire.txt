@@ -718,3 +718,9 @@ Ans- FLANN (Fast Library for Approximate Nearest Neighbors) uses k-D trees for f
 
 (-------------------------------------------------------------------------)
 
+121- What are k-D trees, and why are they used in FLANN?
+
+Ans- k-D trees organize data points for efficient nearest-neighbor searches, reducing the number of comparisons needed.
+
+(-------------------------------------------------------------------------)
+
