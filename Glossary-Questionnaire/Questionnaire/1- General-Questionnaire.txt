@@ -268,6 +268,12 @@ Ans- Huffman coding removes coding redundancy by efficiently representing source
 
 (------------------------------------------------------------------------)
 
+46- Why might a higher resolution camera not solve all imaging problems?
+
+Ans- Higher resolution can introduce more noise, require more resources, and may not be suitable for all applications.
+
+(------------------------------------------------------------------------)
+
 
 
 
