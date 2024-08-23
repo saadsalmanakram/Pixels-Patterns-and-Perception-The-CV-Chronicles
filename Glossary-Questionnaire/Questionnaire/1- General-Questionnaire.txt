@@ -532,4 +532,10 @@ Ans- It generates transformed images on-the-fly during training, avoiding the ne
 
 (-------------------------------------------------------------------------)
 
+90- What are features in the context of machine learning?
+
+Ans- Features are attributes or variables of instances learned by the model to help recognize new instances.
+
+(-------------------------------------------------------------------------)
+
 
