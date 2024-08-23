@@ -22,3 +22,15 @@ Ans- Humans learn these tasks through trial and error during their upbringing, r
 
 (------------------------------------------------------------------------)
 
+5- What challenges arise when programming a computer to recognize a ball?
+
+Ans- Defining what constitutes a ball is difficult due to variations in size, shape, and context, making rule-based programming challenging.
+
+(------------------------------------------------------------------------)
+
+6- Why can't rigid rule-based systems fully replicate human object recognition?
+
+Ans- Human object recognition relies on context and generalization, whereas rigid systems lack the flexibility to adapt to different scenarios.
+
+(------------------------------------------------------------------------)
+
