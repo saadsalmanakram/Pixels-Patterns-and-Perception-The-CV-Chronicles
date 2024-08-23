@@ -538,4 +538,10 @@ Ans- Features are attributes or variables of instances learned by the model to h
 
 (-------------------------------------------------------------------------)
 
+91- How can numerical features be represented in data structures?
+
+Ans- Numerical features can be represented as arrays/lists or tensors for efficient handling.
+
+(-------------------------------------------------------------------------)
+
 
