@@ -676,3 +676,9 @@ Ans- Brute-Force Search compares every pixel or descriptor from one image to eve
 
 (-------------------------------------------------------------------------)
 
+114- What are the advantages and disadvantages of Brute-Force Search?
+
+Ans- Advantage: Simplicity; Disadvantage: Time-consuming for large datasets.
+
+(-------------------------------------------------------------------------)
+
