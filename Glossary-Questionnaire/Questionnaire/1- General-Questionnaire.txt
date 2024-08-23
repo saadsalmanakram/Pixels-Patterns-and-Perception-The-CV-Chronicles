@@ -1066,6 +1066,12 @@ Ans- The learning rate controls the size of the steps taken during gradient desc
 
 (------------------------------------------------------------------------)
 
+179- What is a learning rate scheduler?
+
+Ans- A learning rate scheduler adjusts the learning rate during training to improve convergence and prevent overfitting.
+
+(------------------------------------------------------------------------)
+
 
 
 
