@@ -844,6 +844,12 @@ Ans- It aids in identifying tumors or abnormalities in medical imaging, with AI-
 
 (-------------------------------------------------------------------------)
 
+142- Why is feature extraction considered transformative in computer vision?
+
+Ans- It underpins a wide range of applications, enhancing security, medical diagnostics, and industrial monitoring, among others.
+
+(-------------------------------------------------------------------------)
+
 
 
 
