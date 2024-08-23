@@ -310,3 +310,9 @@ Ans- Computer vision is the science and technology of making machines see, invol
 
 (------------------------------------------------------------------------)
 
+53- What is the difference between image analysis and image understanding?
+
+Ans- Image analysis focuses on low and mid-level processes, while image understanding involves making sense of the entire image, often through higher-level cognitive tasks.
+
+(------------------------------------------------------------------------)
+
