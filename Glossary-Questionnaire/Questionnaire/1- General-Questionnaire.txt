@@ -724,3 +724,9 @@ Ans- k-D trees organize data points for efficient nearest-neighbor searches, red
 
 (-------------------------------------------------------------------------)
 
+122- How does FLANN adjust its strategy for different types of features?
+
+Ans- FLANN customizes its approach based on the features, focusing on color, shape, or other attributes as needed.
+
+(-------------------------------------------------------------------------)
+
