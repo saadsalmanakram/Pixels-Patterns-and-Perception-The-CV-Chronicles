@@ -610,3 +610,9 @@ Ans- Adaptability allows descriptors to adjust or learn from the data, making th
 
 (-------------------------------------------------------------------------)
 
+103- How does noise robustness contribute to a descriptor's quality?
+
+Ans- Noise robustness ensures that a descriptor can handle image noise without losing accuracy.
+
+(-------------------------------------------------------------------------)
+
