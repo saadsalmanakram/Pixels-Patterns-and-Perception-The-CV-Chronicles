@@ -922,6 +922,12 @@ Ans- Stride is the number of pixels the kernel moves over the image during the c
 
 (-------------------------------------------------------------------------)
 
+155- What is a feature map?
+
+Ans- A feature map is the output of a convolutional layer, highlighting the detected features in the image.
+
+(-------------------------------------------------------------------------)
+
 
 
 
