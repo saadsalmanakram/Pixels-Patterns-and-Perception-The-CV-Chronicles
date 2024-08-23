@@ -730,3 +730,9 @@ Ans- FLANN customizes its approach based on the features, focusing on color, sha
 
 (-------------------------------------------------------------------------)
 
+123- What is LoFTR, and how does it differ from traditional feature matching methods?
+
+Ans- LoFTR uses transformers and a learning-based approach to match features without relying on traditional detectors.
+
+(-------------------------------------------------------------------------)
+
