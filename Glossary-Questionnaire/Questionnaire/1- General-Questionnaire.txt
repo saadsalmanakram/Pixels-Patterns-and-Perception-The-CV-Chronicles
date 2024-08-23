@@ -88,3 +88,9 @@ Ans- A pixel, or picture element, is the smallest unit of an image, representing
 
 (------------------------------------------------------------------------)
 
+16- How are 3D images represented?
+
+Ans- 3D images are represented by the function F(X,Y,Z), where X, Y, and Z are spatial coordinates, and each point is referred to as a voxel(volume element)
+
+(------------------------------------------------------------------------)
+
