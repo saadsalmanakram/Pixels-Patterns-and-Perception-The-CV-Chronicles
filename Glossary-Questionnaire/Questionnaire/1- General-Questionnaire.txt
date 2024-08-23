@@ -1054,6 +1054,12 @@ Ans- Data augmentation increases the diversity of the training data by applying 
 
 (-------------------------------------------------------------------------)
 
+177- What is transfer learning in CNNs?
+
+Ans- Transfer learning involves using a pre-trained CNN on a new, similar task, reducing the amount of data and time required for training.
+
+(------------------------------------------------------------------------)
+
 
 
 
