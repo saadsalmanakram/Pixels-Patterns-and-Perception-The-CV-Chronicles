@@ -142,6 +142,12 @@ Ans- In images, dimensionality refers to spatial dimensions (e.g., width and hei
 
 (------------------------------------------------------------------------)
 
+25- What is feature extraction in the context of images?
+
+Ans- Feature extraction for images involves identifying important characteristics like edges, textures, and colors, which are used for further analysis.
+
+(------------------------------------------------------------------------)
+
 
 
 
