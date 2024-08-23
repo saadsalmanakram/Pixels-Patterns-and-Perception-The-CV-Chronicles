@@ -568,3 +568,9 @@ Ans- Invariance ensures that the descriptor remains consistent despite changes i
 
 (-------------------------------------------------------------------------)
 
+96- What does distinctiveness in a descriptor refer to?
+
+Ans- Distinctiveness means the descriptor can uniquely identify and differentiate objects or image parts.
+
+(-------------------------------------------------------------------------)
+
