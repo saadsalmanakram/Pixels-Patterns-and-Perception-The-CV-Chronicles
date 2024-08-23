@@ -760,3 +760,9 @@ Ans- Kornia provides tools for loading images, converting them to grayscale, and
 
 (-------------------------------------------------------------------------)
 
+128- Why is it important to convert images to grayscale in LoFTR-based matching?
+
+Ans- LoFTR operates on grayscale images to focus on structure and intensity variations, which are critical for feature matching.
+
+(-------------------------------------------------------------------------)
+
