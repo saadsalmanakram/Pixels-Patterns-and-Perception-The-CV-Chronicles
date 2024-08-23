@@ -652,3 +652,9 @@ Ans- SURF detects blobs using the Hessian matrix, assigns orientations, and matc
 
 (-------------------------------------------------------------------------)
 
+110- What is the key advantage of SURF over SIFT?
+
+Ans- SURF is computationally more efficient, making it suitable for real-time applications.
+
+(-------------------------------------------------------------------------)
+
