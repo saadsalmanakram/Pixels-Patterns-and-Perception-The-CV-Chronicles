@@ -1102,6 +1102,12 @@ Ans- CNNs use pooling and global average pooling to reduce the spatial dimension
 
 (-------------------------------------------------------------------------)
 
+185- What is the difference between a CNN and an RNN?
+
+Ans- CNNs are designed for spatial data like images, while RNNs are used for sequential data like time series or text.
+
+(-------------------------------------------------------------------------)
+
 
 
 
