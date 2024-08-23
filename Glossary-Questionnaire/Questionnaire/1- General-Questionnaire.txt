@@ -220,6 +220,12 @@ Ans- Spatial resolution refers to the smallest distinguishable detail in an imag
 
 (------------------------------------------------------------------------)
 
+38- How is intensity resolution typically quantized?
+
+Ans- Intensity resolution is often quantized in binary increments, such as 8-bit or 256 levels.
+
+(------------------------------------------------------------------------)
+
 
 
 
