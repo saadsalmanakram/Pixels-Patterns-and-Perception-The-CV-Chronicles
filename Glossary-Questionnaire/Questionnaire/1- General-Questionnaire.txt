@@ -958,6 +958,12 @@ Ans- Max pooling selects the maximum value from each window of a feature map, re
 
 (-------------------------------------------------------------------------)
 
+161- What is average pooling?
+
+Ans- Average pooling computes the average value from each window of a feature map, often used to reduce feature map size while smoothing.
+
+(-------------------------------------------------------------------------)
+
 
 
 
