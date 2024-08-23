@@ -34,3 +34,9 @@ Ans- Human object recognition relies on context and generalization, whereas rigi
 
 (------------------------------------------------------------------------)
 
+7- How does computer vision differ from human vision?
+
+Ans- Computer vision involves algorithms and models that process visual data differently from human vision, often focusing on specific tasks.
+
+(------------------------------------------------------------------------)
+
