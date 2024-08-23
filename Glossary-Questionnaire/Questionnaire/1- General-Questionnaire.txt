@@ -382,3 +382,9 @@ Ans- It helps vehicles perceive and interpret their surroundings for real-time d
 
 (------------------------------------------------------------------------)
 
+65- How is computer vision utilized in retail and e-commerce?
+
+Ans- It powers object recognition, recommendation systems, and inventory tracking.
+
+(------------------------------------------------------------------------)
+
