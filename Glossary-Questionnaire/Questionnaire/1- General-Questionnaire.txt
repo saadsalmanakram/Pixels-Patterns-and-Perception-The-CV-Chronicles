@@ -448,3 +448,15 @@ Ans- Set theory helps perform operations like union and intersection on binary i
 
 (------------------------------------------------------------------------)
 
+76- What is the role of intensity transformations in image processing?
+
+Ans- Intensity transformations adjust pixel values to enhance image contrast or brightness.
+
+(------------------------------------------------------------------------)
+
+77- How does spatial filtering enhance an image?
+
+Ans- Spatial filtering modifies pixel values based on their neighbors, improving features like sharpness or reducing noise.
+
+(------------------------------------------------------------------------)
+
