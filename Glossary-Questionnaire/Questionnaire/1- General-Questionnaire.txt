@@ -1006,6 +1006,12 @@ Ans- ReLU (Rectified Linear Unit) introduces non-linearity while being computati
 
 (-------------------------------------------------------------------------)
 
+169-What is meant by "kernel size" in a convolutional layer?
+
+Ans- Kernel size refers to the dimensions of the filter used during convolution, commonly 3x3 or 5x5 in CNNs.
+
+(-------------------------------------------------------------------------)
+
 
 
 
