@@ -1228,6 +1228,12 @@ Ans- Downsampling is handled using max pooling layers after certain Inception bl
 
 (-------------------------------------------------------------------------)
 
+206- What is the role of Local Response Normalization (LRN) in GoogLeNet?
+
+Ans- LRN is used to normalize feature maps, helping the network to converge during training.
+
+(-------------------------------------------------------------------------)
+
 
 
 
