@@ -1060,6 +1060,12 @@ Ans- Transfer learning involves using a pre-trained CNN on a new, similar task, 
 
 (------------------------------------------------------------------------)
 
+178- What is the role of learning rate in CNN training?
+
+Ans- The learning rate controls the size of the steps taken during gradient descent optimization.
+
+(------------------------------------------------------------------------)
+
 
 
 
