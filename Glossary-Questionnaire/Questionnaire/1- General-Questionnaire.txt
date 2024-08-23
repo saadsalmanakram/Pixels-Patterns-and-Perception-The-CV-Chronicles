@@ -490,4 +490,10 @@ Ans- It improves model performance by preventing overfitting and enhancing gener
 
 (------------------------------------------------------------------------)
 
+83- What are some common image augmentation techniques?
+
+Ans- Techniques include flipping, cropping, rotation, brightness adjustment, and applying kernel filters.
+
+(------------------------------------------------------------------------)
+
 
