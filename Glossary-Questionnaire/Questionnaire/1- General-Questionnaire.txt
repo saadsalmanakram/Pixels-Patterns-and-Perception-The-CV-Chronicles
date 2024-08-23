@@ -322,3 +322,9 @@ Ans- The three levels are low-level (basic image operations), mid-level (segment
 
 (------------------------------------------------------------------------)
 
+55- What factors can increase the complexity of a computer vision task?
+
+Ans- Factors include lighting conditions, occlusions, image resolution, and camera quality.
+
+(------------------------------------------------------------------------)
+
