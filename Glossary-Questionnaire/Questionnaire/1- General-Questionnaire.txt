@@ -1018,6 +1018,12 @@ Ans- Common loss functions include cross-entropy loss for classification tasks a
 
 (-------------------------------------------------------------------------)
 
+171- What is batch normalization?
+
+Ans- Batch normalization normalizes the output of a previous layer by subtracting the batch mean and dividing by the batch standard deviation, stabilizing learning.
+
+(-------------------------------------------------------------------------)
+
 
 
 
