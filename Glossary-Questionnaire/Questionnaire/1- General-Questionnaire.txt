@@ -862,6 +862,12 @@ Ans- Pixels are the smallest units of an image, representing color and intensity
 
 (-------------------------------------------------------------------------)
 
+145- How is a digital image represented?
+
+Ans- A digital image is represented as a matrix of pixel values.
+
+(-------------------------------------------------------------------------)
+
 
 
 
