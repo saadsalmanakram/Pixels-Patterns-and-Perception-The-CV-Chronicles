@@ -874,6 +874,12 @@ Ans- Grayscale images have one channel representing intensity, while color image
 
 (-------------------------------------------------------------------------)
 
+147- What are image channels?
+
+Ans- Channels are separate layers in an image, like red, green, and blue in RGB images, each holding intensity values.
+
+(-------------------------------------------------------------------------)
+
 
 
 
