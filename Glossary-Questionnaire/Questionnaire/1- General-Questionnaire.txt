@@ -1288,6 +1288,12 @@ Ans- It allows the network to capture complex features without needing to increa
 
 (-------------------------------------------------------------------------)
 
+216- How does GoogLeNet address the computational expense of large kernel convolutions?
+
+Ans- By first reducing the feature dimensions with 1x1 convolutions before applying larger convolutions.
+
+(-------------------------------------------------------------------------)
+
 
 
 
