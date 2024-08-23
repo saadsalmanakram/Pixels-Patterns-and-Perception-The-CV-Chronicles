@@ -424,3 +424,9 @@ Ans- Users need to understand how these systems make decisions to ensure account
 
 (------------------------------------------------------------------------)
 
+72- What are the main categories of operations in digital image processing?
+
+Ans- Logical, Statistical, Geometrical, Mathematical, and Transform operations.
+
+(------------------------------------------------------------------------)
+
