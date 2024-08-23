@@ -472,4 +472,22 @@ Ans- Gaussian filters are used for smoothing images, while box filters are simpl
 
 (------------------------------------------------------------------------)
 
+80- How do sharpening filters like the Laplacian work?
+
+Ans- Sharpening filters emphasize intensity transitions by enhancing edges and details in an image.
+
+(------------------------------------------------------------------------)
+
+81- What is data augmentation in the context of image processing?
+
+Ans- Data augmentation involves creating modified versions of existing data to increase the diversity and size of a training dataset.
+
+(------------------------------------------------------------------------)
+
+82- How does data augmentation benefit Convolutional Neural Networks (CNNs)?
+
+Ans- It improves model performance by preventing overfitting and enhancing generalization through varied training data.
+
+(------------------------------------------------------------------------)
+
 
