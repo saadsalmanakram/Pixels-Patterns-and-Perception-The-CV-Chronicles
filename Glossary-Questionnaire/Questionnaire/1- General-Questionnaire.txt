@@ -772,3 +772,13 @@ Ans- RANSAC helps in identifying the inliers among matches, improving the reliab
 
 (-------------------------------------------------------------------------)
 
+130- How do you visualize feature matches between two images?
+
+Ans- Matches can be visualized using functions like `cv2.drawMatches` or `draw_LAF_matches` in Python.
+
+(-------------------------------------------------------------------------)
+
+
+
+
+
