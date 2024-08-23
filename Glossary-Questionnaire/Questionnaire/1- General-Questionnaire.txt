@@ -766,3 +766,9 @@ Ans- LoFTR operates on grayscale images to focus on structure and intensity vari
 
 (-------------------------------------------------------------------------)
 
+129- What is the significance of the Random Sample Consensus (RANSAC) in feature matching?
+
+Ans- RANSAC helps in identifying the inliers among matches, improving the reliability of the matching process.
+
+(-------------------------------------------------------------------------)
+
