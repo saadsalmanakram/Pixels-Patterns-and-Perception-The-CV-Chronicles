@@ -82,3 +82,9 @@ Ans- Intensity indicates the level of light and dark in an image, corresponding 
 
 (------------------------------------------------------------------------)
 
+15- What is a pixel in the context of images?
+
+Ans- A pixel, or picture element, is the smallest unit of an image, representing the intensity at a specific coordinate pair (X,Y)
+
+(------------------------------------------------------------------------)
+
