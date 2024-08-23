@@ -592,3 +592,9 @@ Ans- Repeatability refers to the consistency of a descriptor across different in
 
 (-------------------------------------------------------------------------)
 
+100- How should descriptors be compatible with matching algorithms?
+
+Ans- Descriptors should be suitable for the specific matching algorithm, whether based on distance metrics or other techniques.
+
+(-------------------------------------------------------------------------)
+
