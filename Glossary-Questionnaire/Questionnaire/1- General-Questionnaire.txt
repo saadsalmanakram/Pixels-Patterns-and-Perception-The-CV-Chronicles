@@ -1210,6 +1210,12 @@ Ans- Average pooling is used to reduce the feature maps along the spatial dimens
 
 (-------------------------------------------------------------------------)
 
+203- Why does GoogLeNet still include a fully connected layer despite using average pooling?
+
+Ans- To slightly improve top-1 accuracy, though it contributes minimally to the total parameter count.
+
+(-------------------------------------------------------------------------)
+
 
 
 
