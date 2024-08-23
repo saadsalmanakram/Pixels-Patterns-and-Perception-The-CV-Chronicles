@@ -628,3 +628,9 @@ Ans- SIFT detects keypoints across scales, assigns orientations, and generates d
 
 (-------------------------------------------------------------------------)
 
+106- What is the key strength of SIFT?
+
+Ans- SIFT's robustness to transformations makes it valuable for tasks like object recognition and image stitching.
+
+(-------------------------------------------------------------------------)
+
