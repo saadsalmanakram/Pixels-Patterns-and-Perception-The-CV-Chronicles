@@ -820,6 +820,12 @@ Ans- Hawk-Eye technology in sports like tennis tracks ball movement to aid in ac
 
 (-------------------------------------------------------------------------)
 
+138- What is anomaly detection in the context of visual data?
+
+Ans- It identifies patterns in visual data that deviate from the norm, often using techniques ranging from statistical methods to neural networks.
+
+(-------------------------------------------------------------------------)
+
 
 
 
