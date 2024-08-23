@@ -154,6 +154,12 @@ Ans- Images are visual data often represented as 2D arrays, videos add a time di
 
 (------------------------------------------------------------------------)
 
+27- What are some common machine learning tasks associated with images?
+
+Ans- Common tasks include image classification, segmentation, and object detection.
+
+(------------------------------------------------------------------------)
+
 
 
 
