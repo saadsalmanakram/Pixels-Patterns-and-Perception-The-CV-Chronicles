@@ -712,3 +712,9 @@ Ans- Hamming Distance measures the difference between two binary strings, common
 
 (-------------------------------------------------------------------------)
 
+120- What is FLANN, and how does it improve feature matching?
+
+Ans- FLANN (Fast Library for Approximate Nearest Neighbors) uses k-D trees for faster matching by approximating nearest neighbors.
+
+(-------------------------------------------------------------------------)
+
