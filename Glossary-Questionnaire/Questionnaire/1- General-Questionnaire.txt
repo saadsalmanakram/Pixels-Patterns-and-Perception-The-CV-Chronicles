@@ -802,6 +802,12 @@ Ans- They use it to gauge customer reactions to products or ads, enabling them t
 
 (-------------------------------------------------------------------------)
 
+135- What is object tracking in computer vision?
+
+Ans- Object tracking involves continuously detecting and following key features of an object across video frames.
+
+(-------------------------------------------------------------------------)
+
 
 
 
