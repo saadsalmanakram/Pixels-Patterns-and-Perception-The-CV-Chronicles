@@ -682,3 +682,9 @@ Ans- Advantage: Simplicity; Disadvantage: Time-consuming for large datasets.
 
 (-------------------------------------------------------------------------)
 
+115- How does SIFT work in feature matching?
+
+Ans- SIFT detects keypoints and descriptors in images, which are then matched using methods like Brute-Force or FLANN.
+
+(-------------------------------------------------------------------------)
+
