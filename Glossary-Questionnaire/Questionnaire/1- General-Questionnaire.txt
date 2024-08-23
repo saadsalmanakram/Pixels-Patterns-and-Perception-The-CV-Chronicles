@@ -826,6 +826,12 @@ Ans- It identifies patterns in visual data that deviate from the norm, often usi
 
 (-------------------------------------------------------------------------)
 
+139- How is anomaly detection used in public safety?
+
+Ans- It helps identify suspicious activities or abandoned objects in urban surveillance, such as in London’s CCTV network.
+
+(-------------------------------------------------------------------------)
+
 
 
 
