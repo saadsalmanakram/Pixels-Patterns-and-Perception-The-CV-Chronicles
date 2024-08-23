@@ -1132,6 +1132,12 @@ Ans- GoogLeNet is a deep convolutional neural network architecture introduced by
 
 (-------------------------------------------------------------------------)
 
+190- What makes GoogLeNet different from previous architectures like AlexNet and VGG?
+
+Ans- GoogLeNet is more efficient, with fewer parameters (7 million), and it uses an Inception module to handle different scales of information in parallel.
+
+(-------------------------------------------------------------------------)
+
 
 
 
