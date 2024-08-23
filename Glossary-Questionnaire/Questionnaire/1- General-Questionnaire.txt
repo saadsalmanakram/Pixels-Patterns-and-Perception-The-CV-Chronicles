@@ -946,6 +946,12 @@ Ans- It applies a set of learnable filters to the input image to produce feature
 
 (-------------------------------------------------------------------------)
 
+159- What is pooling in CNNs?
+
+Ans- Pooling is a downsampling operation that reduces the spatial dimensions of feature maps, keeping only the most significant information.
+
+(-------------------------------------------------------------------------)
+
 
 
 
