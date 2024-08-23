@@ -544,4 +544,9 @@ Ans- Numerical features can be represented as arrays/lists or tensors for effici
 
 (-------------------------------------------------------------------------)
 
+92- What data structures are used to represent categorical features?
+
+Ans- Categorical features can be represented using dictionaries/lists or one-hot encoding.
+
+(-------------------------------------------------------------------------)
 
