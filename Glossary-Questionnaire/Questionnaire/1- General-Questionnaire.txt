@@ -778,6 +778,12 @@ Ans- Matches can be visualized using functions like `cv2.drawMatches` or `draw_L
 
 (-------------------------------------------------------------------------)
 
+131- What is feature extraction in computer vision?
+
+Ans- Feature extraction is the process of identifying and isolating relevant visual information from images or videos for analysis by machines.
+
+(-------------------------------------------------------------------------)
+
 
 
 
