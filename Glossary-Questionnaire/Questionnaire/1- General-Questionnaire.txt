@@ -298,3 +298,9 @@ Ans- Capturing the black hole required synchronizing a global network of telesco
 
 (------------------------------------------------------------------------)
 
+51- What innovative method was used to store images in DNA?
+
+Ans- Scientists encoded images into DNA using CRISPR, demonstrating a novel way to archive data.
+
+(------------------------------------------------------------------------)
+
