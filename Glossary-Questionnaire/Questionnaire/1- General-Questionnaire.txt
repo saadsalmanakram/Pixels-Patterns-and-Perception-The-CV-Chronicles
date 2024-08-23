@@ -1276,6 +1276,12 @@ Ans- It achieves high performance with significantly fewer parameters by using 1
 
 (-------------------------------------------------------------------------)
 
+214- What is the advantage of having fewer parameters in a network like GoogLeNet?
+
+Ans- Fewer parameters lead to reduced computational cost, memory usage, and overfitting.
+
+(-------------------------------------------------------------------------)
+
 
 
 
