@@ -1240,6 +1240,12 @@ Ans- GoogLeNet uses global average pooling, which pools across the entire spatia
 
 (-------------------------------------------------------------------------)
 
+208- What activation function is used in GoogLeNet?
+
+Ans- ReLU (Rectified Linear Unit) activation function.
+
+(-------------------------------------------------------------------------)
+
 
 
 
