@@ -166,6 +166,12 @@ Ans- Image processing is generally less expensive than video processing, while t
 
 (------------------------------------------------------------------------)
 
+29- What are some applications of image processing?
+
+Ans- Applications include facial recognition, object detection, and image segmentation.
+
+(------------------------------------------------------------------------)
+
 
 
 
