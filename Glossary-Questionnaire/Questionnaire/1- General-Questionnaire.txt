@@ -184,6 +184,12 @@ Ans- Image acquisition is the first step, involving the capture of physical phen
 
 (------------------------------------------------------------------------)
 
+32- What types of energy can be used in image acquisition?
+
+Ans- Energy types include conventional light, electromagnetic waves, and ultrasound.
+
+(------------------------------------------------------------------------)
+
 
 
 
