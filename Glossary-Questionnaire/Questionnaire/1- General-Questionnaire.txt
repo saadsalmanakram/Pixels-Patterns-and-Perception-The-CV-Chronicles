@@ -112,6 +112,12 @@ Ans- The intensity values in a color channel typically range from 0 to 255, wher
 
 (------------------------------------------------------------------------)
 
+20- What is a labeled image?
+
+Ans- A labeled image assigns labels to pixels, often used to differentiate foreground and background, with binary images assigning values like 0 and 1.
+
+(------------------------------------------------------------------------)
+
 
 
 
