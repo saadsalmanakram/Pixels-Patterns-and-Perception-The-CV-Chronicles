@@ -688,3 +688,9 @@ Ans- SIFT detects keypoints and descriptors in images, which are then matched us
 
 (-------------------------------------------------------------------------)
 
+116- What is the role of k nearest neighbors (k-NN) in SIFT-based feature matching?
+
+Ans- k-NN helps find the closest matches for descriptors between two images.
+
+(-------------------------------------------------------------------------)
+
