@@ -76,3 +76,9 @@ Ans- X and Y represent the spatial coordinates of the image, often in a 2D Carte
 
 (------------------------------------------------------------------------)
 
+14- What is the significance of intensity in an image?
+
+Ans- Intensity indicates the level of light and dark in an image, corresponding to the amplitude of the function at specific coordinates.
+
+(------------------------------------------------------------------------)
+
