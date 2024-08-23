@@ -1174,6 +1174,12 @@ Ans- It reduces the dimensionality of the feature maps, thereby decreasing the c
 
 (-------------------------------------------------------------------------)
 
+197- What is the purpose of adding a 1x1 convolution after max pooling in the Inception module?
+
+Ans- It reduces the output features of the max pooling before concatenation, maintaining computational efficiency.
+
+(-------------------------------------------------------------------------)
+
 
 
 
