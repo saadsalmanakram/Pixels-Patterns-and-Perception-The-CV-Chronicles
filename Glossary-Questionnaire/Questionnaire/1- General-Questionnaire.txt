@@ -496,4 +496,10 @@ Ans- Techniques include flipping, cropping, rotation, brightness adjustment, and
 
 (------------------------------------------------------------------------)
 
+84- How is synthetic data different from augmented data?
+
+Ans- Synthetic data is entirely generated from scratch, often using techniques like GANs, while augmented data is created by modifying existing data.
+
+(------------------------------------------------------------------------)
+
 
