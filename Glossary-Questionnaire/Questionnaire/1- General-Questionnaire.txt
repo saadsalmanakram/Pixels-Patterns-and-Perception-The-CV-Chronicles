@@ -964,6 +964,12 @@ Ans- Average pooling computes the average value from each window of a feature ma
 
 (-------------------------------------------------------------------------)
 
+162- What is a fully connected layer in CNNs?
+
+Ans- A fully connected layer connects every neuron from the previous layer to every neuron in the current layer, usually used for classification.
+
+(-------------------------------------------------------------------------)
+
 
 
 
