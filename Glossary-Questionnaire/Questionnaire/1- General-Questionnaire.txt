@@ -130,6 +130,12 @@ Ans- Images are commonly represented as matrices, where each element corresponds
 
 (------------------------------------------------------------------------)
 
+23- Can images be represented as graphs?
+
+Ans- Yes, images can be represented as graphs where nodes represent coordinates and edges represent neighboring coordinates.
+
+(------------------------------------------------------------------------)
+
 
 
 
