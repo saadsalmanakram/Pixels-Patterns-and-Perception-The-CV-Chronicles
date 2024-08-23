@@ -1072,6 +1072,12 @@ Ans- A learning rate scheduler adjusts the learning rate during training to impr
 
 (------------------------------------------------------------------------)
 
+180- What is the difference between 1D, 2D, and 3D convolutions?
+
+Ans- 1D convolutions are used for temporal data, 2D for images, and 3D for volumetric data like medical scans.
+
+(------------------------------------------------------------------------)
+
 
 
 
