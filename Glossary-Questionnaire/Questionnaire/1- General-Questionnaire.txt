@@ -832,6 +832,12 @@ Ans- It helps identify suspicious activities or abandoned objects in urban surve
 
 (-------------------------------------------------------------------------)
 
+140- Give an example of anomaly detection in industrial quality control.
+
+Ans- BMW uses it to detect defects in car parts during production.
+
+(-------------------------------------------------------------------------)
+
 
 
 
