@@ -172,6 +172,12 @@ Ans- Applications include facial recognition, object detection, and image segmen
 
 (------------------------------------------------------------------------)
 
+30- What file types are commonly used for images?
+
+Ans- Common image file types include JPEG, PNG, and RAW.
+
+(------------------------------------------------------------------------)
+
 
 
 
