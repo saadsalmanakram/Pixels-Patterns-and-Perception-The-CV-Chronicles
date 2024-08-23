@@ -814,6 +814,12 @@ Ans- Tesla’s Autopilot uses object tracking to monitor surrounding vehicles, e
 
 (-------------------------------------------------------------------------)
 
+137- Name a sports-related application of object tracking.
+
+Ans- Hawk-Eye technology in sports like tennis tracks ball movement to aid in accurate decision-making.
+
+(-------------------------------------------------------------------------)
+
 
 
 
