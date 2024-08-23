@@ -202,6 +202,12 @@ Ans- CCDs capture a complete image simultaneously without the need for motion.
 
 (------------------------------------------------------------------------)
 
+35- What are the key components in digital image formation?
+
+Ans- Key components are illumination, reflectance, sampling, and quantization.
+
+(------------------------------------------------------------------------)
+
 
 
 
