@@ -1096,6 +1096,12 @@ Ans- VGGNet uses small 3x3 convolutional filters stacked deep to capture complex
 
 (-------------------------------------------------------------------------)
 
+184- How do CNNs handle varying image sizes?
+
+Ans- CNNs use pooling and global average pooling to reduce the spatial dimensions, making the network adaptable to different input sizes.
+
+(-------------------------------------------------------------------------)
+
 
 
 
