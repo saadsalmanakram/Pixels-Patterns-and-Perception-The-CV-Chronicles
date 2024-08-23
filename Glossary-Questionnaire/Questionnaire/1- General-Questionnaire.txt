@@ -640,3 +640,9 @@ Ans- SURF stands for Speeded Up Robust Features, known for its speed in detectin
 
 (-------------------------------------------------------------------------)
 
+108- How does SURF improve computational efficiency?
+
+Ans- SURF uses integral images and Haar wavelet approximations for faster feature computation.
+
+(-------------------------------------------------------------------------)
+
