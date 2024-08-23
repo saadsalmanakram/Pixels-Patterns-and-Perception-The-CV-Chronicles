@@ -1138,6 +1138,11 @@ Ans- GoogLeNet is more efficient, with fewer parameters (7 million), and it uses
 
 (-------------------------------------------------------------------------)
 
+191- Why is GoogLeNet named as such?
+
+Ans- GoogLeNet is named as a tribute to LeNet, one of the earliest CNN architectures.
+
+(-------------------------------------------------------------------------)
 
 
 
