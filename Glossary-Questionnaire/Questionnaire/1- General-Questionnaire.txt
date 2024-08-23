@@ -328,3 +328,9 @@ Ans- Factors include lighting conditions, occlusions, image resolution, and came
 
 (------------------------------------------------------------------------)
 
+56- What are some applications of computer vision?
+
+Ans- Applications include image captioning, anomaly detection, image restoration, and autonomous exploration.
+
+(------------------------------------------------------------------------)
+
