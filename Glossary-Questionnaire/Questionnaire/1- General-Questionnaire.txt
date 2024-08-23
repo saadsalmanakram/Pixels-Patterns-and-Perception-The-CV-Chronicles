@@ -316,3 +316,9 @@ Ans- Image analysis focuses on low and mid-level processes, while image understa
 
 (------------------------------------------------------------------------)
 
+54- What are the three levels of image understanding?
+
+Ans- The three levels are low-level (basic image operations), mid-level (segmentation and classification), and high-level (object recognition and scene reconstruction).
+
+(------------------------------------------------------------------------)
+
