@@ -1084,6 +1084,12 @@ Ans- Residual connections, used in ResNets, bypass one or more layers by adding 
 
 (-------------------------------------------------------------------------)
 
+182- What is an Inception module?
+
+Ans- The Inception module is a network architecture that uses multiple convolutional filters of different sizes simultaneously, enabling multi-scale feature extraction.
+
+(-------------------------------------------------------------------------)
+
 
 
 
