@@ -658,3 +658,9 @@ Ans- SURF is computationally more efficient, making it suitable for real-time ap
 
 (-------------------------------------------------------------------------)
 
+111- What is feature matching in computer vision?
+
+Ans- Feature matching involves comparing key attributes in different images to identify similarities.
+
+(-------------------------------------------------------------------------)
+
