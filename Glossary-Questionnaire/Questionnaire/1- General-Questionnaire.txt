@@ -280,7 +280,9 @@ Ans- Higher resolution requires more computational resources, longer training ti
 
 (------------------------------------------------------------------------)
 
+48- How has imaging technology evolved to capture what the human eye cannot see?
 
+Ans- Technologies like infrared, magnetic resonance, and electron microscopy allow us to image beyond the visible spectrum.
 
-
+(------------------------------------------------------------------------)
 
