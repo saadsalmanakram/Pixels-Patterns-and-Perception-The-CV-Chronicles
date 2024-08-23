@@ -934,6 +934,18 @@ Ans- Both are edge detection filters, but the Sobel filter gives more emphasis t
 
 (-------------------------------------------------------------------------)
 
+157- Why are CNNs better suited for image processing compared to classical methods?
+
+Ans- CNNs automatically learn to detect relevant features from large datasets, outperforming manual feature extraction methods.
+
+(-------------------------------------------------------------------------)
+
+158- How does a convolutional layer in a CNN work?
+
+Ans- It applies a set of learnable filters to the input image to produce feature maps that highlight specific patterns.
+
+(-------------------------------------------------------------------------)
+
 
 
 
