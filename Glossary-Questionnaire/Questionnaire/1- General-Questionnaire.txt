@@ -400,3 +400,9 @@ Ans- It segments and detects tumors in MRI or CT scans, aiding in diagnosis and 
 
 (------------------------------------------------------------------------)
 
+68- What are some common challenges faced by computer vision systems?
+
+Ans- Issues include data variability, scalability, accuracy, and robustness to noise.
+
+(------------------------------------------------------------------------)
+
