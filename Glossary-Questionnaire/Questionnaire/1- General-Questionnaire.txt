@@ -1774,6 +1774,12 @@ Ans- Transfer learning is sufficient when the dataset's domain is similar to the
 
 (------------------------------------------------------------------------)
 
+297- Why might someone use a pre-trained Vision Transformer from sources like Hugging Face?
+
+Ans- Pre-trained models from Hugging Face save time and resources by providing a strong starting point without the need to train from scratch.
+
+(------------------------------------------------------------------------)
+
 
 
 
