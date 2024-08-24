@@ -1414,6 +1414,12 @@ Ans- By using depthwise separable convolutions and optimized layers, MobileNet r
 
 (-------------------------------------------------------------------------)
 
+237- How is MobileNet trained for high accuracy despite its lightweight design?
+
+Ans- MobileNet can be trained using standard deep learning techniques, and its architecture is designed to maintain accuracy while reducing complexity.
+
+(-------------------------------------------------------------------------)
+
 
 
 
