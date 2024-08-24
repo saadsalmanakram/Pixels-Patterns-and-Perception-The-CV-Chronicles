@@ -1384,6 +1384,12 @@ Ans- MobileNet can be implemented using frameworks like PyTorch or TensorFlow, w
 
 (-------------------------------------------------------------------------)
 
+232- Can you describe the basic structure of a MobileNet model?
+
+Ans- MobileNet consists of a series of depthwise separable convolutions followed by a fully connected layer, designed to be lightweight and efficient.
+
+(-------------------------------------------------------------------------)
+
 
 
 
