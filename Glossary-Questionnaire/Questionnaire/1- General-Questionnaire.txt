@@ -1426,6 +1426,12 @@ Ans- MobileNet focuses on efficiency and is specifically designed for mobile and
 
 (-------------------------------------------------------------------------)
 
+239- What is ConvNext?
+
+Ans- ConvNext is a convolutional neural network architecture that integrates design choices from Vision Transformers, improving upon ResNet models.
+
+(-------------------------------------------------------------------------)
+
 
 
 
