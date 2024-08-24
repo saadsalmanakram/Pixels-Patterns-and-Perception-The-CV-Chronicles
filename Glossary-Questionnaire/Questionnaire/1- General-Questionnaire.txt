@@ -1798,6 +1798,12 @@ Ans- A hierarchical vision transformer architecture using shifted windows for ef
 
 (------------------------------------------------------------------------)
 
+301- What are shifted windows in the Swin Transformer?
+
+Ans- A method to reduce computational complexity by allowing attention within local windows.
+
+(------------------------------------------------------------------------)
+
 
 
 
