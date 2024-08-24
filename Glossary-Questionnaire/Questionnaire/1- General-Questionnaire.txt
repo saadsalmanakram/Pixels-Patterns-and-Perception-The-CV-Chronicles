@@ -1702,6 +1702,12 @@ Ans- It is a specialized structure used in deeper ResNet versions (e.g., ResNet-
 
 (------------------------------------------------------------------------)
 
+285- What is a Vision Transformer (ViT)?
+
+Ans- Vision Transformer is an architecture that applies the Transformer model to images by dividing them into small patches and treating them as tokens.
+
+(------------------------------------------------------------------------)
+
 
 
 
