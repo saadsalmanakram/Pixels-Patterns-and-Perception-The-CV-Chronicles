@@ -1504,6 +1504,12 @@ Ans- ConvNext uses regularization techniques like Stochastic Depth, Label Smooth
 
 (-------------------------------------------------------------------------)
 
+252- What is the significance of the separate downsample layer in ConvNext?
+
+Ans- Adding a separate downsample layer between ResNet stages improves accuracy by refining the transition between feature maps at different scales.
+
+(-------------------------------------------------------------------------)
+
 
 
 
