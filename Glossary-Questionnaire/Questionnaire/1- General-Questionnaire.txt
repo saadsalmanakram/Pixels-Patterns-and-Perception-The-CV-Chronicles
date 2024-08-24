@@ -1894,6 +1894,12 @@ Ans- It adjusts the dimensionality of features and resolution of feature maps ac
 
 (------------------------------------------------------------------------)
 
+317- What does the fused_window_process parameter do in the Swin Transformer?
+
+Ans- It accelerates computations by fusing window shift and partition operations.
+
+(------------------------------------------------------------------------)
+
 
 
 
