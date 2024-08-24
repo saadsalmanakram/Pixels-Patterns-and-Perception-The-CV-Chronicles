@@ -1336,6 +1336,12 @@ Ans- Depthwise separable convolutions are a combination of depthwise convolution
 
 (-------------------------------------------------------------------------)
 
+224- Depthwise separable convolutions are a combination of depthwise convolution and pointwise convolution, allowing for more efficient computation compared to standard convolutions.
+
+Ans- Depthwise convolution applies a small filter to each input channel separately, reducing computational cost.
+
+(-------------------------------------------------------------------------)
+
 
 
 
