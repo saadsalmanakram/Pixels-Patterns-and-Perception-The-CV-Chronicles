@@ -1372,6 +1372,12 @@ Ans- The vanishing gradient problem occurs when gradients become too small durin
 
 (-------------------------------------------------------------------------)
 
+230- What is the significance of non-linearity in neural networks?
+
+Ans- Non-linearity, introduced by activation functions like ReLU, allows neural networks to learn complex patterns and relationships in the data.
+
+(-------------------------------------------------------------------------)
+
 
 
 
