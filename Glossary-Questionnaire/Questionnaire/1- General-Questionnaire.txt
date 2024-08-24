@@ -1906,6 +1906,12 @@ Ans- A model based on Swin Transformer for super-resolution, enhancing low-resol
 
 (------------------------------------------------------------------------)
 
+319- What is Swin2SR?
+
+Ans- An improvement on SwinIR using Swin Transformer V2, enhancing training stability and image resolution capacity.
+
+(------------------------------------------------------------------------)
+
 
 
 
