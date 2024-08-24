@@ -1516,6 +1516,12 @@ Ans- Replacing ReLU with GELU provides smoother activation, enhancing the modelâ
 
 (-------------------------------------------------------------------------)
 
+254- Why is the removal of certain normalization layers beneficial in ConvNext?
+
+Ans- Reducing the number of normalization layers simplifies the model, improving training stability and accuracy.
+
+(-------------------------------------------------------------------------)
+
 
 
 
