@@ -1564,6 +1564,12 @@ Ans- Transfer learning can hinder progress if pre-existing patterns or biases fr
 
 (-------------------------------------------------------------------------)
 
+262- In which scenarios is transfer learning particularly beneficial?
+
+Ans- Transfer learning is especially useful when there is insufficient labeled data for training a model from scratch.
+
+(-------------------------------------------------------------------------)
+
 
 
 
