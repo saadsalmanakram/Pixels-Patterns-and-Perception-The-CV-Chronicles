@@ -1738,6 +1738,12 @@ Ans- Transfer learning involves leveraging features learned by a model trained o
 
 (------------------------------------------------------------------------)
 
+291- Why is transfer learning beneficial for Vision Transformers?
+
+Ans- Transfer learning allows the use of pre-trained Vision Transformers without needing to train on millions of images, saving time and computational resources.
+
+(------------------------------------------------------------------------)
+
 
 
 
