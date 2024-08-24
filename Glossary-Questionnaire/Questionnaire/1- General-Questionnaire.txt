@@ -1870,6 +1870,12 @@ Ans- To split the input image into non-overlapping patches and linearly embed th
 
 (------------------------------------------------------------------------)
 
+313- What is the significance of absolute position embeddings (ape) in Swin Transformer?
+
+Ans- They provide positional information to the model, aiding in more accurate predictions.
+
+(------------------------------------------------------------------------)
+
 
 
 
