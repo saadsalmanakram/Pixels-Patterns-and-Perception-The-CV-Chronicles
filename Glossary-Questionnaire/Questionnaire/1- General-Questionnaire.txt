@@ -1318,6 +1318,12 @@ Ans- MobileNet was first introduced in 2017 by Google’s research team.
 
 (-------------------------------------------------------------------------)
 
+221- What is the primary goal of MobileNet?
+
+Ans- The primary goal of MobileNet is to provide efficient image classification and object detection on resource-constrained devices like smartphones.
+
+(-------------------------------------------------------------------------)
+
 
 
 
