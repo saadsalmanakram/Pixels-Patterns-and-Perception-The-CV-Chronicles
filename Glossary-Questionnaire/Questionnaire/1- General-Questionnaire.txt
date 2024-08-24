@@ -1498,6 +1498,12 @@ Ans- AdamW is chosen for its effective handling of weight decay, contributing to
 
 (-------------------------------------------------------------------------)
 
+251- How does ConvNext handle regularization?
+
+Ans- ConvNext uses regularization techniques like Stochastic Depth, Label Smoothing, Mixup, and Cutmix to enhance model robustness and accuracy.
+
+(-------------------------------------------------------------------------)
+
 
 
 
