@@ -1690,6 +1690,19 @@ Ans- ResNet uses zero-padding shortcuts or projection shortcuts (1x1 convolution
 
 (------------------------------------------------------------------------)
 
+283- What techniques does ResNet use to adjust dimensions when necessary?
+
+Ans- ResNet uses zero-padding shortcuts and projection shortcuts with 1x1 convolutions.
+
+(------------------------------------------------------------------------)
+
+284- What is the bottleneck building block in deeper ResNet architectures?
+
+Ans- It is a specialized structure used in deeper ResNet versions (e.g., ResNet-50, 101, 152) to manage parameter complexity and enable deep learning efficiently.
+
+(------------------------------------------------------------------------)
+
+
 
 
 
