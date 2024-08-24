@@ -1732,6 +1732,12 @@ Ans- They perform well because they are scalable and trained on massive datasets
 
 (------------------------------------------------------------------------)
 
+290- What is transfer learning?
+
+Ans- Transfer learning involves leveraging features learned by a model trained on a large dataset to improve performance on a smaller, domain-specific dataset.
+
+(------------------------------------------------------------------------)
+
 
 
 
