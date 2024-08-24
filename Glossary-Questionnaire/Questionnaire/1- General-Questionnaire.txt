@@ -1510,6 +1510,12 @@ Ans- Adding a separate downsample layer between ResNet stages improves accuracy 
 
 (-------------------------------------------------------------------------)
 
+253- What impact does changing the activation function from ReLU to GELU have?
+
+Ans- Replacing ReLU with GELU provides smoother activation, enhancing the model’s non-linear transformation capabilities.
+
+(-------------------------------------------------------------------------)
+
 
 
 
