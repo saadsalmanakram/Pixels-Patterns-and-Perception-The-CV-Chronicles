@@ -1834,6 +1834,12 @@ Ans- Swin is more computationally efficient and performant than purely patch-bas
 
 (------------------------------------------------------------------------)
 
+307- What tasks can the Swin Transformer be used for?
+
+Ans- Image classification, object detection, and image segmentation, among other vision tasks.
+
+(------------------------------------------------------------------------)
+
 
 
 
