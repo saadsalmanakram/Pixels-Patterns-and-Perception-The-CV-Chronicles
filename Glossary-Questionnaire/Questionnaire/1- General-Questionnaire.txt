@@ -1390,6 +1390,18 @@ Ans- MobileNet consists of a series of depthwise separable convolutions followed
 
 (-------------------------------------------------------------------------)
 
+233- How does MobileNet handle varying hardware platforms?
+
+Ans- MobileNet is optimized for different hardware, including CPUs, GPUs, and TPUs, ensuring efficient performance across devices.
+
+(-------------------------------------------------------------------------)
+
+234- What are some common use cases for MobileNet?
+
+Ans- MobileNet is commonly used for real-time image classification, object detection, and other computer vision tasks on mobile devices.
+
+(-------------------------------------------------------------------------)
+
 
 
 
