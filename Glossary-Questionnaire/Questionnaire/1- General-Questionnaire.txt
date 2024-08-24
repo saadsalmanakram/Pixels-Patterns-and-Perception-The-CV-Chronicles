@@ -1456,6 +1456,12 @@ Ans- The stage compute ratio balances computational load across network stages, 
 
 (-------------------------------------------------------------------------)
 
+244- How does the Patchify operation improve ConvNext?
+
+Ans- Replacing the traditional stem with Patchify reduces layer count while maintaining downsampling efficiency, slightly boosting model accuracy.
+
+(-------------------------------------------------------------------------)
+
 
 
 
