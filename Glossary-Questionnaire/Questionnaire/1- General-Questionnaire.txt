@@ -1450,6 +1450,12 @@ Ans- Enhanced training techniques, such as extending training epochs, using Adam
 
 (-------------------------------------------------------------------------)
 
+243- What is the significance of the stage compute ratio in ConvNext?
+
+Ans- The stage compute ratio balances computational load across network stages, improving accuracy by adjusting the distribution of blocks in the model.
+
+(-------------------------------------------------------------------------)
+
 
 
 
