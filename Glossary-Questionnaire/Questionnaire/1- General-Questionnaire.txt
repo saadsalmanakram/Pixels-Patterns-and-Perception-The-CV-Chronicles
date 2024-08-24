@@ -1378,6 +1378,12 @@ Ans- Non-linearity, introduced by activation functions like ReLU, allows neural 
 
 (-------------------------------------------------------------------------)
 
+231- How is MobileNet typically implemented for inference?
+
+Ans- MobileNet can be implemented using frameworks like PyTorch or TensorFlow, with pre-trained models available for quick deployment on mobile devices.
+
+(-------------------------------------------------------------------------)
+
 
 
 
