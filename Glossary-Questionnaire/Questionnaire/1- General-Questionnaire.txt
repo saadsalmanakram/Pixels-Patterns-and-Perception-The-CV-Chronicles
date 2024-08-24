@@ -1576,6 +1576,18 @@ Ans- Self-training is a method where a model continues learning on its own, usin
 
 (-------------------------------------------------------------------------)
 
+264- Why might retraining only the top layers of a neural network be sufficient in fine-tuning?
+
+Ans- The top layers are more task-specific, so retraining them can adapt the model to new tasks without overhauling the entire network.
+
+(-------------------------------------------------------------------------)
+
+265- Can transfer learning always enhance model performance?
+
+Ans- No, transfer learning is not always beneficial and can sometimes hinder performance due to task-specific biases.
+
+(-------------------------------------------------------------------------)
+
 
 
 
