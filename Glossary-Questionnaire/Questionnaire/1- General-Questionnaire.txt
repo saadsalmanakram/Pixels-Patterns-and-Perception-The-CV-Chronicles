@@ -1654,6 +1654,12 @@ Ans- The degradation problem, where deeper networks lead to increased training a
 
 (------------------------------------------------------------------------)
 
+277- What is the gradient vanishing problem, and how was it addressed?
+
+Ans- The gradient vanishing problem is when gradients become too small during backpropagation, stalling learning. It was addressed with normalized initializations and intermediate normalization layers.
+
+(------------------------------------------------------------------------)
+
 
 
 
