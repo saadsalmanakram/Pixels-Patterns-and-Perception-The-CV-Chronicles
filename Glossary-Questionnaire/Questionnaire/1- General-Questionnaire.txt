@@ -1636,6 +1636,12 @@ Ans- You load a pre-trained MobileNet model with timm and perform a forward pass
 
 (-------------------------------------------------------------------------)
 
+274- Where can you find additional pre-trained models and datasets related to timm?
+
+Ans- Timm’s Hugging Face Page offers a variety of pre-trained models and datasets.
+
+(-------------------------------------------------------------------------)
+
 
 
 
