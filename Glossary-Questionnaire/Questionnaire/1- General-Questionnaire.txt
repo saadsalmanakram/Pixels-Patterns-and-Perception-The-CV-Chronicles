@@ -1348,6 +1348,12 @@ Ans- Pointwise convolution applies a 1x1 filter across all channels, combining f
 
 (-------------------------------------------------------------------------)
 
+226- Why are depthwise separable convolutions used instead of regular convolutions?
+
+Ans- They reduce computational cost and memory usage while maintaining high accuracy, making MobileNet efficient for mobile devices.
+
+(-------------------------------------------------------------------------)
+
 
 
 
