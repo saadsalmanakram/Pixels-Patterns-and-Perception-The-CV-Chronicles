@@ -1402,6 +1402,18 @@ Ans- MobileNet is commonly used for real-time image classification, object detec
 
 (-------------------------------------------------------------------------)
 
+235- What are the advantages of using MobileNet over other architectures?
+
+Ans- MobileNet offers a good balance between accuracy and computational efficiency, making it ideal for deployment on devices with limited resources.
+
+(-------------------------------------------------------------------------)
+
+236- How does MobileNet ensure low-latency performance?
+
+Ans- By using depthwise separable convolutions and optimized layers, MobileNet reduces computational complexity, enabling fast inference.
+
+(-------------------------------------------------------------------------)
+
 
 
 
