@@ -1714,6 +1714,12 @@ Ans- Unlike CNNs, Vision Transformers lack inductive biases like translational e
 
 (------------------------------------------------------------------------)
 
+287- What is inductive bias in the context of machine learning?
+
+Ans- Inductive bias refers to the set of assumptions a learning algorithm uses to make predictions based on observed data.
+
+(------------------------------------------------------------------------)
+
 
 
 
