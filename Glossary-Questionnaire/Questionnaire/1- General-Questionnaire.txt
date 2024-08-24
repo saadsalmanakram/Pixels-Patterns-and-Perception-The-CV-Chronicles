@@ -1570,6 +1570,12 @@ Ans- Transfer learning is especially useful when there is insufficient labeled d
 
 (-------------------------------------------------------------------------)
 
+263- What is self-training in the context of deep learning?
+
+Ans- Self-training is a method where a model continues learning on its own, using both labeled and unlabeled data to improve performance.
+
+(-------------------------------------------------------------------------)
+
 
 
 
