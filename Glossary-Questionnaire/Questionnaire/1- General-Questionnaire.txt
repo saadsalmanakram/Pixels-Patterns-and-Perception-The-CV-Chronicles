@@ -1612,6 +1612,12 @@ Ans- MobileNet is used for local feature extraction in the Mobile-Former archite
 
 (-------------------------------------------------------------------------)
 
+270- What role do Transformers play in Mobile-Former architecture?
+
+Ans- Transformers in Mobile-Former are responsible for context understanding in image processing.
+
+(-------------------------------------------------------------------------)
+
 
 
 
