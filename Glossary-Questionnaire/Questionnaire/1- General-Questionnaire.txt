@@ -1360,6 +1360,12 @@ Ans- 1x1 convolutions operate on individual pixels and combine information from 
 
 (-------------------------------------------------------------------------)
 
+228- What is the purpose of channel-wise linear bottleneck layers in MobileNet?
+
+Ans- They reduce parameters and computational cost while maintaining high accuracy by using depthwise convolutions, batch normalization, and ReLU activation.
+
+(-------------------------------------------------------------------------)
+
 
 
 
