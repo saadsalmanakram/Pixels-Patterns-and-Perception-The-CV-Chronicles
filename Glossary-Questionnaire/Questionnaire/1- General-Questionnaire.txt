@@ -1468,6 +1468,12 @@ Ans- ResNeXt-ification involves using depthwise convolutions and increasing chan
 
 (-------------------------------------------------------------------------)
 
+246- How does ConvNext use the inverted bottleneck design?
+
+Ans- ConvNext uses inverted bottleneck layers, where hidden dimensions are larger than the input, improving accuracy by expanding the representational capacity.
+
+(-------------------------------------------------------------------------)
+
 
 
 
