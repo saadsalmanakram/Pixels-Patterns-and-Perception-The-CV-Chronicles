@@ -1522,6 +1522,12 @@ Ans- Reducing the number of normalization layers simplifies the model, improving
 
 (-------------------------------------------------------------------------)
 
+255- How does ConvNext achieve scalability?
+
+Ans- ConvNext achieves scalability by combining efficient convolutional operations with transformer-inspired design principles, allowing for larger models with higher accuracy.
+
+(-------------------------------------------------------------------------)
+
 
 
 
