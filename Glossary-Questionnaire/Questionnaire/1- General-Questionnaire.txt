@@ -1876,6 +1876,12 @@ Ans- They provide positional information to the model, aiding in more accurate p
 
 (------------------------------------------------------------------------)
 
+314- What is the function of Patch Merging in Swin Transformer?
+
+Ans- To downsample the feature maps, contributing to the hierarchical structure of the model.
+
+(------------------------------------------------------------------------)
+
 
 
 
