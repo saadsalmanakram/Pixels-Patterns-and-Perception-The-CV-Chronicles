@@ -1558,6 +1558,12 @@ Ans- Typically, only the top layers or task-specific layers are retrained during
 
 (-------------------------------------------------------------------------)
 
+261- What is a potential drawback of transfer learning?
+
+Ans- Transfer learning can hinder progress if pre-existing patterns or biases from the original task negatively affect learning the new task.
+
+(-------------------------------------------------------------------------)
+
 
 
 
