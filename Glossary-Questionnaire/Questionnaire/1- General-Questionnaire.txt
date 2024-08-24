@@ -1552,6 +1552,12 @@ Ans- Fine-tuning involves adjusting a pre-trained model's parameters for a new t
 
 (-------------------------------------------------------------------------)
 
+260- What parts of a neural network are typically retrained during fine-tuning?
+
+Ans- Typically, only the top layers or task-specific layers are retrained during fine-tuning, while lower-level layers remain unchanged.
+
+(-------------------------------------------------------------------------)
+
 
 
 
