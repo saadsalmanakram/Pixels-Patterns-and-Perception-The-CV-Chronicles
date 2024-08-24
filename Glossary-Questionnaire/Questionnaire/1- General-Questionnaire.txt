@@ -1786,6 +1786,12 @@ Ans- The typical approach is to use transfer learning by fine-tuning a pre-train
 
 (------------------------------------------------------------------------)
 
+299- What does it mean to treat image patches as tokens in Vision Transformers?
+
+Ans- Treating image patches as tokens means dividing the image into smaller segments and processing each as a unit of information, similar to how words are processed in NLP Transformers.
+
+(------------------------------------------------------------------------)
+
 
 
 
