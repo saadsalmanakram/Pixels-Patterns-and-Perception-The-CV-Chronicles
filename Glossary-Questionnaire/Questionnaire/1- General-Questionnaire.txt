@@ -1312,6 +1312,12 @@ Ans- MobileNet is a neural network architecture designed by Google for high-perf
 
 (-------------------------------------------------------------------------)
 
+220- When was MobileNet first introduced?
+
+Ans- MobileNet was first introduced in 2017 by Google’s research team.
+
+(-------------------------------------------------------------------------)
+
 
 
 
