@@ -1594,6 +1594,12 @@ Ans- Generalization allows a model to apply learned features across different ta
 
 (-------------------------------------------------------------------------)
 
+267- How can MobileNet be integrated with Vision Transformers?
+
+Ans- MobileNet can serve as a feature extractor for Transformers or be combined with Vision Transformers via ensemble techniques.
+
+(-------------------------------------------------------------------------)
+
 
 
 
