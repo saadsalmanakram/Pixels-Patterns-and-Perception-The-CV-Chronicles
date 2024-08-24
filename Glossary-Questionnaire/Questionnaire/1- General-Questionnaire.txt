@@ -1540,6 +1540,12 @@ Ans- While some changes like large kernel sizes slightly reduce FLOPs efficiency
 
 (-------------------------------------------------------------------------)
 
+258- What is transfer learning in the context of neural networks?
+
+Ans- Transfer learning involves leveraging a pre-trained model's knowledge from one task to improve performance on a different, but related, task.
+
+(-------------------------------------------------------------------------)
+
 
 
 
