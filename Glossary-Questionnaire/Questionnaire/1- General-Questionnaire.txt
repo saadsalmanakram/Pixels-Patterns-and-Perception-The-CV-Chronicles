@@ -1648,6 +1648,12 @@ Ans- Adding more layers allows the model to extract more complex and enriched fe
 
 (------------------------------------------------------------------------)
 
+276- What problem arises when neural networks become deeper?
+
+Ans- The degradation problem, where deeper networks lead to increased training and test errors.
+
+(------------------------------------------------------------------------)
+
 
 
 
