@@ -1828,6 +1828,14 @@ Ans- It processes input images in a hierarchical manner, with different layers h
 
 (------------------------------------------------------------------------)
 
+306- What is the computational efficiency of the Swin Transformer compared to ViT?
+
+Ans- Swin is more computationally efficient and performant than purely patch-based approaches like ViT.
+
+(------------------------------------------------------------------------)
+
+
+
 
 
 
