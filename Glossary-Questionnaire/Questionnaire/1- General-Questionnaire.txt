@@ -1330,6 +1330,12 @@ Ans- MobileNet uses depthwise separable convolutions, which significantly reduce
 
 (-------------------------------------------------------------------------)
 
+223- What are depthwise separable convolutions?
+
+Ans- Depthwise separable convolutions are a combination of depthwise convolution and pointwise convolution, allowing for more efficient computation compared to standard convolutions.
+
+(-------------------------------------------------------------------------)
+
 
 
 
