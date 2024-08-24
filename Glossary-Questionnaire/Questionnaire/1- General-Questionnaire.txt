@@ -1810,6 +1810,12 @@ Ans- Swin uses a hierarchical approach with local windowed attention, reducing q
 
 (------------------------------------------------------------------------)
 
+303- What is the main advantage of the shifted window approach in Swin Transformer?
+
+Ans- It optimizes for latency and performance by reducing the number of operations required.
+
+(------------------------------------------------------------------------)
+
 
 
 
