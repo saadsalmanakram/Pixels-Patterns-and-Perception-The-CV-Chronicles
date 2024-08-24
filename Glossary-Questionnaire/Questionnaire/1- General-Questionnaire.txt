@@ -1438,6 +1438,12 @@ Ans- ConvNext adopts techniques from Vision Transformers, including hierarchical
 
 (-------------------------------------------------------------------------)
 
+241- What are the key improvements in ConvNext over ResNet?
+
+Ans- Key improvements include updated training techniques, macro design adjustments, ResNeXt-ification, inverted bottleneck layers, large kernel sizes, and micro design changes.
+
+(-------------------------------------------------------------------------)
+
 
 
 
