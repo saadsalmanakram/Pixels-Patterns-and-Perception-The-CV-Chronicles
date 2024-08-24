@@ -1462,6 +1462,12 @@ Ans- Replacing the traditional stem with Patchify reduces layer count while main
 
 (-------------------------------------------------------------------------)
 
+245- What is ResNeXt-ification in ConvNext?
+
+Ans- ResNeXt-ification involves using depthwise convolutions and increasing channel dimensions, optimizing the trade-off between accuracy and computational cost.
+
+(-------------------------------------------------------------------------)
+
 
 
 
