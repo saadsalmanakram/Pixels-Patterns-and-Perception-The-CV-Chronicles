@@ -1420,6 +1420,13 @@ Ans- MobileNet can be trained using standard deep learning techniques, and its a
 
 (-------------------------------------------------------------------------)
 
+238- What makes MobileNet different from other CNN architectures like ResNet or VGG?
+
+Ans- MobileNet focuses on efficiency and is specifically designed for mobile and embedded devices, whereas ResNet and VGG are more general-purpose networks with higher computational demands.
+
+(-------------------------------------------------------------------------)
+
+
 
 
 
