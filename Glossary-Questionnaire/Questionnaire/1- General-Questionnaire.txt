@@ -1588,6 +1588,12 @@ Ans- No, transfer learning is not always beneficial and can sometimes hinder per
 
 (-------------------------------------------------------------------------)
 
+266- What is the role of generalization in transfer learning?
+
+Ans- Generalization allows a model to apply learned features across different tasks, improving training efficiency.
+
+(-------------------------------------------------------------------------)
+
 
 
 
