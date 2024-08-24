@@ -1324,6 +1324,12 @@ Ans- The primary goal of MobileNet is to provide efficient image classification 
 
 (-------------------------------------------------------------------------)
 
+222- What is a key feature of MobileNet that makes it suitable for mobile devices?
+
+Ans- MobileNet uses depthwise separable convolutions, which significantly reduce the number of parameters and computational complexity.
+
+(-------------------------------------------------------------------------)
+
 
 
 
