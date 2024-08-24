@@ -1780,6 +1780,12 @@ Ans- Pre-trained models from Hugging Face save time and resources by providing a
 
 (------------------------------------------------------------------------)
 
+298- What is the typical approach to training a Vision Transformer on a new dataset with limited data?
+
+Ans- The typical approach is to use transfer learning by fine-tuning a pre-trained Vision Transformer on the new dataset.
+
+(------------------------------------------------------------------------)
+
 
 
 
