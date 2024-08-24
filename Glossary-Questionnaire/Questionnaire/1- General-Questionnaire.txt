@@ -1888,6 +1888,12 @@ Ans- It controls which elements within the local window can attend to each other
 
 (------------------------------------------------------------------------)
 
+316- How does the Swin Transformer handle different resolutions across layers?
+
+Ans- It adjusts the dimensionality of features and resolution of feature maps across its hierarchical layers.
+
+(------------------------------------------------------------------------)
+
 
 
 
