@@ -1606,6 +1606,12 @@ Ans- Mobile-Former is a neural network architecture that combines MobileNet and 
 
 (-------------------------------------------------------------------------)
 
+269- What role does MobileNet play in Mobile-Former architecture?
+
+Ans- MobileNet is used for local feature extraction in the Mobile-Former architecture.
+
+(-------------------------------------------------------------------------)
+
 
 
 
