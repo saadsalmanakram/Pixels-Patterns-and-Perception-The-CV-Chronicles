@@ -1762,6 +1762,12 @@ Ans- Multi-class classification assigns one label per image, while multi-label c
 
 (------------------------------------------------------------------------)
 
+295- When might you fine-tune the entire pre-trained Vision Transformer model?
+
+Ans- Fine-tuning the entire model is useful when the domain of the dataset differs significantly from the dataset used for pre-training.
+
+(------------------------------------------------------------------------)
+
 
 
 
