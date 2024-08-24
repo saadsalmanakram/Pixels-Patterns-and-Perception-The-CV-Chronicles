@@ -1528,6 +1528,18 @@ Ans- ConvNext achieves scalability by combining efficient convolutional operatio
 
 (-------------------------------------------------------------------------)
 
+256- What are the main inspirations behind ConvNext?
+
+Ans- ConvNext is inspired by the design choices and training strategies of Vision Transformers like DeiT and Swin Transformers.
+
+(-------------------------------------------------------------------------)
+
+257- How do ConvNext’s architectural changes affect its FLOPs efficiency?
+
+Ans- While some changes like large kernel sizes slightly reduce FLOPs efficiency, the overall architecture maintains a balance between computational cost and accuracy.
+
+(-------------------------------------------------------------------------)
+
 
 
 
