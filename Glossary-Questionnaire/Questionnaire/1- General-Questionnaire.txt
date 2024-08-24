@@ -1768,6 +1768,12 @@ Ans- Fine-tuning the entire model is useful when the domain of the dataset diffe
 
 (------------------------------------------------------------------------)
 
+296- What is an example of a scenario where transfer learning is sufficient for Vision Transformers?
+
+Ans- Transfer learning is sufficient when the dataset's domain is similar to the pre-trained model’s dataset, allowing the use of learned features with minimal updates.
+
+(------------------------------------------------------------------------)
+
 
 
 
