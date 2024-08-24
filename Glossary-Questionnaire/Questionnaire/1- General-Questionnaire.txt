@@ -1444,6 +1444,12 @@ Ans- Key improvements include updated training techniques, macro design adjustme
 
 (-------------------------------------------------------------------------)
 
+242- What role do training techniques play in ConvNext’s performance?
+
+Ans- Enhanced training techniques, such as extending training epochs, using AdamW optimizer, and applying advanced regularization methods, significantly boost model accuracy.
+
+(-------------------------------------------------------------------------)
+
 
 
 
