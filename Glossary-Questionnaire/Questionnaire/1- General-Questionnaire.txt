@@ -1342,6 +1342,12 @@ Ans- Depthwise convolution applies a small filter to each input channel separate
 
 (-------------------------------------------------------------------------)
 
+225- What is the role of pointwise convolution in MobileNet?
+
+Ans- Pointwise convolution applies a 1x1 filter across all channels, combining features from depthwise convolution to reduce complexity.
+
+(-------------------------------------------------------------------------)
+
 
 
 
