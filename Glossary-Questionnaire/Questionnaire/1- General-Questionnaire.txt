@@ -1846,7 +1846,17 @@ Ans- It can scale to models with up to 3 billion parameters, outperforming CNNs 
 
 (------------------------------------------------------------------------)
 
+309- What improvements does Swin Transformer V2 introduce?
 
+Ans- Enhanced training stability, transfer learning from low-resolution to high-resolution images, and SimMIM for reduced labeled data needs.
+
+(------------------------------------------------------------------------)
+
+310- What role does the Swin Transformer Block play in the architecture?
+
+Ans- It performs local windowed attention and MLP processing, essential for handling large images efficiently.
+
+(------------------------------------------------------------------------)
 
 
 
