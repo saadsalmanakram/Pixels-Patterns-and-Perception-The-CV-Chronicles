@@ -1366,6 +1366,12 @@ Ans- They reduce parameters and computational cost while maintaining high accura
 
 (-------------------------------------------------------------------------)
 
+229- What is the vanishing gradient problem, and how does ReLU address it?
+
+Ans- The vanishing gradient problem occurs when gradients become too small during backpropagation, making learning difficult. ReLU prevents this by maintaining gradients for positive inputs.
+
+(-------------------------------------------------------------------------)
+
 
 
 
