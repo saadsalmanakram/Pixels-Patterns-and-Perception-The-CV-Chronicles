@@ -1708,6 +1708,12 @@ Ans- Vision Transformer is an architecture that applies the Transformer model to
 
 (------------------------------------------------------------------------)
 
+286- How does a Vision Transformer differ from CNNs?
+
+Ans- Unlike CNNs, Vision Transformers lack inductive biases like translational equivariance and locality but compensate by being highly scalable and trained on large datasets.
+
+(------------------------------------------------------------------------)
+
 
 
 
