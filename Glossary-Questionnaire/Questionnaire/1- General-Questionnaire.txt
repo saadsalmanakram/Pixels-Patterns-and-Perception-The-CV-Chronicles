@@ -1864,6 +1864,12 @@ Ans- A regularization technique where deeper layers have a higher chance of bein
 
 (------------------------------------------------------------------------)
 
+312- What is the purpose of Patch Embedding in Swin Transformer?
+
+Ans- To split the input image into non-overlapping patches and linearly embed them for processing.
+
+(------------------------------------------------------------------------)
+
 
 
 
