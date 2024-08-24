@@ -1666,6 +1666,12 @@ Ans- The degradation problem occurs when adding more layers leads to higher trai
 
 (------------------------------------------------------------------------)
 
+279- How did ResNet address the degradation problem?
+
+Ans- ResNet introduced residual connections, which allow the network to learn residual functions and avoid the degradation of accuracy in deeper networks.
+
+(------------------------------------------------------------------------)
+
 
 
 
