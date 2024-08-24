@@ -1630,6 +1630,12 @@ Ans- MobileNet can be accessed and used through timm with a simple code implemen
 
 (-------------------------------------------------------------------------)
 
+273- What is a basic implementation of MobileNet using timm?
+
+Ans- You load a pre-trained MobileNet model with timm and perform a forward pass on an input tensor.
+
+(-------------------------------------------------------------------------)
+
 
 
 
