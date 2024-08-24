@@ -1678,6 +1678,12 @@ Ans- Residual connections are shortcut connections that bypass certain layers, a
 
 (------------------------------------------------------------------------)
 
+281- What is the purpose of identity shortcut connections in ResNet?
+
+Ans- They perform identity mapping without adding extra parameters or computational complexity, facilitating direct information flow and effective learning.
+
+(------------------------------------------------------------------------)
+
 
 
 
