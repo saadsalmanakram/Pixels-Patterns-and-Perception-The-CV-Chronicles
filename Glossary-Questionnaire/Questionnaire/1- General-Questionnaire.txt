@@ -1486,6 +1486,12 @@ Ans- Micro design changes include replacing ReLU with GELU activation, using Lay
 
 (-------------------------------------------------------------------------)
 
+249- How does ConvNext compare with Vision Transformers like Swin Transformer?
+
+Ans- ConvNext achieves comparable accuracy to Vision Transformers like Swin Transformer while maintaining the efficiency of CNNs.
+
+(-------------------------------------------------------------------------)
+
 
 
 
