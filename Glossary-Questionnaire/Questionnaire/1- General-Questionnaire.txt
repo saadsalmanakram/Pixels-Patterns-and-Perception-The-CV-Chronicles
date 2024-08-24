@@ -1354,6 +1354,12 @@ Ans- They reduce computational cost and memory usage while maintaining high accu
 
 (-------------------------------------------------------------------------)
 
+227- How do 1x1 convolutions differ from standard convolutions?
+
+Ans- 1x1 convolutions operate on individual pixels and combine information from different channels, whereas standard convolutions analyze pixel neighborhoods.
+
+(-------------------------------------------------------------------------)
+
 
 
 
