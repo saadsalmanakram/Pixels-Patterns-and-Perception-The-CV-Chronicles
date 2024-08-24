@@ -1684,6 +1684,12 @@ Ans- They perform identity mapping without adding extra parameters or computatio
 
 (------------------------------------------------------------------------)
 
+282- How does ResNet ensure that dimensions are identical for operations like F(x) + x?
+
+Ans- ResNet uses zero-padding shortcuts or projection shortcuts (1x1 convolutions) to maintain dimensional consistency.
+
+(------------------------------------------------------------------------)
+
 
 
 
