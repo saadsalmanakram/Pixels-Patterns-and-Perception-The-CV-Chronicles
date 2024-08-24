@@ -1900,6 +1900,12 @@ Ans- It accelerates computations by fusing window shift and partition operations
 
 (------------------------------------------------------------------------)
 
+318- What is SwinIR?
+
+Ans- A model based on Swin Transformer for super-resolution, enhancing low-resolution images.
+
+(------------------------------------------------------------------------)
+
 
 
 
