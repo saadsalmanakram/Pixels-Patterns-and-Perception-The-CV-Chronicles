@@ -1546,6 +1546,12 @@ Ans- Transfer learning involves leveraging a pre-trained model's knowledge from 
 
 (-------------------------------------------------------------------------)
 
+259- What is fine-tuning in neural networks?
+
+Ans- Fine-tuning involves adjusting a pre-trained model's parameters for a new task, especially when some retraining is required.
+
+(-------------------------------------------------------------------------)
+
 
 
 
