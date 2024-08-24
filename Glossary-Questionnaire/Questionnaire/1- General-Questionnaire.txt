@@ -1660,6 +1660,12 @@ Ans- The gradient vanishing problem is when gradients become too small during ba
 
 (------------------------------------------------------------------------)
 
+278- What is the degradation problem in deep neural networks?
+
+Ans- The degradation problem occurs when adding more layers leads to higher training errors, indicating that the added layers fail to approximate the identity function.
+
+(------------------------------------------------------------------------)
+
 
 
 
