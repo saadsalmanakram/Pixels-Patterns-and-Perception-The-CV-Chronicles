@@ -1492,6 +1492,12 @@ Ans- ConvNext achieves comparable accuracy to Vision Transformers like Swin Tran
 
 (-------------------------------------------------------------------------)
 
+250- Why was the AdamW optimizer chosen for ConvNext?
+
+Ans- AdamW is chosen for its effective handling of weight decay, contributing to better generalization and accuracy in ConvNext.
+
+(-------------------------------------------------------------------------)
+
 
 
 
