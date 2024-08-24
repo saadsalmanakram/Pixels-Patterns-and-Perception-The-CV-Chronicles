@@ -1756,6 +1756,12 @@ Ans- Freezing most weights reduces the training time and GPU usage while still l
 
 (------------------------------------------------------------------------)
 
+294- What is the difference between multi-class and multi-label image classification?
+
+Ans- Multi-class classification assigns one label per image, while multi-label classification allows each image to have multiple labels.
+
+(------------------------------------------------------------------------)
+
 
 
 
