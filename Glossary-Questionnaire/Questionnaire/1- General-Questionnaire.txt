@@ -1720,6 +1720,12 @@ Ans- Inductive bias refers to the set of assumptions a learning algorithm uses t
 
 (------------------------------------------------------------------------)
 
+288- What are two key inductive biases observed in CNNs?
+
+Ans- Translational equivariance and locality are the two key inductive biases in CNNs.
+
+(------------------------------------------------------------------------)
+
 
 
 
