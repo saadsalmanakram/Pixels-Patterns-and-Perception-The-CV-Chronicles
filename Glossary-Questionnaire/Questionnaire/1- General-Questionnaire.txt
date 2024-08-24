@@ -1816,6 +1816,12 @@ Ans- It optimizes for latency and performance by reducing the number of operatio
 
 (------------------------------------------------------------------------)
 
+304- What is a backbone in deep learning?
+
+Ans- A part of a neural network that performs feature extraction, used as a foundation for various tasks.
+
+(------------------------------------------------------------------------)
+
 
 
 
