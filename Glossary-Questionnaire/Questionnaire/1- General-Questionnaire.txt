@@ -1750,6 +1750,12 @@ Ans- Fine-tuning involves updating the weights of a pre-trained Vision Transform
 
 (------------------------------------------------------------------------)
 
+293- What is the advantage of freezing most of the weights during fine-tuning?
+
+Ans- Freezing most weights reduces the training time and GPU usage while still leveraging the learned features from the pre-trained model.
+
+(------------------------------------------------------------------------)
+
 
 
 
