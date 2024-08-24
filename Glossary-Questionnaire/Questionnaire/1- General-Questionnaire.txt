@@ -1822,6 +1822,12 @@ Ans- A part of a neural network that performs feature extraction, used as a foun
 
 (------------------------------------------------------------------------)
 
+305- How is Swin Transformer considered a hierarchical backbone?
+
+Ans- It processes input images in a hierarchical manner, with different layers handling varying resolutions.
+
+(------------------------------------------------------------------------)
+
 
 
 
