@@ -1306,6 +1306,12 @@ Ans- Through the use of auxiliary classifiers, dropout, and dimensionality reduc
 
 (-------------------------------------------------------------------------)
 
+219- What is MobileNet?
+
+Ans- MobileNet is a neural network architecture designed by Google for high-performance image classification and object detection on mobile devices.
+
+(-------------------------------------------------------------------------)
+
 
 
 
