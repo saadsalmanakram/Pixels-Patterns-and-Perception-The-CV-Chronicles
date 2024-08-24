@@ -1600,6 +1600,12 @@ Ans- MobileNet can serve as a feature extractor for Transformers or be combined 
 
 (-------------------------------------------------------------------------)
 
+268- What is Mobile-Former?
+
+Ans- Mobile-Former is a neural network architecture that combines MobileNet and Transformers for efficient image processing.
+
+(-------------------------------------------------------------------------)
+
 
 
 
