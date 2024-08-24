@@ -1840,6 +1840,12 @@ Ans- Image classification, object detection, and image segmentation, among other
 
 (------------------------------------------------------------------------)
 
+308- How does Swin Transformer handle large datasets?
+
+Ans- It can scale to models with up to 3 billion parameters, outperforming CNNs on larger datasets.
+
+(------------------------------------------------------------------------)
+
 
 
 
