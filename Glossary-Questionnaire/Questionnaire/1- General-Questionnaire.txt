@@ -1642,6 +1642,12 @@ Ans- Timm’s Hugging Face Page offers a variety of pre-trained models and datas
 
 (-------------------------------------------------------------------------)
 
+275- Why were neural networks with more layers assumed to be more effective?
+
+Ans- Adding more layers allows the model to extract more complex and enriched features, improving performance.
+
+(------------------------------------------------------------------------)
+
 
 
 
