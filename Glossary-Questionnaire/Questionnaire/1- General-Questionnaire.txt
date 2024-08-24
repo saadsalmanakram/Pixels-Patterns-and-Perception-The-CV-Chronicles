@@ -1882,6 +1882,12 @@ Ans- To downsample the feature maps, contributing to the hierarchical structure 
 
 (------------------------------------------------------------------------)
 
+315- What is the use of the attention mask in Swin Transformer Block?
+
+Ans- It controls which elements within the local window can attend to each other, facilitating cross-window interactions.
+
+(------------------------------------------------------------------------)
+
 
 
 
