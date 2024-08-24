@@ -1474,6 +1474,12 @@ Ans- ConvNext uses inverted bottleneck layers, where hidden dimensions are large
 
 (-------------------------------------------------------------------------)
 
+247- Why are large kernel sizes important in ConvNext?
+
+Ans- Larger kernel sizes in ConvNext increase the receptive field, mimicking the non-local attention in Vision Transformers, enhancing feature extraction.
+
+(-------------------------------------------------------------------------)
+
 
 
 
