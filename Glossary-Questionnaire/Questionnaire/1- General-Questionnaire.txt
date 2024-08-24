@@ -1792,6 +1792,12 @@ Ans- Treating image patches as tokens means dividing the image into smaller segm
 
 (------------------------------------------------------------------------)
 
+300- What is the Swin Transformer?
+
+Ans- A hierarchical vision transformer architecture using shifted windows for efficient computation.
+
+(------------------------------------------------------------------------)
+
 
 
 
