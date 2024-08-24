@@ -1726,6 +1726,12 @@ Ans- Translational equivariance and locality are the two key inductive biases in
 
 (------------------------------------------------------------------------)
 
+289- Why do Vision Transformers perform well despite lacking inductive biases?
+
+Ans- They perform well because they are scalable and trained on massive datasets, which allows them to learn effective representations.
+
+(------------------------------------------------------------------------)
+
 
 
 
