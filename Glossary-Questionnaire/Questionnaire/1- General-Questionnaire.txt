@@ -1804,6 +1804,12 @@ Ans- A method to reduce computational complexity by allowing attention within lo
 
 (------------------------------------------------------------------------)
 
+302- How does the Swin Transformer differ from the original ViT?
+
+Ans- Swin uses a hierarchical approach with local windowed attention, reducing quadratic complexity to linear.
+
+(------------------------------------------------------------------------)
+
 
 
 
