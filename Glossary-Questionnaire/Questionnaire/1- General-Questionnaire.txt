@@ -1744,6 +1744,12 @@ Ans- Transfer learning allows the use of pre-trained Vision Transformers without
 
 (------------------------------------------------------------------------)
 
+292- What is fine-tuning in the context of Vision Transformers?
+
+Ans- Fine-tuning involves updating the weights of a pre-trained Vision Transformer with a lower learning rate to adapt it to a new dataset.
+
+(------------------------------------------------------------------------)
+
 
 
 
