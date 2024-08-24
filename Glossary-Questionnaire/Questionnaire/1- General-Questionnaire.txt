@@ -1672,6 +1672,12 @@ Ans- ResNet introduced residual connections, which allow the network to learn re
 
 (------------------------------------------------------------------------)
 
+280- What are residual connections in ResNet?
+
+Ans- Residual connections are shortcut connections that bypass certain layers, allowing the network to preserve input information and learn residual functions.
+
+(------------------------------------------------------------------------)
+
 
 
 
