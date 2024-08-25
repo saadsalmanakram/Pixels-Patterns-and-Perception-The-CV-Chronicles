@@ -2230,6 +2230,13 @@ Ans- Fine-tuning allows the adaptation of a well-performing model to specific us
 
 (------------------------------------------------------------------------)
 
+373- Why is it inefficient to train an object detection model from scratch?
+
+Ans- It involves repetitive tasks like writing code, maintaining repositories, and wasting resources on tasks already solved by existing models.
+
+(------------------------------------------------------------------------)
+
+
 
  
 
