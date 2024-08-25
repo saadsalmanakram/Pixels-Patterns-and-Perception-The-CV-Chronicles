@@ -2098,5 +2098,11 @@ Ans- DiNAT achieves this by combining NA for local context with DiNA for capturi
 
 (------------------------------------------------------------------------)
 
+351- What is the significance of DiNAT in the evolution of vision transformers?
+
+Ans- DiNAT represents a significant advancement by solving the limitations of traditional attention mechanisms, particularly in capturing global context without heavy computational requirements.
+
+(------------------------------------------------------------------------)
+
 
 
