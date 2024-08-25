@@ -2194,6 +2194,18 @@ Ans- By integrating efficient transformer blocks and separable self-attention, M
 
 (------------------------------------------------------------------------)
 
+367- What does the term "receptive field" mean in the context of MobileViT?
+
+Ans- The receptive field refers to the size of the input region that affects the output features of a particular layer. MobileViT's architecture allows it to have a receptive field that encompasses the entire input image.
+
+(------------------------------------------------------------------------)
+
+368- What are some potential applications of MobileViT?
+
+Ans- Potential applications include real-time image classification, object detection, and other computer vision tasks on mobile devices and other resource-constrained environments.
+
+(------------------------------------------------------------------------)
+
 
 
  
