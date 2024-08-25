@@ -2020,6 +2020,12 @@ Ans- DiNAT is a hierarchical vision transformer that enhances visual recognition
 
 (------------------------------------------------------------------------)
 
+338- What makes DiNAT different from traditional transformers?
+
+Ans- DiNAT incorporates Dilated Neighborhood Attention to capture global context efficiently without the high computational cost associated with traditional self-attention mechanisms.
+
+(------------------------------------------------------------------------)
+
 
 
 
