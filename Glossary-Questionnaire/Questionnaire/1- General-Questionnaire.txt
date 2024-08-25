@@ -2146,5 +2146,11 @@ Ans- It reduces computational complexity and latency, enabling faster inference 
 
 (------------------------------------------------------------------------)
 
+359- What advantages does MobileViT offer over traditional CNN architectures?
+
+Ans- MobileViT offers improved accuracy, lower parameter count, faster inference times, and the ability to learn both local and global representations, making it suitable for mobile and resource-limited environments.
+
+(------------------------------------------------------------------------)
+
 
 
