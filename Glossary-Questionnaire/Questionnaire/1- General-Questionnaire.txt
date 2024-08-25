@@ -1894,7 +1894,7 @@ Ans- It adjusts the dimensionality of features and resolution of feature maps ac
 
 (------------------------------------------------------------------------)
 
-317- What does the fused_window_process parameter do in the Swin Transformer?
+317- What does the fused_window_process parameter do in the Swin Transformer?3
 
 Ans- It accelerates computations by fusing window shift and partition operations.
 
@@ -1915,6 +1915,12 @@ Ans- An improvement on SwinIR using Swin Transformer V2, enhancing training stab
 320- What kind of tasks can Swin Transformer be applied to beyond image classification?
 
 Ans- Image restoration, object detection, and semantic segmentation.
+
+(------------------------------------------------------------------------)
+
+321- What is a Convolutional Vision Transformer (CvT)?
+
+Ans- CvT combines the strengths of CNNs and Transformers to enhance image classification tasks by introducing convolutions into the Vision Transformer (ViT) architecture.
 
 (------------------------------------------------------------------------)
 
