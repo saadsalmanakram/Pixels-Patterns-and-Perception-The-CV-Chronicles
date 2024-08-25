@@ -2014,6 +2014,12 @@ Ans- Weights are initialized using either truncated normal distribution or Xavie
 
 (------------------------------------------------------------------------)
 
+337- What is the Dilated Neighborhood Attention Transformer (DiNAT)?
+
+Ans- DiNAT is a hierarchical vision transformer that enhances visual recognition tasks by combining local and sparse global attention mechanisms through Dilated Neighborhood Attention (DiNA).
+
+(------------------------------------------------------------------------)
+
 
 
 
