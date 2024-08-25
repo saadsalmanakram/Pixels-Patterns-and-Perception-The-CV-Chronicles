@@ -2074,5 +2074,11 @@ Ans- Dilation in DiNAT allows for the gradual expansion of attention regions, op
 
 (------------------------------------------------------------------------)
 
+347- Can DiNAT be fine-tuned for specific tasks?
+
+Ans- Yes, DiNAT can be fine-tuned for specific tasks such as image classification using models like shi-labs/dinat-mini-in1k-224.
+
+(------------------------------------------------------------------------)
+
 
 
