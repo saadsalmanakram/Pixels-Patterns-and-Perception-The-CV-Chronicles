@@ -2290,6 +2290,12 @@ Ans- Bounding boxes specify the location of objects within an image, helping in 
 
 (------------------------------------------------------------------------)
 
+383- What does the with_transform method do in Hugging Face Datasets?
+
+Ans- It applies a transformation function to the entire dataset, preparing it for training.
+
+(------------------------------------------------------------------------)
+
 
 
  
