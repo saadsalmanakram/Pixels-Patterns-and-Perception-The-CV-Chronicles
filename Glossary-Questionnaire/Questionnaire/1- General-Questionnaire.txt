@@ -2026,6 +2026,11 @@ Ans- DiNAT incorporates Dilated Neighborhood Attention to capture global context
 
 (------------------------------------------------------------------------)
 
+339- What is Neighborhood Attention (NA)?
+
+NA is an attention mechanism that focuses on capturing local pixel relationships in an image, making it efficient for computer vision tasks.
+
+(------------------------------------------------------------------------)
 
 
 
