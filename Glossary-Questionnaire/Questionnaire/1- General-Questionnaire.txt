@@ -2212,6 +2212,12 @@ Ans- It ensures low-latency performance through its lightweight design, efficien
 
 (------------------------------------------------------------------------)
 
+370- What is the role of the final linear layer in MobileViT's architecture?
+
+Ans- The final linear layer in MobileViT’s architecture is used for classification, mapping the global features extracted by the network into class predictions.
+
+(------------------------------------------------------------------------)
+
 
 
  
