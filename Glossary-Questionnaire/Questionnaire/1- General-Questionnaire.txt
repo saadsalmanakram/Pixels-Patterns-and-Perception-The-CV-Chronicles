@@ -2206,6 +2206,12 @@ Ans- Potential applications include real-time image classification, object detec
 
 (------------------------------------------------------------------------)
 
+369- How does the MobileViT architecture ensure low-latency performance?
+
+Ans- It ensures low-latency performance through its lightweight design, efficient separable self-attention, and reduced computational complexity, which are crucial for mobile devices.
+
+(------------------------------------------------------------------------)
+
 
 
  
