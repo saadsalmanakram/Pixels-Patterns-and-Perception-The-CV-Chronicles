@@ -2104,5 +2104,17 @@ Ans- DiNAT represents a significant advancement by solving the limitations of tr
 
 (------------------------------------------------------------------------)
 
+352- What is MobileViT, and why was it developed?
+
+Ans- MobileViT is a vision transformer architecture designed by Apple to run efficiently on mobile devices. It was developed to combine the benefits of CNNs and transformers while addressing the limitations of each, particularly for resource-constrained environments.
+
+(------------------------------------------------------------------------)
+
+353- How does MobileViT differ from traditional CNNs?
+
+Ans- MobileViT differs by incorporating transformer blocks that enable it to learn both local and global representations, unlike CNNs, which are limited to local feature learning.
+
+(------------------------------------------------------------------------)
+
 
 
