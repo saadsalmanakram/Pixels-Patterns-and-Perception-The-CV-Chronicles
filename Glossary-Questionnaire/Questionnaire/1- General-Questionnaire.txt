@@ -2152,5 +2152,11 @@ Ans- MobileViT offers improved accuracy, lower parameter count, faster inference
 
 (------------------------------------------------------------------------)
 
+360- Can MobileViT be used for tasks other than classification?
 
+Ans- Yes, the MobileViT blocks can be adapted for various vision tasks, not just classification, by leveraging their ability to retain both local and global information.
+
+(------------------------------------------------------------------------)
+
+ 
 
