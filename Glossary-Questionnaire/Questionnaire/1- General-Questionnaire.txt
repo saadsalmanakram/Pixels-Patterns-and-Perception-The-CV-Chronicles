@@ -1930,6 +1930,12 @@ Ans- CvT employs convolutional token embedding and projection layers, removing t
 
 (------------------------------------------------------------------------)
 
+323- Why is CvT more efficient than ViT?
+
+Ans- CvT integrates local context through convolutions, reducing the number of tokens and computations, leading to fewer parameters and lower FLOPs.
+
+(------------------------------------------------------------------------)
+
 
 
 
