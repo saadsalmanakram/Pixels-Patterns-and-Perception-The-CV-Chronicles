@@ -2158,5 +2158,12 @@ Ans- Yes, the MobileViT blocks can be adapted for various vision tasks, not just
 
 (------------------------------------------------------------------------)
 
+361- What are the efficiency challenges addressed by MobileViT v2?
+
+Ans- MobileViT v2 addresses the efficiency challenges of multi-head self-attention by introducing separable self-attention, which reduces both the computational complexity and latency.
+
+(------------------------------------------------------------------------)
+
+
  
 
