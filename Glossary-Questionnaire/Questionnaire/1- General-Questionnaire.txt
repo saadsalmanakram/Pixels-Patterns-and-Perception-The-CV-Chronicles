@@ -1948,6 +1948,12 @@ Ans- The CvT architecture includes convolutional token embedding, convolutional 
 
 (------------------------------------------------------------------------)
 
+326- What is the purpose of the Convolutional Token Embedding in CvT?
+
+Ans- It splits the input image into overlapping patches, reduces the number of tokens, and enriches their features, similar to traditional CNNs.
+
+(------------------------------------------------------------------------)
+
 
 
 
