@@ -2254,6 +2254,12 @@ Ans- Hugging Face Transformers, PyTorch, and Albumentations are commonly used li
 
 (------------------------------------------------------------------------)
 
+377- What is the purpose of the AutoImageProcessor in Hugging Face Transformers?
+
+Ans- It preprocesses image data to create pixel values, masks, and labels required for training models like DETR.
+
+(------------------------------------------------------------------------)
+
 
 
  
