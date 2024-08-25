@@ -2044,5 +2044,11 @@ Ans- DiNAT maintains translational equivariance by preserving local attention me
 
 (------------------------------------------------------------------------)
 
+342- Why is DiNAT considered superior to other models like NAT, Swin, and ConvNeXt?
+
+Ans- DiNAT outperforms these models by effectively combining local and global attention, resulting in better performance in downstream vision tasks.
+
+(------------------------------------------------------------------------)
+
 
 
