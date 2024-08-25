@@ -2176,6 +2176,12 @@ Ans- The Transformers library by Hugging Face provides a ready-to-use implementa
 
 (------------------------------------------------------------------------)
 
+364- How does MobileViT handle global representations differently from CNNs?
+
+Ans- MobileViT handles global representations using transformers within its architecture, which allows it to model long-range dependencies in the input data, something traditional CNNs struggle with.
+
+(------------------------------------------------------------------------)
+
 
 
  
