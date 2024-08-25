@@ -2056,5 +2056,11 @@ Ans- The core innovation is the combination of Neighborhood Attention with Dilat
 
 (------------------------------------------------------------------------)
 
+344- How does DiNAT handle computational efficiency?
+
+Ans- DiNAT maintains computational efficiency by extending the receptive field through sparse global attention, avoiding the heavy computational load of traditional transformers.
+
+(------------------------------------------------------------------------)
+
 
 
