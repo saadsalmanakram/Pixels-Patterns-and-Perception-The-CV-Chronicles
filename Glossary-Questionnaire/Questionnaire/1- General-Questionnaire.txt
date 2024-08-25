@@ -1954,6 +1954,18 @@ Ans- It splits the input image into overlapping patches, reduces the number of t
 
 (------------------------------------------------------------------------)
 
+327- How does CvT handle positional encoding?
+
+Ans- CvT eliminates the need for positional encoding by relying on the built-in local context structure introduced by convolutions.
+
+(------------------------------------------------------------------------)
+
+328- What are the benefits of using a hierarchical multi-stage structure in CvT?
+
+Ans- It allows CvT to capture different levels of abstraction, improving the model's adaptability to various vision tasks with variable input resolutions.
+
+(------------------------------------------------------------------------)
+
 
 
 
