@@ -2062,5 +2062,11 @@ Ans- DiNAT maintains computational efficiency by extending the receptive field t
 
 (------------------------------------------------------------------------)
 
+345- What role does the receptive field play in DiNAT?
+
+Ans- The receptive field in DiNAT is dynamically expanded, allowing the model to capture longer-range dependencies and more global context.
+
+(------------------------------------------------------------------------)
+
 
 
