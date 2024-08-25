@@ -1924,6 +1924,12 @@ Ans- CvT combines the strengths of CNNs and Transformers to enhance image classi
 
 (------------------------------------------------------------------------)
 
+322- How does CvT differ from ViT?
+
+Ans- CvT employs convolutional token embedding and projection layers, removing the need for positional encoding and enhancing computational efficiency.
+
+(------------------------------------------------------------------------)
+
 
 
 
