@@ -2092,5 +2092,11 @@ Ans- DiNAT can be applied to various visual recognition tasks, including image c
 
 (------------------------------------------------------------------------)
 
+350- How does DiNAT manage to capture both local and global contexts?
+
+Ans- DiNAT achieves this by combining NA for local context with DiNA for capturing sparse global context, ensuring a broad and efficient understanding of the image.
+
+(------------------------------------------------------------------------)
+
 
 
