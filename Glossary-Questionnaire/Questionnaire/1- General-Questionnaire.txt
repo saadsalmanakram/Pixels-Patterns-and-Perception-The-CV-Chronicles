@@ -2188,6 +2188,12 @@ Ans- MobileViT is significant in mobile vision tasks because it combines high ac
 
 (------------------------------------------------------------------------)
 
+366- How does MobileViT's architecture contribute to reducing the number of parameters?
+
+Ans- By integrating efficient transformer blocks and separable self-attention, MobileViT reduces the number of parameters while maintaining high accuracy, making it lightweight and suitable for mobile applications.
+
+(------------------------------------------------------------------------)
+
 
 
  
