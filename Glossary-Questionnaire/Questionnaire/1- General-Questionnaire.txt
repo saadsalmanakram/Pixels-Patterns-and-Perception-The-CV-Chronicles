@@ -2002,9 +2002,9 @@ Ans- It uses depth-wise separable convolutions, which are more efficient and mai
 
 (------------------------------------------------------------------------)
 
-335- What is the purpose of the ConvEmbed class in CvT's PyTorch implementation?
+335- What is the significance of the stochastic depth technique in CvT?
 
-Ans- It performs patch-wise embedding of the input image, applying convolutions and optional normalization to each patch.
+Ans- It improves regularization by randomly skipping some transformer blocks during training, controlled by the drop_path_rate.
 
 (------------------------------------------------------------------------)
 
