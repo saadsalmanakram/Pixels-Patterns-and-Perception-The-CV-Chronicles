@@ -2068,5 +2068,11 @@ Ans- The receptive field in DiNAT is dynamically expanded, allowing the model to
 
 (------------------------------------------------------------------------)
 
+346- What is the purpose of using dilation in DiNAT?
+
+Ans- Dilation in DiNAT allows for the gradual expansion of attention regions, optimizing the model's ability to capture global context without increasing computational costs.
+
+(------------------------------------------------------------------------)
+
 
 
