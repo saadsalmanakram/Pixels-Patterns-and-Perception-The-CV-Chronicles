@@ -1984,6 +1984,12 @@ Ans- CvT delays adding the classification token until the final stage, allowing 
 
 (------------------------------------------------------------------------)
 
+332- How does CvT compare to other Vision Transformers in terms of positional encoding?
+
+Ans- Unlike ViT, which requires positional encoding, CvT does not require it due to the local context provided by convolutions.
+
+(------------------------------------------------------------------------)
+
 
 
 
