@@ -2122,5 +2122,11 @@ Ans- The main components include the MobileViT Block, separable self-attention, 
 
 (------------------------------------------------------------------------)
 
+355- What is the purpose of the MobileViT Block?
+
+Ans- The MobileViT Block is designed to combine the local processing ability of CNNs with the global processing ability of transformers, allowing the model to capture both spatially local and global dependencies.
+
+(------------------------------------------------------------------------)
+
 
 
