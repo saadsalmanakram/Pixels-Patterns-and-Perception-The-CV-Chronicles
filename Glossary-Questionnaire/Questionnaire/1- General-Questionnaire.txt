@@ -1978,6 +1978,12 @@ Ans- By combining the local feature extraction of CNNs with the global context f
 
 (------------------------------------------------------------------------)
 
+331- What is the significance of not requiring a classification token in the early stages of CvT?
+
+Ans- CvT delays adding the classification token until the final stage, allowing earlier stages to focus on feature extraction.
+
+(------------------------------------------------------------------------)
+
 
 
 
