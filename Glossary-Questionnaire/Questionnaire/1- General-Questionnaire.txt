@@ -2002,6 +2002,12 @@ Ans- It uses depth-wise separable convolutions, which are more efficient and mai
 
 (------------------------------------------------------------------------)
 
+335- What is the purpose of the ConvEmbed class in CvT's PyTorch implementation?
+
+Ans- It performs patch-wise embedding of the input image, applying convolutions and optional normalization to each patch.
+
+(------------------------------------------------------------------------)
+
 
 
 
