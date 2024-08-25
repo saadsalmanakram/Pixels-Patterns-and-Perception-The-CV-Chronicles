@@ -2134,5 +2134,11 @@ Ans- It first performs a convolution on the input channels, unfolds the image in
 
 (------------------------------------------------------------------------)
 
+357- What is separable self-attention in MobileViT?
+
+Ans- Separable self-attention is a modification of traditional multi-head self-attention that reduces its complexity from O(k^2) to O(k), making it more efficient for mobile devices by avoiding costly batch-wise matrix multiplications.
+
+(------------------------------------------------------------------------)
+
 
 
