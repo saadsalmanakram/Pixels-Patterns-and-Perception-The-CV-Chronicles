@@ -2038,5 +2038,11 @@ Ans- DiNA expands the receptive field of Neighborhood Attention, enabling the mo
 
 (------------------------------------------------------------------------)
 
+341- How does DiNAT achieve translational equivariance?
+
+Ans- DiNAT maintains translational equivariance by preserving local attention mechanisms while gradually introducing dilation to expand the receptive field.
+
+(------------------------------------------------------------------------)
+
 
 
