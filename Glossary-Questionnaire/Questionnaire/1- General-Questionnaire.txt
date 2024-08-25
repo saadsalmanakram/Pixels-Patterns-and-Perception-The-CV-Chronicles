@@ -2272,6 +2272,18 @@ Ans- It formats annotations into a specific structure required by the image proc
 
 (------------------------------------------------------------------------)
 
+380- Why is it important to match the preprocessing of data with the approach used during pre-training?
+
+Ans- Consistent preprocessing ensures that the fine-tuned model performs accurately on the new data.
+
+(------------------------------------------------------------------------)
+
+381- What does the transform_aug_ann function do in the preprocessing step?
+
+Ans- It applies transformations to images and annotations, preparing them for input into the model.
+
+(------------------------------------------------------------------------)
+
 
 
  
