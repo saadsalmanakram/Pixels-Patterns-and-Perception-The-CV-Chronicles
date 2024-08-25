@@ -2242,6 +2242,12 @@ Ans- A model that has been previously trained on a large dataset and can be fine
 
 (------------------------------------------------------------------------)
 
+375- How does fine-tuning benefit object detection tasks?
+
+Ans- It leverages already learned features to quickly adapt to new objects with minimal additional training.
+
+(------------------------------------------------------------------------)
+
 
 
  
