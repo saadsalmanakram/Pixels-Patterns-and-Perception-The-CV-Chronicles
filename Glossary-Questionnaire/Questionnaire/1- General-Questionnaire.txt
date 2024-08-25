@@ -2296,6 +2296,12 @@ Ans- It applies a transformation function to the entire dataset, preparing it fo
 
 (------------------------------------------------------------------------)
 
+384- Why is it necessary to visualize bounding boxes on images during preprocessing?
+
+Ans- Visualization helps verify that the bounding boxes and annotations are correctly aligned with the objects.
+
+(------------------------------------------------------------------------)
+
 
 
  
