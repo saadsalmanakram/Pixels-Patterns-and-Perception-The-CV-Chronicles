@@ -2224,6 +2224,11 @@ Ans- MobileViT is considered a breakthrough because it successfully combines the
 
 (------------------------------------------------------------------------)
 
+372- What is the benefit of fine-tuning a pre-trained object detection model?
+
+Ans- Fine-tuning allows the adaptation of a well-performing model to specific use cases, saving resources and time.
+
+(------------------------------------------------------------------------)
 
 
  
