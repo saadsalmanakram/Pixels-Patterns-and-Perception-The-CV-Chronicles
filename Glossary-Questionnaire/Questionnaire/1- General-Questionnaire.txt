@@ -2140,5 +2140,11 @@ Ans- Separable self-attention is a modification of traditional multi-head self-a
 
 (------------------------------------------------------------------------)
 
+358- How does separable self-attention improve MobileViT’s performance?
+
+Ans- It reduces computational complexity and latency, enabling faster inference on resource-constrained devices without sacrificing accuracy.
+
+(------------------------------------------------------------------------)
+
 
 
