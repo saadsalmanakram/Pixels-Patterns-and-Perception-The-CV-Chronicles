@@ -2164,6 +2164,12 @@ Ans- MobileViT v2 addresses the efficiency challenges of multi-head self-attenti
 
 (------------------------------------------------------------------------)
 
+362- How does MobileViT v2 compare with Linformer in terms of attention mechanism efficiency?
+
+Ans- While both achieve O(k) complexity, MobileViT v2’s separable self-attention is more efficient as it avoids batch-wise matrix multiplications, unlike Linformer.
+
+(------------------------------------------------------------------------)
+
 
  
 
