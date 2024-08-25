@@ -2260,6 +2260,12 @@ Ans- It preprocesses image data to create pixel values, masks, and labels requir
 
 (------------------------------------------------------------------------)
 
+378- How does augmenting images benefit the training of object detection models?
+
+Ans- Augmentations like rotations and resizing increase the robustness of models by simulating different image conditions.
+
+(------------------------------------------------------------------------)
+
 
 
  
