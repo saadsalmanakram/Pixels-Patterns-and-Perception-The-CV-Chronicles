@@ -1990,6 +1990,12 @@ Ans- Unlike ViT, which requires positional encoding, CvT does not require it due
 
 (------------------------------------------------------------------------)
 
+333- What are the main highlights that contribute to CvT's superior performance?
+
+Ans- Hierarchical Transformers, convolutional token embedding, convolutional projection, and removal of positional encoding.
+
+(------------------------------------------------------------------------)
+
 
 
 
