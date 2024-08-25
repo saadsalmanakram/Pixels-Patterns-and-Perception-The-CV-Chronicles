@@ -2182,6 +2182,12 @@ Ans- MobileViT handles global representations using transformers within its arch
 
 (------------------------------------------------------------------------)
 
+365- What is the significance of MobileViT in mobile vision tasks?
+
+Ans- MobileViT is significant in mobile vision tasks because it combines high accuracy with low latency and low computational requirements, making it ideal for deployment on mobile devices.
+
+(------------------------------------------------------------------------)
+
 
 
  
