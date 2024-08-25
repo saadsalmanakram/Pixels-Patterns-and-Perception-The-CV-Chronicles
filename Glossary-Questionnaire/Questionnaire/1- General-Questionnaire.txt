@@ -2284,6 +2284,12 @@ Ans- It applies transformations to images and annotations, preparing them for in
 
 (------------------------------------------------------------------------)
 
+382- How do bounding boxes assist in object detection?
+
+Ans- Bounding boxes specify the location of objects within an image, helping in their identification.
+
+(------------------------------------------------------------------------)
+
 
 
  
