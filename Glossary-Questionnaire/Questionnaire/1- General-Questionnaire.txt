@@ -1972,6 +1972,11 @@ Ans- They are used in the convolutional projection layers to process the "query,
 
 (------------------------------------------------------------------------)
 
+330- How does CvT achieve better generalization in image classification tasks?
+
+Ans- By combining the local feature extraction of CNNs with the global context fusion of Transformers, CvT achieves better generalization.
+
+(------------------------------------------------------------------------)
 
 
 
