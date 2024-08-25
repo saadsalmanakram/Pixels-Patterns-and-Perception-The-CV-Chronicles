@@ -2266,6 +2266,12 @@ Ans- Augmentations like rotations and resizing increase the robustness of models
 
 (------------------------------------------------------------------------)
 
+379- What is the role of the formatted_anns function in the preprocessing pipeline?
+
+Ans- It formats annotations into a specific structure required by the image processor for training.
+
+(------------------------------------------------------------------------)
+
 
 
  
