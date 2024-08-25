@@ -2128,5 +2128,11 @@ Ans- The MobileViT Block is designed to combine the local processing ability of 
 
 (------------------------------------------------------------------------)
 
+356- How does the MobileViT Block process input images?
+
+Ans- It first performs a convolution on the input channels, unfolds the image into patches, processes these patches with a transformer, refolds the patches back into an image, and applies a pointwise convolution before recombining with the original image.
+
+(------------------------------------------------------------------------)
+
 
 
