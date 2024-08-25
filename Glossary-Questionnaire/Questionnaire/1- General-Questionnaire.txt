@@ -2236,6 +2236,12 @@ Ans- It involves repetitive tasks like writing code, maintaining repositories, a
 
 (------------------------------------------------------------------------)
 
+374- What is a pre-trained model in the context of object detection?
+
+Ans- A model that has been previously trained on a large dataset and can be fine-tuned for specific tasks.
+
+(------------------------------------------------------------------------)
+
 
 
  
