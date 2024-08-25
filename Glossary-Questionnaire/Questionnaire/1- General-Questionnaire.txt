@@ -2218,6 +2218,12 @@ Ans- The final linear layer in MobileViT’s architecture is used for classifica
 
 (------------------------------------------------------------------------)
 
+371- Why is MobileViT considered a breakthrough for mobile vision tasks?
+
+Ans- MobileViT is considered a breakthrough because it successfully combines the strengths of CNNs and transformers into a single architecture that is both lightweight and capable of delivering high performance on mobile devices.
+
+(------------------------------------------------------------------------)
+
 
 
  
