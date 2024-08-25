@@ -2116,5 +2116,11 @@ Ans- MobileViT differs by incorporating transformer blocks that enable it to lea
 
 (------------------------------------------------------------------------)
 
+354- What are the main components of the MobileViT architecture
+
+Ans- The main components include the MobileViT Block, separable self-attention, MobileNet blocks, and standard CNN operations like nxn convolutions, downsampling, global pooling, and a final linear layer.
+
+(------------------------------------------------------------------------)
+
 
 
