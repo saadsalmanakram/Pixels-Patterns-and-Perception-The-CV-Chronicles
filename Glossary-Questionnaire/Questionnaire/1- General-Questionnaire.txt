@@ -2008,7 +2008,11 @@ Ans- It improves regularization by randomly skipping some transformer blocks dur
 
 (------------------------------------------------------------------------)
 
+336- How are weights initialized in CvT's PyTorch implementation?
 
+Ans- Weights are initialized using either truncated normal distribution or Xavier initialization, depending on the chosen method.
+
+(------------------------------------------------------------------------)
 
 
 
