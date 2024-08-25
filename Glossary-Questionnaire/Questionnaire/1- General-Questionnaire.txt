@@ -2032,5 +2032,11 @@ NA is an attention mechanism that focuses on capturing local pixel relationships
 
 (------------------------------------------------------------------------)
 
+340- What problem does Dilated Neighborhood Attention (DiNA) solve?
+
+Ans- DiNA expands the receptive field of Neighborhood Attention, enabling the model to capture more global context without adding computational overhead.
+
+(------------------------------------------------------------------------)
+
 
 
