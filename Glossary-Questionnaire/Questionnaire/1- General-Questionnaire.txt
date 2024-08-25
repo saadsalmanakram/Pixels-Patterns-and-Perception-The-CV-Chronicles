@@ -2080,5 +2080,11 @@ Ans- Yes, DiNAT can be fine-tuned for specific tasks such as image classificatio
 
 (------------------------------------------------------------------------)
 
+348- What is the architecture of DiNAT?
+
+Ans- The DiNAT architecture combines localized Neighborhood Attention with Dilated Neighborhood Attention, gradually varying dilation across the model to optimize feature learning and receptive fields.
+
+(------------------------------------------------------------------------)
+
 
 
