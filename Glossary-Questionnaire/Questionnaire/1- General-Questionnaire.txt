@@ -2086,5 +2086,11 @@ Ans- The DiNAT architecture combines localized Neighborhood Attention with Dilat
 
 (------------------------------------------------------------------------)
 
+349- What visual recognition tasks can DiNAT be applied to?
+
+Ans- DiNAT can be applied to various visual recognition tasks, including image classification, where it has demonstrated superior performance.
+
+(------------------------------------------------------------------------)
+
 
 
