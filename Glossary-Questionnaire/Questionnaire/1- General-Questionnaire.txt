@@ -2170,6 +2170,13 @@ Ans- While both achieve O(k) complexity, MobileViT v2’s separable self-attenti
 
 (------------------------------------------------------------------------)
 
+363- What role does Hugging Face's Transformers library play in using MobileViT?
+
+Ans- The Transformers library by Hugging Face provides a ready-to-use implementation of MobileViTv2, allowing developers to easily integrate it into their projects for image classification and other vision tasks.
+
+(------------------------------------------------------------------------)
+
+
 
  
 
