@@ -1996,6 +1996,11 @@ Ans- Hierarchical Transformers, convolutional token embedding, convolutional pro
 
 (------------------------------------------------------------------------)
 
+334- How does the convolutional projection layer in CvT improve over the linear projection in ViT?
+
+Ans- It uses depth-wise separable convolutions, which are more efficient and maintain the benefits of Transformers.
+
+(------------------------------------------------------------------------)
 
 
 
