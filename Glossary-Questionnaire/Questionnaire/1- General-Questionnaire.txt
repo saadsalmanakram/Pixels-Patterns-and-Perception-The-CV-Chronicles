@@ -1942,6 +1942,12 @@ Ans- CvT offers built-in local context, hierarchical structure, no need for posi
 
 (------------------------------------------------------------------------)
 
+325- What are the main components of the CvT architecture?
+
+Ans- The CvT architecture includes convolutional token embedding, convolutional projection layers, and convolutional transformer blocks.
+
+(------------------------------------------------------------------------)
+
 
 
 
