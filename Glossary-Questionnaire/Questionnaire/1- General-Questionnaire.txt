@@ -1936,6 +1936,12 @@ Ans- CvT integrates local context through convolutions, reducing the number of t
 
 (------------------------------------------------------------------------)
 
+324- What are the key advantages of CvT over traditional Vision Transformers?
+
+Ans- CvT offers built-in local context, hierarchical structure, no need for positional encoding, and efficient attention mechanisms.
+
+(------------------------------------------------------------------------)
+
 
 
 
