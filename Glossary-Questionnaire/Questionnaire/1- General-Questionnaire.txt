@@ -1966,6 +1966,12 @@ Ans- It allows CvT to capture different levels of abstraction, improving the mod
 
 (------------------------------------------------------------------------)
 
+329- What role do depth-wise separable convolutions play in CvT?
+
+Ans- They are used in the convolutional projection layers to process the "query," "key," and "value" components in the self-attention module, improving efficiency.
+
+(------------------------------------------------------------------------)
+
 
 
 
