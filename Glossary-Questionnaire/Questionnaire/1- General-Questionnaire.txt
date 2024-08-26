@@ -2877,3 +2877,10 @@ Ans- Common tasks include image classification, object detection, semantic segme
 Ans- In zero-shot prediction, VLMs are tested on downstream tasks without task-specific fine-tuning, relying on pre-trained knowledge.
 
 (------------------------------------------------------------------------)
+
+481- What is linear probing in the context of VLMs?
+
+Ans- Linear probing involves freezing a pre-trained VLM and training a linear classifier on its embeddings to evaluate performance.
+
+(------------------------------------------------------------------------)
+
