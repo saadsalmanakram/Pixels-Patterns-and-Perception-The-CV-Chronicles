@@ -2308,6 +2308,12 @@ Ans- DETR is primarily used for object detection in images.
 
 (------------------------------------------------------------------------)
 
+386- What does the output of DETR consist of?
+
+Ans- The output includes object classes and bounding box coordinates.
+
+(------------------------------------------------------------------------)
+
 
 
  
