@@ -2782,4 +2782,10 @@ Ans- Multimodal search allows users to search using a combination of text and im
 
 (------------------------------------------------------------------------)
 
+465- What role does fusion play in multimodal models?
+
+Ans- Fusion integrates data from different modalities to create a unified representation for better decision-making.
+
+(------------------------------------------------------------------------)
+
 
