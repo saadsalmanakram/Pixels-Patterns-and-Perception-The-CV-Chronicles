@@ -2932,4 +2932,10 @@ Ans- DocVQA requires understanding the document's structure and layout in additi
 
 (------------------------------------------------------------------------)
 
+491- What is LayoutLM used for?
+
+Ans- LayoutLM is a model that understands the spatial layout of text in documents, excelling at tasks like form understanding and document classification.
+
+(------------------------------------------------------------------------)
+
 
