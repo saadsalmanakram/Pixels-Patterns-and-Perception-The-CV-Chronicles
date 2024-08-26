@@ -2458,6 +2458,12 @@ Ans- To adapt the class prediction and mask generation capabilities to new segme
 
 (------------------------------------------------------------------------)
 
+411- What is the primary difference between CNNs and Vision Transformers in image segmentation?
+
+Ans- To adapt the class prediction and mask generation capabilities to new segmentation tasks.
+
+(------------------------------------------------------------------------)
+
 
 
  
