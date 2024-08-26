@@ -2920,4 +2920,10 @@ Ans- BLIP-VQA, which uses a Bootstrapping Language-Image Pre-training approach f
 
 (------------------------------------------------------------------------)
 
+489- What is Document Visual Question Answering (DocVQA)?
+
+Ans- DocVQA is the task of answering questions about a document's content by analyzing both its text and layout from an image.
+
+(------------------------------------------------------------------------)
+
 
