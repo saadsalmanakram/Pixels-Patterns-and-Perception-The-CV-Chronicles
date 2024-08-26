@@ -2416,6 +2416,12 @@ Ans- ViT-based models provide a unified approach to semantic, instance, and pano
 
 (------------------------------------------------------------------------)
 
+404- What are the three main components of the MaskFormer architecture?
+
+Ans- The Pixel-level Module, Transformer Module, and Segmentation Module.
+
+(------------------------------------------------------------------------)
+
 
 
  
