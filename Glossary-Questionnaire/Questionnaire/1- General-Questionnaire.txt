@@ -2332,6 +2332,12 @@ Ans- Object queries are learned positional embeddings added to the decoder to pr
 
 (------------------------------------------------------------------------)
 
+390- How does DETR handle the permutation invariance of transformers?
+
+Ans- Positional encodings are added to both the encoder and decoder to maintain the spatial information.
+
+(------------------------------------------------------------------------)
+
 
 
  
