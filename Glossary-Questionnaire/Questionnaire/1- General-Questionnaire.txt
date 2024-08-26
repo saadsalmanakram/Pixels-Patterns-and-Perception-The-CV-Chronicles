@@ -2644,6 +2644,12 @@ Ans- distilGPT is a smaller, distilled version that retains most of the original
 
 (------------------------------------------------------------------------)
 
+442- What makes distilBERT so popular on Hugging Face Hub?
+
+Ans- Its balance of size, speed, and performance, making it suitable for deployment in resource-constrained environments.
+
+(------------------------------------------------------------------------)
+
 
  
 
