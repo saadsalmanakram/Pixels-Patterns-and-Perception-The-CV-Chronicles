@@ -2980,4 +2980,10 @@ Ans- Donut bypasses traditional OCR and directly processes document images, avoi
 
 (------------------------------------------------------------------------)
 
+499- What type of documents can Nougat handle effectively?
+
+Ans- Nougat excels at reading and structuring scientific papers, including complex elements like math equations.
+
+(------------------------------------------------------------------------)
+
 
