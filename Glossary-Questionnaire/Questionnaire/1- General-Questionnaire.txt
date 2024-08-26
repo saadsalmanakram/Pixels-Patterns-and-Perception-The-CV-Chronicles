@@ -2530,6 +2530,12 @@ Ans- The Task-Dynamic Mask helps the model dynamically adjust its focus based on
 
 (------------------------------------------------------------------------)
 
+423- How does task-conditioned joint training benefit OneFormer?
+
+Ans- It enables the model to generalize across different segmentation tasks simultaneously, reducing the need for task-specific models.
+
+(------------------------------------------------------------------------)
+
 
 
  
