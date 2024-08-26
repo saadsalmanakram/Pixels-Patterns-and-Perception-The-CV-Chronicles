@@ -2830,4 +2830,10 @@ Ans- CLIP pioneered the use of contrastive learning to effectively align image a
 
 (------------------------------------------------------------------------)
 
+473- What is the typical learning paradigm used in VLMs?
+
+Ans- The paradigm involves pre-training on large datasets, fine-tuning on specific tasks, and then applying the model to downstream tasks.
+
+(------------------------------------------------------------------------)
+
 
