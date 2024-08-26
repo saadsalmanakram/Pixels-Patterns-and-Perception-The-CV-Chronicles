@@ -2926,4 +2926,10 @@ Ans- DocVQA is the task of answering questions about a document's content by ana
 
 (------------------------------------------------------------------------)
 
+490- What differentiates DocVQA from traditional VQA?
+
+Ans- DocVQA requires understanding the document's structure and layout in addition to its textual content.
+
+(------------------------------------------------------------------------)
+
 
