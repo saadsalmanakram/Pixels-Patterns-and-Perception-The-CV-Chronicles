@@ -2752,4 +2752,10 @@ Ans- Early fusion combines data from different modalities at the initial stages 
 
 (------------------------------------------------------------------------)
 
+460- What is late fusion in multimodal models?
+
+Ans- Late fusion combines the outputs of unimodal models after individual processing.
+
+(------------------------------------------------------------------------)
+
 
