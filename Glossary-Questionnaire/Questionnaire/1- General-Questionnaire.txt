@@ -2596,6 +2596,12 @@ Ans- The teacher model provides soft labels (logits) that guide the training of 
 
 (------------------------------------------------------------------------)
 
+434- What are soft labels in the context of Knowledge Distillation?
+
+Ans- Output probabilities from the teacher model, which give the student model nuanced information about class relationships.
+
+(------------------------------------------------------------------------)
+
 
 
  
