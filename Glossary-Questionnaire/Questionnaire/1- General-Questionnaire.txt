@@ -2518,6 +2518,12 @@ Ans- It eliminates the need for separate training and architectures for each seg
 
 (------------------------------------------------------------------------)
 
+421- How does OneFormer achieve better performance compared to specialized frameworks?
+
+Ans- By training on a single dataset with a unified architecture, OneFormer outperforms specialized frameworks across multiple segmentation tasks.
+
+(------------------------------------------------------------------------)
+
 
 
  
