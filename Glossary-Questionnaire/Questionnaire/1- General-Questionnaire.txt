@@ -2836,4 +2836,10 @@ Ans- The paradigm involves pre-training on large datasets, fine-tuning on specif
 
 (------------------------------------------------------------------------)
 
+474- What are the common pre-training objectives for VLMs?
+
+Ans- Common objectives include contrastive, generative, and alignment-based approaches to learn vision-language correlations.
+
+(------------------------------------------------------------------------)
+
 
