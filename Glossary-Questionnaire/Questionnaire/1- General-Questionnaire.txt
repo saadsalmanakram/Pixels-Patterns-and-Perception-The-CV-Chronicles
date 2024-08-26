@@ -2698,4 +2698,10 @@ Ans- Multimodality refers to the use of multiple modalities, such as vision, aud
 
 (------------------------------------------------------------------------)
  
+451- Why is multimodality important in AI and deep learning?
+
+Ans- Multimodality enhances the ability of AI models to interpret and reason about real-world scenarios by integrating data from various sources.
+
+(------------------------------------------------------------------------)
+
 
