@@ -2746,4 +2746,10 @@ Ans- Multimodal models provide a more comprehensive understanding by integrating
 
 (------------------------------------------------------------------------)
 
+459- What is early fusion in multimodal models?
+
+Ans- Early fusion combines data from different modalities at the initial stages of processing.
+
+(------------------------------------------------------------------------)
+
 
