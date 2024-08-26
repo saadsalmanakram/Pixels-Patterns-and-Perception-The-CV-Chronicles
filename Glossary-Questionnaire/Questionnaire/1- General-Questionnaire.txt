@@ -2482,6 +2482,12 @@ Ans- A binary mask loss and a cross-entropy classification loss per predicted se
 
 (------------------------------------------------------------------------)
 
+415- What is OneFormer?
+
+Ans- OneFormer is a universal image segmentation framework that handles semantic, instance, and panoptic segmentation with a single model.
+
+(------------------------------------------------------------------------)
+
 
 
  
