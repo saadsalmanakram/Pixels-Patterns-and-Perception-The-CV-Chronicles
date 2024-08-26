@@ -2758,4 +2758,10 @@ Ans- Late fusion combines the outputs of unimodal models after individual proces
 
 (------------------------------------------------------------------------)
 
+461- What are some applications of multimodality in AI?
+
+Ans- Applications include multimodal emotion recognition, multimodal search, and Visual Question Answering (VQA).
+
+(------------------------------------------------------------------------)
+
 
