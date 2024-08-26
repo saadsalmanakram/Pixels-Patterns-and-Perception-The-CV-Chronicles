@@ -2326,6 +2326,12 @@ Ans- The transformer encoder-decoder predicts object classes and bounding boxes 
 
 (------------------------------------------------------------------------)
 
+389- What are object queries in DETR?
+
+Ans- Object queries are learned positional embeddings added to the decoder to predict bounding boxes and classes.
+
+(------------------------------------------------------------------------)
+
 
 
  
