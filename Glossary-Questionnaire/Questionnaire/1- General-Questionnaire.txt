@@ -2374,6 +2374,18 @@ Ans- They enable detection of objects of various sizes by combining features fro
 
 (------------------------------------------------------------------------)
 
+397- What is Conditional DETR?
+
+Ans- A variant of DETR that accelerates training convergence using Conditional Cross-Attention for more precise localization.
+
+(------------------------------------------------------------------------)
+
+398- How does Conditional Cross-Attention improve training speed in DETR?
+
+Ans- By making object queries more specific to the input image, improving bounding box regression.
+
+(------------------------------------------------------------------------)
+
 
 
  
