@@ -2866,4 +2866,10 @@ Ans- ALIGN consists of over one billion noisy image-text pairs mined from the we
 
 (------------------------------------------------------------------------)
 
+479- What are common downstream tasks for VLMs?
+
+Ans- Common tasks include image classification, object detection, semantic segmentation, image-text retrieval, and action recognition.
+
+(------------------------------------------------------------------------)
+
 
