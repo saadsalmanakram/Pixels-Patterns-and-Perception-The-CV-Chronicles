@@ -2392,6 +2392,12 @@ Ans- It removes the need for anchor boxes and complex post-processing by directl
 
 (------------------------------------------------------------------------)
 
+400- What are the main limitations of CNNs in image segmentation?
+
+Ans- CNNs struggle with capturing global dependencies due to their local receptive fields.
+
+(------------------------------------------------------------------------)
+
 
 
  
