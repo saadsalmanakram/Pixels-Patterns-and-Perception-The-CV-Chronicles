@@ -2788,4 +2788,10 @@ Ans- Fusion integrates data from different modalities to create a unified repres
 
 (------------------------------------------------------------------------)
 
+466- How does multimodality contribute to enterprise AI?
+
+Ans- Multimodality enhances organizational intelligence by improving internal search and interactive documentation.
+
+(------------------------------------------------------------------------)
+
 
