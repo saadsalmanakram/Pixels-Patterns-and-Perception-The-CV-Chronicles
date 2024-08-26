@@ -2398,6 +2398,18 @@ Ans- CNNs struggle with capturing global dependencies due to their local recepti
 
 (------------------------------------------------------------------------)
 
+401- How do Vision Transformers address the spatial limitations of CNNs?
+
+Ans- Vision Transformers capture global dependencies by processing the entire image at once using the attention mechanism.
+
+(------------------------------------------------------------------------)
+
+402- What is the key difference in task-specific components between CNNs and Vision Transformers?
+
+Ans- Vision Transformers eliminate the need for hand-designed components, simplifying the segmentation process.
+
+(------------------------------------------------------------------------)
+
 
 
  
