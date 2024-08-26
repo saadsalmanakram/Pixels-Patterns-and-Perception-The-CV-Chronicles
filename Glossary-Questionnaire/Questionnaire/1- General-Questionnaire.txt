@@ -2656,6 +2656,12 @@ Ans- By creating smaller models that are easier to deploy on devices with limite
 
 (------------------------------------------------------------------------)
 
+444- Can Knowledge Distillation be used with any type of neural network?
+
+Ans- Yes, it can be applied across various architectures, as long as there's a suitable teacher model.
+
+(------------------------------------------------------------------------)
+
 
  
 
