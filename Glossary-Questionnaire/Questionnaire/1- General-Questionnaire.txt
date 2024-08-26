@@ -2800,4 +2800,10 @@ Ans- Meta’s model integrates information from six different modalities, pushin
 
 (------------------------------------------------------------------------)
 
+468- What tasks can be performed with Vision + Text multimodal datasets?
+
+Ans- Tasks include image captioning, Visual Question Answering, and text-to-image generation.
+
+(------------------------------------------------------------------------)
+
 
