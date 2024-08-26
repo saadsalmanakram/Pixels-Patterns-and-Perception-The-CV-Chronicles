@@ -2356,6 +2356,12 @@ Ans- Slow convergence and suboptimal small object detection.
 
 (------------------------------------------------------------------------)
 
+394- What is Deformable DETR?
+
+Ans- It’s an evolution of DETR that introduces deformable attention and multi-scale feature maps to improve performance.
+
+(------------------------------------------------------------------------)
+
 
 
  
