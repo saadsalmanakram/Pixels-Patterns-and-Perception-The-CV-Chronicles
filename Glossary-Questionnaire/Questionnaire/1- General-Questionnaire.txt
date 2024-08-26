@@ -2722,4 +2722,10 @@ Ans- Vision + Text (infographics), Vision + Audio (Skype calls), and Audio + Tex
 
 (------------------------------------------------------------------------)
 
+455- What is a multimodal dataset?
+
+Ans- A dataset that contains data from multiple modalities, such as images, audio, and text.
+
+(------------------------------------------------------------------------)
+
 
