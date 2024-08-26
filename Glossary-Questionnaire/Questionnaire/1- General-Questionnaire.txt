@@ -2602,6 +2602,12 @@ Ans- Output probabilities from the teacher model, which give the student model n
 
 (------------------------------------------------------------------------)
 
+435- Why is Kullback-Leibler (KL) Divergence used in Knowledge Distillation?
+
+Ans- KL Divergence measures how one probability distribution diverges from another, helping align the student model's output with the teacher's.
+
+(------------------------------------------------------------------------)
+
 
 
  
