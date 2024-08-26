@@ -2692,6 +2692,10 @@ Ans- It ensures that the student model also learns from the actual ground-truth 
 
 (------------------------------------------------------------------------)
 
+450- What is multimodality?
 
+Ans- Multimodality refers to the use of multiple modalities, such as vision, audio, and text, to process and understand information.
+
+(------------------------------------------------------------------------)
  
 
