@@ -2524,6 +2524,12 @@ Ans- By training on a single dataset with a unified architecture, OneFormer outp
 
 (------------------------------------------------------------------------)
 
+422- What is the "Task-Dynamic Mask" in OneFormer?
+
+Ans- The Task-Dynamic Mask helps the model dynamically adjust its focus based on the specific segmentation task at hand.
+
+(------------------------------------------------------------------------)
+
 
 
  
