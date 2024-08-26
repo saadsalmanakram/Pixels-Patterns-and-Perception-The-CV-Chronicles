@@ -2440,6 +2440,12 @@ Ans- Panoptic segmentation labels every pixel in an image and identifies distinc
 
 (------------------------------------------------------------------------)
 
+408- Why is transfer learning commonly used with Vision Transformer-based segmentation models?
+
+Ans- Because these models are data-hungry and challenging to train from scratch.
+
+(------------------------------------------------------------------------)
+
 
 
  
