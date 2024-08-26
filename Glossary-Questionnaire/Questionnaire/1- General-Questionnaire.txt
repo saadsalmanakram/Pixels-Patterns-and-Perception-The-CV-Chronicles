@@ -2938,4 +2938,10 @@ Ans- LayoutLM is a model that understands the spatial layout of text in document
 
 (------------------------------------------------------------------------)
 
+492- What is Image Captioning?
+
+Ans- Image Captioning involves generating descriptive text based on the analysis of an image, combining computer vision and natural language processing.
+
+(------------------------------------------------------------------------)
+
 
