@@ -2422,6 +2422,12 @@ Ans- The Pixel-level Module, Transformer Module, and Segmentation Module.
 
 (------------------------------------------------------------------------)
 
+405- What role does the Transformer Module play in the MaskFormer architecture?
+
+Ans- It computes per-segment embeddings, encoding global information about each segment.
+
+(------------------------------------------------------------------------)
+
 
 
  
