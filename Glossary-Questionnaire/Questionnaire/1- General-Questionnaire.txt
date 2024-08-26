@@ -2548,6 +2548,12 @@ Ans- It is a training technique where the model compares visual features with te
 
 (------------------------------------------------------------------------)
 
+426- Why is Query-Text Contrastive Loss important in OneFormer?
+
+Ans- It helps the model distinguish between tasks and improves overall performance by reducing class confusion.
+
+(------------------------------------------------------------------------)
+
 
 
  
