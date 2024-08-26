@@ -2662,6 +2662,12 @@ Ans- Yes, it can be applied across various architectures, as long as there's a s
 
 (------------------------------------------------------------------------)
 
+445- What challenges might arise during Knowledge Distillation?
+
+Ans- Ensuring the student model sufficiently captures the knowledge of the teacher, particularly when the teacher is very large or complex.
+
+(------------------------------------------------------------------------)
+
 
  
 
