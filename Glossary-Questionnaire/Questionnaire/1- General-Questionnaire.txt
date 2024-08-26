@@ -2914,4 +2914,10 @@ Ans- Visual Reasoning involves deeper inference, allowing models to understand r
 
 (------------------------------------------------------------------------)
 
+488- What is a popular model for VQA tasks?
+
+Ans- BLIP-VQA, which uses a Bootstrapping Language-Image Pre-training approach for state-of-the-art performance.
+
+(------------------------------------------------------------------------)
+
 
