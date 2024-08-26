@@ -2992,4 +2992,10 @@ Ans- VLIT uses a transformer architecture without convolutions, providing compet
 
 (------------------------------------------------------------------------)
 
+501- What is CLIP?
+
+Ans- CLIP (Contrastive Language-Image Pretraining) is a multimodal model by OpenAI that learns from text-image pairs to perform zero-shot learning.
+
+(------------------------------------------------------------------------)
+
 
