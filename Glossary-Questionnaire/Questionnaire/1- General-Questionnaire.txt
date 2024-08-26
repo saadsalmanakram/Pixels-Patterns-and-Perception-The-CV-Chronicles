@@ -2986,4 +2986,10 @@ Ans- Nougat excels at reading and structuring scientific papers, including compl
 
 (------------------------------------------------------------------------)
 
+500- What advantage does VLIT offer in VQA tasks?
+
+Ans- VLIT uses a transformer architecture without convolutions, providing competitive performance in vision-language tasks.
+
+(------------------------------------------------------------------------)
+
 
