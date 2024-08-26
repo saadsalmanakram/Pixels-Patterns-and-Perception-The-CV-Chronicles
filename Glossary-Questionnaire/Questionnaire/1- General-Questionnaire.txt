@@ -2842,4 +2842,10 @@ Ans- Common objectives include contrastive, generative, and alignment-based appr
 
 (------------------------------------------------------------------------)
 
+475- How does the cross-attention mechanism work in VLMs?
+
+Ans- Cross-attention fuses visual and textual information within model layers, improving the integration of these modalities.
+
+(------------------------------------------------------------------------)
+
 
