@@ -2542,6 +2542,12 @@ Ans- The task token conditions the architecture on the specific task, unifying t
 
 (------------------------------------------------------------------------)
 
+425- What is "Query-Text Contrastive Loss"?
+
+Ans- It is a training technique where the model compares visual features with textual descriptions to learn inter-task and inter-class differences.
+
+(------------------------------------------------------------------------)
+
 
 
  
