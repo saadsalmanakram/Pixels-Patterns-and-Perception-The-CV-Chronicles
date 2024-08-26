@@ -2572,6 +2572,12 @@ Ans- By using a single universal model and dataset for multiple segmentation tas
 
 (------------------------------------------------------------------------)
 
+430- What is Knowledge Distillation?
+
+Ans- A technique in machine learning where a smaller model (student) is trained to mimic the behavior of a larger model (teacher) by minimizing the difference between their output distributions.
+
+(------------------------------------------------------------------------)
+
 
 
  
