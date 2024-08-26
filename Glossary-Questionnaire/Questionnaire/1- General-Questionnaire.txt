@@ -2368,6 +2368,12 @@ Ans- It reduces the number of sampling points and focuses on relevant regions, s
 
 (------------------------------------------------------------------------)
 
+396- Why are multi-scale feature maps important in Deformable DETR?
+
+Ans- They enable detection of objects of various sizes by combining features from different layers.
+
+(------------------------------------------------------------------------)
+
 
 
  
