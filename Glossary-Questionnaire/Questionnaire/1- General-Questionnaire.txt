@@ -2350,6 +2350,12 @@ Ans- It’s a method to match predicted bounding boxes with ground truth boxes f
 
 (------------------------------------------------------------------------)
 
+393- What are the two main problems DETR faces?
+
+Ans- Slow convergence and suboptimal small object detection.
+
+(------------------------------------------------------------------------)
+
 
 
  
