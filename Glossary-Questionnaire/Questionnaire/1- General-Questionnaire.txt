@@ -2848,4 +2848,16 @@ Ans- Cross-attention fuses visual and textual information within model layers, i
 
 (------------------------------------------------------------------------)
 
+476- What is the MSCOCO dataset?
+
+Ans- MSCOCO is a dataset containing 328K images, each paired with 5 independent captions, widely used in VLM research.
+
+(------------------------------------------------------------------------)
+
+477- Why is the NoCaps dataset significant?
+
+Ans- NoCaps tests VLMs' generalization ability to unseen classes and concepts by dividing images into in-domain, near-domain, and out-of-domain categories.
+
+(------------------------------------------------------------------------)
+
 
