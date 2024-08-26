@@ -2638,6 +2638,12 @@ Ans- It's used to create efficient models like distilGPT and distilBERT, which a
 
 (------------------------------------------------------------------------)
 
+441- How does distilGPT differ from the original GPT model?
+
+Ans- distilGPT is a smaller, distilled version that retains most of the original GPT's performance but is more computationally efficient.
+
+(------------------------------------------------------------------------)
+
 
  
 
