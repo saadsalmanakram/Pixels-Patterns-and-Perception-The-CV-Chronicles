@@ -2872,4 +2872,8 @@ Ans- Common tasks include image classification, object detection, semantic segme
 
 (------------------------------------------------------------------------)
 
+480- How is zero-shot prediction used in evaluating VLMs?
 
+Ans- In zero-shot prediction, VLMs are tested on downstream tasks without task-specific fine-tuning, relying on pre-trained knowledge.
+
+(------------------------------------------------------------------------)
