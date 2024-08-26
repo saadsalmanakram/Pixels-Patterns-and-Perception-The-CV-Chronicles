@@ -2824,4 +2824,10 @@ Ans- VLMs integrate both visual and textual data, often using pre-training and f
 
 (------------------------------------------------------------------------)
 
+472- What role did the CLIP model play in VLM development?
+
+Ans- CLIP pioneered the use of contrastive learning to effectively align image and text embeddings, enabling zero-shot predictions.
+
+(------------------------------------------------------------------------)
+
 
