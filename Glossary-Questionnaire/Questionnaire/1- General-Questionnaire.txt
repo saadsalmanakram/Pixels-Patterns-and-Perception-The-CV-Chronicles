@@ -2608,6 +2608,17 @@ Ans- KL Divergence measures how one probability distribution diverges from anoth
 
 (------------------------------------------------------------------------)
 
+436- What is the purpose of the distillation loss in Knowledge Distillation?
+
+Ans- To ensure the student model’s output distribution approximates that of the teacher model.
+
+(------------------------------------------------------------------------)
+
+437- How is the overall loss function formulated in Knowledge Distillation?
+
+Ans- It combines the distillation loss (KL Divergence) with the standard cross-entropy loss over ground-truth labels.
+
+(------------------------------------------------------------------------)
 
 
  
