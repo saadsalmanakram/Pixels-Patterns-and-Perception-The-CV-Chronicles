@@ -2470,6 +2470,12 @@ Ans- MaskFormer is a Vision Transformer-based model that unifies semantic and in
 
 (------------------------------------------------------------------------)
 
+413- What does the Pixel-level Module in MaskFormer do?
+
+Ans- It extracts image features and generates per-pixel embeddings.
+
+(------------------------------------------------------------------------)
+
 
 
  
