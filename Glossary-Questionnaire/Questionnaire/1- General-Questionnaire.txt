@@ -2950,4 +2950,16 @@ Ans- Image-Text Retrieval is a task where an AI model retrieves corresponding im
 
 (------------------------------------------------------------------------)
 
+494- What is an application of Image-Text Retrieval?
+
+Ans- It can be used in image search engines, allowing users to find images based on text descriptions or vice versa.
+
+(------------------------------------------------------------------------)
+
+495- What does Visual Grounding entail?
+
+Ans- Visual Grounding involves linking natural language descriptions to specific objects or regions in an image.
+
+(------------------------------------------------------------------------)
+
 
