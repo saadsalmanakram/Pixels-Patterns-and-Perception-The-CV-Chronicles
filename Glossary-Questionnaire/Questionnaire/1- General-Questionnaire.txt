@@ -2620,6 +2620,12 @@ Ans- It combines the distillation loss (KL Divergence) with the standard cross-e
 
 (------------------------------------------------------------------------)
 
+438- Why is temperature scaling used in Knowledge Distillation?
+
+Ans- To soften the probability distribution from the teacher model, making it easier for the student model to learn.
+
+(------------------------------------------------------------------------)
+
 
  
 
