@@ -2734,4 +2734,10 @@ Ans- A task that involves inputs and outputs from two or more modalities, like V
 
 (------------------------------------------------------------------------)
 
+457- What is a unimodal model?
+
+Ans- A model that processes data from a single modality, such as text-only or image-only models.
+
+(------------------------------------------------------------------------)
+
 
