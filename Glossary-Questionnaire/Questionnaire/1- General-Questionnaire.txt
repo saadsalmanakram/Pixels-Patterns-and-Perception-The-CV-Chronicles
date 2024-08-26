@@ -2944,4 +2944,10 @@ Ans- Image Captioning involves generating descriptive text based on the analysis
 
 (------------------------------------------------------------------------)
 
+493- What is Image-Text Retrieval?
+
+Ans- Image-Text Retrieval is a task where an AI model retrieves corresponding images or text based on a given image or textual query.
+
+(------------------------------------------------------------------------)
+
 
