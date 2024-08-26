@@ -2668,6 +2668,12 @@ Ans- Ensuring the student model sufficiently captures the knowledge of the teach
 
 (------------------------------------------------------------------------)
 
+446- Why might someone choose Knowledge Distillation over other model compression techniques?
+
+Ans- It often provides a better trade-off between model size and performance, especially when interpretability and accuracy are crucial.
+
+(------------------------------------------------------------------------)
+
 
  
 
