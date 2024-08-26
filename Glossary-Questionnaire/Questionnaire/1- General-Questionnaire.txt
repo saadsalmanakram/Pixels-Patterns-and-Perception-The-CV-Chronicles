@@ -2998,4 +2998,9 @@ Ans- CLIP (Contrastive Language-Image Pretraining) is a multimodal model by Open
 
 (------------------------------------------------------------------------)
 
+502- Why is CLIP significant in multimodal AI?
+
+Ans- CLIP enables models to understand and align visual and textual information, allowing for tasks like image classification without needing task-specific labels.
+
+(------------------------------------------------------------------------)
 
