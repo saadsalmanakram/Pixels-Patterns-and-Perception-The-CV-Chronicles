@@ -2884,3 +2884,15 @@ Ans- Linear probing involves freezing a pre-trained VLM and training a linear cl
 
 (------------------------------------------------------------------------)
 
+483- What future advancements are expected in VLMs?
+
+Ans- Future advancements may include modality-agnostic foundation models that can handle multiple modalities simultaneously.
+
+(------------------------------------------------------------------------)
+
+484- What does the Winoground dataset reveal about VLMs?
+
+Ans- Winoground tests whether VLMs truly understand compositional relationships or are simply generalizing from data.
+
+(------------------------------------------------------------------------)
+
