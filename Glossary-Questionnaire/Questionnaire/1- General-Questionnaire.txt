@@ -2704,4 +2704,10 @@ Ans- Multimodality enhances the ability of AI models to interpret and reason abo
 
 (------------------------------------------------------------------------)
 
+452- Give an example of multimodal communication in everyday life.
+
+Ans- Watching a YouTube video with captions involves vision, audio, and text, making it a multimodal experience.
+
+(------------------------------------------------------------------------)
+
 
