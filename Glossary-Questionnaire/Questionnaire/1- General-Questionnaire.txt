@@ -2776,4 +2776,10 @@ Ans- MER involves recognizing emotions by integrating data from multiple modalit
 
 (------------------------------------------------------------------------)
 
+464- What is the advantage of multimodal search?
+
+Ans- Multimodal search allows users to search using a combination of text and images, providing more accurate results.
+
+(------------------------------------------------------------------------)
+
 
