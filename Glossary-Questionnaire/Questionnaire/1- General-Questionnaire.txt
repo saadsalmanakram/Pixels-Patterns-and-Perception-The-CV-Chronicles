@@ -2680,6 +2680,12 @@ Ans- Both involve transferring knowledge from one model to another, but Knowledg
 
 (------------------------------------------------------------------------)
 
+448- How does the choice of temperature in Knowledge Distillation affect training?
+
+Ans- A higher temperature produces a softer probability distribution, making it easier for the student model to learn from the teacher.
+
+(------------------------------------------------------------------------)
+
 
  
 
