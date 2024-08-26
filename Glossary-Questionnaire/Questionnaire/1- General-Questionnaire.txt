@@ -2566,6 +2566,12 @@ Ans- OneFormer outperformed models on ADE20k, Cityscapes, and COCO datasets.
 
 (------------------------------------------------------------------------)
 
+429- How does OneFormer reduce resource requirements in segmentation tasks?
+
+Ans- By using a single universal model and dataset for multiple segmentation tasks, it streamlines the process and cuts down on resource needs.
+
+(------------------------------------------------------------------------)
+
 
 
  
