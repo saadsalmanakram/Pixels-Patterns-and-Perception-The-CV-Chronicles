@@ -2812,4 +2812,10 @@ Ans- The main challenge is effectively integrating and processing different type
 
 (------------------------------------------------------------------------)
 
+470- What are Vision Language Models (VLMs)?
+
+Ans- VLMs are models that combine visual and textual data to perform tasks like image captioning and visual question answering.
+
+(------------------------------------------------------------------------)
+
 
