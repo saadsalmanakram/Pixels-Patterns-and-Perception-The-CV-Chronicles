@@ -2908,4 +2908,10 @@ Ans- VQA is a task where an AI model answers questions based on an image, often 
 
 (------------------------------------------------------------------------)
 
+487- How does Visual Reasoning differ from VQA?
+
+Ans- Visual Reasoning involves deeper inference, allowing models to understand relationships, compare objects, and analyze scene context beyond simple recognition.
+
+(------------------------------------------------------------------------)
+
 
