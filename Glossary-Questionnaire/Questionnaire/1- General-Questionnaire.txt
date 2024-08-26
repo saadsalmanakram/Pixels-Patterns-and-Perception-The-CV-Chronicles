@@ -2728,4 +2728,10 @@ Ans- A dataset that contains data from multiple modalities, such as images, audi
 
 (------------------------------------------------------------------------)
 
+456- What is a multimodal task?
+
+Ans- A task that involves inputs and outputs from two or more modalities, like Visual Question Answering (VQA).
+
+(------------------------------------------------------------------------)
+
 
