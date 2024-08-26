@@ -2896,3 +2896,9 @@ Ans- Winoground tests whether VLMs truly understand compositional relationships 
 
 (------------------------------------------------------------------------)
 
+485- What is the significance of FLAVA in VLM research?
+
+Ans- FLAVA is an emerging model aiming to be a foundational model for multiple modalities, pushing the boundaries of VLM capabilities.
+
+(------------------------------------------------------------------------)
+
