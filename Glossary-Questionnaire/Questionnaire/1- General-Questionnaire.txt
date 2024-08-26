@@ -2320,6 +2320,12 @@ Ans- Unlike YOLO, DETR uses a transformer architecture to predict bounding boxes
 
 (------------------------------------------------------------------------)
 
+388- What role does the transformer play in DETR?
+
+Ans- The transformer encoder-decoder predicts object classes and bounding boxes from the image features.
+
+(------------------------------------------------------------------------)
+
 
 
  
