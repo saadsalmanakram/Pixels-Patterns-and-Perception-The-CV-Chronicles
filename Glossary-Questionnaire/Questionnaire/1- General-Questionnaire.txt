@@ -2386,6 +2386,12 @@ Ans- By making object queries more specific to the input image, improving boundi
 
 (------------------------------------------------------------------------)
 
+399- Why is DETR considered a simplified object detection model?
+
+Ans- It removes the need for anchor boxes and complex post-processing by directly predicting bounding boxes with transformers.
+
+(------------------------------------------------------------------------)
+
 
 
  
