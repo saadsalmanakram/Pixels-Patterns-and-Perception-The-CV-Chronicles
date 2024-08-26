@@ -2674,6 +2674,12 @@ Ans- It often provides a better trade-off between model size and performance, es
 
 (------------------------------------------------------------------------)
 
+447- What is the relationship between Knowledge Distillation and transfer learning?
+
+Ans- Both involve transferring knowledge from one model to another, but Knowledge Distillation focuses on transferring knowledge from a larger to a smaller model, while transfer learning adapts a pre-trained model to a new task.
+
+(------------------------------------------------------------------------)
+
 
  
 
