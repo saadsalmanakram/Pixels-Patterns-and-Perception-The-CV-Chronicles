@@ -2500,6 +2500,12 @@ Ans- The key innovation is its task-conditioned joint training strategy, allowin
 
 (------------------------------------------------------------------------)
 
+418- Why is OneFormer considered a breakthrough in image segmentation?
+
+Ans- It simplifies the training process and outperforms existing models across multiple segmentation tasks using a single model.
+
+(------------------------------------------------------------------------)
+
 
 
  
