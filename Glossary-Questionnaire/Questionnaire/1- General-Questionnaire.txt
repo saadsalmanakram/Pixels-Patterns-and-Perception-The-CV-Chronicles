@@ -2974,4 +2974,10 @@ Ans- Deplot translates visual plots and charts into text summaries, enabling com
 
 (------------------------------------------------------------------------)
 
+498- What is the unique feature of Donut compared to other DocVQA models?
+
+Ans- Donut bypasses traditional OCR and directly processes document images, avoiding errors from separate OCR steps.
+
+(------------------------------------------------------------------------)
+
 
