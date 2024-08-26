@@ -2632,6 +2632,12 @@ Ans- The idea is inspired by how insects undergo transformation from a larval to
 
 (------------------------------------------------------------------------)
 
+440- What is a real-world application of Knowledge Distillation?
+
+Ans- It's used to create efficient models like distilGPT and distilBERT, which are faster but still perform well on various NLP tasks.
+
+(------------------------------------------------------------------------)
+
 
  
 
