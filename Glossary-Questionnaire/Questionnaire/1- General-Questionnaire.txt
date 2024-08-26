@@ -2446,6 +2446,18 @@ Ans- Because these models are data-hungry and challenging to train from scratch.
 
 (------------------------------------------------------------------------)
 
+409- What components of the MaskFormer model are typically kept frozen during fine-tuning?
+
+Ans- The backbone, pixel decoder, and transformer decoder are usually kept frozen.
+
+(------------------------------------------------------------------------)
+
+410- What is the primary goal of fine-tuning the MaskFormer model?
+
+Ans- To adapt the class prediction and mask generation capabilities to new segmentation tasks.
+
+(------------------------------------------------------------------------)
+
 
 
  
