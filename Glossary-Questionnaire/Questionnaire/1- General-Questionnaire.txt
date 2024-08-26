@@ -2512,6 +2512,12 @@ Ans- OneFormer handles semantic, instance, and panoptic segmentation tasks.
 
 (------------------------------------------------------------------------)
 
+420- What problem in panoptic segmentation does OneFormer address?
+
+Ans- It eliminates the need for separate training and architectures for each segmentation task, offering a truly universal solution.
+
+(------------------------------------------------------------------------)
+
 
 
  
