@@ -2686,6 +2686,12 @@ Ans- A higher temperature produces a softer probability distribution, making it 
 
 (------------------------------------------------------------------------)
 
+449- What is the role of the cross-entropy loss in the Knowledge Distillation process?
+
+Ans- It ensures that the student model also learns from the actual ground-truth labels, not just the teacher's predictions.
+
+(------------------------------------------------------------------------)
+
 
  
 
