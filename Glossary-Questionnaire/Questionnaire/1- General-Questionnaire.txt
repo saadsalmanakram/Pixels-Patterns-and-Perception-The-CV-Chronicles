@@ -2464,6 +2464,12 @@ Ans- To adapt the class prediction and mask generation capabilities to new segme
 
 (------------------------------------------------------------------------)
 
+412- What is MaskFormer in the context of Vision Transformers?
+
+Ans- MaskFormer is a Vision Transformer-based model that unifies semantic and instance segmentation tasks.
+
+(------------------------------------------------------------------------)
+
 
 
  
