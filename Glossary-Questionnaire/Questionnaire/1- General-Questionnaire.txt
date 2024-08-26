@@ -2590,6 +2590,12 @@ Ans- It produces a smaller, faster model that retains much of the performance of
 
 (------------------------------------------------------------------------)
 
+433- What is the role of the teacher model in Knowledge Distillation?
+
+Ans- The teacher model provides soft labels (logits) that guide the training of the student model.
+
+(------------------------------------------------------------------------)
+
 
 
  
