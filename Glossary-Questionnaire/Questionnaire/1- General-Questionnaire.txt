@@ -2806,4 +2806,10 @@ Ans- Tasks include image captioning, Visual Question Answering, and text-to-imag
 
 (------------------------------------------------------------------------)
 
+469- What is the main challenge of working with multimodal data?
+
+Ans- The main challenge is effectively integrating and processing different types of data to enhance the model’s understanding.
+
+(------------------------------------------------------------------------)
+
 
