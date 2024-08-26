@@ -2434,6 +2434,12 @@ Ans- By combining mask embeddings with per-pixel embeddings to predict binary ma
 
 (------------------------------------------------------------------------)
 
+407- What is panoptic segmentation?
+
+Ans- Panoptic segmentation labels every pixel in an image and identifies distinct objects within those categories.
+
+(------------------------------------------------------------------------)
+
 
 
  
