@@ -2560,6 +2560,12 @@ Ans- OneFormer uses transformers with task-guided queries to improve task sensit
 
 (------------------------------------------------------------------------)
 
+428- What datasets did OneFormer surpass state-of-the-art models on?
+
+Ans- OneFormer outperformed models on ADE20k, Cityscapes, and COCO datasets.
+
+(------------------------------------------------------------------------)
+
 
 
  
