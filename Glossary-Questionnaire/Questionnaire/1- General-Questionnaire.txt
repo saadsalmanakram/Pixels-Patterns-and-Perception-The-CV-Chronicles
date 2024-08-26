@@ -2494,6 +2494,12 @@ Ans- Unlike traditional methods that require separate training for each segmenta
 
 (------------------------------------------------------------------------)
 
+417- What is the key innovation introduced by OneFormer?
+
+Ans- The key innovation is its task-conditioned joint training strategy, allowing dynamic adaptability to different segmentation tasks.
+
+(------------------------------------------------------------------------)
+
 
 
  
