@@ -2506,6 +2506,12 @@ Ans- It simplifies the training process and outperforms existing models across m
 
 (------------------------------------------------------------------------)
 
+419- What segmentation tasks does OneFormer handle?
+
+Ans- OneFormer handles semantic, instance, and panoptic segmentation tasks.
+
+(------------------------------------------------------------------------)
+
 
 
  
