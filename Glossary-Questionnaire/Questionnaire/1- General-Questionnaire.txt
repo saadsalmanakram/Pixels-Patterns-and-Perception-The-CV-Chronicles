@@ -2476,6 +2476,12 @@ Ans- It extracts image features and generates per-pixel embeddings.
 
 (------------------------------------------------------------------------)
 
+414- What are the losses used to train MaskFormer?
+
+Ans- A binary mask loss and a cross-entropy classification loss per predicted segment.
+
+(------------------------------------------------------------------------)
+
 
 
  
