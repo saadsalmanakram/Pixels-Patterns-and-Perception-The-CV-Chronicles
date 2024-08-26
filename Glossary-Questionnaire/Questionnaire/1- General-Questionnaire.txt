@@ -2578,6 +2578,12 @@ Ans- A technique in machine learning where a smaller model (student) is trained 
 
 (------------------------------------------------------------------------)
 
+431- How does Knowledge Distillation differ from traditional supervised learning?
+
+Ans- Instead of training on labeled data, the student model learns from the teacher model's output probabilities, capturing richer information.
+
+(------------------------------------------------------------------------)
+
 
 
  
