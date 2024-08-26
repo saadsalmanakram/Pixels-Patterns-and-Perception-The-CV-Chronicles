@@ -2536,6 +2536,12 @@ Ans- It enables the model to generalize across different segmentation tasks simu
 
 (------------------------------------------------------------------------)
 
+424- What role does the task token play in OneFormer?
+
+Ans- The task token conditions the architecture on the specific task, unifying the training process.
+
+(------------------------------------------------------------------------)
+
 
 
  
