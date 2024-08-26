@@ -2554,6 +2554,12 @@ Ans- It helps the model distinguish between tasks and improves overall performan
 
 (------------------------------------------------------------------------)
 
+427- How does OneFormer leverage transformer-based architectures?
+
+Ans- OneFormer uses transformers with task-guided queries to improve task sensitivity in image segmentation.
+
+(------------------------------------------------------------------------)
+
 
 
  
