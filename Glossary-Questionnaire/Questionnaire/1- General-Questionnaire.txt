@@ -2344,6 +2344,12 @@ Ans- DETR uses a set-based global loss function that includes bipartite matching
 
 (------------------------------------------------------------------------)
 
+392- What is bipartite matching in the context of DETR?
+
+Ans- It’s a method to match predicted bounding boxes with ground truth boxes for accurate loss computation.
+
+(------------------------------------------------------------------------)
+
 
 
  
