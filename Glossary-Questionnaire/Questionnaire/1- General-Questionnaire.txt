@@ -2740,4 +2740,10 @@ Ans- A model that processes data from a single modality, such as text-only or im
 
 (------------------------------------------------------------------------)
 
+458- Why are multimodal models preferred over unimodal models?
+
+Ans- Multimodal models provide a more comprehensive understanding by integrating multiple data sources, leading to better performance.
+
+(------------------------------------------------------------------------)
+
 
