@@ -2428,6 +2428,12 @@ Ans- It computes per-segment embeddings, encoding global information about each 
 
 (------------------------------------------------------------------------)
 
+406- How does the MaskFormer model generate segmentation masks?
+
+Ans- By combining mask embeddings with per-pixel embeddings to predict binary masks for each segment.
+
+(------------------------------------------------------------------------)
+
 
 
  
