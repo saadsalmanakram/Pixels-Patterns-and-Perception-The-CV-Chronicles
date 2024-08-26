@@ -2794,4 +2794,10 @@ Ans- Multimodality enhances organizational intelligence by improving internal se
 
 (------------------------------------------------------------------------)
 
+467- What is the significance of Meta’s multimodal AI model?
+
+Ans- Meta’s model integrates information from six different modalities, pushing the boundaries of AI capabilities.
+
+(------------------------------------------------------------------------)
+
 
