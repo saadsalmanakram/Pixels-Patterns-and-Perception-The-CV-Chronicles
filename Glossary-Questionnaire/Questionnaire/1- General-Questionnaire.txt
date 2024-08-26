@@ -2860,4 +2860,10 @@ Ans- NoCaps tests VLMs' generalization ability to unseen classes and concepts by
 
 (------------------------------------------------------------------------)
 
+478- What makes the ALIGN dataset unique?
+
+Ans- ALIGN consists of over one billion noisy image-text pairs mined from the web, requiring minimal filtering or post-processing.
+
+(------------------------------------------------------------------------)
+
 
