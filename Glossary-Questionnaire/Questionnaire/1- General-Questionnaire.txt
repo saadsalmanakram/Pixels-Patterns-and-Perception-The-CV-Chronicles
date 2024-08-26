@@ -2338,6 +2338,12 @@ Ans- Positional encodings are added to both the encoder and decoder to maintain 
 
 (------------------------------------------------------------------------)
 
+391- What is the loss function used in DETR?
+
+Ans- DETR uses a set-based global loss function that includes bipartite matching to ensure unique and accurate bounding boxes.
+
+(------------------------------------------------------------------------)
+
 
 
  
