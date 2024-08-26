@@ -3004,3 +3004,9 @@ Ans- CLIP enables models to understand and align visual and textual information,
 
 (------------------------------------------------------------------------)
 
+503- What are the key applications of CLIP?
+
+Ans- CLIP is used in zero-shot classification, image search, and visual question answering, among other multimodal tasks.
+
+(------------------------------------------------------------------------)
+
