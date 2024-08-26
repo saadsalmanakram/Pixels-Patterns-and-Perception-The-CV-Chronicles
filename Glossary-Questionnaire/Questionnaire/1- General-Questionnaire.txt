@@ -2488,6 +2488,12 @@ Ans- OneFormer is a universal image segmentation framework that handles semantic
 
 (------------------------------------------------------------------------)
 
+416- How does OneFormer differ from traditional segmentation methods?
+
+Ans- Unlike traditional methods that require separate training for each segmentation task, OneFormer uses a multi-task approach to unify training and inference across tasks.
+
+(------------------------------------------------------------------------)
+
 
 
  
