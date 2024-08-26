@@ -2584,6 +2584,12 @@ Ans- Instead of training on labeled data, the student model learns from the teac
 
 (------------------------------------------------------------------------)
 
+432- What is the main benefit of Knowledge Distillation?
+
+Ans- It produces a smaller, faster model that retains much of the performance of a larger model.
+
+(------------------------------------------------------------------------)
+
 
 
  
