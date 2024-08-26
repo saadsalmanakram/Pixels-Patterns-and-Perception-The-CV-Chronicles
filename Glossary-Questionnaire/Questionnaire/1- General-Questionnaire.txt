@@ -2902,3 +2902,10 @@ Ans- FLAVA is an emerging model aiming to be a foundational model for multiple m
 
 (------------------------------------------------------------------------)
 
+486- What is Visual Question Answering (VQA)?
+
+Ans- VQA is a task where an AI model answers questions based on an image, often treated as a classification problem.
+
+(------------------------------------------------------------------------)
+
+
