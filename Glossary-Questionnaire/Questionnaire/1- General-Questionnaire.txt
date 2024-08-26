@@ -2314,6 +2314,12 @@ Ans- The output includes object classes and bounding box coordinates.
 
 (------------------------------------------------------------------------)
 
+387- How does DETR differ from traditional object detection models like YOLO?
+
+Ans- Unlike YOLO, DETR uses a transformer architecture to predict bounding boxes directly without relying on anchor boxes or extensive post-processing.
+
+(------------------------------------------------------------------------)
+
 
 
  
