@@ -2362,6 +2362,12 @@ Ans- It’s an evolution of DETR that introduces deformable attention and multi-
 
 (------------------------------------------------------------------------)
 
+395- How does deformable attention improve DETR?
+
+Ans- It reduces the number of sampling points and focuses on relevant regions, speeding up convergence.
+
+(------------------------------------------------------------------------)
+
 
 
  
