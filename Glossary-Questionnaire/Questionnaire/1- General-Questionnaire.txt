@@ -2818,4 +2818,10 @@ Ans- VLMs are models that combine visual and textual data to perform tasks like 
 
 (------------------------------------------------------------------------)
 
+471- How do VLMs differ from traditional ML models?
+
+Ans- VLMs integrate both visual and textual data, often using pre-training and fine-tuning strategies, unlike traditional models that might focus on a single modality.
+
+(------------------------------------------------------------------------)
+
 
