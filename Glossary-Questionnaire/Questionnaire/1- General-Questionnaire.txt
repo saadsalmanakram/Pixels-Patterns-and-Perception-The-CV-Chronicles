@@ -2650,6 +2650,12 @@ Ans- Its balance of size, speed, and performance, making it suitable for deploym
 
 (------------------------------------------------------------------------)
 
+443- How does Knowledge Distillation improve model deployment?
+
+Ans- By creating smaller models that are easier to deploy on devices with limited computational resources, like mobile phones.
+
+(------------------------------------------------------------------------)
+
 
  
 
