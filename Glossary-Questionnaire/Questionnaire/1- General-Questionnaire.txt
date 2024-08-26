@@ -2410,6 +2410,12 @@ Ans- Vision Transformers eliminate the need for hand-designed components, simpli
 
 (------------------------------------------------------------------------)
 
+403- How do ViT-based models like MaskFormer approach segmentation tasks differently than CNNs?
+
+Ans- ViT-based models provide a unified approach to semantic, instance, and panoptic segmentation, unlike CNNs which use specialized architectures.
+
+(------------------------------------------------------------------------)
+
 
 
  
