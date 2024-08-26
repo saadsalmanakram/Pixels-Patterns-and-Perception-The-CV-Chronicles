@@ -2626,6 +2626,12 @@ Ans- To soften the probability distribution from the teacher model, making it ea
 
 (------------------------------------------------------------------------)
 
+439- What inspired the concept of Knowledge Distillation?
+
+Ans- The idea is inspired by how insects undergo transformation from a larval to a more optimized adult form.
+
+(------------------------------------------------------------------------)
+
 
  
 
