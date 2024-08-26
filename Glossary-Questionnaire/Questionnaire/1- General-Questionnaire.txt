@@ -2962,4 +2962,16 @@ Ans- Visual Grounding involves linking natural language descriptions to specific
 
 (------------------------------------------------------------------------)
 
+496- Give an example of Visual Grounding.
+
+Ans- Highlighting a "red apple" in a fruit bowl when asked where it is in the image.
+
+(------------------------------------------------------------------------)
+
+497- How does Deplot contribute to multimodal tasks?
+
+Ans- Deplot translates visual plots and charts into text summaries, enabling complex data interpretation with minimal examples.
+
+(------------------------------------------------------------------------)
+
 
