@@ -2764,4 +2764,10 @@ Ans- Applications include multimodal emotion recognition, multimodal search, and
 
 (------------------------------------------------------------------------)
 
+462- How do Vision Language Models (VLMs) work?
+
+Ans- VLMs process both vision and text modalities and map them to a joint embedding space for tasks like text-to-image search.
+
+(------------------------------------------------------------------------)
+
 
