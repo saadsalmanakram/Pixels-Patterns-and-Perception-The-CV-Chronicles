@@ -5826,6 +5826,12 @@ Ans- It simulates collaborative human-robot interactions in home environments.
 
 (-----------------------------------------------------------------------)
 
+970- How does the Minos dataset aid navigation?
+
+Ans- It provides a multimodal indoor simulator for navigating complex environments.
+
+(-----------------------------------------------------------------------)
+
 
 
 
