@@ -3712,6 +3712,12 @@ Ans- GANs are deep learning models that consist of two networks, a generator and
 
 (------------------------------------------------------------------------)
 
+621- Who introduced GANs and when?
+
+Ans- GANs were introduced by Ian Goodfellow and his colleagues in 2014.
+
+(------------------------------------------------------------------------)
+
 
 
 
