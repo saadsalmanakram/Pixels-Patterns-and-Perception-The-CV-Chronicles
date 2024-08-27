@@ -3028,4 +3028,10 @@ Ans- GroupViT innovates by combining segmentation and semantic understanding wit
 
 (------------------------------------------------------------------------)
 
+507- How does BLIP differ from other multimodal models?
+
+Ans- BLIP introduces bidirectional learning between vision and language, enabling more sophisticated text generation from visual inputs.
+
+(------------------------------------------------------------------------)
+
 
