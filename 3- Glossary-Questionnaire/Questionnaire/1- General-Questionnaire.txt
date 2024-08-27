@@ -5292,3 +5292,9 @@ Ans- Cost implications, data privacy, and managing network latency.
 
 (-----------------------------------------------------------------------)
 
+881- What are the benefits of deploying machine learning models on edge devices?
+
+Ans- Low latency, real-time processing, and enhanced privacy through reduced data transmission.
+
+(-----------------------------------------------------------------------)
+
