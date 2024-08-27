@@ -5640,6 +5640,12 @@ Ans- Synthetic data can replicate the distribution of real data without revealin
 
 (-----------------------------------------------------------------------)
 
+939- What are some methods for generating synthetic data?
+
+Ans- Common methods include CAD & Blender for 3D image datasets, deep generative models like GANs, and physically-based rendering techniques.
+
+(-----------------------------------------------------------------------)
+
 
 
 
