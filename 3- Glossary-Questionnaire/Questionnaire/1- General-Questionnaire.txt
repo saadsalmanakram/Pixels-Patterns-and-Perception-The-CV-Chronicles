@@ -5838,6 +5838,13 @@ Ans- It provides a realistic 3D environment for building generalizable agents.
 
 (-----------------------------------------------------------------------)
 
+972- What is PHAV used for?
+
+Ans- It is a synthetic dataset for training human action recognition networks.
+
+(-----------------------------------------------------------------------)
+
+
 
 
 
