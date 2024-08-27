@@ -5592,6 +5592,12 @@ Ans- Google’s ASIC designed for running AI models at the edge with high perfor
 
 (-----------------------------------------------------------------------)
 
+931- What are the advantages of using EdgeTPU?
+
+Ans- High performance, low power consumption, and seamless integration with Google Cloud services.
+
+(-----------------------------------------------------------------------)
+
 
 
 
