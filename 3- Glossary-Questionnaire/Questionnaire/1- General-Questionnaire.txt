@@ -6180,4 +6180,10 @@ Ans- By generating additional samples to augment the dataset and improve model t
 
 (-----------------------------------------------------------------------)
 
+1029- What is the advantage of using diffusion models for creating datasets from scratch?
+
+Ans- It allows for generating entirely new samples when no real data is available, such as for rare objects or scenarios.
+
+(-----------------------------------------------------------------------)
+
 
