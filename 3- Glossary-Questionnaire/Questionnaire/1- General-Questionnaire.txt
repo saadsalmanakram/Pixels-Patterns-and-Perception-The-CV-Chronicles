@@ -5448,4 +5448,11 @@ Ans- Post-training quantization, quantization-aware training, and direct constru
 
 (-----------------------------------------------------------------------)
 
+907- How do you access quantization APIs in PyTorch?
+
+Ans- Install PyTorch and import `torch.quantization`
+
+(-----------------------------------------------------------------------)
+
+
 
