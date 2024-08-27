@@ -6294,5 +6294,11 @@ Ans- LiDAR is a remote sensing technology that uses light to measure distances a
 
 (-----------------------------------------------------------------------)
 
+1048- Name two Python libraries used for working with point clouds.
+
+Ans- `point-cloud-utils` and `open3d`.
+
+(-----------------------------------------------------------------------)
+
 
 
