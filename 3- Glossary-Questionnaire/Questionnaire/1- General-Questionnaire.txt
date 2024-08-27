@@ -4704,5 +4704,11 @@ Ans- By using your hands: In a left-handed system, your thumb (X), index (Y), an
 
 (-----------------------------------------------------------------------)
 
+783- Which handedness is commonly used in mathematics and physics?
+
+Ans- The right-handed coordinate system is commonly used in mathematics and physics.
+
+(-----------------------------------------------------------------------)
+
 
 
