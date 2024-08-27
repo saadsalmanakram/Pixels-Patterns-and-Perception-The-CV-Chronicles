@@ -5748,6 +5748,13 @@ Ans- It provides high-resolution stereo sequences for evaluating optical flow an
 
 (-----------------------------------------------------------------------)
 
+957- What does the Playing for Benchmarks dataset offer?
+
+Ans- It offers over 250K high-resolution video frames annotated for both high and low-level vision tasks.
+
+(-----------------------------------------------------------------------)
+
+
 
 
 
