@@ -5178,4 +5178,10 @@ Ans- NeRFs could enable realistic, real-time rendering of 3D scenes, a crucial c
 
 (-----------------------------------------------------------------------)
 
+862- What does the loss function in NeRF training typically consist of?
+
+Ans- The loss function in NeRFs usually involves a pixel-wise error term that compares the rendered and ground truth pixel colors.
+
+(-----------------------------------------------------------------------)
+
 
