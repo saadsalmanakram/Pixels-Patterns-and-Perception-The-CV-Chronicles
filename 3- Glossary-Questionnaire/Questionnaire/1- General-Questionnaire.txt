@@ -5568,6 +5568,12 @@ Ans- Habana, Intel, Nvidia, AWS, AMD, FuriosaAI, ONNX Runtime, BetterTransformer
 
 (-----------------------------------------------------------------------)
 
+927- What is the primary use of Optimum?
+
+Ans- To maximize efficiency in training and running models on specialized hardware.
+
+(-----------------------------------------------------------------------)
+
 
 
 
