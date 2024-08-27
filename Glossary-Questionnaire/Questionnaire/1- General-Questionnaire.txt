@@ -3430,4 +3430,10 @@ Ans- Few-shot learning refers to solving tasks with very few labeled examples, t
 
 (------------------------------------------------------------------------)
 
+574- When is training a model from scratch necessary?
+
+Ans- Training from scratch is necessary when pretrained weights are unavailable or the dataset differs substantially from existing models.
+
+(------------------------------------------------------------------------)
+
 
