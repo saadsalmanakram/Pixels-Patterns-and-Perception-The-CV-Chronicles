@@ -4510,6 +4510,13 @@ Ans- Temporal information is vital in tasks like action recognition, video capti
 
 (-----------------------------------------------------------------------)
 
+751- How does the presence of temporal information enhance video captioning in vision transformers?
+
+Ans- Temporal information allows the model to generate more contextually relevant captions by understanding the sequence of actions across frames.
+
+(-----------------------------------------------------------------------)
+
+
 
 
 
