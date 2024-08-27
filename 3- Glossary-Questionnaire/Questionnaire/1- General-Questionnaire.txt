@@ -5760,6 +5760,11 @@ Ans- It offers synthetic scenes with varying render settings to analyze optical 
 
 (-----------------------------------------------------------------------)
 
+959- What is the purpose of the Flying Chairs dataset?
+
+Ans- It provides 22K frame pairs with ground truth flow for training optical flow models.
+
+(-----------------------------------------------------------------------)
 
 
 
