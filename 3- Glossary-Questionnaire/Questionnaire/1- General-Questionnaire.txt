@@ -4288,6 +4288,12 @@ Ans- SAM is a prompt-based segmentation model from Meta AI that can segment obje
 
 (-----------------------------------------------------------------------)
 
+714- How does the SAM model work?
+
+Ans- SAM uses a Vision Transformer-based architecture and is trained on a vast dataset, allowing it to generate masks for objects described by text prompts.
+
+(-----------------------------------------------------------------------)
+
 
 
 
