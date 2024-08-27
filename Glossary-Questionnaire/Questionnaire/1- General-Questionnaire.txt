@@ -3688,6 +3688,12 @@ Ans- It ensures that the latent space distribution remains close to the prior di
 
 (------------------------------------------------------------------------)
 
+617- How does the probabilistic nature of VAEs benefit generative tasks?
+
+Ans- The probabilistic nature allows VAEs to generate diverse and realistic new samples by sampling from the latent distribution.
+
+(------------------------------------------------------------------------)
+
 
 
 
