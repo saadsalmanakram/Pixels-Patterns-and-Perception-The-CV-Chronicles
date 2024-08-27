@@ -6378,3 +6378,9 @@ Ans- To recognize and classify images from classes not seen during training usin
 
 (-----------------------------------------------------------------------)
 
+1062- What defines the classic zero-shot learning setup?
+
+Ans- In the classic setup, the model is tested on classes it has not been exposed to during training, with no overlap between training and test sets.
+
+(-----------------------------------------------------------------------)
+
