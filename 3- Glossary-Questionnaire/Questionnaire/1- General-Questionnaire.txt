@@ -4872,4 +4872,9 @@ Ans- Meshes provide surface connectivity, allowing for more accurate and efficie
 
 (-----------------------------------------------------------------------)
 
+811- How does sphere tracing work with implicit surfaces?
+
+Ans- Sphere tracing iteratively marches along a ray, using the SDF to find the nearest surface intersection efficiently.
+
+(-----------------------------------------------------------------------)
 
