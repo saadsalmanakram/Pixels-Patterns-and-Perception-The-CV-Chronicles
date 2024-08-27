@@ -3250,4 +3250,10 @@ Ans- BLIP is designed for tasks like image-text alignment, caption generation, a
 
 (------------------------------------------------------------------------)
 
+544- Why is dataset quality important in BLIP’s training process?
+
+Ans- BLIP demonstrates that cleaning and curating datasets leads to better model performance than relying solely on large, noisy datasets.
+
+(------------------------------------------------------------------------)
+
 
