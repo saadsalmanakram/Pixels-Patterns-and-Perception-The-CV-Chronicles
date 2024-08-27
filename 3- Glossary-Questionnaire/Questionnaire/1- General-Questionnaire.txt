@@ -5490,6 +5490,12 @@ Ans- Use `pip install onnxruntime-gpu`.
 
 (-----------------------------------------------------------------------)
 
+914- What is a key advantage of using ONNX Runtime for deployment?
+
+Ans- It allows training in Python and deploying in C#/C++/Java applications.
+
+(-----------------------------------------------------------------------)
+
 
 
 
