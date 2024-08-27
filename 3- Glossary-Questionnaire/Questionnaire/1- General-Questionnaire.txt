@@ -5598,6 +5598,12 @@ Ans- High performance, low power consumption, and seamless integration with Goog
 
 (-----------------------------------------------------------------------)
 
+932- How does EdgeTPU complement Google Cloud services?
+
+Ans- It provides an end-to-end infrastructure from cloud to edge for AI solutions.
+
+(-----------------------------------------------------------------------)
+
 
 
 
