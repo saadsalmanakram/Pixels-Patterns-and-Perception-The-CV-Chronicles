@@ -4180,6 +4180,12 @@ Ans- They regulate the use of AI-edited images and hold individuals accountable 
 
 (-----------------------------------------------------------------------)
 
+697- What is image poisoning, and how does it protect artists?
+
+Ans- Image poisoning adds imperceptible changes to images to corrupt training data, protecting against unauthorized use in AI models.
+
+(-----------------------------------------------------------------------)
+
 
 
 
