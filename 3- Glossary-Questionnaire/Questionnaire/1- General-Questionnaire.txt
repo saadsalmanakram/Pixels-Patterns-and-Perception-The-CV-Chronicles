@@ -5526,6 +5526,12 @@ Ans- It includes a runtime for executing optimized models.
 
 (-----------------------------------------------------------------------)
 
+920- What is OpenVINO?
+
+Ans- A toolkit for optimizing and deploying deep learning models on Intel hardware and other platforms.
+
+(-----------------------------------------------------------------------)
+
 
 
 
