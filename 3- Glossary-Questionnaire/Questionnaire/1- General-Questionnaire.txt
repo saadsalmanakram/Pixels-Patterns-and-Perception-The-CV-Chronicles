@@ -6318,5 +6318,11 @@ Ans- OFF format represents 3D models using polygons defined by their vertices, w
 
 (-----------------------------------------------------------------------)
 
+1052- What is unique about the 3DS format?
+
+Ans- The 3DS format is a binary file structure used by Autodesk 3D Studio, featuring data organized into chunks for efficiency.
+
+(-----------------------------------------------------------------------)
+
 
 
