@@ -6499,5 +6499,10 @@ Ans- GPT-3 demonstrated impressive zero-shot performance in natural language pro
 
 (------------------------------------------------------------------------)
 
+1082- What differentiates Zero-shot Learning from Generalized Zero-shot Learning (GZSL)?
+
+Ans- ZSL focuses on classifying only unseen classes, while GZSL evaluates the model on both seen and unseen classes, making it more challenging.
+
+(------------------------------------------------------------------------)
 
 
