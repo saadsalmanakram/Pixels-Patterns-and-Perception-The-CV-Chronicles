@@ -4974,4 +4974,10 @@ Ans- To penalize errors in reconstructing the predicted novel views.
 
 (-----------------------------------------------------------------------)
 
+828- What type of transformation does Zero123 use for viewpoint changes?
+
+Ans- Spherical polar coordinates representing the relative viewpoint transformation.
+
+(-----------------------------------------------------------------------)
+
 
