@@ -5214,5 +5214,11 @@ Ans- Model optimization involves modifying a trained model to enhance its effici
 
 (-----------------------------------------------------------------------)
 
+868- Why is model optimization important in computer vision?
+
+Ans- Optimization is crucial to ensure that models can run efficiently on devices with limited resources, meet latency requirements, reduce power consumption, and maintain hardware compatibility.
+
+(-----------------------------------------------------------------------)
+
 
 
