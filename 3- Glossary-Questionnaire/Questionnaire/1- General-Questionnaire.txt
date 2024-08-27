@@ -4752,5 +4752,11 @@ Ans- The translation matrix is a 4x4 matrix that shifts coordinates by a vector 
 
 (-----------------------------------------------------------------------)
 
+791- What is scaling in 3D transformations?
+
+Ans- Scaling is the process of uniformly increasing or decreasing the size of an object in 3D space.
+
+(-----------------------------------------------------------------------)
+
 
 
