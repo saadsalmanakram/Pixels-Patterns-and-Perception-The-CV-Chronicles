@@ -4722,5 +4722,11 @@ Ans- DirectX typically uses a left-handed coordinate system.
 
 (-----------------------------------------------------------------------)
 
+786- What is a transformation in the context of 3D data?
+
+Ans- A transformation is an operation that changes the position, orientation, or size of an object in 3D space.
+
+(-----------------------------------------------------------------------)
+
 
 
