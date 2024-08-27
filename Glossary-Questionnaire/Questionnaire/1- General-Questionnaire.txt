@@ -3682,6 +3682,12 @@ Ans- KL divergence measures how closely the learned distribution in the latent s
 
 (------------------------------------------------------------------------)
 
+616- Why is the KL divergence term important in VAEs?
+
+Ans- It ensures that the latent space distribution remains close to the prior distribution, allowing for meaningful and smooth interpolations between data points.
+
+(------------------------------------------------------------------------)
+
 
 
 
