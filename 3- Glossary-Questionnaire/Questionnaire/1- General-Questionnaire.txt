@@ -5904,6 +5904,11 @@ Ans- It provides RGB-D data for visual odometry, 3D reconstruction, and SLAM alg
 
 (-----------------------------------------------------------------------)
 
+983- What is the ADORESet dataset used for?
+
+Ans- It bridges the gap between real and simulation environments for object recognition testing.
+
+(-----------------------------------------------------------------------)
 
 
 
