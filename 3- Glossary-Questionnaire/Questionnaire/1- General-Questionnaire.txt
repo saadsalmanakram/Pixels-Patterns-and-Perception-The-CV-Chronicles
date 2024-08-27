@@ -5652,6 +5652,12 @@ Ans- Challenges include privacy risks, difficulty in capturing outliers, and the
 
 (-----------------------------------------------------------------------)
 
+941- Is synthetic data inherently private?
+
+Ans- No, synthetic data can still leak information about the original data, and careful measures are required to ensure privacy.
+
+(-----------------------------------------------------------------------)
+
 
 
 
