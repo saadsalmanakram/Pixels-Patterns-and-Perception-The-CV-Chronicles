@@ -6210,3 +6210,9 @@ Ans- Overly consistent color, size, background, and location should be avoided t
 
 (-----------------------------------------------------------------------)
 
+1034- How can biases in synthetic data affect model performance?
+
+Ans- Biases in synthetic data can lead to models that replicate or amplify these biases, resulting in inaccurate or unfair predictions.
+
+(-----------------------------------------------------------------------)
+
