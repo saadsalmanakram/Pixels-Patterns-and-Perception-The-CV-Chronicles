@@ -3622,6 +3622,12 @@ Ans- Reconstruction error measures the difference between the original input and
 
 (------------------------------------------------------------------------)
 
+606- What is the typical loss function used in autoencoders?
+
+Ans- The typical loss function is the mean squared error (MSE) between the original input and the reconstructed output.
+
+(------------------------------------------------------------------------)
+
 
 
 
