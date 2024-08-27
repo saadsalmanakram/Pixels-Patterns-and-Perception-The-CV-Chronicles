@@ -6402,3 +6402,9 @@ Ans- In 2013.
 
 (------------------------------------------------------------------------)
 
+1066- What is the significance of CLIP in the history of zero-shot learning?
+
+Ans- CLIP revolutionized zero-shot computer vision by achieving high performance and versatility in recognizing unseen classes.
+
+(------------------------------------------------------------------------)
+
