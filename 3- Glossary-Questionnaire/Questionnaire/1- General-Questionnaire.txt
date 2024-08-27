@@ -6601,4 +6601,10 @@ Ans- ImageNet's large-scale and hierarchical structure make it a critical resour
 
 (------------------------------------------------------------------------)
 
+1099- How does GZSL address real-world challenges that ZSL may not?
+
+Ans- GZSL's ability to classify both seen and unseen classes simulates more realistic and diverse scenarios than ZSL.
+
+(------------------------------------------------------------------------)
+
 
