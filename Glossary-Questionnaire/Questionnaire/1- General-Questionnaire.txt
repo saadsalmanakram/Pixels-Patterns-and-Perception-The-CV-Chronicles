@@ -3010,3 +3010,10 @@ Ans- CLIP is used in zero-shot classification, image search, and visual question
 
 (------------------------------------------------------------------------)
 
+504- What advancement did the "Deep Visual-Semantic Alignments for Generating Image Descriptions" paper by Karpathy and Fei-Fei (2015) bring?
+
+Ans- The paper introduced methods to align textual data with specific image regions, enhancing the interpretability and functionality of multimodal systems.
+
+(------------------------------------------------------------------------)
+
+
