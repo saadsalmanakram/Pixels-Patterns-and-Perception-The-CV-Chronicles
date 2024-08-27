@@ -4186,6 +4186,12 @@ Ans- Image poisoning adds imperceptible changes to images to corrupt training da
 
 (-----------------------------------------------------------------------)
 
+698- How does object detection differ from image classification?
+
+Ans- While image classification identifies objects in an image, object detection also locates them by drawing bounding boxes around the detected objects.
+
+(-----------------------------------------------------------------------)
+
 
 
 
