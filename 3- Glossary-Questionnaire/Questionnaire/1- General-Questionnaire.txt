@@ -6661,4 +6661,10 @@ Ans- Fairness metrics like demographic parity and equalized odds are commonly us
 
 (------------------------------------------------------------------------)
 
+1109- What are some strategies to mitigate bias in computer vision models?
+
+Ans- Bias can be mitigated through data augmentation, algorithmic adjustments, and fairness constraints.
+
+(------------------------------------------------------------------------)
+
 
