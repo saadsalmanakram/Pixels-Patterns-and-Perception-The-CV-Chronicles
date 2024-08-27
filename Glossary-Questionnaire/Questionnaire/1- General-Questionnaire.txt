@@ -3436,4 +3436,10 @@ Ans- Training from scratch is necessary when pretrained weights are unavailable 
 
 (------------------------------------------------------------------------)
 
+575- What is Transfer Learning in deep learning?
+
+Ans- Transfer learning uses pretrained model weights as initial weights to solve a similar but new problem.
+
+(------------------------------------------------------------------------)
+
 
