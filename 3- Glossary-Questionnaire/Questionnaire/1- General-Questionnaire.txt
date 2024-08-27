@@ -6480,4 +6480,11 @@ Ans- OOD detection identifies data that deviates from the training distribution,
 
 (------------------------------------------------------------------------)
 
+1079- What is open vocabulary learning (OVL) in relation to zero-shot learning?
+
+Ans- OVL extends ZSL by handling both seen and unseen classes and potentially infinite new classes, aiming for broader applicability and flexibility.
+
+(------------------------------------------------------------------------)
+
+
 
