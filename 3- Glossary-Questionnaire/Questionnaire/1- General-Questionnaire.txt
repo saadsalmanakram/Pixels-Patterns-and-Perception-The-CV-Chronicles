@@ -5142,4 +5142,10 @@ Ans- The original NeRF requires long training times, often taking days on powerf
 
 (-----------------------------------------------------------------------)
 
+856- What is NVIDIA’s Instant-ngp, and why is it important?
+
+Ans- Instant-ngp is an optimized NeRF variant that uses hash-table encoding to reduce the MLP size and significantly speed up training and inference.
+
+(-----------------------------------------------------------------------)
+
 
