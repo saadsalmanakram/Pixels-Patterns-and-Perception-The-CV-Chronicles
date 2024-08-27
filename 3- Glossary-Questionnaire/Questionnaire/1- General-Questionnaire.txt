@@ -6216,3 +6216,9 @@ Ans- Biases in synthetic data can lead to models that replicate or amplify these
 
 (-----------------------------------------------------------------------)
 
+1035- What is the impact of limited diversity in synthetic data?
+
+Ans- Limited diversity can cause the model to underperform in real-world scenarios where data variations are more complex than those represented in the synthetic data.
+
+(-----------------------------------------------------------------------)
+
