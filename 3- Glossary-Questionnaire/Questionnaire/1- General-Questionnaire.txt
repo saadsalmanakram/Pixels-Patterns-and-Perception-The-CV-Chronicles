@@ -6553,4 +6553,10 @@ Ans- Attributes in Transductive ZSL provide additional structural information ab
 
 (------------------------------------------------------------------------)
 
+1091- Why are standardized evaluation frameworks important in Zero-shot Learning research?
+
+Ans- They ensure consistent and comparable assessment of different ZSL methods across diverse datasets.
+
+(------------------------------------------------------------------------)
+
 
