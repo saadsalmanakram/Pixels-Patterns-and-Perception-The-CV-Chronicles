@@ -3826,6 +3826,12 @@ Ans- The mapping network disentangles the latent code, allowing for more granula
 
 (-------------------------------------------------------------------------)
 
+640- How does Adaptive Instance Normalization (AdaIN) work in StyleGAN1?
+
+Ans- AdaIN dynamically adjusts normalization parameters based on style information from the latent code, enabling varied and controlled image styles.
+
+(-------------------------------------------------------------------------)
+
 
 
 
