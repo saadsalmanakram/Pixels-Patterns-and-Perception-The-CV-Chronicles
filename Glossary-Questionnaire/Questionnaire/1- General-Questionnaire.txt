@@ -4198,6 +4198,12 @@ Ans- Classification assigns a label to the entire image, while localization find
 
 (-----------------------------------------------------------------------)
 
+700- How does object detection combine classification and localization?
+
+Ans- Object detection locates objects in an image and assigns them a class label, integrating both classification and localization tasks.
+
+(-----------------------------------------------------------------------)
+
 
 
 
