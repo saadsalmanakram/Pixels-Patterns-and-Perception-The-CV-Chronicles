@@ -3376,4 +3376,10 @@ Ans- OWL-ViT represents a significant advancement because it can detect a wider 
 
 (------------------------------------------------------------------------)
 
+565- What makes OWL-ViT more versatile than traditional object detection models?
+
+Ans- OWL-ViT’s ability to use both images and textual queries for detection enhances its versatility.
+
+(------------------------------------------------------------------------)
+
 
