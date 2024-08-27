@@ -6438,4 +6438,10 @@ Ans- Attribute vectors, textual descriptions, and class label vectors.
 
 (------------------------------------------------------------------------)
 
+1072- What are embedding-based methods in zero-shot learning?
+
+Ans- These methods project images and semantic features into a common embedding space and use similarity measures to classify unseen classes.
+
+(------------------------------------------------------------------------)
+
 
