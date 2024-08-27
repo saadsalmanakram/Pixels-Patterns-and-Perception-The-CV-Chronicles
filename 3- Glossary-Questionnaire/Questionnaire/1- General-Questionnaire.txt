@@ -6168,4 +6168,10 @@ Ans- DreamBooth fine-tunes a model using a few images of a subject and associate
 
 (-----------------------------------------------------------------------)
 
+1027- What is Custom Diffusion and how does it differ from other fine-tuning methods?
+
+Ans- Custom Diffusion fine-tunes part of the diffusion process and the text encoder, allowing it to learn multiple concepts with fewer parameters and faster training.
+
+(-----------------------------------------------------------------------)
+
 
