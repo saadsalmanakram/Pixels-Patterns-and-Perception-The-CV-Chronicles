@@ -5574,6 +5574,12 @@ Ans- To maximize efficiency in training and running models on specialized hardwa
 
 (-----------------------------------------------------------------------)
 
+928- How do you install Optimum?
+
+Ans- Use `pip install optimum`.
+
+(-----------------------------------------------------------------------)
+
 
 
 
