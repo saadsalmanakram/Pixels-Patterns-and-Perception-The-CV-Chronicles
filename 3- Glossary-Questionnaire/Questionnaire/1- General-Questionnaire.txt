@@ -5124,4 +5124,10 @@ Ans- Volumetric rendering in NeRFs is the process of combining color and density
 
 (-----------------------------------------------------------------------)
 
+853- What is the key equation used in NeRF's volumetric rendering?
+
+Ans- The key equation integrates the product of transmittance, density, and color along a camera ray to compute the expected color of a pixel.
+
+(-----------------------------------------------------------------------)
+
 
