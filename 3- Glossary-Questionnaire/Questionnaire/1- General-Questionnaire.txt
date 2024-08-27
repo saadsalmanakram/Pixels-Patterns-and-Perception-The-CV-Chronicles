@@ -6240,4 +6240,16 @@ Ans- Use metrics like Frechet Inception Distance (FID), Inception Score (IS), an
 
 (-----------------------------------------------------------------------)
 
+1039- What does a low FID score indicate about synthetic images?
+
+Ans- A low FID score suggests that the feature distributions of real and synthetic images are similar, indicating high-quality synthetic images.
+
+(-----------------------------------------------------------------------)
+
+1040- What is the purpose of the Inception Score (IS) in evaluating synthetic images?
+
+Ans- The Inception Score measures the confidence of a pre-trained model in recognizing objects within synthetic images, with higher scores indicating better quality.
+
+(-----------------------------------------------------------------------)
+
 
