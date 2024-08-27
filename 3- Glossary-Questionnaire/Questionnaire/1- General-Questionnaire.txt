@@ -6198,3 +6198,8 @@ Ans- Overfitting occurs when a model learns the training data too well, includin
 
 (-----------------------------------------------------------------------)
 
+1032- How can synthetic data lead to overfitting?
+
+Ans- Synthetic data might introduce overly consistent patterns or limited variations, causing a model to overfit these patterns and perform poorly on real-world data.
+
+(-----------------------------------------------------------------------)
