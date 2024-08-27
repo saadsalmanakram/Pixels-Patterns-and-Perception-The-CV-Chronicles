@@ -4956,4 +4956,10 @@ Ans- The Stable Diffusion architecture.
 
 (-----------------------------------------------------------------------)
 
+825- What unique feature does Zero123 add to the Stable Diffusion model?
+
+Ans- It concatenates CLIP image embeddings with the relative viewpoint transformation to condition the diffusion model.
+
+(-----------------------------------------------------------------------)
+
 
