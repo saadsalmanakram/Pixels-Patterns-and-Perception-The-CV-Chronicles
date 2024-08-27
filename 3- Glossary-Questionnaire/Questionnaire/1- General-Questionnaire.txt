@@ -5406,3 +5406,9 @@ Ans- Continuously assessing model performance and preparing for rapid rollback i
 
 (-----------------------------------------------------------------------)
 
+900- What is TensorFlow Model Optimization Toolkit (TMO)?
+
+Ans- A suite of tools for optimizing machine learning models for deployment.
+
+(-----------------------------------------------------------------------)
+
