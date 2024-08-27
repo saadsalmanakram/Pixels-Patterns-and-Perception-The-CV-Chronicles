@@ -3982,6 +3982,12 @@ Ans- NCSNs estimate the score function of perturbed data distributions at differ
 
 (------------------------------------------------------------------------)
 
+664- How do Stochastic Differential Equations (SDEs) relate to diffusion models?
+
+Ans- SDEs model diffusion through forward and reverse processes, generalizing DDPMs and NCSNs and leading to efficient generation strategies.
+
+(------------------------------------------------------------------------)
+
 
 
 
