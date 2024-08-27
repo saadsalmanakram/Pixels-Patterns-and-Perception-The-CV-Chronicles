@@ -4716,5 +4716,11 @@ Ans- OpenGL typically uses a right-handed coordinate system.
 
 (-----------------------------------------------------------------------)
 
+785- Which handedness does DirectX typically use?
+
+Ans- DirectX typically uses a left-handed coordinate system.
+
+(-----------------------------------------------------------------------)
+
 
 
