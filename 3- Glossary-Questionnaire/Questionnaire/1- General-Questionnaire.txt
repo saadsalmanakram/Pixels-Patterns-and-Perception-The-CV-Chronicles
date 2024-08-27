@@ -5940,6 +5940,12 @@ Ans- It is a plugin for generating synthetic data in Unreal Engine 4.
 
 (-----------------------------------------------------------------------)
 
+989- How does SceneNet RGB-D support indoor segmentation?
+
+Ans- It offers a large set of RGB-D images for evaluating segmentation performance.
+
+(-----------------------------------------------------------------------)
+
 
 
 
