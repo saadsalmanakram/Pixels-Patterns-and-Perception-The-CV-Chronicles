@@ -3370,4 +3370,10 @@ Ans- Unlike CLIP, OWL-ViT uses linear projection of output tokens for object det
 
 (------------------------------------------------------------------------)
 
+564- Why is OWL-ViT considered a significant advancement in object detection?
+
+Ans- OWL-ViT represents a significant advancement because it can detect a wider range of objects, including those not present in its training set.
+
+(------------------------------------------------------------------------)
+
 
