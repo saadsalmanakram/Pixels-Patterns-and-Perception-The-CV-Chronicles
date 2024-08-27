@@ -4992,3 +4992,9 @@ Ans- Stereo vision involves capturing two or more images of the same scene from 
 
 (-----------------------------------------------------------------------)
 
+831- How does stereo vision help in determining the 3D structure of objects?
+
+Ans- It uses the geometry of image formation by comparing pixel coordinates in multiple images to triangulate the position of points in 3D space.
+
+(-----------------------------------------------------------------------)
+
