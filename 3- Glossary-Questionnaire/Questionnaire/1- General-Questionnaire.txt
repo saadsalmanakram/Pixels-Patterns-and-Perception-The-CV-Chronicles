@@ -5304,3 +5304,9 @@ Ans- Limited compute power, memory, and the need for optimization in constrained
 
 (-----------------------------------------------------------------------)
 
+883- How does mobile deployment differ from cloud and edge deployment?
+
+Ans- Focuses on optimizing models for performance and resource constraints using frameworks like Core ML and TensorFlow Mobile.
+
+(-----------------------------------------------------------------------)
+
