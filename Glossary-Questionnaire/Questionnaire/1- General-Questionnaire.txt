@@ -3550,5 +3550,11 @@ Ans- FID is calculated by comparing the distributions of features from generated
 
 (------------------------------------------------------------------------)
 
+594- What are some other metrics used to evaluate generative models?
+
+Ans- Other metrics include SSIM, PSNR, Inception Score (IS), and CLIP Score.
+
+(------------------------------------------------------------------------)
+
 
 
