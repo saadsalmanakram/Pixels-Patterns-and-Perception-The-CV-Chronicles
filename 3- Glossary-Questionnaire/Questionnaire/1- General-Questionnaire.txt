@@ -6108,4 +6108,10 @@ Ans- Synthetic images can augment limited datasets, providing more diverse sampl
 
 (-----------------------------------------------------------------------)
 
+1017- What is a diffusion model in generative AI?
+
+Ans- A diffusion model learns to denoise Gaussian noise step-by-step to generate high-quality images.
+
+(-----------------------------------------------------------------------)
+
 
