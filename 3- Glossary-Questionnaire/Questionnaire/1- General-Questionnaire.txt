@@ -5778,6 +5778,12 @@ Ans- It features 1,800 stereo pairs with ground truth disparity, occlusion, and 
 
 (-----------------------------------------------------------------------)
 
+962- What does Virtual KITTI 2 simulate?
+
+Ans- It provides synthetic data for multi-object tracking analysis in virtual environments.
+
+(-----------------------------------------------------------------------)
+
 
 
 
