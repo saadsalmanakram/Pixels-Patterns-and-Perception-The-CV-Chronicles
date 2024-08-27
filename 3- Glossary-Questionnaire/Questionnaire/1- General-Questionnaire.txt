@@ -5502,6 +5502,12 @@ Ans- NVIDIA’s SDK for optimizing deep learning models for high-performance inf
 
 (-----------------------------------------------------------------------)
 
+916- How does TensorRT optimize deep learning models?
+
+Ans- By reducing latency and increasing throughput during inference.
+
+(-----------------------------------------------------------------------)
+
 
 
 
