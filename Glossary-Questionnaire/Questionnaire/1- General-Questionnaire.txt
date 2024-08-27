@@ -4042,6 +4042,12 @@ Ans- Using CLIP’s text encoder to convert text into a vector that guides the i
 
 (-----------------------------------------------------------------------)
 
+674- What strategy does Stable Diffusion use to include inductive biases?
+
+Ans- By integrating cross-attention layers in the U-Net to process text conditioning during image generation.
+
+(-----------------------------------------------------------------------)
+
 
 
 
