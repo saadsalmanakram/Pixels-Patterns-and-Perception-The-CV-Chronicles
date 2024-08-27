@@ -5064,4 +5064,10 @@ Ans- The v-coordinates remain the same because the cameras are aligned in the sa
 
 (-----------------------------------------------------------------------)
 
+843- How does moving the camera affect the determination of the 3D coordinates of a point?
+
+Ans- Moving the camera provides a new line of sight, which, combined with the original, pinpoints the 3D location through intersection.
+
+(-----------------------------------------------------------------------)
+
 
