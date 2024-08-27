@@ -5370,3 +5370,9 @@ Ans- By providing a scalable and reliable container orchestration platform for d
 
 (-----------------------------------------------------------------------)
 
+894- What is MLOps and why is it important in model deployment?
+
+Ans- An emerging practice that applies DevOps principles to machine learning, ensuring efficient and reliable deployment.
+
+(-----------------------------------------------------------------------)
+
