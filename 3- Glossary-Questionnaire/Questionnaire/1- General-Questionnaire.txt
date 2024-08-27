@@ -4492,6 +4492,12 @@ Ans- Tubelet Embedding extracts spatiotemporal tubes from video, fusing spatial 
 
 (-----------------------------------------------------------------------)
 
+748- Why is Tubelet Embedding considered more effective for video processing than Uniform Frame Sampling?
+
+Ans- Tubelet Embedding effectively combines spatiotemporal information during tokenization, making it more suitable for video data.
+
+(-----------------------------------------------------------------------)
+
 
 
 
