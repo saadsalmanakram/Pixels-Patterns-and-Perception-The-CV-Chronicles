@@ -4504,6 +4504,12 @@ Ans- Video data requires handling higher memory and storage needs due to the inc
 
 (-----------------------------------------------------------------------)
 
+750- In what types of computer vision tasks is temporal information particularly important?
+
+Ans- Temporal information is vital in tasks like action recognition, video captioning, video object detection, and tracking.
+
+(-----------------------------------------------------------------------)
+
 
 
 
