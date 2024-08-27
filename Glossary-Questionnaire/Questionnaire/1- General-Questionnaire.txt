@@ -4102,6 +4102,12 @@ Ans- LoRA allows efficient fine-tuning of large models by factorizing the weight
 
 (-----------------------------------------------------------------------)
 
+684- Why is Dreambooth useful for generating specific images?
+
+Ans- Dreambooth enables models to learn specific subjects or styles, allowing for the generation of new images that closely resemble the training examples.
+
+(-----------------------------------------------------------------------)
+
 
 
 
