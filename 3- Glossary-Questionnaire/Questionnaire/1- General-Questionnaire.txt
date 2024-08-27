@@ -6511,4 +6511,10 @@ Ans- Inductive ZSL trains only on seen classes, while Transductive ZSL uses addi
 
 (------------------------------------------------------------------------)
 
+1084- What are semantic embeddings in the context of ZSL?
+
+Ans- Semantic embeddings are vector representations of semantic information used to map and classify unseen classes in ZSL.
+
+(------------------------------------------------------------------------)
+
 
