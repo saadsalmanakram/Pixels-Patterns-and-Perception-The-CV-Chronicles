@@ -5712,6 +5712,12 @@ Ans- Synthetic data is vulnerable to privacy attacks if it unintentionally revea
 
 (-----------------------------------------------------------------------)
 
+951- What are the benefits of using synthetic data in autonomous driving applications?
+
+Ans- Synthetic data helps in recognizing rare events like emergency vehicles, which might be underrepresented in real-world datasets.
+
+(-----------------------------------------------------------------------)
+
 
 
 
