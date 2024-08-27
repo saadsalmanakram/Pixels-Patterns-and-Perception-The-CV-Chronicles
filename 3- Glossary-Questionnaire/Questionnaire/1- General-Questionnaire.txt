@@ -5802,6 +5802,12 @@ Ans- It is an open-source urban driving simulator that provides comprehensive da
 
 (-----------------------------------------------------------------------)
 
+966- What are SYNTHIA images used for?
+
+Ans- They are utilized for semantic segmentation of urban scenes with precise pixel-level annotations.
+
+(-----------------------------------------------------------------------)
+
 
 
 
