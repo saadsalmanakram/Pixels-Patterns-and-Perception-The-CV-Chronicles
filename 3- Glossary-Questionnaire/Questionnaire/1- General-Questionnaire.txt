@@ -5106,4 +5106,16 @@ Ans- NeRFs were first introduced by Mildenhall et al. in 2020.
 
 (-----------------------------------------------------------------------)
 
+850- What are the advantages of using NeRFs over voxel grids?
+
+Ans- NeRFs have a smaller memory footprint and can store large scenes efficiently by only storing the neural network weights.
+
+(-----------------------------------------------------------------------)
+
+851- What is the core idea behind NeRF's approach?
+
+Ans- NeRF approximates a continuous function that maps 3D positions and 2D viewing directions to colors and densities using an MLP.
+
+(-----------------------------------------------------------------------)
+
 
