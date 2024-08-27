@@ -4516,6 +4516,12 @@ Ans- Temporal information allows the model to generate more contextually relevan
 
 (-----------------------------------------------------------------------)
 
+752- What factors influence the choice between image and video processing in computer vision tasks?
+
+Ans- The choice depends on the specific task requirements and the nature of the data, such as whether temporal information is crucial.
+
+(-----------------------------------------------------------------------)
+
 
 
 
