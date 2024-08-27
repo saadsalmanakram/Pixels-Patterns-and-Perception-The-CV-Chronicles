@@ -5874,6 +5874,12 @@ Ans- It helps in classifying and identifying AI-generated synthetic images.
 
 (-----------------------------------------------------------------------)
 
+978- How does ABO contribute to 3D object understanding?
+
+Ans- It provides renderings of 3D objects for material prediction and multi-view retrieval experiments.
+
+(-----------------------------------------------------------------------)
+
 
 
 
