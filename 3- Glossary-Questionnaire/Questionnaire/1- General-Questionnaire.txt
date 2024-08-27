@@ -4686,5 +4686,11 @@ Ans- A point in 3D space is represented by three Cartesian coordinates [X,Y,Z].
 
 (-----------------------------------------------------------------------)
 
+780- What is a coordinate system in 3D data?
+
+Ans- A coordinate system is a system that uses numerical values to represent the position of points in 3D space.
+
+(-----------------------------------------------------------------------)
+
 
 
