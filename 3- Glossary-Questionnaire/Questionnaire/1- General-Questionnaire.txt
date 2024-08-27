@@ -5784,6 +5784,12 @@ Ans- It provides synthetic data for multi-object tracking analysis in virtual en
 
 (-----------------------------------------------------------------------)
 
+963- How does ApolloScape improve upon real-world datasets?
+
+Ans- It offers extensive and detailed labeling for various driving scenarios, including semantic and instance segmentation.
+
+(-----------------------------------------------------------------------)
+
 
 
 
