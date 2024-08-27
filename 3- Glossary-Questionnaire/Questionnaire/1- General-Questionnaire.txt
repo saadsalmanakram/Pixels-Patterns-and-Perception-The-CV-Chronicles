@@ -5658,6 +5658,12 @@ Ans- No, synthetic data can still leak information about the original data, and 
 
 (-----------------------------------------------------------------------)
 
+942- How can bias in real data be addressed with synthetic data?
+
+Ans- A data generator model can be trained to produce de-biased synthetic data, thereby reducing the bias in the final dataset.
+
+(-----------------------------------------------------------------------)
+
 
 
 
