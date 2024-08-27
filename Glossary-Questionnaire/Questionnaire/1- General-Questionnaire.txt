@@ -3520,5 +3520,11 @@ Ans- A GAN-based model, like DCGAN, uses adversarial training to generate realis
 
 (------------------------------------------------------------------------)
 
+589- What is a diffusion model?
+
+Ans- A diffusion model generates images by gradually transforming noise into a coherent image, often used in text-to-image tasks.
+
+(------------------------------------------------------------------------)
+
 
 
