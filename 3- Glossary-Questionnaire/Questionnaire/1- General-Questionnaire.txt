@@ -4342,6 +4342,12 @@ Ans- Segmentation in agriculture helps in identifying different land sections an
 
 (-----------------------------------------------------------------------)
 
+723- How does Mask2former relate to segmentation?
+
+Ans- Mask2former is a model by Meta that achieves semantic, instance, and panoptic segmentation with a single model and a panoptic dataset.
+
+(-----------------------------------------------------------------------)
+
 
 
 
