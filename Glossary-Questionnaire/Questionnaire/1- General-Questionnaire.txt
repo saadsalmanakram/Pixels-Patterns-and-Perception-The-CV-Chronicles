@@ -3022,4 +3022,10 @@ Ans- It demonstrated how CNNs and RNNs could be combined to generate descriptive
 
 (------------------------------------------------------------------------)
 
+506- What unique feature does GroupViT bring to multimodal AI?
+
+Ans- GroupViT innovates by combining segmentation and semantic understanding with language, improving language and vision integration.
+
+(------------------------------------------------------------------------)
+
 
