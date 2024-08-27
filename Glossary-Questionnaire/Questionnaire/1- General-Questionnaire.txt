@@ -3040,4 +3040,10 @@ Ans- OWL-ViT focuses on object-centric representations, advancing the contextual
 
 (------------------------------------------------------------------------)
 
+509- What is contrastive learning?
+
+Ans- Contrastive Learning is an unsupervised learning method that aims to learn representations by bringing similar data points closer and pushing dissimilar ones apart in the representation space.
+
+(------------------------------------------------------------------------)
+
 
