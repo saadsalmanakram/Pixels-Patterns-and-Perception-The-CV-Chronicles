@@ -4698,5 +4698,11 @@ Ans- Axis handedness refers to the orientation of the X, Y, and Z axes, determin
 
 (-----------------------------------------------------------------------)
 
+782- How can you distinguish between left-handed and right-handed coordinate systems?
+
+Ans- By using your hands: In a left-handed system, your thumb (X), index (Y), and middle (Z) fingers form the axes, and similarly for the right-handed system but with the right hand.
+
+(-----------------------------------------------------------------------)
+
 
 
