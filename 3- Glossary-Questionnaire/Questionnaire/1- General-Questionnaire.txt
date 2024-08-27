@@ -6078,4 +6078,10 @@ Ans- It refers to the involvement of expert radiologists to validate and select 
 
 (-----------------------------------------------------------------------)
 
+1012- What role does the 'CenterCrop' transformation play in preprocessing?
+
+Ans- CenterCrop ensures that the image is centered and cropped to the desired size, focusing on the central region of the image.
+
+(-----------------------------------------------------------------------)
+
 
