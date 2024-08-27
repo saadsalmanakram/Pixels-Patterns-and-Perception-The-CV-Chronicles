@@ -4776,5 +4776,11 @@ Ans- The rotation matrix around the X-axis is a 4x4 matrix involving cosine and 
 
 (-----------------------------------------------------------------------)
 
+795- How do you represent a rotation around the Y-axis in matrix form?
+
+Ans- The rotation matrix around the Y-axis uses cosine and sine values placed appropriately to rotate the object.
+
+(-----------------------------------------------------------------------)
+
 
 
