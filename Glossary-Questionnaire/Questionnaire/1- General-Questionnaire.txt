@@ -3790,6 +3790,12 @@ Ans- The generator and discriminator are trained simultaneously, with the genera
 
 (------------------------------------------------------------------------)
 
+634- What is the objective function in GAN training?
+
+Ans- The objective function is a min-max game where the generator tries to minimize the probability of the discriminator correctly identifying fake data, while the discriminator tries to maximize this probability.
+
+(------------------------------------------------------------------------)
+
 
 
 
