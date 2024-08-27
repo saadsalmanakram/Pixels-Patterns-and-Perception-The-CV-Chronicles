@@ -3046,4 +3046,10 @@ Ans- Contrastive Learning is an unsupervised learning method that aims to learn 
 
 (------------------------------------------------------------------------)
 
+510- Why is contrastive learning considered unsupervised?
+
+Ans- It is unsupervised because it does not require labeled data but instead relies on the inherent similarities and differences between data points.
+
+(------------------------------------------------------------------------)
+
 
