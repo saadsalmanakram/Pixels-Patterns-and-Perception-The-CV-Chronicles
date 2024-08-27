@@ -6450,4 +6450,10 @@ Ans- Generative methods create synthetic data for unseen classes using generativ
 
 (------------------------------------------------------------------------)
 
+1074- Which zero-shot learning method is often preferred for its efficiency?
+
+Ans- Embedding-based methods.
+
+(------------------------------------------------------------------------)
+
 
