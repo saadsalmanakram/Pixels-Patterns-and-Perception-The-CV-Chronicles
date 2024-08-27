@@ -4770,5 +4770,11 @@ Ans- A rotation changes the orientation of an object around a specified axis in 
 
 (-----------------------------------------------------------------------)
 
+794- What is the rotation matrix for rotating around the X-axis?
+
+Ans- The rotation matrix around the X-axis is a 4x4 matrix involving cosine and sine of the rotation angle.
+
+(-----------------------------------------------------------------------)
+
 
 
