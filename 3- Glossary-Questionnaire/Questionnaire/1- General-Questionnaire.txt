@@ -6036,6 +6036,12 @@ Ans- It supports parallel processing and scripting, making it efficient for gene
 
 (-----------------------------------------------------------------------)
 
+1005- Can BlenderProc be used with Google Colab?
+
+Ans- Yes, BlenderProc can be used in Google Colab with provided notebooks for running basic examples and exploring functionalities.
+
+(-----------------------------------------------------------------------)
+
 
 
 
