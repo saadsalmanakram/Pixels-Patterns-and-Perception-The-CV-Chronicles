@@ -3052,4 +3052,10 @@ Ans- It is unsupervised because it does not require labeled data but instead rel
 
 (------------------------------------------------------------------------)
 
+511- What is the primary objective of contrastive learning?
+
+Ans- The objective is to develop a representation space where similar items are close together and dissimilar items are far apart.
+
+(------------------------------------------------------------------------)
+
 
