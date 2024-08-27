@@ -4650,3 +4650,9 @@ Ans- To map 3D coordinates to 2D image coordinates.
 
 (-----------------------------------------------------------------------)
 
+774- How do you compute the 2D image coordinates from a 3D point?
+
+Ans- Multiply the 3D point by the camera matrix and then divide by the last component.
+
+(-----------------------------------------------------------------------)
+
