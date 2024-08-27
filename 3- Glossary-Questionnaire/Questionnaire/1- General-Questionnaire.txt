@@ -5622,6 +5622,12 @@ Ans- Synthetic data is artificially generated data that mimics the statistical p
 
 (-----------------------------------------------------------------------)
 
+936- Why would you use synthetic data instead of real data?
+
+Ans- Synthetic data can solve issues such as data privacy concerns, bias in datasets, and the high cost or difficulty of acquiring real data.
+
+(-----------------------------------------------------------------------)
+
 
 
 
