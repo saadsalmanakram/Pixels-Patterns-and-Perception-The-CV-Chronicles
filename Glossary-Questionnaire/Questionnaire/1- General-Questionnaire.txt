@@ -3328,5 +3328,11 @@ Ans- OWL-ViT can identify objects outside its training set by leveraging a share
 
 (------------------------------------------------------------------------)
 
+557- Describe the two main stages in the development of OWL-ViT.
+
+Ans- OWL-ViT is developed in two stages: pre-training with a vision and language encoder using contrastive loss, and fine-tuning for object detection using per-object image embeddings.
+
+(------------------------------------------------------------------------)
+
 
 
