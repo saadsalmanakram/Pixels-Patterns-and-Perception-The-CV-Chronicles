@@ -5856,6 +5856,12 @@ Ans- It contains diverse synthetic face images with ground truth labels for face
 
 (-----------------------------------------------------------------------)
 
+975- What makes FFHQ significant in face recognition?
+
+Ans- It provides high-quality images with variations in age, ethnicity, and background for training face recognition models.
+
+(-----------------------------------------------------------------------)
+
 
 
 
