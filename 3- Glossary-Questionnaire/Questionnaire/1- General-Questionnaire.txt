@@ -5736,6 +5736,12 @@ Ans- Black-box models, due to their complexity, make it challenging to assess th
 
 (-----------------------------------------------------------------------)
 
+955- What is a Black-Box Model?
+
+Ans- A black-box model is a type of model or system where the internal workings (or the logic behind decisions) are not visible or understandable to the user. The model takes inputs and produces outputs, but how it processes the inputs to produce the outputs is opaque or hidden.
+
+(-----------------------------------------------------------------------)
+
 
 
 
