@@ -4030,6 +4030,18 @@ Ans- Forward and reverse diffusion processes where noise is added and then remov
 
 (------------------------------------------------------------------------)
 
+672- Q: How does Stable Diffusion manage large images?
+
+Ans- By using a Variational Auto-Encoder (VAE) to compress images into smaller, manageable sizes.
+
+(------------------------------------------------------------------------)
+
+673- How are text prompts fused with images in Stable Diffusion?
+
+Ans- Using CLIP’s text encoder to convert text into a vector that guides the image generation process.
+
+(-----------------------------------------------------------------------)
+
 
 
 
