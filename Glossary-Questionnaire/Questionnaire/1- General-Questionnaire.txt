@@ -3994,6 +3994,12 @@ Ans- Diffusion models are used for tasks like image generation, super-resolution
 
 (------------------------------------------------------------------------)
 
+666- What are the key advantages of diffusion models over GANs?
+
+Ans- Diffusion models provide stable training and greater diversity in outputs compared to GANs, which often struggle with mode collapse.
+
+(------------------------------------------------------------------------)
+
 
 
 
