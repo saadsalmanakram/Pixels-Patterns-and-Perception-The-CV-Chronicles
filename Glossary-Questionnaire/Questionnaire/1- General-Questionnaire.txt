@@ -3160,3 +3160,9 @@ Ans- CLIP’s effectiveness and biases vary based on category choices, showing d
 
 (------------------------------------------------------------------------)
 
+529- What does the code example for CLIP demonstrate?
+
+Ans- The provided code example demonstrates how CLIP can perform zero-shot classification of an image between categories like "cat" and "dog."
+
+(------------------------------------------------------------------------)
+
