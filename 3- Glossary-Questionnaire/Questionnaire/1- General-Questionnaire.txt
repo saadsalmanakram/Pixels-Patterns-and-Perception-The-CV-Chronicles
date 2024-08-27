@@ -5154,4 +5154,10 @@ Ans- Mipnerf-360 introduces a scene contraction technique, allowing representati
 
 (-----------------------------------------------------------------------)
 
+858- What is the role of the proposal network in NeRF variants like Mipnerf-360?
+
+Ans- The proposal network helps in concentrating sample points in regions that contribute most to the final image, optimizing computation.
+
+(-----------------------------------------------------------------------)
+
 
