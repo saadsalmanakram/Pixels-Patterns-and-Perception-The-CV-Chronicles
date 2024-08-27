@@ -6102,4 +6102,10 @@ Ans- Normalization ensures that the pixel values are within a range suitable for
 
 (-----------------------------------------------------------------------)
 
+1016- How can synthetic medical images improve CNN performance?
+
+Ans- Synthetic images can augment limited datasets, providing more diverse samples to train CNNs and potentially enhancing their performance.
+
+(-----------------------------------------------------------------------)
+
 
