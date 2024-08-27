@@ -4066,6 +4066,12 @@ Ans- An image, a mask indicating the area to be inpainted, and a text prompt, al
 
 (-----------------------------------------------------------------------)
 
+678- What is Dreambooth?
+
+Ans- Dreambooth is a training technique developed by Google Research that fine-tunes diffusion models using just a few example images, allowing personalized image generation.
+
+(-----------------------------------------------------------------------)
+
 
 
 
