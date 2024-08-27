@@ -3796,6 +3796,12 @@ Ans- The objective function is a min-max game where the generator tries to minim
 
 (------------------------------------------------------------------------)
 
+635- How does the adversarial loop in GANs work?
+
+Ans- The generator improves in producing realistic samples, while the discriminator becomes better at detecting fakes. This loop continues until the generated data is nearly indistinguishable from real data.
+
+(------------------------------------------------------------------------)
+
 
 
 
