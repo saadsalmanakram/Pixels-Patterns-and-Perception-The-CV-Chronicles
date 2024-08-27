@@ -5928,6 +5928,12 @@ Ans- It contains manually verified models for large-scale 3D shape reconstructio
 
 (-----------------------------------------------------------------------)
 
+987- What does VANDAL focus on?
+
+Ans- It provides depth images for understanding depth representations from synthetic data.
+
+(-----------------------------------------------------------------------)
+
 
 
 
