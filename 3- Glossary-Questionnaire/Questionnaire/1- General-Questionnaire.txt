@@ -5628,6 +5628,12 @@ Ans- Synthetic data can solve issues such as data privacy concerns, bias in data
 
 (-----------------------------------------------------------------------)
 
+937- Can synthetic data replace real data entirely?
+
+Ans- Synthetic data can supplement or replace real data in some cases, but it may not always capture complex patterns or outliers present in real data.
+
+(-----------------------------------------------------------------------)
+
 
 
 
