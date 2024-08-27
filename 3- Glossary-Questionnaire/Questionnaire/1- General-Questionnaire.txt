@@ -5472,5 +5472,11 @@ Ans- A cross-platform machine learning model accelerator that supports multiple 
 
 (-----------------------------------------------------------------------)
 
+911- How does ONNX Runtime benefit model inference?
+
+Ans- It improves performance and allows deployment across various hardware and OS.
+
+(-----------------------------------------------------------------------)
+
 
 
