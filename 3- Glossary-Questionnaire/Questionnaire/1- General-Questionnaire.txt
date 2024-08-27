@@ -6096,4 +6096,10 @@ Ans- The Generator produces images of size 128x128x3.
 
 (-----------------------------------------------------------------------)
 
+1015- Why is normalization important in preprocessing for GANs?
+
+Ans- Normalization ensures that the pixel values are within a range suitable for model training, improving stability and performance.
+
+(-----------------------------------------------------------------------)
+
 
