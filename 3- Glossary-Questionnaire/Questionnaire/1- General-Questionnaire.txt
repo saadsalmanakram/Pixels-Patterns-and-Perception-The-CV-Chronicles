@@ -4480,6 +4480,12 @@ Ans- The two main approaches are Uniform Frame Sampling and Tubelet Embedding.
 
 (-----------------------------------------------------------------------)
 
+746- How does Uniform Frame Sampling work in video processing?
+
+Ans- Uniform Frame Sampling involves sampling frames from a video clip, embedding each 2D frame independently, and concatenating the tokens.
+
+(-----------------------------------------------------------------------)
+
 
 
 
