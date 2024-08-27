@@ -5286,3 +5286,9 @@ Ans- Scalability, managed services, and seamless integration with other cloud se
 
 (-----------------------------------------------------------------------)
 
+880- What are the primary considerations when deploying models on cloud platforms?
+
+Ans- Cost implications, data privacy, and managing network latency.
+
+(-----------------------------------------------------------------------)
+
