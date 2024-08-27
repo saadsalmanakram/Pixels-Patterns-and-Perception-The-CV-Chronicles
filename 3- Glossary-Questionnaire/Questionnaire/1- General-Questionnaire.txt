@@ -5478,5 +5478,18 @@ Ans- It improves performance and allows deployment across various hardware and O
 
 (-----------------------------------------------------------------------)
 
+912- Can ONNX Runtime be used with different machine learning frameworks?
+
+Ans- Yes, it supports models from PyTorch, TensorFlow, TFLite, scikit-learn, and more.
+
+(-----------------------------------------------------------------------)
+
+913- How do you install ONNX Runtime with GPU support?
+
+Ans- Use `pip install onnxruntime-gpu`.
+
+(-----------------------------------------------------------------------)
+
+
 
 
