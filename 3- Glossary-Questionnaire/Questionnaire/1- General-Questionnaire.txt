@@ -5010,4 +5010,10 @@ Ans- Two images provide two different lines of sight, whose intersection determi
 
 (-----------------------------------------------------------------------)
 
+834- What is the baseline in a stereo camera setup?
+
+Ans- The baseline is the distance between the two cameras in a stereo setup, usually measured in the horizontal direction.
+
+(-----------------------------------------------------------------------)
+
 
