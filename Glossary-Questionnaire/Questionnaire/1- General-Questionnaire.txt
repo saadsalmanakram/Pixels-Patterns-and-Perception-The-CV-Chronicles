@@ -3274,4 +3274,10 @@ Ans- Cross-attention layers in the Image-Grounded Text Encoder integrate and ali
 
 (------------------------------------------------------------------------)
 
+548- How does BLIP handle noisy data from the internet?
+
+Ans- BLIP uses CapFilt to filter out noisy image-alt-text pairs and generate more accurate captions, improving dataset quality.
+
+(------------------------------------------------------------------------)
+
 
