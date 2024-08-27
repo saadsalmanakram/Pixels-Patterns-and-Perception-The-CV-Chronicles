@@ -4420,6 +4420,11 @@ Ans- Codecs are essential for reducing file size for storage and transmission wh
 
 (-----------------------------------------------------------------------)
 
+736- What is the relationship between frame rate and perceived motion in a video?
+
+Ans- The frame rate directly affects the smoothness of motion; higher frame rates provide smoother motion.
+
+(-----------------------------------------------------------------------)
 
 
 
