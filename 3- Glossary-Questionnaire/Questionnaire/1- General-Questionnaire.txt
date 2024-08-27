@@ -6060,3 +6060,9 @@ Ans- The Generator takes a 100-dimensional vector as input and uses several Conv
 
 (-----------------------------------------------------------------------)
 
+1009- What is 'mode collapse' in GANs?
+
+Ans- Mode collapse occurs when the Generator produces limited varieties of outputs, making the generated images less diverse.
+
+(-----------------------------------------------------------------------)
+
