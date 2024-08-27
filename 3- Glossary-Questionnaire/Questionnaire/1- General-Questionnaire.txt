@@ -5298,3 +5298,9 @@ Ans- Low latency, real-time processing, and enhanced privacy through reduced dat
 
 (-----------------------------------------------------------------------)
 
+882- What challenges are associated with deploying models on edge devices?
+
+Ans- Limited compute power, memory, and the need for optimization in constrained environments.
+
+(-----------------------------------------------------------------------)
+
