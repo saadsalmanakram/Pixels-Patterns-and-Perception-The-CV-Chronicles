@@ -4950,4 +4950,10 @@ Ans- Zero123 directly generates new views without creating an intermediate 3D re
 
 (-----------------------------------------------------------------------)
 
+824- On what architecture is Zero123 built?
+
+Ans- The Stable Diffusion architecture.
+
+(-----------------------------------------------------------------------)
+
 
