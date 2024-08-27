@@ -4078,6 +4078,12 @@ Ans- Dreambooth associates a special word in the prompt with example images to u
 
 (-----------------------------------------------------------------------)
 
+680- What is the primary advantage of using Dreambooth?
+
+Ans- The primary advantage is the ability to personalize models with very few images and minimal computation.
+
+(-----------------------------------------------------------------------)
+
 
 
 
