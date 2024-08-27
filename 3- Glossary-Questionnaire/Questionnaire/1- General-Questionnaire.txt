@@ -4456,6 +4456,12 @@ Ans- Positional encodings help the model capture the spatial relationships betwe
 
 (-----------------------------------------------------------------------)
 
+742- What is the difference between CNNs and vision transformers in terms of feature learning?
+
+Ans- CNNs focus on learning spatial features, while vision transformers learn both spatial and contextual features.
+
+(-----------------------------------------------------------------------)
+
 
 
 
