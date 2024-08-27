@@ -3364,4 +3364,10 @@ Ans- Contrastive loss helps OWL-ViT learn a shared representation space for both
 
 (------------------------------------------------------------------------)
 
+563- How does the fine-tuning process in OWL-ViT differ from CLIP?
+
+Ans- Unlike CLIP, OWL-ViT uses linear projection of output tokens for object detection, allowing for spatial localization.
+
+(------------------------------------------------------------------------)
+
 
