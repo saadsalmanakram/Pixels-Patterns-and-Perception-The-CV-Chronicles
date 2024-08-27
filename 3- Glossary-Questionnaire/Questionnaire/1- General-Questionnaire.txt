@@ -5988,6 +5988,12 @@ Ans- Light layers in PBR simulate how light passes through and interacts with di
 
 (-----------------------------------------------------------------------)
 
+997- How does PBR simplify the rendering workflow?
+
+Ans- PBR uses standardized materials and lighting models, reducing the need for manual adjustments and making the rendering process more intuitive.
+
+(-----------------------------------------------------------------------)
+
 
 
 
