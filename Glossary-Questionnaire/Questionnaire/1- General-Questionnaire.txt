@@ -3958,6 +3958,12 @@ Ans- It allows the transfer of artistic styles between domains without needing p
 
 (-------------------------------------------------------------------------)
 
+660- What are diffusion models, and how do they differ from GANs?
+
+Ans- Diffusion models use a two-stage process involving noise addition and removal to generate images, offering stable training and diversity, while GANs rely on adversarial training, often facing challenges like mode collapse.
+
+(-------------------------------------------------------------------------)
+
 
 
 
