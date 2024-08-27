@@ -4096,6 +4096,12 @@ Ans- Yes, Dreambooth can be combined with techniques like Low-Rank Adaptation (L
 
 (-----------------------------------------------------------------------)
 
+683- What is the role of LoRA when combined with Dreambooth?
+
+Ans- LoRA allows efficient fine-tuning of large models by factorizing the weight update matrix into two low-rank matrices, which are optimized while the rest of the model remains frozen.
+
+(-----------------------------------------------------------------------)
+
 
 
 
