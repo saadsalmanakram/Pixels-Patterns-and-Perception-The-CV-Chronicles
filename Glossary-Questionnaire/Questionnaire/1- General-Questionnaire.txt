@@ -4024,6 +4024,12 @@ Ans- A generative AI model that produces unique photorealistic images from text 
 
 (------------------------------------------------------------------------)
 
+671- What process does Stable Diffusion use to learn new information?
+
+Ans- Forward and reverse diffusion processes where noise is added and then removed to generate images.
+
+(------------------------------------------------------------------------)
+
 
 
 
