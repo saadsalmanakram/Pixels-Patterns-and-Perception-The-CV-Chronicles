@@ -3772,6 +3772,12 @@ Ans- VAEs are often used for image denoising, anomaly detection, and signal anal
 
 (------------------------------------------------------------------------)
 
+631- Which model might be preferred for generating realistic faces or landscapes?
+
+Ans- GANs would be preferred due to their ability to generate high-quality images.
+
+(------------------------------------------------------------------------)
+
 
 
 
