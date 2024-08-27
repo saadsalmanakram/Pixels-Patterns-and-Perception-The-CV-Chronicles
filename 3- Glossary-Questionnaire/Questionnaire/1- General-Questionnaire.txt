@@ -4914,4 +4914,10 @@ Ans- Models may predict blurry or grey regions when uncertain about the unseen p
 
 (-----------------------------------------------------------------------)
 
+818- How do generative models help with the challenges in NVS?
+
+Ans- They sample from multiple plausible possibilities for the unseen regions, reducing uncertainty.
+
+(-----------------------------------------------------------------------)
+
 
