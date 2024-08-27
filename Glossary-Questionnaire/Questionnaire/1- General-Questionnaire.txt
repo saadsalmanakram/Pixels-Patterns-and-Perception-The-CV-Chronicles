@@ -3568,5 +3568,11 @@ Ans- PSNR (Peak Signal-to-Noise Ratio) is similar to mean-squared-error; values 
 
 (------------------------------------------------------------------------)
 
+597- What is the Inception Score (IS) and its relevance?
+
+Ans- Inception Score (IS) assesses the quality and diversity of generated images using Inception-v3 model features; higher scores are better, though it has fallen out of favor recently.
+
+(------------------------------------------------------------------------)
+
 
 
