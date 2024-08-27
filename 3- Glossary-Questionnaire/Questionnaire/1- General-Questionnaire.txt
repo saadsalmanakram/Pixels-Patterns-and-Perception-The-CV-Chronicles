@@ -6342,5 +6342,11 @@ Ans- Generalization allows a model to apply learned knowledge to new, unseen dat
 
 (-----------------------------------------------------------------------)
 
+1056- What does domain adaptation refer to?
+
+Ans- Domain adaptation involves adjusting a model trained on one domain to work effectively on a different but related domain.
+
+(-----------------------------------------------------------------------)
+
 
 
