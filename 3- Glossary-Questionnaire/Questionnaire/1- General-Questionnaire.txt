@@ -4630,3 +4630,9 @@ Ans- To correctly interpret and manipulate camera views and transformations in 3
 
 (-----------------------------------------------------------------------)
 
+771- What intrinsic parameters are needed for pinhole camera transformation?
+
+Ans- Focal lengths fx and fy, and the coordinates of the principal point cx and cy.
+
+(-----------------------------------------------------------------------)
+
