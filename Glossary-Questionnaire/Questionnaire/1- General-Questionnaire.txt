@@ -3598,6 +3598,12 @@ Ans- The main components are the encoder, which compresses the input data, and t
 
 (------------------------------------------------------------------------)
 
+602- What is the purpose of the encoder in an autoencoder?
+
+Ans- The encoder transforms the input data into a compressed, lower-dimensional representation.
+
+(------------------------------------------------------------------------)
+
 
 
 
