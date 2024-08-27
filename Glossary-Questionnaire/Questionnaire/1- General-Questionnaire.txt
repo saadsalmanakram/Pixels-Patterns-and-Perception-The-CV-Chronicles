@@ -4228,6 +4228,12 @@ Ans- mAP combines precision and recall across various IoU thresholds, providing 
 
 (-----------------------------------------------------------------------)
 
+705- How is IoU used to assess object detection performance?
+
+Ans- Higher IoU values reflect better alignment between predicted and actual object locations, indicating more accurate detection.
+
+(-----------------------------------------------------------------------)
+
 
 
 
