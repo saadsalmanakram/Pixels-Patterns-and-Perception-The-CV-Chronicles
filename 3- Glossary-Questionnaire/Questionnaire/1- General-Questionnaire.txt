@@ -4794,5 +4794,11 @@ Ans- Multiple transformations are combined by multiplying their corresponding ma
 
 (-----------------------------------------------------------------------)
 
+798- What happens if you change the order of transformation matrices in a combined operation?
+
+Ans- Changing the order of transformation matrices results in a different final transformation, as matrix multiplication is not commutative.
+
+(-----------------------------------------------------------------------)
+
 
 
