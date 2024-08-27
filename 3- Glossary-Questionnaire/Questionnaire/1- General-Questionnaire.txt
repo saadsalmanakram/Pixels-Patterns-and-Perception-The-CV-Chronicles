@@ -6234,4 +6234,10 @@ Ans- High-quality synthetic data generation can be resource-intensive, so it's i
 
 (-----------------------------------------------------------------------)
 
+1038- How do you evaluate the quality of synthetic images?
+
+Ans- Use metrics like Frechet Inception Distance (FID), Inception Score (IS), and Classification Accuracy Score (CAS) to assess the realism and quality of synthetic images.
+
+(-----------------------------------------------------------------------)
+
 
