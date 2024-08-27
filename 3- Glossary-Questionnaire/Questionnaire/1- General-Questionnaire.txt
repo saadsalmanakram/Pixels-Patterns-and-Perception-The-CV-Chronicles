@@ -4468,6 +4468,12 @@ Ans- Video processing involves capturing temporal information across frames, whi
 
 (-----------------------------------------------------------------------)
 
+744- What is the role of temporal information in video processing?
+
+Ans- Temporal information is crucial for understanding motion and sequence, which is essential for tasks like action recognition and video captioning.
+
+(-----------------------------------------------------------------------)
+
 
 
 
