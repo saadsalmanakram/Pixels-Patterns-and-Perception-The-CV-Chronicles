@@ -3454,5 +3454,11 @@ Ans- Domain shift occurs when adapting knowledge from the source domain to the t
 
 (------------------------------------------------------------------------)
 
+578- What is Catastrophic Forgetting in Transfer Learning?
+
+Ans- Catastrophic forgetting happens when a model loses previously learned knowledge during fine-tuning on a new task.
+
+(------------------------------------------------------------------------)
+
 
 
