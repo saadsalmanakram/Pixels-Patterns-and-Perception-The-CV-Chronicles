@@ -5340,3 +5340,9 @@ Ans- Using dedicated and fully managed services like 🤗 Inference Endpoints.
 
 (-----------------------------------------------------------------------)
 
+889- What is model serving?
+
+Ans- Making a trained model accessible for inference requests.
+
+(-----------------------------------------------------------------------)
+
