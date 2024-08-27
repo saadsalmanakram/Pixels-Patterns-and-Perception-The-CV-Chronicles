@@ -6673,4 +6673,10 @@ Ans- To ensure that AI systems are equitable and do not disproportionately impac
 
 (------------------------------------------------------------------------)
 
+1111- What role do practical case studies play in understanding ethics and bias in AI?
+
+Ans- They provide real-world examples that illustrate the challenges and importance of addressing bias in AI.
+
+(------------------------------------------------------------------------)
+
 
