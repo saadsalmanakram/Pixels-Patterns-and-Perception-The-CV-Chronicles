@@ -5808,6 +5808,12 @@ Ans- They are utilized for semantic segmentation of urban scenes with precise pi
 
 (-----------------------------------------------------------------------)
 
+967- How does the GTA5 dataset contribute to computer vision?
+
+Ans- It provides a large number of synthetic images with pixel-level semantic annotations for training models.
+
+(-----------------------------------------------------------------------)
+
 
 
 
