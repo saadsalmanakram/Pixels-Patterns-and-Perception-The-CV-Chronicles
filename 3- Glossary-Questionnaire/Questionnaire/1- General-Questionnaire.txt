@@ -4902,4 +4902,10 @@ Ans- Methods that generate an intermediate 3D representation and those that dire
 
 (-----------------------------------------------------------------------)
 
+816- Why is the task of Novel View Synthesis often underdetermined?
+
+Ans- Because unseen parts of an object can have multiple plausible appearances, making it difficult to predict accurately.
+
+(-----------------------------------------------------------------------)
+
 
