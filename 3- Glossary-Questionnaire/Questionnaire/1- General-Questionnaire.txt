@@ -5094,4 +5094,16 @@ Ans- NeRF uses an implicit representation via an MLP, unlike traditional methods
 
 (-----------------------------------------------------------------------)
 
+848- What problem does NeRF solve?
+
+Ans- NeRF excels at novel view synthesis, allowing the generation of new views of a scene from unseen camera perspectives.
+
+(-----------------------------------------------------------------------)
+
+849- Who first introduced NeRFs, and when?
+
+Ans- NeRFs were first introduced by Mildenhall et al. in 2020.
+
+(-----------------------------------------------------------------------)
+
 
