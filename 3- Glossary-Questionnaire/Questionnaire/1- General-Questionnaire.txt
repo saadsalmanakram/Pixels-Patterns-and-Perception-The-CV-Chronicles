@@ -4258,6 +4258,12 @@ Ans- Semantic segmentation assigns a class to each pixel without distinguishing 
 
 (-----------------------------------------------------------------------)
 
+709- What is instance segmentation?
+
+Ans- Instance segmentation identifies each object instance with a unique mask, combining object detection and segmentation.
+
+(-----------------------------------------------------------------------)
+
 
 
 
