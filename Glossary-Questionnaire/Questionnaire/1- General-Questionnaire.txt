@@ -4138,6 +4138,12 @@ Ans- LoRA weights typically range from 50-500MB.
 
 (-----------------------------------------------------------------------)
 
+690- How does Dreambooth contribute to model efficiency?
+
+Ans- Dreambooth reduces the need for large datasets and extensive computation by enabling efficient personalization with few examples.
+
+(-----------------------------------------------------------------------)
+
 
 
 
