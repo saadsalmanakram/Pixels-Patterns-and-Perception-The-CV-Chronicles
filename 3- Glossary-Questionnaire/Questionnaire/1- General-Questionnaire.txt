@@ -4980,4 +4980,10 @@ Ans- Spherical polar coordinates representing the relative viewpoint transformat
 
 (-----------------------------------------------------------------------)
 
+829- How does Zero123 handle the input image in its architecture?
+
+Ans- The input image's latent representation is concatenated channel-wise with the noisy latents before denoising.
+
+(-----------------------------------------------------------------------)
+
 
