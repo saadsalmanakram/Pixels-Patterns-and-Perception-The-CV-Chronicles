@@ -5148,4 +5148,10 @@ Ans- Instant-ngp is an optimized NeRF variant that uses hash-table encoding to r
 
 (-----------------------------------------------------------------------)
 
+857- How does Mipnerf-360 improve upon the original NeRF?
+
+Ans- Mipnerf-360 introduces a scene contraction technique, allowing representation of unbounded scenes, which is crucial for real-world applications.
+
+(-----------------------------------------------------------------------)
+
 
