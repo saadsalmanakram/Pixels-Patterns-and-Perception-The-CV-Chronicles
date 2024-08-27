@@ -6505,4 +6505,10 @@ Ans- ZSL focuses on classifying only unseen classes, while GZSL evaluates the mo
 
 (------------------------------------------------------------------------)
 
+1083- How does Inductive ZSL differ from Transductive ZSL?
+
+Ans- Inductive ZSL trains only on seen classes, while Transductive ZSL uses additional information about unseen classes during training.
+
+(------------------------------------------------------------------------)
+
 
