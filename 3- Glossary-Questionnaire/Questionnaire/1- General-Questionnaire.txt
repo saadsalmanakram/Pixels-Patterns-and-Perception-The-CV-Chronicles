@@ -4624,3 +4624,9 @@ Ans- The camera points along the negative Z-axis, the X-axis points left, and th
 
 (-----------------------------------------------------------------------)
 
+770- Why is it important to understand camera axes conventions?
+
+Ans- To correctly interpret and manipulate camera views and transformations in 3D applications.
+
+(-----------------------------------------------------------------------)
+
