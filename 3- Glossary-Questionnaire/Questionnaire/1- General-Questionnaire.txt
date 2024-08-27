@@ -4426,6 +4426,13 @@ Ans- The frame rate directly affects the smoothness of motion; higher frame rate
 
 (-----------------------------------------------------------------------)
 
+737- What factors determine the quality of a video?
+
+Ans- Video quality is determined by resolution, frame rate, bitrate, and codec efficiency.
+
+(-----------------------------------------------------------------------)
+
+
 
 
 
