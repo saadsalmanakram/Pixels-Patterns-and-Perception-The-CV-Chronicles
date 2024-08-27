@@ -5034,4 +5034,10 @@ Ans- The principal point is the spot where the optical axis intersects the image
 
 (-----------------------------------------------------------------------)
 
+838- How is depth calculated in stereo vision?
+
+Ans- Depth is calculated by analyzing the disparity (difference in the horizontal position) between corresponding points in the left and right images.
+
+(-----------------------------------------------------------------------)
+
 
