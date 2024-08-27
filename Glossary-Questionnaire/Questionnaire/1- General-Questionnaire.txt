@@ -4216,6 +4216,12 @@ Ans- It uses transformers to predict bounding boxes and class labels for objects
 
 (-----------------------------------------------------------------------)
 
+703- What is Intersection over Union (IoU)?
+
+Ans- IoU measures the overlap between the predicted bounding box and the ground truth, indicating the accuracy of object localization.
+
+(-----------------------------------------------------------------------)
+
 
 
 
