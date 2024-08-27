@@ -5544,6 +5544,12 @@ Ans- By optimizing models for Intel processors and various hardware platforms.
 
 (-----------------------------------------------------------------------)
 
+923- How do you install OpenVINO?
+
+Ans- Use `pip install openvino`.
+
+(-----------------------------------------------------------------------)
+
 
 
 
