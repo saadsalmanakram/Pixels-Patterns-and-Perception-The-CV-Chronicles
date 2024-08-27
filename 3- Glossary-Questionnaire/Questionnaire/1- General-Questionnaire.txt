@@ -5184,4 +5184,9 @@ Ans- The loss function in NeRFs usually involves a pixel-wise error term that co
 
 (-----------------------------------------------------------------------)
 
+863- Why is NeRF considered a universal function approximator?
+
+Ans- NeRF uses neural networks, which are capable of approximating any continuous function, allowing it to represent complex 3D scenes.
+
+(-----------------------------------------------------------------------)
 
