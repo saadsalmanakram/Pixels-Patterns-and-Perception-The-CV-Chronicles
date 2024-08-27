@@ -5400,3 +5400,9 @@ Ans- By comparing the performance of two model versions simultaneously to determ
 
 (-----------------------------------------------------------------------)
 
+899- What is the importance of continuous evaluation in model deployment?
+
+Ans- Continuously assessing model performance and preparing for rapid rollback if issues arise.
+
+(-----------------------------------------------------------------------)
+
