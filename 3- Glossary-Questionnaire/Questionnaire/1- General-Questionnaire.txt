@@ -6486,5 +6486,11 @@ Ans- OVL extends ZSL by handling both seen and unseen classes and potentially in
 
 (------------------------------------------------------------------------)
 
+1080- What was the focus of the 2008 papers on zero-shot learning?
+
+Ans- The papers explored zero-shot learning in natural language processing and computer vision.
+
+(------------------------------------------------------------------------)
+
 
 
