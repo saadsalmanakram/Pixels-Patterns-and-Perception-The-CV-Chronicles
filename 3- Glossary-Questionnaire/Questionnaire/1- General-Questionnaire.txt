@@ -4360,6 +4360,12 @@ Ans- A video is a multimedia format that sequentially displays frames or images 
 
 (-----------------------------------------------------------------------)
 
+726- How is a video different from a static image?
+
+Ans- A video consists of multiple frames shown sequentially, while a static image is a single, 2D representation of visual data.
+
+(-----------------------------------------------------------------------)
+
 
 
 
