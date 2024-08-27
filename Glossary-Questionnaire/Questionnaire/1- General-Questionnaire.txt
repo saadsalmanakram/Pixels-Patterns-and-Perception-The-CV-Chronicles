@@ -3184,3 +3184,9 @@ Ans- Retraining is necessary because changing encoders alters the embedding dist
 
 (------------------------------------------------------------------------)
 
+533- What is BLIP in the context of multimodal models?
+
+Ans- BLIP (Bootstrapping Language-Image Pre-training) is a multimodal model that extends the capabilities of CLIP to include text generation.
+
+(------------------------------------------------------------------------)
+
