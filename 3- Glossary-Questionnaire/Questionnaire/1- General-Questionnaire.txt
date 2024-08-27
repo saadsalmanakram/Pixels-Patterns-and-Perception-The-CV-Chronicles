@@ -6408,3 +6408,10 @@ Ans- CLIP revolutionized zero-shot computer vision by achieving high performance
 
 (------------------------------------------------------------------------)
 
+1067- How did zero-shot learning in computer vision evolve over time?
+
+Ans- From initial exploration in 2008 to significant advancements with CLIP in 2021, marking a new era in zero-shot vision research.
+
+(------------------------------------------------------------------------)
+
+
