@@ -3034,4 +3034,10 @@ Ans- BLIP introduces bidirectional learning between vision and language, enablin
 
 (------------------------------------------------------------------------)
 
+508- What is the focus of OWL-ViT in multimodal AI?
+
+Ans- OWL-ViT focuses on object-centric representations, advancing the contextual understanding of objects within images alongside text.
+
+(------------------------------------------------------------------------)
+
 
