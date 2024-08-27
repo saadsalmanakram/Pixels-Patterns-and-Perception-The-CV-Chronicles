@@ -5412,3 +5412,9 @@ Ans- A suite of tools for optimizing machine learning models for deployment.
 
 (-----------------------------------------------------------------------)
 
+901- What is the purpose of post-training quantization in TMO?
+
+Ans- It reduces model size by converting weights to 8-bit precision.
+
+(-----------------------------------------------------------------------)
+
