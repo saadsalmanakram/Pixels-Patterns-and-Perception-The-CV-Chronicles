@@ -3148,3 +3148,9 @@ Ans- CLIP's generalization capabilities are limited, particularly with data or e
 
 (------------------------------------------------------------------------)
 
+527- How does CLIP generalize to unseen categories?
+
+Ans- CLIP generalizes to unseen categories through its training method, which teaches the model to match images with text captions without explicit category-specific training.
+
+(------------------------------------------------------------------------)
+
