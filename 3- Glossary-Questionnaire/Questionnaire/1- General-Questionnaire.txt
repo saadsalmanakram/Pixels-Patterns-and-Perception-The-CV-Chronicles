@@ -5196,3 +5196,9 @@ Ans- Key research areas include generative NeRFs, deformable NeRFs, compositiona
 
 (-----------------------------------------------------------------------)
 
+865- What are the potential future directions for NeRFs?
+
+Ans- Future directions include real-time scene streaming on edge devices, integration into virtual and augmented reality, and enhanced generative capabilities.
+
+(-----------------------------------------------------------------------)
+
