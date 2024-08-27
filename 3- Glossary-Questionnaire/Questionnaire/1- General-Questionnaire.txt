@@ -6150,4 +6150,10 @@ Ans- Synthetic data preserves privacy by generating data that does not disclose 
 
 (-----------------------------------------------------------------------)
 
+1024- What is textual inversion in the context of diffusion models?
+
+Ans- It involves adding a new token to the model’s vocabulary and fine-tuning embeddings to capture specific characteristics of the object.
+
+(-----------------------------------------------------------------------)
+
 
