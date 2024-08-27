@@ -5922,6 +5922,12 @@ Ans- It offers a large-scale benchmark for part-level 3D object understanding.
 
 (-----------------------------------------------------------------------)
 
+986- Why is ShapeNetCore important?
+
+Ans- It contains manually verified models for large-scale 3D shape reconstruction and segmentation.
+
+(-----------------------------------------------------------------------)
+
 
 
 
