@@ -5436,4 +5436,10 @@ Ans- APIs for pruning and quantization during training.
 
 (-----------------------------------------------------------------------)
 
+905- What does PyTorch Quantization do?
+
+Ans- It optimizes models by converting them to INT8, reducing size and memory bandwidth.
+
+(-----------------------------------------------------------------------)
+
 
