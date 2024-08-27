@@ -6162,4 +6162,10 @@ Ans- LoRA uses smaller update matrices to adapt the model with fewer parameters,
 
 (-----------------------------------------------------------------------)
 
+1026- What is DreamBooth and how does it personalize outputs in diffusion models?
+
+Ans- DreamBooth fine-tunes a model using a few images of a subject and associates a unique identifier with that subject to generate personalized outputs.
+
+(-----------------------------------------------------------------------)
+
 
