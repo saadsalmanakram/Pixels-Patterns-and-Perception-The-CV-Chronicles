@@ -6270,5 +6270,11 @@ Ans- A point cloud is a collection of points in 3D space, each with coordinates 
 
 (-----------------------------------------------------------------------)
 
+1044- What does albedo measure in the context of point clouds?
+
+Ans- Albedo measures the reflectivity of a surface, indicating the ratio of reflected light to incident light.
+
+(-----------------------------------------------------------------------)
+
 
 
