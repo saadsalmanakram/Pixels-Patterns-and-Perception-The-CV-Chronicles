@@ -6541,4 +6541,10 @@ Ans- GZSL is closer to real-world scenarios because it requires the model to cla
 
 (------------------------------------------------------------------------)
 
+1089- What is the main challenge in Generalized Zero-shot Learning (GZSL)?
+
+Ans- The main challenge is that the model must distinguish between novel unseen classes and familiar seen classes during evaluation.
+
+(------------------------------------------------------------------------)
+
 
