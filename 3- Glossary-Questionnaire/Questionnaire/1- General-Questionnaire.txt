@@ -5430,4 +5430,10 @@ Ans- Use `pip install -U tensorflow-model-optimization`
 
 (-----------------------------------------------------------------------)
 
+904- What are the key APIs available in TMO for model optimization?
+
+Ans- APIs for pruning and quantization during training.
+
+(-----------------------------------------------------------------------)
+
 
