@@ -4318,6 +4318,12 @@ Ans- The Dice coefficient is a metric that measures the overlap between the pred
 
 (-----------------------------------------------------------------------)
 
+719- Why would you use the Dice coefficient over IoU?
+
+Ans- The Dice coefficient is often used when sensitivity to small overlaps is important, making it useful in specific contexts where precise segmentation is critical.
+
+(-----------------------------------------------------------------------)
+
 
 
 
