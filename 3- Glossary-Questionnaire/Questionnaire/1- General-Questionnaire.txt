@@ -4354,6 +4354,12 @@ Ans- Vision transformers are gaining popularity due to their ability to handle l
 
 (-----------------------------------------------------------------------)
 
+725- What is a video in the context of computer vision?
+
+Ans- A video is a multimedia format that sequentially displays frames or images to create the illusion of motion.
+
+(-----------------------------------------------------------------------)
+
 
 
 
