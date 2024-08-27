@@ -3616,6 +3616,12 @@ Ans- The bottleneck layer is the layer with the smallest dimension that captures
 
 (------------------------------------------------------------------------)
 
+605- Why is reconstruction error important in autoencoders?
+
+Ans- Reconstruction error measures the difference between the original input and its reconstruction, guiding the network's learning process.
+
+(------------------------------------------------------------------------)
+
 
 
 
