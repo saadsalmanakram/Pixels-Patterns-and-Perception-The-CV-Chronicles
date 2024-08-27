@@ -4680,3 +4680,11 @@ Ans- They might model lens distortion and other real-world imperfections.
 
 (-----------------------------------------------------------------------)
 
+779- What are the Cartesian coordinates used to represent a point in 3D space?
+
+Ans- A point in 3D space is represented by three Cartesian coordinates [X,Y,Z].
+
+(-----------------------------------------------------------------------)
+
+
+
