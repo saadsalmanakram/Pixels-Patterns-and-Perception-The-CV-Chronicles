@@ -6144,4 +6144,10 @@ Ans- They create images based on textual prompts, which can be used to generate 
 
 (-----------------------------------------------------------------------)
 
+1023- What are the benefits of using synthetic data in privacy-sensitive applications?
+
+Ans- Synthetic data preserves privacy by generating data that does not disclose personal information.
+
+(-----------------------------------------------------------------------)
+
 
