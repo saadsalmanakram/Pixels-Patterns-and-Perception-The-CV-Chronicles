@@ -5850,6 +5850,12 @@ Ans- It offers synthetic images with ground truth poses, depth maps, and segment
 
 (-----------------------------------------------------------------------)
 
+974- What is the FaceSynthetics dataset?
+
+Ans- It contains diverse synthetic face images with ground truth labels for face analysis.
+
+(-----------------------------------------------------------------------)
+
 
 
 
