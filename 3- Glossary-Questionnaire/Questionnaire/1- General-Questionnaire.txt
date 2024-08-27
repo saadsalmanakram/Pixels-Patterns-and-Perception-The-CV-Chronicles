@@ -4282,6 +4282,11 @@ Ans- The ViT is a model architecture used for image segmentation that operates o
 
 (-----------------------------------------------------------------------)
 
+713- What is the Segment Anything Model (SAM)?
+
+Ans- SAM is a prompt-based segmentation model from Meta AI that can segment objects based on prompts and is capable of zero-shot transfer on new images.
+
+(-----------------------------------------------------------------------)
 
 
 
