@@ -3202,3 +3202,9 @@ Ans- BLIP integrates a Vision Transformer with a Multimodal Mixture of Encoder-D
 
 (------------------------------------------------------------------------)
 
+536- What is the role of the Vision Transformer (ViT) in BLIP?
+
+Ans- The Vision Transformer in BLIP is responsible for visual data processing using self-attention mechanisms.
+
+(------------------------------------------------------------------------)
+
