@@ -4740,5 +4740,11 @@ Ans- In OpenGL, transformations are applied using column vectors, while in Direc
 
 (-----------------------------------------------------------------------)
 
+789- What is a translation in 3D transformations?
+
+Ans- A translation moves all points in space by a specified vector [tx, ty, tz].
+
+(-----------------------------------------------------------------------)
+
 
 
