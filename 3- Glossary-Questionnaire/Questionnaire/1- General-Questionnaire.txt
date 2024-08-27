@@ -6655,4 +6655,10 @@ Ans- Techniques include error analysis, subgroup performance evaluation, and aud
 
 (------------------------------------------------------------------------)
 
+1108- Which metrics are useful for evaluating biases in CV models?
+
+Ans- Fairness metrics like demographic parity and equalized odds are commonly used.
+
+(------------------------------------------------------------------------)
+
 
