@@ -4692,5 +4692,11 @@ Ans- A coordinate system is a system that uses numerical values to represent the
 
 (-----------------------------------------------------------------------)
 
+781- What is axis handedness in coordinate systems?
+
+Ans- Axis handedness refers to the orientation of the X, Y, and Z axes, determining whether a system is left-handed or right-handed.
+
+(-----------------------------------------------------------------------)
+
 
 
