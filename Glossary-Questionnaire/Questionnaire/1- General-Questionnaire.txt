@@ -3484,5 +3484,11 @@ Ans- Grounding DINO detects objects based on natural language input, leveraging 
 
 (------------------------------------------------------------------------)
 
+583- What is the application of Transfer Learning in an Assistant model like GTP-4V?
+
+Ans- Transfer learning is used in instruction tuning within multimodal fields to improve assistant models like LLaVA.
+
+(------------------------------------------------------------------------)
+
 
 
