@@ -3064,4 +3064,9 @@ Ans- In image data, contrastive learning ensures that representations of similar
 
 (------------------------------------------------------------------------)
 
+513- What is contrastive loss?
+
+Ans- Contrastive loss is a training objective that encourages similar samples to have closer embeddings and dissimilar samples to have distant embeddings in the representation space.
+
+(------------------------------------------------------------------------)
 
