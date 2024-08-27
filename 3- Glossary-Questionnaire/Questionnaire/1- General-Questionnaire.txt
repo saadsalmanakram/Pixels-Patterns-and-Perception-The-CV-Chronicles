@@ -5814,6 +5814,19 @@ Ans- It provides a large number of synthetic images with pixel-level semantic an
 
 (-----------------------------------------------------------------------)
 
+968- What does the ProcSy dataset focus on?
+
+Ans- It models real-world urban environments to study the impact of various influence factors on semantic segmentation.
+
+(-----------------------------------------------------------------------)
+
+969- What is the Habitat platform designed for?
+
+Ans- It simulates collaborative human-robot interactions in home environments.
+
+(-----------------------------------------------------------------------)
+
+
 
 
 
