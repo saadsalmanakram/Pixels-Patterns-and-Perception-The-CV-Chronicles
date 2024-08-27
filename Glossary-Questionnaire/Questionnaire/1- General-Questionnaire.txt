@@ -4150,6 +4150,18 @@ Ans- Dreambooth can generate new images of the trained subject or style in diver
 
 (-----------------------------------------------------------------------)
 
+692- How does ControlNet relate to Dreambooth?
+
+Ans- While Dreambooth personalizes models using example images, ControlNet guides diffusion models using specific image information like depth or pose for more consistent outputs.
+
+(-----------------------------------------------------------------------)
+
+693- How can AI-powered image editing tools impact society?
+
+Ans- They can undermine trust in media, harass and defame individuals, and create unrealistic beauty standards.
+
+(-----------------------------------------------------------------------)
+
 
 
 
