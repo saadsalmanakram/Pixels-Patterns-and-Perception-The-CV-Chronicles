@@ -4908,4 +4908,10 @@ Ans- Because unseen parts of an object can have multiple plausible appearances, 
 
 (-----------------------------------------------------------------------)
 
+817- What challenge does the underdetermined nature of NVS introduce?
+
+Ans- Models may predict blurry or grey regions when uncertain about the unseen parts.
+
+(-----------------------------------------------------------------------)
+
 
