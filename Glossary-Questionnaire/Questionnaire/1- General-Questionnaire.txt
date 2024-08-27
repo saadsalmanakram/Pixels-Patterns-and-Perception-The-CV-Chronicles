@@ -3604,6 +3604,18 @@ Ans- The encoder transforms the input data into a compressed, lower-dimensional 
 
 (------------------------------------------------------------------------)
 
+603- What does the decoder do in an autoencoder?
+
+Ans- The decoder reconstructs the original input data from the compressed representation.
+
+(------------------------------------------------------------------------)
+
+604- What is the bottleneck layer in an autoencoder?
+
+Ans- The bottleneck layer is the layer with the smallest dimension that captures the most essential features of the input data.
+
+(------------------------------------------------------------------------)
+
 
 
 
