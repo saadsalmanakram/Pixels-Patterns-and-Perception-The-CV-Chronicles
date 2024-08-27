@@ -5454,5 +5454,11 @@ Ans- Install PyTorch and import `torch.quantization`
 
 (-----------------------------------------------------------------------)
 
+908- What is the benefit of using quantization-aware training in PyTorch?
+
+Ans- It models quantization errors during both forward and backward passes.
+
+(-----------------------------------------------------------------------)
+
 
 
