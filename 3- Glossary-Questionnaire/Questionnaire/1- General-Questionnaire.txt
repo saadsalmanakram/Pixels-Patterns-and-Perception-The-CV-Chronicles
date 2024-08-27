@@ -5880,6 +5880,18 @@ Ans- It provides renderings of 3D objects for material prediction and multi-view
 
 (-----------------------------------------------------------------------)
 
+979- What is the purpose of NTIRE 2021 HDR?
+
+Ans- It offers a dataset for high dynamic range imaging to improve image super-resolution.
+
+(-----------------------------------------------------------------------)
+
+980- How does the YCB-Video dataset assist in object pose estimation?
+
+Ans- It provides accurate 6D poses of objects from extensive video frames.
+
+(-----------------------------------------------------------------------)
+
 
 
 
