@@ -3970,6 +3970,12 @@ Ans- The major subcategories of diffusion models are Denoising Diffusion Probabi
 
 (-------------------------------------------------------------------------)
 
+662- Can you explain the denoising diffusion probabilistic models (DDPMs)?
+
+Ans- DDPMs use latent variables to estimate probability distributions, functioning similarly to a variational autoencoder (VAE) with a diffusion-based encoding and decoding process.
+
+(------------------------------------------------------------------------)
+
 
 
 
