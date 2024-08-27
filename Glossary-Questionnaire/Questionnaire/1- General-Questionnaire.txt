@@ -3070,3 +3070,9 @@ Ans- Contrastive loss is a training objective that encourages similar samples to
 
 (------------------------------------------------------------------------)
 
+514- What happens if the samples are similar in contrastive loss?
+
+Ans- If the samples are similar (yi = yj), the loss minimizes their Euclidean distance to bring their embeddings closer.
+
+(------------------------------------------------------------------------)
+
