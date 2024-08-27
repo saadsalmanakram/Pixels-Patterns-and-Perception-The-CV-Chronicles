@@ -5994,6 +5994,12 @@ Ans- PBR uses standardized materials and lighting models, reducing the need for 
 
 (-----------------------------------------------------------------------)
 
+998- What is BlenderProc?
+
+Ans- BlenderProc is a modular pipeline built on Blender for generating synthetic images and annotations, optimized for training convolutional neural networks.
+
+(-----------------------------------------------------------------------)
+
 
 
 
