@@ -3058,4 +3058,10 @@ Ans- The objective is to develop a representation space where similar items are 
 
 (------------------------------------------------------------------------)
 
+512- How does contrastive learning apply to image data, such as dogs and cats?
+
+Ans- In image data, contrastive learning ensures that representations of similar images (e.g., different dogs) are close, while representations of different classes (e.g., dogs vs. cats) are far apart.
+
+(------------------------------------------------------------------------)
+
 
