@@ -4348,6 +4348,12 @@ Ans- Mask2former is a model by Meta that achieves semantic, instance, and panopt
 
 (-----------------------------------------------------------------------)
 
+724- Why are vision transformers gaining popularity in image segmentation?
+
+Ans- Vision transformers are gaining popularity due to their ability to handle large datasets and their success in achieving state-of-the-art results in various vision tasks.
+
+(-----------------------------------------------------------------------)
+
 
 
 
