@@ -5160,4 +5160,10 @@ Ans- The proposal network helps in concentrating sample points in regions that c
 
 (-----------------------------------------------------------------------)
 
+859- How does Zip-NeRF combine recent advancements in the NeRF field?
+
+Ans- Zip-NeRF integrates techniques like hash-table encoding from Instant-ngp and scene contraction from Mipnerf-360 to reduce training times to under an hour.
+
+(-----------------------------------------------------------------------)
+
 
