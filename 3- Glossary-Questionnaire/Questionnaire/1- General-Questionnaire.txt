@@ -6456,4 +6456,10 @@ Ans- Embedding-based methods.
 
 (------------------------------------------------------------------------)
 
+1075- What is an example of a generative-based zero-shot learning method?
+
+Ans- Conditional Variational Autoencoder (CVAE).
+
+(------------------------------------------------------------------------)
+
 
