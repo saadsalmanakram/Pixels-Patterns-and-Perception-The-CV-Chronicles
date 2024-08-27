@@ -4878,3 +4878,10 @@ Ans- Sphere tracing iteratively marches along a ray, using the SDF to find the n
 
 (-----------------------------------------------------------------------)
 
+812- What is trilinear interpolation in the context of volumetric data?
+
+Ans- Trilinear interpolation estimates the value at any point in space by interpolating between the values at the eight corners of a surrounding voxel.
+
+(-----------------------------------------------------------------------)
+
+
