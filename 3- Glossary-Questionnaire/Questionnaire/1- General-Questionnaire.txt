@@ -4842,4 +4842,10 @@ Ans- Volumetric data is often represented as a volumetric grid, with data points
 
 (-----------------------------------------------------------------------)
 
+806- What is an implicit surface in 3D representation?
+
+Ans- An implicit surface defines a 3D shape by mapping points in space to a value, with the surface represented by where this value is zero.
+
+(-----------------------------------------------------------------------)
+
 
