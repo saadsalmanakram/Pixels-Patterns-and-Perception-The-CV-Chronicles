@@ -3124,3 +3124,9 @@ Ans- The cosine similarity matrix measures how similar each image is to every te
 
 (------------------------------------------------------------------------)
 
+523- How does CLIP handle flexibility in its encoders?
+
+Ans- CLIP allows users to switch the standard encoders, such as Vision Transformer for images and alternatives for text, though retraining is required due to changes in embedding distribution.
+
+(------------------------------------------------------------------------)
+
