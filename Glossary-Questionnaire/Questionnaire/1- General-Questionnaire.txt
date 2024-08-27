@@ -3832,6 +3832,12 @@ Ans- AdaIN dynamically adjusts normalization parameters based on style informati
 
 (-------------------------------------------------------------------------)
 
+641- What is the role of concatenating noise vectors in StyleGAN1?
+
+Ans- Concatenating noise vectors helps introduce stochastic features, adding realism and diversity to the generated images.
+
+(-------------------------------------------------------------------------)
+
 
 
 
