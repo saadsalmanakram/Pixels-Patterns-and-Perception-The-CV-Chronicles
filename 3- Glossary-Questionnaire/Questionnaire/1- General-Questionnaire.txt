@@ -5202,3 +5202,11 @@ Ans- Future directions include real-time scene streaming on edge devices, integr
 
 (-----------------------------------------------------------------------)
 
+866- Have you ever felt confused after the model training stage? What should you do next?
+
+Ans- After training, the next step is often model deployment, but further optimizations might be needed to address issues like model size, prediction speed, and resource limitations.
+
+(-----------------------------------------------------------------------)
+
+
+
