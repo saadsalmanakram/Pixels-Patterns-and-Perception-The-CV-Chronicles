@@ -3472,5 +3472,11 @@ Ans- Transfer learning can be applied in VQA by fine-tuning models like ViLT to 
 
 (------------------------------------------------------------------------)
 
+581- How is CLIP used in Transfer Learning?
+
+Ans- CLIP can be fine-tuned on a custom dataset to perform tasks like image classification or captioning.
+
+(------------------------------------------------------------------------)
+
 
 
