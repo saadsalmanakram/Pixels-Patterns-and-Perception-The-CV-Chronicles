@@ -6384,3 +6384,9 @@ Ans- In the classic setup, the model is tested on classes it has not been expose
 
 (-----------------------------------------------------------------------)
 
+1063- What is generalized zero-shot learning (GZSL)?
+
+Ans- GZSL allows for both seen and unseen classes in the test set, making it more practical compared to the strict classic zero-shot setup.
+
+(-----------------------------------------------------------------------)
+
