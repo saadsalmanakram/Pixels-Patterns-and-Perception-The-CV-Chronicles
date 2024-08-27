@@ -5346,3 +5346,9 @@ Ans- Making a trained model accessible for inference requests.
 
 (-----------------------------------------------------------------------)
 
+890- How does HTTP REST API facilitate model serving?
+
+Ans- By allowing clients to send input data and receive predictions via HTTP endpoints.
+
+(-----------------------------------------------------------------------)
+
