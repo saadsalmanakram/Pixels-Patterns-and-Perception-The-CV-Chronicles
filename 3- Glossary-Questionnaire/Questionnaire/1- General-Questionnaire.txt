@@ -4540,9 +4540,15 @@ Ans- Sir Charles Wheatstone invented stereoscopy, which involves presenting offs
 
 (-----------------------------------------------------------------------)
 
-756- Who pioneered Anaglyph 3D and what method does it use? (Anaglyph 3D)
+756- Who pioneered Anaglyph 3D and what method does it use? (1853: Anaglyph 3D)
 
 Ans- Louis Ducos du Hauron pioneered Anaglyph 3D, using glasses with colored filters to separate images in complementary colors for a depth illusion.
+
+(-----------------------------------------------------------------------)
+
+757- Who developed Polarized 3D and what is its approach? (1936: Polarized 3D)
+
+Ans- Edwin H. Land developed Polarized 3D, which utilizes polarized light technology in 3D movies with glasses that filter light in specific directions.
 
 (-----------------------------------------------------------------------)
 
