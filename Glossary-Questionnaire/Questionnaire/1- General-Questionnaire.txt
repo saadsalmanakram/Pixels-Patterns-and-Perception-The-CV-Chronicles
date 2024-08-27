@@ -3256,4 +3256,10 @@ Ans- BLIP demonstrates that cleaning and curating datasets leads to better model
 
 (------------------------------------------------------------------------)
 
+545- What role does the human-annotated dataset play in CapFilt?
+
+Ans- It is used to fine-tune the models in CapFilt, improving the accuracy of the filtering and captioning processes.
+
+(------------------------------------------------------------------------)
+
 
