@@ -3844,6 +3844,12 @@ Ans- StyleGAN1 suffers from artifacts such as blob structures and location prefe
 
 (-------------------------------------------------------------------------)
 
+643- What improvements does StyleGAN2 offer over StyleGAN1?
+
+Ans- StyleGAN2 addresses artifacts like blobs and location preferences with demodulation and a revised architecture, including a skip generator and residual discriminator.
+
+(-------------------------------------------------------------------------)
+
 
 
 
