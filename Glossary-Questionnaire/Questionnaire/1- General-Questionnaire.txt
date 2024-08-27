@@ -3646,6 +3646,12 @@ Ans- A sparse autoencoder introduces a sparsity constraint on the hidden units, 
 
 (------------------------------------------------------------------------)
 
+610- What is a Variational Autoencoder (VAE)?
+
+Ans- A VAE is a type of autoencoder that introduces a probabilistic approach to encoding, allowing for the generation of new data samples.
+
+(------------------------------------------------------------------------)
+
 
 
 
