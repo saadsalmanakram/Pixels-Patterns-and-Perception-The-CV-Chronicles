@@ -3316,5 +3316,11 @@ Ans- The shift is driven by the need to enhance object detection models to ident
 
 (------------------------------------------------------------------------)
 
+555- What does OWL-ViT stand for, and what is its primary purpose?
+
+Ans- OWL-ViT stands for "Open-Vocabulary Vision Transformer," and it aims to perform open-vocabulary object detection.
+
+(------------------------------------------------------------------------)
+
 
 
