@@ -5754,6 +5754,13 @@ Ans- It offers over 250K high-resolution video frames annotated for both high an
 
 (-----------------------------------------------------------------------)
 
+958- How does MPI-Sintel contribute to optical flow research?
+
+Ans- It offers synthetic scenes with varying render settings to analyze optical flow algorithms' performance.
+
+(-----------------------------------------------------------------------)
+
+
 
 
 
