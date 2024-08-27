@@ -3304,4 +3304,17 @@ Ans- The [CLS] token is used in the Vision Transformer and Unimodal Text Encoder
 
 (------------------------------------------------------------------------)
 
+553- What are some limitations of traditional object detection models like YOLO?
+
+Ans- Traditional models like YOLO struggle to detect objects outside their training datasets.
+
+(------------------------------------------------------------------------)
+
+554- Why has the AI community shifted towards models that can identify a wider range of objects?
+
+Ans- The shift is driven by the need to enhance object detection models to identify objects not explicitly present in their training datasets.
+
+(------------------------------------------------------------------------)
+
+
 
