@@ -5232,5 +5232,11 @@ Ans- Quantization reduces the precision of model weights, converting them to low
 
 (-----------------------------------------------------------------------)
 
+871- What is knowledge distillation?
+
+Ans- Knowledge distillation transfers knowledge from a larger, more complex model (teacher) to a smaller model (student), enabling the smaller model to mimic the teacher's behavior.
+
+(-----------------------------------------------------------------------)
+
 
 
