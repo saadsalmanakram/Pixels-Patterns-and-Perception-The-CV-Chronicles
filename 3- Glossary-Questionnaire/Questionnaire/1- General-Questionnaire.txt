@@ -4306,6 +4306,19 @@ Ans- Pixel accuracy is the ratio of correctly classified pixels to the total num
 
 (-----------------------------------------------------------------------)
 
+717- Why might pixel accuracy be misleading?
+
+Ans- Pixel accuracy can be misleading due to its sensitivity to class imbalance, where majority classes dominate the metric.
+
+(-----------------------------------------------------------------------)
+
+718- What is the Dice coefficient?
+
+Ans- The Dice coefficient is a metric that measures the overlap between the predicted segmentation mask and the ground truth, emphasizing small differences.
+
+(-----------------------------------------------------------------------)
+
+
 
 
 
