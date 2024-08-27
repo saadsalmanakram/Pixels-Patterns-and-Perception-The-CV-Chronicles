@@ -3766,6 +3766,12 @@ Ans- GANs are used for image generation, super-resolution, and image-to-image tr
 
 (------------------------------------------------------------------------)
 
+630- What are some common applications for VAEs?
+
+Ans- VAEs are often used for image denoising, anomaly detection, and signal analysis.
+
+(------------------------------------------------------------------------)
+
 
 
 
