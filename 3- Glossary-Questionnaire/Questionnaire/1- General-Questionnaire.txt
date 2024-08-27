@@ -4830,5 +4830,11 @@ Ans- The trimesh package is used for working with mesh data, including loading a
 
 (-----------------------------------------------------------------------)
 
+804- What is volumetric data?
+
+Ans- Volumetric data encodes information about 3D space, often representing transparent objects like clouds or fire.
+
+(-----------------------------------------------------------------------)
+
 
 
