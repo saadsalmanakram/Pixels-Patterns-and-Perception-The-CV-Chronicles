@@ -3724,6 +3724,13 @@ Ans- The core idea is to train a generator to create data indistinguishable from
 
 (------------------------------------------------------------------------)
 
+623- How can GANs be analogized in simpler terms?
+
+Ans- GANs can be compared to an art forger (generator) trying to create convincing fake artworks and an art critic (discriminator) attempting to detect the forgeries.
+
+(------------------------------------------------------------------------)
+
+
 
 
 
