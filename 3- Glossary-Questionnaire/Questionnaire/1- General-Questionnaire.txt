@@ -6420,4 +6420,10 @@ Ans- By using related information about known objects to infer characteristics o
 
 (------------------------------------------------------------------------)
 
+1069- What is the role of semantic or auxiliary information in zero-shot learning?
+
+Ans- It provides a bridge between visual features and unseen classes, enabling the model to recognize objects without direct visual examples.
+
+(------------------------------------------------------------------------)
+
 
