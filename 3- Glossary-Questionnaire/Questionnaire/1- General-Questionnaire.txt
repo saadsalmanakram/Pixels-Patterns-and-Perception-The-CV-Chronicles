@@ -5550,6 +5550,12 @@ Ans- Use `pip install openvino`.
 
 (-----------------------------------------------------------------------)
 
+924- What is a unique feature of OpenVINO?
+
+Ans- It reduces first-inference latency by using CPU before switching to another device.
+
+(-----------------------------------------------------------------------)
+
 
 
 
