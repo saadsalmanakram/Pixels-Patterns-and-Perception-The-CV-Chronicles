@@ -5310,3 +5310,9 @@ Ans- Focuses on optimizing models for performance and resource constraints using
 
 (-----------------------------------------------------------------------)
 
+884- What is model serialization in the context of machine learning deployment?
+
+Ans- Converting a model into a format that can be easily stored or transmitted.
+
+(-----------------------------------------------------------------------)
+
