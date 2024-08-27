@@ -3388,4 +3388,10 @@ Ans- OWL-ViT builds upon models like CLIP by integrating object detection capabi
 
 (------------------------------------------------------------------------)
 
+567- Can you run inference with OWL-ViT using Python?
+
+Ans- Yes, the provided Python example demonstrates running inference with OWL-ViT using the transformers library.
+
+(------------------------------------------------------------------------)
+
 
