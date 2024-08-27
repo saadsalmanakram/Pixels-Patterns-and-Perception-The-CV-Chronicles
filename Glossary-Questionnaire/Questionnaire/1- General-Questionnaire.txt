@@ -3094,3 +3094,9 @@ Ans- Contrastive loss helps CLIP align visual and textual representations by bri
 
 (------------------------------------------------------------------------)
 
+518- What is CLIP?
+
+Ans- CLIP is a neural network designed to understand visual concepts using natural language supervision by matching images with corresponding text descriptions.
+
+(------------------------------------------------------------------------)
+
