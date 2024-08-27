@@ -4806,5 +4806,11 @@ Ans- A point cloud represents 3D data as a collection of points in space, often 
 
 (-----------------------------------------------------------------------)
 
+800- What are the limitations of point clouds?
+
+Ans- Point clouds lack connectivity information, making it challenging to determine an object's surface and topology.
+
+(-----------------------------------------------------------------------)
+
 
 
