@@ -5718,6 +5718,12 @@ Ans- Synthetic data helps in recognizing rare events like emergency vehicles, wh
 
 (-----------------------------------------------------------------------)
 
+952- How can synthetic data mitigate the costs associated with data collection?
+
+Ans- Synthetic data generation reduces the need for expensive data collection and annotation by providing an alternative source of data.
+
+(-----------------------------------------------------------------------)
+
 
 
 
