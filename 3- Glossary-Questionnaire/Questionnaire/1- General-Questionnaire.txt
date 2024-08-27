@@ -5646,6 +5646,12 @@ Ans- Common methods include CAD & Blender for 3D image datasets, deep generative
 
 (-----------------------------------------------------------------------)
 
+940- What are the challenges associated with synthetic data?
+
+Ans- Challenges include privacy risks, difficulty in capturing outliers, and the opacity of black-box models in generating accurate synthetic data.
+
+(-----------------------------------------------------------------------)
+
 
 
 
