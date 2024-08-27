@@ -6072,3 +6072,10 @@ Ans- Diffusion models, such as Medfusion, have been explored as alternatives to 
 
 (-----------------------------------------------------------------------)
 
+1011- What is the significance of 'human in the middle' in GAN-based medical imaging?
+
+Ans- It refers to the involvement of expert radiologists to validate and select synthetic images that meet quality standards before they are used for further training.
+
+(-----------------------------------------------------------------------)
+
+
