@@ -3670,6 +3670,13 @@ Ans- The latent space is often modeled as a multivariate Gaussian distribution.
 
 (------------------------------------------------------------------------)
 
+614- What are the two components of the VAE loss function?
+
+Ans- The VAE loss function consists of the reconstruction loss and the KL divergence loss.
+
+(------------------------------------------------------------------------)
+
+
 
 
 
