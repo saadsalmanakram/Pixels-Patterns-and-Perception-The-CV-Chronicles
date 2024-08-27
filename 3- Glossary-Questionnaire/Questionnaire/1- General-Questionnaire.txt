@@ -4498,6 +4498,12 @@ Ans- Tubelet Embedding effectively combines spatiotemporal information during to
 
 (-----------------------------------------------------------------------)
 
+749- What challenges are posed by video data in comparison to image data?
+
+Ans- Video data requires handling higher memory and storage needs due to the inclusion of temporal information.
+
+(-----------------------------------------------------------------------)
+
 
 
 
