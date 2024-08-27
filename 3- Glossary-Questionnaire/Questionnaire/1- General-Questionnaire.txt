@@ -4396,6 +4396,12 @@ Ans- Bitrate is commonly expressed in megabytes per second (mbps) or kilobytes p
 
 (-----------------------------------------------------------------------)
 
+732- What is a codec?
+
+Ans- A codec is a software or hardware component that compresses and decompresses digital media to manage file size and maintain quality.
+
+(-----------------------------------------------------------------------)
+
 
 
 
