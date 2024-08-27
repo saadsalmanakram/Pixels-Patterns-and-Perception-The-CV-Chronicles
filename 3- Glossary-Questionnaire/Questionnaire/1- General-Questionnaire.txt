@@ -5982,6 +5982,12 @@ Ans- By accurately simulating light behavior and material interactions, PBR crea
 
 (-----------------------------------------------------------------------)
 
+996- What is the significance of light layers in PBR?
+
+Ans- Light layers in PBR simulate how light passes through and interacts with different object layers, enhancing the realism of transparent and translucent materials.
+
+(-----------------------------------------------------------------------)
+
 
 
 
