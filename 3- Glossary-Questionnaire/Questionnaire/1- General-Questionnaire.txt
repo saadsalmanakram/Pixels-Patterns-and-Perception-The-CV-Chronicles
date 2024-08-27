@@ -5832,6 +5832,12 @@ Ans- It provides a multimodal indoor simulator for navigating complex environmen
 
 (-----------------------------------------------------------------------)
 
+971- What does the House3D dataset offer?
+
+Ans- It provides a realistic 3D environment for building generalizable agents.
+
+(-----------------------------------------------------------------------)
+
 
 
 
