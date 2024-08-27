@@ -3076,3 +3076,9 @@ Ans- If the samples are similar (yi = yj), the loss minimizes their Euclidean di
 
 (------------------------------------------------------------------------)
 
+515- What happens if the samples are dissimilar in contrastive loss?
+
+Ans- If the samples are dissimilar (yi = yi), the loss maximizes their distance, up to a margin ϵ, to push their embeddings apart.
+
+(------------------------------------------------------------------------)
+
