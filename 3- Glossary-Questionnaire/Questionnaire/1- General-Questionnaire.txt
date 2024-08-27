@@ -4938,4 +4938,10 @@ Ans- To predict a single novel view from a new camera angle, minimizing the mean
 
 (-----------------------------------------------------------------------)
 
+822- What is Zero123?
+
+Ans- A diffusion model that directly predicts a new view image from a single input image and a viewpoint transformation.
+
+(-----------------------------------------------------------------------)
+
 
