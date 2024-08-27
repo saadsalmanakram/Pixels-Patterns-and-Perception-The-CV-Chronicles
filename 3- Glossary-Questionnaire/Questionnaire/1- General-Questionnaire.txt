@@ -4522,6 +4522,12 @@ Ans- The choice depends on the specific task requirements and the nature of the 
 
 (-----------------------------------------------------------------------)
 
+753- What is the significance of spatiotemporal fusion in video processing?
+
+Ans- Spatiotemporal fusion enables the model to capture both spatial and temporal dynamics, which is essential for understanding complex video content.
+
+(-----------------------------------------------------------------------)
+
 
 
 
