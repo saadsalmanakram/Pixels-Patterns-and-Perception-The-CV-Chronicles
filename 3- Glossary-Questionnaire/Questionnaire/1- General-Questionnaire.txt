@@ -4444,6 +4444,12 @@ Ans-Vision transformers are designed to capture both spatial and contextual feat
 
 (-----------------------------------------------------------------------)
 
+740- How do vision transformers process images?
+
+Ans- Vision transformers split images into non-overlapping patches and process them individually through self-attention layers.
+
+(-----------------------------------------------------------------------)
+
 
 
 
