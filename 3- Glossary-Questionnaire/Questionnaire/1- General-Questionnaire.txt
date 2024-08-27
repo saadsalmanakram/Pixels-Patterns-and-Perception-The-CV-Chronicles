@@ -4812,5 +4812,17 @@ Ans- Point clouds lack connectivity information, making it challenging to determ
 
 (-----------------------------------------------------------------------)
 
+801- How are meshes used in 3D data representation?
+
+Ans- Meshes represent surfaces using collections of triangular faces connecting vertices, commonly used in computer graphics.
+
+(-----------------------------------------------------------------------)
+
+802- What additional information can be associated with meshes?
+
+Ans- Meshes can have associated normals, colors, and texture coordinates to enhance their visual representation.
+
+(-----------------------------------------------------------------------)
+
 
 
