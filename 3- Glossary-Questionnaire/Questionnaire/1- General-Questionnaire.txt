@@ -4920,4 +4920,10 @@ Ans- They sample from multiple plausible possibilities for the unseen regions, r
 
 (-----------------------------------------------------------------------)
 
+819- What is PixelNeRF?
+
+Ans- A method that directly generates NeRF parameters from one or more input images using spatial features.
+
+(-----------------------------------------------------------------------)
+
 
