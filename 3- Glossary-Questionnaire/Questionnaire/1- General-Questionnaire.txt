@@ -5562,6 +5562,12 @@ Ans- An extension of Transformers that optimizes performance for specific hardwa
 
 (-----------------------------------------------------------------------)
 
+926- Which platforms does Optimum support?
+
+Ans- Habana, Intel, Nvidia, AWS, AMD, FuriosaAI, ONNX Runtime, BetterTransformer.
+
+(-----------------------------------------------------------------------)
+
 
 
 
