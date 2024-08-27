@@ -3664,6 +3664,12 @@ Ans- The latent space in a VAE represents a continuous probability distribution 
 
 (------------------------------------------------------------------------)
 
+613- What type of distribution is typically used in the latent space of a VAE?
+
+Ans- The latent space is often modeled as a multivariate Gaussian distribution.
+
+(------------------------------------------------------------------------)
+
 
 
 
