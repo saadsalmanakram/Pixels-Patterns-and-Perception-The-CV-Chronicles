@@ -3748,6 +3748,12 @@ Ans- The discriminator evaluates whether a sample is real (from the dataset) or 
 
 (------------------------------------------------------------------------)
 
+627- How do GANs and VAEs differ in terms of image quality?
+
+Ans- GANs typically generate higher quality images with more details, while VAEs may produce blurrier images with less detail.
+
+(------------------------------------------------------------------------)
+
 
 
 
