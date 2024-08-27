@@ -6203,3 +6203,10 @@ Ans- Overfitting occurs when a model learns the training data too well, includin
 Ans- Synthetic data might introduce overly consistent patterns or limited variations, causing a model to overfit these patterns and perform poorly on real-world data.
 
 (-----------------------------------------------------------------------)
+
+1033- What are some common patterns to avoid in synthetic data to prevent overfitting?
+
+Ans- Overly consistent color, size, background, and location should be avoided to prevent the model from learning spurious correlations.
+
+(-----------------------------------------------------------------------)
+
