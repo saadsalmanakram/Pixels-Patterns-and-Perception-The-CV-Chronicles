@@ -4054,6 +4054,19 @@ Ans- By initializing the pipeline with a text prompt and inferring the image usi
 
 (-----------------------------------------------------------------------)
 
+676- How do you perform image-to-image inference in Diffusers?
+
+Ans- Pass both an image and a text prompt to the initialized image2image pipeline to generate the output image.
+
+(-----------------------------------------------------------------------)
+
+677- What is required for inpainting with Diffusers?
+
+Ans- An image, a mask indicating the area to be inpainted, and a text prompt, along with optional negative prompts.
+
+(-----------------------------------------------------------------------)
+
+
 
 
 
