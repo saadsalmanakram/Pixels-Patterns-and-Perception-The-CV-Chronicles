@@ -6012,6 +6012,12 @@ Ans- BlenderProc offers procedural generation, supports physics simulations, and
 
 (-----------------------------------------------------------------------)
 
+1001- How is BlenderProc used with Blender’s Python environment?
+
+Ans- BlenderProc must be run inside Blender’s Python environment (bpy) to access Blender's API for rendering and scene management.
+
+(-----------------------------------------------------------------------)
+
 
 
 
