@@ -3292,4 +3292,9 @@ Ans- BLIP-2 enhances the model’s capabilities in tasks like visual question an
 
 (------------------------------------------------------------------------)
 
+551- Why is autoregressive training used in the Image-Grounded Text Decoder of BLIP?
+
+Ans- Autoregressive training is used to support tasks like generating coherent text sequences for captions or answers.
+
+(------------------------------------------------------------------------)
 
