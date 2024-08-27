@@ -4854,4 +4854,10 @@ Ans- An SDF is a function that maps each point in space to the shortest distance
 
 (-----------------------------------------------------------------------)
 
+808- Why are signed distance functions (SDFs) useful?
+
+Ans- SDFs allow for efficient computation of intersections between lines and surfaces, often using sphere tracing.
+
+(-----------------------------------------------------------------------)
+
 
