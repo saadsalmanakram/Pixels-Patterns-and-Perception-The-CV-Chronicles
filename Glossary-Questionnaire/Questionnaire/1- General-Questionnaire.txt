@@ -3106,3 +3106,21 @@ Ans- CLIP can classify images into categories it wasn't explicitly trained on by
 
 (------------------------------------------------------------------------)
 
+520- What are the key components of CLIP's architecture?
+
+Ans- CLIP consists of two independent encoders: a text encoder and an image encoder, which can be swapped with different models for flexibility.
+
+(------------------------------------------------------------------------)
+
+521- What is contrastive pre-training in CLIP?
+
+Ans- Contrastive pre-training in CLIP involves maximizing the similarity between correct image-text pairs while minimizing it for incorrect pairs using a symmetric cross-entropy loss.
+
+(------------------------------------------------------------------------)
+
+522- What is the significance of the cosine similarity matrix in CLIP?
+
+Ans- The cosine similarity matrix measures how similar each image is to every text in a batch, and CLIP aims to increase similarity for correct pairs and decrease it for incorrect pairs.
+
+(------------------------------------------------------------------------)
+
