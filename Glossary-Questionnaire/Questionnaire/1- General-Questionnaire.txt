@@ -3232,3 +3232,10 @@ Ans- By combining a vision encoder with a multimodal mixture of encoder-decoder 
 
 (------------------------------------------------------------------------)
 
+541- What is BLIP-2, and how does it improve upon BLIP?
+
+Ans- BLIP-2 is an enhanced iteration of BLIP, offering improved performance in visual question answering and other multimodal tasks.
+
+(------------------------------------------------------------------------)
+
+
