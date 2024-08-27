@@ -3424,4 +3424,10 @@ Ans- Zero-shot learning involves solving tasks with no training examples using a
 
 (------------------------------------------------------------------------)
 
+573- What is Few-shot learning?
+
+Ans- Few-shot learning refers to solving tasks with very few labeled examples, typically 5-10, using a pretrained model.
+
+(------------------------------------------------------------------------)
+
 
