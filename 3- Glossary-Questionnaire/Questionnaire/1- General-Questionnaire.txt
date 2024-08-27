@@ -5280,3 +5280,9 @@ Ans- Consider the device's resource limitations, latency requirements, power con
 
 (-----------------------------------------------------------------------)
 
+879- What are the key advantages of deploying machine learning models on cloud platforms?
+
+Ans- Scalability, managed services, and seamless integration with other cloud services.
+
+(-----------------------------------------------------------------------)
+
