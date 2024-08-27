@@ -3478,5 +3478,11 @@ Ans- CLIP can be fine-tuned on a custom dataset to perform tasks like image clas
 
 (------------------------------------------------------------------------)
 
+582- What is the role of Grounding DINO in Open-set Object Detection?
+
+Ans- Grounding DINO detects objects based on natural language input, leveraging transfer learning.
+
+(------------------------------------------------------------------------)
+
 
 
