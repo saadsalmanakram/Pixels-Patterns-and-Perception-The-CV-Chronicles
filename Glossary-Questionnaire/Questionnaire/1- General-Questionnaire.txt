@@ -3874,6 +3874,13 @@ Ans- CycleGAN is a framework for unpaired image-to-image translation, allowing s
 
 (-------------------------------------------------------------------------)
 
+646- Why is CycleGAN significant in image-to-image translation?
+
+Ans- It addresses the challenge of translating between domains where paired datasets are unavailable, making it versatile for various applications.
+
+(-------------------------------------------------------------------------)
+
+
 
 
 
