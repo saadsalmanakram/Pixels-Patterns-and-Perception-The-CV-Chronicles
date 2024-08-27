@@ -6006,6 +6006,12 @@ Ans- It automates scene generation and rendering, supports procedural generation
 
 (-----------------------------------------------------------------------)
 
+1000- What are the benefits of using BlenderProc for synthetic data generation?
+
+Ans- BlenderProc offers procedural generation, supports physics simulations, and enables scalable and automated data creation with scripting.
+
+(-----------------------------------------------------------------------)
+
 
 
 
