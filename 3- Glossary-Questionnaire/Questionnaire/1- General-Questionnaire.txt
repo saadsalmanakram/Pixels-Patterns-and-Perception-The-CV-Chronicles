@@ -5088,4 +5088,10 @@ Ans- A NeRF is a neural network-based model that stores and represents 3D scenes
 
 (-----------------------------------------------------------------------)
 
+847- How does NeRF differ from traditional 3D representations?
+
+Ans- NeRF uses an implicit representation via an MLP, unlike traditional methods that store explicit scene parameters in voxel grids.
+
+(-----------------------------------------------------------------------)
+
 
