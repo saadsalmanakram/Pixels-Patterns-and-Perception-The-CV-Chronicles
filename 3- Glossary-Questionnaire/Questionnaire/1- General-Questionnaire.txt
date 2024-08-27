@@ -6126,4 +6126,10 @@ Ans- The main components are the diffusion process, image encoder/decoder, and o
 
 (-----------------------------------------------------------------------)
 
+1020- How does the image encoder and decoder work in diffusion models?
+
+Ans- They compress images into a smaller dimensional space and then reconstruct them, improving performance by abstracting irrelevant details.
+
+(-----------------------------------------------------------------------)
+
 
