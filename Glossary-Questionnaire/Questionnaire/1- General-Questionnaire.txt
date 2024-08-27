@@ -3904,6 +3904,12 @@ Ans- PatchGAN discriminators assess image patches rather than whole images, enha
 
 (-------------------------------------------------------------------------)
 
+651- How do CycleGAN generators work?
+
+Ans- They are based on U-Net and DCGAN architectures, using downsampling, upsampling, convolutional layers, and residual connections for effective image translation.
+
+(-------------------------------------------------------------------------)
+
 
 
 
