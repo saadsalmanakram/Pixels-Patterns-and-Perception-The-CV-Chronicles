@@ -3784,6 +3784,12 @@ Ans- VAEs would be preferred for their stability and easier training process.
 
 (------------------------------------------------------------------------)
 
+633- What is the adversarial training process in GANs?
+
+Ans- The generator and discriminator are trained simultaneously, with the generator aiming to produce realistic data and the discriminator working to distinguish real from fake data.
+
+(------------------------------------------------------------------------)
+
 
 
 
