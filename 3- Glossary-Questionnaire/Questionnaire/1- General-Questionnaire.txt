@@ -6523,4 +6523,10 @@ Ans- Semantic embeddings help the model project image features into a semantic s
 
 (------------------------------------------------------------------------)
 
+1086- What is the relationship between Zero-shot Learning and CLIP?
+
+Ans- Both aim to classify unseen classes, but CLIP generalizes further by learning directly from natural language descriptions, combining textual and visual data.
+
+(------------------------------------------------------------------------)
+
 
