@@ -4884,4 +4884,9 @@ Ans- Trilinear interpolation estimates the value at any point in space by interp
 
 (-----------------------------------------------------------------------)
 
+813- Why might a small MLP be used in representing volumetric data?
+
+Ans- A small MLP can provide a compact and efficient way to represent complex volumetric data, such as in InstantNGP.
+
+(-----------------------------------------------------------------------)
 
