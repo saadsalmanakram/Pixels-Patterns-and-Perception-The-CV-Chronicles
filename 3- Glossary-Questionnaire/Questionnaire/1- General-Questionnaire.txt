@@ -4962,4 +4962,10 @@ Ans- It concatenates CLIP image embeddings with the relative viewpoint transform
 
 (-----------------------------------------------------------------------)
 
+826- What dataset is used in the ObjaverseXL paper related to PixelNeRF?
+
+Ans- A much larger dataset from ObjaverseXL.
+
+(-----------------------------------------------------------------------)
+
 
