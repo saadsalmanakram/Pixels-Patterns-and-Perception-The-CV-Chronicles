@@ -4890,3 +4890,10 @@ Ans- A small MLP can provide a compact and efficient way to represent complex vo
 
 (-----------------------------------------------------------------------)
 
+814- What is Novel View Synthesis (NVS)?
+
+Ans- A collection of methods to generate views from new camera angles that are consistent with a set of images.
+
+(-----------------------------------------------------------------------)
+
+
