@@ -4246,6 +4246,18 @@ Ans- It enables the identification of different objects and regions within an im
 
 (-----------------------------------------------------------------------)
 
+707- What are the main types of image segmentation?
+
+Ans- The main types are semantic segmentation, instance segmentation, and panoptic segmentation.
+
+(-----------------------------------------------------------------------)
+
+708- Explain semantic segmentation.
+
+Ans- Semantic segmentation assigns a class to each pixel without distinguishing between individual instances of the same class.
+
+(-----------------------------------------------------------------------)
+
 
 
 
