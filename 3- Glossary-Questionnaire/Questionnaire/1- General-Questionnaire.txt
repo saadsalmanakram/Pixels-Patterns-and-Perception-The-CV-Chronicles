@@ -4324,6 +4324,12 @@ Ans- The Dice coefficient is often used when sensitivity to small overlaps is im
 
 (-----------------------------------------------------------------------)
 
+720- What are the main challenges in image segmentation?
+
+Ans- Challenges include handling diverse object scales, class imbalance, and the need for high accuracy in boundary regions.
+
+(-----------------------------------------------------------------------)
+
 
 
 
