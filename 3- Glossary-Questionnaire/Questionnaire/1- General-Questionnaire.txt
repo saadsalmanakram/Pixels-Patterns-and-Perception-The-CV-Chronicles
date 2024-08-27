@@ -4656,3 +4656,9 @@ Ans- Multiply the 3D point by the camera matrix and then divide by the last comp
 
 (-----------------------------------------------------------------------)
 
+775- Why might you need to adjust the camera matrix when using Blender conventions?
+
+Ans- To account for image flipping due to the negative Z-axis convention.
+
+(-----------------------------------------------------------------------)
+
