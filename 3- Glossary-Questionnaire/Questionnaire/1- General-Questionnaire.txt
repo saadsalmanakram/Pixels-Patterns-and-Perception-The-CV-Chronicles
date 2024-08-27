@@ -4618,3 +4618,9 @@ Ans- Light rays pass through the pinhole and form an inverted image on the oppos
 
 (-----------------------------------------------------------------------)
 
+769- What are the camera axes conventions used in Blender?
+
+Ans- The camera points along the negative Z-axis, the X-axis points left, and the Y-axis points up.
+
+(-----------------------------------------------------------------------)
+
