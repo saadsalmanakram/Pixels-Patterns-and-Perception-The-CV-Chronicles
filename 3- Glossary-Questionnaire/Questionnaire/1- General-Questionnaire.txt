@@ -4594,3 +4594,9 @@ Ans- A camera model describes how a 3D scene is projected onto a 2D image plane.
 
 (-----------------------------------------------------------------------)
 
+765- What is the primary purpose of a camera model in 3D graphics?
+
+Ans- To simulate how real-world scenes are captured and rendered in a digital format.
+
+(-----------------------------------------------------------------------)
+
