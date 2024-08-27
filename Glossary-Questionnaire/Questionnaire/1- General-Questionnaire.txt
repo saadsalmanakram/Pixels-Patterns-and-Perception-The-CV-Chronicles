@@ -4114,6 +4114,12 @@ Ans- Dreambooth requires only a few images of the subject or style you want the 
 
 (-----------------------------------------------------------------------)
 
+686- How do you load LoRA weights into a diffusion model?
+
+Ans- LoRA weights can be loaded into a diffusion model using methods provided by libraries like Hugging Face's diffusers.
+
+(-----------------------------------------------------------------------)
+
 
 
 
