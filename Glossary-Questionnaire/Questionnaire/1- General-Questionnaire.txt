@@ -3298,3 +3298,10 @@ Ans- Autoregressive training is used to support tasks like generating coherent t
 
 (------------------------------------------------------------------------)
 
+552- What is the significance of the [CLS] token in BLIP’s architecture?
+
+Ans- The [CLS] token is used in the Vision Transformer and Unimodal Text Encoder to create embedding representations crucial for multimodal processing.
+
+(------------------------------------------------------------------------)
+
+
