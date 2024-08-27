@@ -3334,5 +3334,11 @@ Ans- OWL-ViT is developed in two stages: pre-training with a vision and language
 
 (------------------------------------------------------------------------)
 
+558- How does OWL-ViT derive box coordinates for detected objects?
+
+Ans- Box coordinates are derived from token representations through a small MLP during the fine-tuning stage.
+
+(------------------------------------------------------------------------)
+
 
 
