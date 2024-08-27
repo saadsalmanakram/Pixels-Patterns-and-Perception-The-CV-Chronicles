@@ -5772,6 +5772,12 @@ Ans- It includes 8,591 stereo frames useful for training algorithms on disparity
 
 (-----------------------------------------------------------------------)
 
+961- What does the Tsukuba Stereo dataset include?
+
+Ans- It features 1,800 stereo pairs with ground truth disparity, occlusion, and discontinuity maps.
+
+(-----------------------------------------------------------------------)
+
 
 
 
