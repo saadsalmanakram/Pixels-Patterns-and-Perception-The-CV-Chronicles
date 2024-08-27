@@ -5004,4 +5004,10 @@ Ans- A single image can only reduce the possible locations of a point to a line 
 
 (-----------------------------------------------------------------------)
 
+833- Why are two images from different positions necessary in stereo vision?
+
+Ans- Two images provide two different lines of sight, whose intersection determines the unique 3D coordinates of the point.
+
+(-----------------------------------------------------------------------)
+
 
