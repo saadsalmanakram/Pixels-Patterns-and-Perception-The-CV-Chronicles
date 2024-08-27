@@ -5388,3 +5388,9 @@ Ans- Detecting deviations in model behavior to identify issues like distribution
 
 (-----------------------------------------------------------------------)
 
+897- What is the purpose of real-time monitoring in model deployment?
+
+Ans- To immediately identify issues like spikes in prediction errors or unusual input patterns.
+
+(-----------------------------------------------------------------------)
+
