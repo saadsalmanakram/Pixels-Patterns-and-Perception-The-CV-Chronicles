@@ -3592,6 +3592,12 @@ Ans- An autoencoder is a type of neural network used for unsupervised learning, 
 
 (------------------------------------------------------------------------)
 
+601- What are the main components of an autoencoder?
+
+Ans- The main components are the encoder, which compresses the input data, and the decoder, which reconstructs it.
+
+(------------------------------------------------------------------------)
+
 
 
 
