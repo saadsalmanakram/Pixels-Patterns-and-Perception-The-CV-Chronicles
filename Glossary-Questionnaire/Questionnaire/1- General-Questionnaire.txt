@@ -3988,6 +3988,12 @@ Ans- SDEs model diffusion through forward and reverse processes, generalizing DD
 
 (------------------------------------------------------------------------)
 
+665- What are some use cases of diffusion models?
+
+Ans- Diffusion models are used for tasks like image generation, super-resolution, inpainting, editing, image-to-image translation, segmentation, classification, and anomaly detection.
+
+(------------------------------------------------------------------------)
+
 
 
 
