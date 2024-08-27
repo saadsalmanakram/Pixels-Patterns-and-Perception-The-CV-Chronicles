@@ -3652,6 +3652,12 @@ Ans- A VAE is a type of autoencoder that introduces a probabilistic approach to 
 
 (------------------------------------------------------------------------)
 
+611- How do VAEs differ from traditional autoencoders?
+
+Ans- VAEs model the latent space as a probability distribution rather than a fixed vector, enabling them to generate new data points.
+
+(------------------------------------------------------------------------)
+
 
 
 
