@@ -4998,3 +4998,10 @@ Ans- It uses the geometry of image formation by comparing pixel coordinates in m
 
 (-----------------------------------------------------------------------)
 
+832- What is the problem with using a single image to find the 3D coordinates of a point?
+
+Ans- A single image can only reduce the possible locations of a point to a line in 3D space, not a unique point.
+
+(-----------------------------------------------------------------------)
+
+
