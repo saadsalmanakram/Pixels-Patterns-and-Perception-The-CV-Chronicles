@@ -4432,6 +4432,12 @@ Ans- Video quality is determined by resolution, frame rate, bitrate, and codec e
 
 (-----------------------------------------------------------------------)
 
+738- In what units is video resolution typically expressed?
+
+Ans- Video resolution is typically expressed in terms of width x height pixels.
+
+(-----------------------------------------------------------------------)
+
 
 
 
