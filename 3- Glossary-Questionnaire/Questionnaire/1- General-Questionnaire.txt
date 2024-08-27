@@ -5604,6 +5604,12 @@ Ans- It provides an end-to-end infrastructure from cloud to edge for AI solution
 
 (-----------------------------------------------------------------------)
 
+933- What is the primary focus of EdgeTPU?
+
+Ans- Deploying high-accuracy AI solutions in resource-constrained edge environments.
+
+(-----------------------------------------------------------------------)
+
 
 
 
