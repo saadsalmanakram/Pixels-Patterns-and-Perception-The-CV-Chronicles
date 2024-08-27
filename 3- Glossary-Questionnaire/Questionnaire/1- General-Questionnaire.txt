@@ -6649,4 +6649,10 @@ Ans- It can cause the model to perform poorly on underrepresented groups in the 
 
 (------------------------------------------------------------------------)
 
+1107- What are some methods to spot bias in computer vision models?
+
+Ans- Techniques include error analysis, subgroup performance evaluation, and auditing model outputs.
+
+(------------------------------------------------------------------------)
+
 
