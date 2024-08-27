@@ -5610,6 +5610,12 @@ Ans- Deploying high-accuracy AI solutions in resource-constrained edge environme
 
 (-----------------------------------------------------------------------)
 
+934- What makes EdgeTPU ideal for edge AI deployment?
+
+Ans- Its combination of custom hardware, open software, and AI algorithms optimized for the edge.
+
+(-----------------------------------------------------------------------)
+
 
 
 
