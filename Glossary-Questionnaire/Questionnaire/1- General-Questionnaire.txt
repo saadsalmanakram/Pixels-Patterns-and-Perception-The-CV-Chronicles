@@ -3460,5 +3460,11 @@ Ans- Catastrophic forgetting happens when a model loses previously learned knowl
 
 (------------------------------------------------------------------------)
 
+579- How does Transfer Learning enhance model performance?
+
+Ans- Transfer learning enhances performance by integrating prior knowledge encoded in pretrained model weights into the new task.
+
+(------------------------------------------------------------------------)
+
 
 
