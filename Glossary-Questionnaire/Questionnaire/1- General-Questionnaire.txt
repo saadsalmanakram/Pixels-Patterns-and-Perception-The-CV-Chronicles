@@ -3406,4 +3406,10 @@ Ans- Open-vocabulary detection is crucial for applications requiring the identif
 
 (------------------------------------------------------------------------)
 
+570- How does OWL-ViT integrate language understanding with visual perception?
+
+Ans- OWL-ViT integrates language understanding with visual perception by using a shared embedding space learned through contrastive loss.
+
+(------------------------------------------------------------------------)
+
 
