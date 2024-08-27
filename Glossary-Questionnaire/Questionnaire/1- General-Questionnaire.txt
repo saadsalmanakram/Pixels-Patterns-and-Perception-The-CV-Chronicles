@@ -3016,4 +3016,10 @@ Ans- The paper introduced methods to align textual data with specific image regi
 
 (------------------------------------------------------------------------)
 
+505- How did "Show and Tell: A Neural Image Caption Generator" by Vinyals et al. (2015) contribute to multimodal AI?
+
+Ans- It demonstrated how CNNs and RNNs could be combined to generate descriptive language from visual inputs, marking a significant step in practical multimodal AI.
+
+(------------------------------------------------------------------------)
+
 
