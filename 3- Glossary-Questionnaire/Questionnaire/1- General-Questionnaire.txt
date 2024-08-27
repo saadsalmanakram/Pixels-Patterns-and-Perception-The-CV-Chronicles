@@ -4728,5 +4728,11 @@ Ans- A transformation is an operation that changes the position, orientation, or
 
 (-----------------------------------------------------------------------)
 
+787- What is a homogeneous coordinate in 3D transformations?
+
+Ans- A homogeneous coordinate in 3D is an extension of Cartesian coordinates, adding an extra coordinate w, typically set to 1, to allow for transformations like translation.
+
+(-----------------------------------------------------------------------)
+
 
 
