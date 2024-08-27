@@ -6547,4 +6547,10 @@ Ans- The main challenge is that the model must distinguish between novel unseen 
 
 (------------------------------------------------------------------------)
 
+1090- What role do attributes play in Transductive ZSL?
+
+Ans- Attributes in Transductive ZSL provide additional structural information about unseen classes, helping the model generalize better.
+
+(------------------------------------------------------------------------)
+
 
