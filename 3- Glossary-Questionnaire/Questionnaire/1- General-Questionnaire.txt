@@ -5580,6 +5580,12 @@ Ans- Use `pip install optimum`.
 
 (-----------------------------------------------------------------------)
 
+929- Why is Optimum beneficial in AI development?
+
+Ans- It leverages specialized hardware optimizations while maintaining ease of use in Transformers.
+
+(-----------------------------------------------------------------------)
+
 
 
 
