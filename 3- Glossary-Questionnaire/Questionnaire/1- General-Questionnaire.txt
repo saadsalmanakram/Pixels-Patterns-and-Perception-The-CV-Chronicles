@@ -4534,6 +4534,12 @@ Ans- It provides depth perception to better perceive distances to surrounding ob
 
 (-----------------------------------------------------------------------)
 
+755- Who invented stereoscopy and what is its main technique?
+
+Ans- Sir Charles Wheatstone invented stereoscopy, which involves presenting offset images to each eye through a stereoscope to create depth perception.
+
+(-----------------------------------------------------------------------)
+
 
 
 
