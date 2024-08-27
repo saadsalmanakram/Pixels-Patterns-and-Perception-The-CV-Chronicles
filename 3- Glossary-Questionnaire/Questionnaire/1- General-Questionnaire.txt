@@ -6222,3 +6222,9 @@ Ans- Limited diversity can cause the model to underperform in real-world scenari
 
 (-----------------------------------------------------------------------)
 
+1036- How can you address existing biases in data when generating synthetic data?
+
+Ans- Ensure that the synthetic data generation process includes a diverse range of scenarios and classes to counteract existing biases.
+
+(-----------------------------------------------------------------------)
+
