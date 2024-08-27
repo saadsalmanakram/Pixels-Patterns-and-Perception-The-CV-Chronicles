@@ -4644,3 +4644,9 @@ Ans-              [fx 0  cx]
 
 (-----------------------------------------------------------------------)
 
+773- What is the purpose of the camera matrix K?
+
+Ans- To map 3D coordinates to 2D image coordinates.
+
+(-----------------------------------------------------------------------)
+
