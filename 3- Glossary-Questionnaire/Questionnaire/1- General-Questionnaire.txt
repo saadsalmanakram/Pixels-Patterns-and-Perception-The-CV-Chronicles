@@ -6685,4 +6685,10 @@ Ans- A web application that exposed biases in AI models by returning offensive l
 
 (------------------------------------------------------------------------)
 
+1113- Who developed the ImageNet Roulette experiment?
+
+Ans- Artist Trevor Paglen and researcher Kate Crawford.
+
+(------------------------------------------------------------------------)
+
 
