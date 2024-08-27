@@ -3928,6 +3928,12 @@ Ans- Both losses are combined to form a comprehensive loss function, optimized s
 
 (-------------------------------------------------------------------------)
 
+655- What is least-square loss in CycleGAN?
+
+Ans- It's a loss function that minimizes the squared distance between the discriminator’s predictions and the actual labels, helping prevent vanishing gradients and mode collapse.
+
+(-------------------------------------------------------------------------)
+
 
 
 
