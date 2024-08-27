@@ -4000,6 +4000,12 @@ Ans- Diffusion models provide stable training and greater diversity in outputs c
 
 (------------------------------------------------------------------------)
 
+667- What is a major drawback of diffusion models?
+
+Ans- Diffusion models require multiple steps during inference to generate a single sample, making them computationally intensive and slower than GANs.
+
+(------------------------------------------------------------------------)
+
 
 
 
