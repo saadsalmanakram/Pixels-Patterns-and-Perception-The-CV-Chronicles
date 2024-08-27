@@ -5916,6 +5916,12 @@ Ans- It includes synthetic images for 3D object detection and pose estimation.
 
 (-----------------------------------------------------------------------)
 
+985- What does PartNet provide?
+
+Ans- It offers a large-scale benchmark for part-level 3D object understanding.
+
+(-----------------------------------------------------------------------)
+
 
 
 
