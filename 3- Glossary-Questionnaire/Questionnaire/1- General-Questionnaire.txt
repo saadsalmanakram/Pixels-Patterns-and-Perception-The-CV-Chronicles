@@ -6324,5 +6324,11 @@ Ans- The 3DS format is a binary file structure used by Autodesk 3D Studio, featu
 
 (-----------------------------------------------------------------------)
 
+1053- Describe the X3D format.
+
+Ans- X3D is an XML-based format for 3D graphics that supports vector and raster graphics, transparency, and animations.
+
+(-----------------------------------------------------------------------)
+
 
 
