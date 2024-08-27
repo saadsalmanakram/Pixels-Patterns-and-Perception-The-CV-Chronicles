@@ -3580,5 +3580,11 @@ Ans- The CLIP Score is used to evaluate text-to-image models by measuring cosine
 
 (------------------------------------------------------------------------)
 
+599- What does the paper 'The Role of ImageNet Classes in Fréchet Inception Distance' analyze?
+
+Ans- It analyzes what FID considers important in an image and how ImageNet features affect the FID score.
+
+(------------------------------------------------------------------------)
+
 
 
