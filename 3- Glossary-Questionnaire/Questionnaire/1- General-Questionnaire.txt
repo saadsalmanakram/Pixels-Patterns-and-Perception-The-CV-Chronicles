@@ -6252,4 +6252,17 @@ Ans- The Inception Score measures the confidence of a pre-trained model in recog
 
 (-----------------------------------------------------------------------)
 
+1041- How does the Classification Accuracy Score (CAS) help in assessing synthetic data?
+
+Ans- CAS measures how well a model performs on synthetic data, with higher accuracy indicating that the synthetic images effectively capture real data patterns.
+
+(-----------------------------------------------------------------------)
+
+1042- Why is it important to continuously monitor a model's performance after training with synthetic data?
+
+Ans- Continuous monitoring ensures the model adapts to new trends or data variations not present in the synthetic data, maintaining its effectiveness in real-world applications.
+
+(-----------------------------------------------------------------------)
+
+
 
