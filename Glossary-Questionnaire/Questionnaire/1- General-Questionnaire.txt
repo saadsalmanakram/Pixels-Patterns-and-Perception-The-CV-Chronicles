@@ -3574,5 +3574,11 @@ Ans- Inception Score (IS) assesses the quality and diversity of generated images
 
 (------------------------------------------------------------------------)
 
+598- What is the CLIP Score used for?
+
+Ans- The CLIP Score is used to evaluate text-to-image models by measuring cosine similarity between the generated image and the text prompt.
+
+(------------------------------------------------------------------------)
+
 
 
