@@ -3946,6 +3946,18 @@ Ans- The lambda term adjusts the weight of identity loss relative to other loss 
 
 (-------------------------------------------------------------------------)
 
+658- How does CycleGAN differ from traditional GANs?
+
+Ans- Unlike traditional GANs that rely on paired datasets, CycleGAN can perform image translation using unpaired datasets.
+
+(-------------------------------------------------------------------------)
+
+659- Why is CycleGAN particularly useful for artistic style transfer?
+
+Ans- It allows the transfer of artistic styles between domains without needing paired images, making it ideal for applications like converting photos to paintings.
+
+(-------------------------------------------------------------------------)
+
 
 
 
