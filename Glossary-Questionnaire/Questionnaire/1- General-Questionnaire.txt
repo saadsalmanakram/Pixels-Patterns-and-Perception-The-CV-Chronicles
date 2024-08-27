@@ -3142,3 +3142,9 @@ Ans- While CLIP excels in zero-shot classification, it generally does not outper
 
 (------------------------------------------------------------------------)
 
+526- What are the limitations of CLIP?
+
+Ans- CLIP's generalization capabilities are limited, particularly with data or examples not encountered during training, and it shows biases in categories like gender and race.
+
+(------------------------------------------------------------------------)
+
