@@ -5352,3 +5352,9 @@ Ans- By allowing clients to send input data and receive predictions via HTTP end
 
 (-----------------------------------------------------------------------)
 
+891- What is gRPC, and how does it relate to model serving?
+
+Ans- A high-performance, language-agnostic framework for efficient communication between clients and servers.
+
+(-----------------------------------------------------------------------)
+
