@@ -3868,6 +3868,12 @@ Ans- StyleGAN helps in generating synthetic data and anonymizing images to prote
 
 (-------------------------------------------------------------------------)
 
+645- What is CycleGAN?
+
+Ans- CycleGAN is a framework for unpaired image-to-image translation, allowing style transfer between two image domains without requiring paired examples.
+
+(-------------------------------------------------------------------------)
+
 
 
 
