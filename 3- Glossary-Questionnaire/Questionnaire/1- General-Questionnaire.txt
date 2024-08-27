@@ -5958,6 +5958,12 @@ Ans- It provides a large collection of object scans for 3D modeling and analysis
 
 (-----------------------------------------------------------------------)
 
+992- What is Physically Based Rendering (PBR)?
+
+Ans- PBR is a rendering technique that simulates how light interacts with materials to create photorealistic images.
+
+(-----------------------------------------------------------------------)
+
 
 
 
