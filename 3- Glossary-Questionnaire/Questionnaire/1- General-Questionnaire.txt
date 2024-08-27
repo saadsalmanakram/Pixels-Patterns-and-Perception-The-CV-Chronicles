@@ -6282,5 +6282,17 @@ Ans- BRDF describes how light is scattered or reflected at a surface, considerin
 
 (-----------------------------------------------------------------------)
 
+1046- What are some common applications of point clouds?
+
+Ans- Common applications include autonomous vehicles, augmented reality, and 3D modeling for simulations.
+
+(-----------------------------------------------------------------------)
+
+1047- What is LiDAR and how is it used with point clouds?
+
+Ans- LiDAR is a remote sensing technology that uses light to measure distances and create detailed 3D models of environments.
+
+(-----------------------------------------------------------------------)
+
 
 
