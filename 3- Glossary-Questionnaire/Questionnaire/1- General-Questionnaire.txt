@@ -5946,6 +5946,12 @@ Ans- It offers a large set of RGB-D images for evaluating segmentation performan
 
 (-----------------------------------------------------------------------)
 
+990- What is DepthSynth used for?
+
+Ans- It simulates depth sensors for generating realistic 2.5D data from CAD models.
+
+(-----------------------------------------------------------------------)
+
 
 
 
