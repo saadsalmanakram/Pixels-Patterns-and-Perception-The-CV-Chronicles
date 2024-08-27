@@ -6595,4 +6595,10 @@ Ans- AwA's attribute-based classification supports transfer-learning algorithms,
 
 (------------------------------------------------------------------------)
 
+1098- Why is the ImageNet dataset relevant for ZSL?
+
+Ans- ImageNet's large-scale and hierarchical structure make it a critical resource for testing the scalability of ZSL algorithms.
+
+(------------------------------------------------------------------------)
+
 
