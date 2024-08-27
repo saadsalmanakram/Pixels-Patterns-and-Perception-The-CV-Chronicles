@@ -6312,5 +6312,11 @@ Ans- STL format is used for representing 3D models with triangular facets, but i
 
 (-----------------------------------------------------------------------)
 
+1051- How does the OFF format represent 3D models?
+
+Ans- OFF format represents 3D models using polygons defined by their vertices, with support for both ASCII and binary versions.
+
+(-----------------------------------------------------------------------)
+
 
 
