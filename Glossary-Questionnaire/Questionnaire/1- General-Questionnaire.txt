@@ -3880,6 +3880,12 @@ Ans- It addresses the challenge of translating between domains where paired data
 
 (-------------------------------------------------------------------------)
 
+647- What is unpaired image-to-image translation?
+
+Ans- It involves translating images between two distinct domains without direct one-to-one correspondence between images in each domain.
+
+(-------------------------------------------------------------------------)
+
 
 
 
