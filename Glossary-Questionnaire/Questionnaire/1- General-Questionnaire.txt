@@ -3166,3 +3166,9 @@ Ans- The provided code example demonstrates how CLIP can perform zero-shot class
 
 (------------------------------------------------------------------------)
 
+530- What are the accuracy limitations of CLIP when tested on datasets like Fairface?
+
+Ans- CLIP showed gender classification accuracy over 96% and racial classification accuracy around 93% on the Fairface dataset.
+
+(------------------------------------------------------------------------)
+
