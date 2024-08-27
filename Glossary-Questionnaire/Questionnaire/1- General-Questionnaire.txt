@@ -4162,6 +4162,12 @@ Ans- They can undermine trust in media, harass and defame individuals, and creat
 
 (-----------------------------------------------------------------------)
 
+694- What are current approaches to address the ethical concerns of AI-edited images?
+
+Ans- Approaches include transparency and labeling, fact-checking and verification tools, and legal frameworks.
+
+(-----------------------------------------------------------------------)
+
 
 
 
