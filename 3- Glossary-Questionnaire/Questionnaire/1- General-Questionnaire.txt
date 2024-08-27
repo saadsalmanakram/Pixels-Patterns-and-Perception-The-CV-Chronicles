@@ -6619,4 +6619,10 @@ Ans- It highlighted the potential for bias and stereotyping in AI models trained
 
 (------------------------------------------------------------------------)
 
+1102- What were the ethical implications of ImageNet Roulette?
+
+Ans- It exposed how AI can reinforce harmful stereotypes, underscoring the need for responsible dataset curation.
+
+(------------------------------------------------------------------------)
+
 
