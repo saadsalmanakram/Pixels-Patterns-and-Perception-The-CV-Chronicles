@@ -5442,4 +5442,10 @@ Ans- It optimizes models by converting them to INT8, reducing size and memory ba
 
 (-----------------------------------------------------------------------)
 
+906- What are the different quantization methods supported by PyTorch?
+
+Ans- Post-training quantization, quantization-aware training, and direct construction with quantized tensors.
+
+(-----------------------------------------------------------------------)
+
 
