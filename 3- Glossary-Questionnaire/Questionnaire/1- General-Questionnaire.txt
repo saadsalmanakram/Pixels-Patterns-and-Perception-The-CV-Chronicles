@@ -5076,4 +5076,10 @@ Ans- Image rectification involves adjusting images to align corresponding points
 
 (-----------------------------------------------------------------------)
 
+845- Why might additional processing be required even with a pre-calibrated stereo vision setup?
+
+Ans- Raw images may need rectification to correct slight deviations in alignment between the cameras and improve depth accuracy.
+
+(-----------------------------------------------------------------------)
+
 
