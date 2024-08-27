@@ -3754,6 +3754,12 @@ Ans- GANs typically generate higher quality images with more details, while VAEs
 
 (------------------------------------------------------------------------)
 
+628- Which model is easier to train, GANs or VAEs?
+
+Ans- VAEs are generally easier to train and more stable compared to GANs.
+
+(------------------------------------------------------------------------)
+
 
 
 
