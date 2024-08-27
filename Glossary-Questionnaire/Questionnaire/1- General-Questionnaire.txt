@@ -3514,5 +3514,11 @@ Ans- GAN-based models and diffusion-based models.
 
 (------------------------------------------------------------------------)
 
+588- What is a GAN-based model?
+
+Ans- A GAN-based model, like DCGAN, uses adversarial training to generate realistic images from noise.
+
+(------------------------------------------------------------------------)
+
 
 
