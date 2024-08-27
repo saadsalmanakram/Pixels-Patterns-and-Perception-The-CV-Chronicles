@@ -5616,6 +5616,12 @@ Ans- Its combination of custom hardware, open software, and AI algorithms optimi
 
 (-----------------------------------------------------------------------)
 
+935- What is synthetic data?
+
+Ans- Synthetic data is artificially generated data that mimics the statistical properties of real data, created using mathematical models or algorithms.
+
+(-----------------------------------------------------------------------)
+
 
 
 
