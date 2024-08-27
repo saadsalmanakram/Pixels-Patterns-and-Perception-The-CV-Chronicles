@@ -4636,3 +4636,11 @@ Ans- Focal lengths fx and fy, and the coordinates of the principal point cx and 
 
 (-----------------------------------------------------------------------)
 
+772- How is the camera matrix K constructed for a pinhole camera?
+
+Ans-              [fx 0  cx]
+               k= [0  fy cy]
+                  [0  0   1]
+
+(-----------------------------------------------------------------------)
+
