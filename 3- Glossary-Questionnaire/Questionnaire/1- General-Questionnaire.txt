@@ -6174,4 +6174,10 @@ Ans- Custom Diffusion fine-tunes part of the diffusion process and the text enco
 
 (-----------------------------------------------------------------------)
 
+1028- How can diffusion models be applied in the context of extending existing datasets?
+
+Ans- By generating additional samples to augment the dataset and improve model training.
+
+(-----------------------------------------------------------------------)
+
 
