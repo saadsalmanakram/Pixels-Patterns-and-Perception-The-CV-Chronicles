@@ -3088,3 +3088,9 @@ Ans- The margin ϵ prevents the embeddings of dissimilar samples from being push
 
 (------------------------------------------------------------------------)
 
+517- How does contrastive loss contribute to training models like CLIP?
+
+Ans- Contrastive loss helps CLIP align visual and textual representations by bringing similar image-text pairs closer and pushing dissimilar pairs apart in the embedding space.
+
+(------------------------------------------------------------------------)
+
