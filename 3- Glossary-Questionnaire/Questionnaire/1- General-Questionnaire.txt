@@ -6084,4 +6084,10 @@ Ans- CenterCrop ensures that the image is centered and cropped to the desired si
 
 (-----------------------------------------------------------------------)
 
+1013- How does DCGAN handle downsampling differently from traditional GANs?
+
+Ans- DCGAN uses strided convolutions instead of max-pooling for downsampling, preserving spatial information better.
+
+(-----------------------------------------------------------------------)
+
 
