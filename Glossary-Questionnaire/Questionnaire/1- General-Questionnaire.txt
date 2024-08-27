@@ -3526,5 +3526,11 @@ Ans- A diffusion model generates images by gradually transforming noise into a c
 
 (------------------------------------------------------------------------)
 
+590- Why is it challenging to evaluate generative models?
+
+Ans- Evaluating generative models is challenging because there's often no solid "ground truth" and quantifying image quality is difficult.
+
+(------------------------------------------------------------------------)
+
 
 
