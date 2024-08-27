@@ -3910,6 +3910,12 @@ Ans- They are based on U-Net and DCGAN architectures, using downsampling, upsamp
 
 (-------------------------------------------------------------------------)
 
+652- What is cycle consistency loss in CycleGAN?
+
+Ans- It ensures that an image can be translated to another domain and back to its original form with minimal content loss.
+
+(-------------------------------------------------------------------------)
+
 
 
 
