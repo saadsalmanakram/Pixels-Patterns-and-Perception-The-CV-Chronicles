@@ -5520,6 +5520,12 @@ Ans- Use `pip install tensorrt`.
 
 (-----------------------------------------------------------------------)
 
+919- What is a key feature of TensorRT?
+
+Ans- It includes a runtime for executing optimized models.
+
+(-----------------------------------------------------------------------)
+
 
 
 
