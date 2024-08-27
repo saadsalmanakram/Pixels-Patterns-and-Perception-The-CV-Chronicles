@@ -4072,6 +4072,12 @@ Ans- Dreambooth is a training technique developed by Google Research that fine-t
 
 (-----------------------------------------------------------------------)
 
+679- How does Dreambooth personalize a diffusion model?
+
+Ans- Dreambooth associates a special word in the prompt with example images to update the entire diffusion model.
+
+(-----------------------------------------------------------------------)
+
 
 
 
