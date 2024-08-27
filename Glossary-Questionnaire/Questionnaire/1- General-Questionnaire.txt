@@ -4012,6 +4012,12 @@ Ans- Research into Latent Consistency Models (LCMs) aims to speed up inference b
 
 (------------------------------------------------------------------------)
 
+669- Why do diffusion models struggle with rendering readable text in images?
+
+Ans- Diffusion models often use CLIP embeddings for text-to-image generation, which lack detailed information about spelling, leading to difficulties in rendering text accurately.
+
+(------------------------------------------------------------------------)
+
 
 
 
