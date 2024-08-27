@@ -3496,5 +3496,17 @@ Ans- Generative vision models learn the distribution of data to generate new sam
 
 (------------------------------------------------------------------------)
 
+585- How do generative models differ from discriminative models?
+
+Ans- Generative models learn to model the distribution of different classes, while discriminative models focus on learning the boundaries between classes.
+
+(------------------------------------------------------------------------)
+
+586- What are some tasks that generative vision models can solve?
+
+Ans- Generative vision models can solve tasks such as noise to image (DCGAN), text to image (diffusion models), and image to image (StyleGAN, CycleGAN).
+
+(------------------------------------------------------------------------)
+
 
 
