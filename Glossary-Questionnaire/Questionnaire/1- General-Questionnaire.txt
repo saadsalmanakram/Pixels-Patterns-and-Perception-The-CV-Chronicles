@@ -4006,6 +4006,12 @@ Ans- Diffusion models require multiple steps during inference to generate a sing
 
 (------------------------------------------------------------------------)
 
+668- How is the slow inference process of diffusion models being addressed?
+
+Ans- Research into Latent Consistency Models (LCMs) aims to speed up inference by reducing the iterative sampling steps in Latent Diffusion Models (LDMs).
+
+(------------------------------------------------------------------------)
+
 
 
 
