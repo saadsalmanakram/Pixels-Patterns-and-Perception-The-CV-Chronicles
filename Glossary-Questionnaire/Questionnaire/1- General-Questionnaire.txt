@@ -3136,3 +3136,9 @@ Ans- CLIP can be used for zero-shot image classification, similarity search, and
 
 (------------------------------------------------------------------------)
 
+525- Can CLIP outperform specialized fine-tuned models?
+
+Ans- While CLIP excels in zero-shot classification, it generally does not outperform specialized fine-tuned models in specific tasks.
+
+(------------------------------------------------------------------------)
+
