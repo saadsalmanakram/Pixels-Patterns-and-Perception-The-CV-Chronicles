@@ -4668,3 +4668,9 @@ Ans- It transforms 3D world coordinates into the camera’s coordinate system.
 
 (-----------------------------------------------------------------------)
 
+777- How do you combine world-to-camera and camera matrices in rendering?
+
+Ans- Apply the world-to-camera matrix first to transform points to the camera's space, then use the camera matrix for projection onto the image plane.
+
+(-----------------------------------------------------------------------)
+
