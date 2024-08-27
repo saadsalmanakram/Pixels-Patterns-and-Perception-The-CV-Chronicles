@@ -6354,5 +6354,10 @@ Ans- ZSL is a setup where a model predicts classes it hasn't seen during trainin
 
 (-----------------------------------------------------------------------)
 
+1058- How can you describe the concept of generalization?
+
+Ans- Generalization is the model’s ability to apply learned knowledge from the training data to new, unseen examples.
+
+(-----------------------------------------------------------------------)
 
 
