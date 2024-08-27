@@ -6276,5 +6276,11 @@ Ans- Albedo measures the reflectivity of a surface, indicating the ratio of refl
 
 (-----------------------------------------------------------------------)
 
+1045- What is the Bidirectional Reflectance Distribution Function (BRDF)?
+
+Ans- BRDF describes how light is scattered or reflected at a surface, considering both the incoming and outgoing light directions.
+
+(-----------------------------------------------------------------------)
+
 
 
