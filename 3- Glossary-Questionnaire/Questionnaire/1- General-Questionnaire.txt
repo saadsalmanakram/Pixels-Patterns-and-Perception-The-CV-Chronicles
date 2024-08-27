@@ -6372,3 +6372,9 @@ Ans- Because cat selfies and cartoon cats come from different distributions, and
 
 (-----------------------------------------------------------------------)
 
+1061- What is the main goal of a zero-shot learning model?
+
+Ans- To recognize and classify images from classes not seen during training using semantic information.
+
+(-----------------------------------------------------------------------)
+
