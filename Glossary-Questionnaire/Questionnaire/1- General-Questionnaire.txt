@@ -3976,6 +3976,12 @@ Ans- DDPMs use latent variables to estimate probability distributions, functioni
 
 (------------------------------------------------------------------------)
 
+663- What are Noise Conditioned Score Networks (NCSNs)?
+
+Ans- NCSNs estimate the score function of perturbed data distributions at different noise levels using a shared neural network and score matching.
+
+(------------------------------------------------------------------------)
+
 
 
 
