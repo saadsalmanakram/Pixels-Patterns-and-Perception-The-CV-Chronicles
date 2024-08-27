@@ -4120,6 +4120,12 @@ Ans- LoRA weights can be loaded into a diffusion model using methods provided by
 
 (-----------------------------------------------------------------------)
 
+687- What is the 'lora_scale' parameter used for?
+
+Ans- The 'lora_scale' parameter controls how much the LoRA weights are used during inference, with a value of 1.0 fully applying the LoRA weights.
+
+(-----------------------------------------------------------------------)
+
 
 
 
