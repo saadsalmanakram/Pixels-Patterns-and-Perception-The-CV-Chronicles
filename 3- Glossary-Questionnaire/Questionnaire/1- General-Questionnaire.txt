@@ -5070,4 +5070,10 @@ Ans- Moving the camera provides a new line of sight, which, combined with the or
 
 (-----------------------------------------------------------------------)
 
+844- What does the term 'image rectification' refer to in stereo vision?
+
+Ans- Image rectification involves adjusting images to align corresponding points horizontally, simplifying depth calculation.
+
+(-----------------------------------------------------------------------)
+
 
