@@ -5868,6 +5868,12 @@ Ans- It offers image-shape pairs with pixel-level 2D-3D alignment for shape-rela
 
 (-----------------------------------------------------------------------)
 
+977- What is CIFAKE used for?
+
+Ans- It helps in classifying and identifying AI-generated synthetic images.
+
+(-----------------------------------------------------------------------)
+
 
 
 
