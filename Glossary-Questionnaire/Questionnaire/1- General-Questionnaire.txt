@@ -3262,4 +3262,10 @@ Ans- It is used to fine-tune the models in CapFilt, improving the accuracy of th
 
 (------------------------------------------------------------------------)
 
+546- What is the significance of using contrastive loss in BLIP?
+
+Ans- Contrastive loss helps align image and text representations, enhancing the model’s ability to understand multimodal data.
+
+(------------------------------------------------------------------------)
+
 
