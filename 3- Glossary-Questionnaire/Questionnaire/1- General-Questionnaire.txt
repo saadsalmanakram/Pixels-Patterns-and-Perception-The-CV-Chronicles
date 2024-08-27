@@ -5316,3 +5316,9 @@ Ans- Converting a model into a format that can be easily stored or transmitted.
 
 (-----------------------------------------------------------------------)
 
+885- Why is ONNX important in model serialization?
+
+Ans- It enables interoperability between different machine learning frameworks.
+
+(-----------------------------------------------------------------------)
+
