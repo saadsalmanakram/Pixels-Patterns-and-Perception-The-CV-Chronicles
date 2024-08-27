@@ -4450,6 +4450,12 @@ Ans- Vision transformers split images into non-overlapping patches and process t
 
 (-----------------------------------------------------------------------)
 
+741- Why do vision transformers include positional encodings when processing images?
+
+Ans- Positional encodings help the model capture the spatial relationships between patches, which are lost due to patch-based processing.
+
+(-----------------------------------------------------------------------)
+
 
 
 
