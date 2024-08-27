@@ -3226,3 +3226,9 @@ Ans- It generates text in an autoregressive manner, supporting tasks like captio
 
 (------------------------------------------------------------------------)
 
+540- How does BLIP’s architecture support multimodal learning?
+
+Ans- By combining a vision encoder with a multimodal mixture of encoder-decoder models, BLIP enables complex interactions between visual and textual data.
+
+(------------------------------------------------------------------------)
+
