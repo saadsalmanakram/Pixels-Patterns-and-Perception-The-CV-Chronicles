@@ -3490,5 +3490,11 @@ Ans- Transfer learning is used in instruction tuning within multimodal fields to
 
 (------------------------------------------------------------------------)
 
+584- What are generative vision models?
+
+Ans- Generative vision models learn the distribution of data to generate new samples, unlike discriminative models which focus on classification boundaries.
+
+(------------------------------------------------------------------------)
+
 
 
