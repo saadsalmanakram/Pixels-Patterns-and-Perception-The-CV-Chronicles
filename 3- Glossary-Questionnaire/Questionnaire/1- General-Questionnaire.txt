@@ -4330,6 +4330,12 @@ Ans- Challenges include handling diverse object scales, class imbalance, and the
 
 (-----------------------------------------------------------------------)
 
+721- How is segmentation used in autonomous driving?
+
+Ans- In autonomous driving, segmentation is used to identify lanes, sidewalks, and other road users for safe navigation.
+
+(-----------------------------------------------------------------------)
+
 
 
 
