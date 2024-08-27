@@ -6396,3 +6396,9 @@ Ans- In 2009, during a NeurIPS conference paper co-authored by Geoffrey Hinton.
 
 (-----------------------------------------------------------------------)
 
+1065- When did the concept of generalized zero-shot learning get introduced?
+
+Ans- In 2013.
+
+(------------------------------------------------------------------------)
+
