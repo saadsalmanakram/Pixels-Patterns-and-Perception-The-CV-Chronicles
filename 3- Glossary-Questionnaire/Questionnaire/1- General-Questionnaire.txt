@@ -5694,6 +5694,12 @@ Ans- Synthetic data may struggle to accurately capture rare events or outliers, 
 
 (-----------------------------------------------------------------------)
 
+948- How is the quality of synthetic data evaluated?
+
+Ans- The quality is typically evaluated by comparing the statistical properties of the synthetic data to those of the real data it is mimicking.
+
+(-----------------------------------------------------------------------)
+
 
 
 
