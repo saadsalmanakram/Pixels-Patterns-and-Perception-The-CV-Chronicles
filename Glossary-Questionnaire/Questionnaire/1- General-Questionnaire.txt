@@ -3544,5 +3544,11 @@ Ans- A lower FID score indicates better perceived quality of the generated image
 
 (------------------------------------------------------------------------)
 
+593- How is the FID score calculated?
+
+Ans- FID is calculated by comparing the distributions of features from generated images and real images using the Fréchet distance.
+
+(------------------------------------------------------------------------)
+
 
 
