@@ -5028,4 +5028,10 @@ Ans- Intrinsic parameters like focal length and the principal point location are
 
 (-----------------------------------------------------------------------)
 
+837- What is the principal point in a camera?
+
+Ans- The principal point is the spot where the optical axis intersects the image plane, typically near the image center.
+
+(-----------------------------------------------------------------------)
+
 
