@@ -6432,4 +6432,10 @@ Ans- No, it is still a form of supervised learning as it involves learning from 
 
 (------------------------------------------------------------------------)
 
+1071- What are some forms of semantic information used in zero-shot learning?
+
+Ans- Attribute vectors, textual descriptions, and class label vectors.
+
+(------------------------------------------------------------------------)
+
 
