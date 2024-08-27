@@ -4782,5 +4782,17 @@ Ans- The rotation matrix around the Y-axis uses cosine and sine values placed ap
 
 (-----------------------------------------------------------------------)
 
+796- What convention is used for positive rotation angles in 3D?
+
+Ans- A positive rotation angle corresponds to an anti-clockwise rotation when the axis of rotation points towards the viewer.
+
+(-----------------------------------------------------------------------)
+
+797- How do you combine multiple transformations in 3D space?
+
+Ans- Multiple transformations are combined by multiplying their corresponding matrices in the order they are applied.
+
+(-----------------------------------------------------------------------)
+
 
 
