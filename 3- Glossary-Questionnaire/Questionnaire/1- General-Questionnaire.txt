@@ -4402,6 +4402,12 @@ Ans- A codec is a software or hardware component that compresses and decompresse
 
 (-----------------------------------------------------------------------)
 
+733- What are the two main types of codecs?
+
+Ans- The two main types of codecs are lossless codecs and lossy codecs.
+
+(-----------------------------------------------------------------------)
+
 
 
 
