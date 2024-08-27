@@ -5556,6 +5556,12 @@ Ans- It reduces first-inference latency by using CPU before switching to another
 
 (-----------------------------------------------------------------------)
 
+925- What is Optimum?
+
+Ans- An extension of Transformers that optimizes performance for specific hardware platforms.
+
+(-----------------------------------------------------------------------)
+
 
 
 
