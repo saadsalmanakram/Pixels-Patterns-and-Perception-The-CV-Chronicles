@@ -4746,5 +4746,11 @@ Ans- A translation moves all points in space by a specified vector [tx, ty, tz].
 
 (-----------------------------------------------------------------------)
 
+790- What is the translation matrix for moving a point in 3D space?
+
+Ans- The translation matrix is a 4x4 matrix that shifts coordinates by a vector [tx, ty, tz].
+
+(-----------------------------------------------------------------------)
+
 
 
