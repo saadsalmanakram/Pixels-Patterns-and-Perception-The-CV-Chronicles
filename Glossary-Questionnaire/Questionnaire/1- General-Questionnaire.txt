@@ -3808,6 +3808,12 @@ Ans- It represents the objective function where the generator minimizes and the 
 
 (------------------------------------------------------------------------)
 
+637- What is missing in Vanilla GAN?
+
+Ans- Vanilla GANs lack control over specific features of generated images, leading to entangled features and difficulty in achieving explicit feature manipulation.
+
+(------------------------------------------------------------------------)
+
 
 
 
