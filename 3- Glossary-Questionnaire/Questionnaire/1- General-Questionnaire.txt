@@ -6360,4 +6360,9 @@ Ans- Generalization is the model’s ability to apply learned knowledge from the
 
 (-----------------------------------------------------------------------)
 
+1059- What is the difference between generalization and domain adaptation?
+
+Ans- Generalization involves recognizing new examples from the same distribution, while domain adaptation involves transferring knowledge to different distributions.
+
+(-----------------------------------------------------------------------)
 
