@@ -5700,6 +5700,12 @@ Ans- The quality is typically evaluated by comparing the statistical properties 
 
 (-----------------------------------------------------------------------)
 
+949- What are the limitations of using CAD & Blender for synthetic data generation?
+
+Ans- While robust, CAD & Blender are limited in generating diversity, quantity, and high-quality data for complex scenarios.
+
+(-----------------------------------------------------------------------)
+
 
 
 
