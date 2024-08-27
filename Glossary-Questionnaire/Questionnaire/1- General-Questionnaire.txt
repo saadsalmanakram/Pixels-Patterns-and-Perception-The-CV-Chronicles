@@ -4126,6 +4126,12 @@ Ans- The 'lora_scale' parameter controls how much the LoRA weights are used duri
 
 (-----------------------------------------------------------------------)
 
+688- Can you remove LoRA weights after loading them?
+
+Ans- Yes, you can remove LoRA weights using the unfuse_lora() method, which restores the model to its original state.
+
+(-----------------------------------------------------------------------)
+
 
 
 
