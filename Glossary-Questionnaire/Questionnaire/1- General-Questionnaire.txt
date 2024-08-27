@@ -3280,4 +3280,10 @@ Ans- BLIP uses CapFilt to filter out noisy image-alt-text pairs and generate mor
 
 (------------------------------------------------------------------------)
 
+549- How does BLIP differ from CLIP in terms of architecture and functionality?
+
+Ans- Unlike CLIP, which focuses on image-text alignment, BLIP also includes components for text generation and handling more complex multimodal tasks.
+
+(------------------------------------------------------------------------)
+
 
