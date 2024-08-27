@@ -5790,6 +5790,12 @@ Ans- It offers extensive and detailed labeling for various driving scenarios, in
 
 (-----------------------------------------------------------------------)
 
+964- What is the concept behind Driving in the Matrix?
+
+Ans- It uses photo-realistic computer-generated images for fast and accurate annotated data creation.
+
+(-----------------------------------------------------------------------)
+
 
 
 
