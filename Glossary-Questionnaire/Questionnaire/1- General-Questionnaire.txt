@@ -3850,6 +3850,12 @@ Ans- StyleGAN2 addresses artifacts like blobs and location preferences with demo
 
 (-------------------------------------------------------------------------)
 
+644- What is the main issue with StyleGAN2 that StyleGAN3 aims to fix?
+
+Ans- StyleGAN3 addresses the aliasing effect caused by StyleGAN2’s reliance on absolute pixel coordinates, leading to more natural and less artificial animations.
+
+(-------------------------------------------------------------------------)
+
 
 
 
