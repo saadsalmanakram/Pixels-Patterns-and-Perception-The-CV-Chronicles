@@ -5394,3 +5394,9 @@ Ans- To immediately identify issues like spikes in prediction errors or unusual 
 
 (-----------------------------------------------------------------------)
 
+898- How does A/B testing work in evaluating machine learning models?
+
+Ans- By comparing the performance of two model versions simultaneously to determine the better one.
+
+(-----------------------------------------------------------------------)
+
