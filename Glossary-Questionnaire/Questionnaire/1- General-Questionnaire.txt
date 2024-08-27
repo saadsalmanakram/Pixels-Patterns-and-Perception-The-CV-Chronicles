@@ -3562,5 +3562,11 @@ Ans- SSIM (Structural Similarity Index) measures the similarity between two imag
 
 (------------------------------------------------------------------------)
 
+596- What is PSNR and what is considered a good score?
+
+Ans- PSNR (Peak Signal-to-Noise Ratio) is similar to mean-squared-error; values above 34 are considered very good.
+
+(------------------------------------------------------------------------)
+
 
 
