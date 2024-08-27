@@ -4474,6 +4474,12 @@ Ans- Temporal information is crucial for understanding motion and sequence, whic
 
 (-----------------------------------------------------------------------)
 
+745- What are the two main approaches for tokenizing video input in vision transformers?
+
+Ans- The two main approaches are Uniform Frame Sampling and Tubelet Embedding.
+
+(-----------------------------------------------------------------------)
+
 
 
 
