@@ -4710,5 +4710,11 @@ Ans- The right-handed coordinate system is commonly used in mathematics and phys
 
 (-----------------------------------------------------------------------)
 
+784- Which handedness does OpenGL typically use?
+
+Ans- OpenGL typically uses a right-handed coordinate system.
+
+(-----------------------------------------------------------------------)
+
 
 
