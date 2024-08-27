@@ -4866,4 +4866,10 @@ Ans- In NeRF, volumetric data is used to represent solid objects using neural ra
 
 (-----------------------------------------------------------------------)
 
+810- What is the advantage of using meshes over point clouds?
+
+Ans- Meshes provide surface connectivity, allowing for more accurate and efficient representation of solid objects.
+
+(-----------------------------------------------------------------------)
+
 
