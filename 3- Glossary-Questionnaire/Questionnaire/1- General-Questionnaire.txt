@@ -5052,4 +5052,10 @@ Ans- Smartphones lack fixed, pre-calibrated camera setups, making it difficult t
 
 (-----------------------------------------------------------------------)
 
+841- What is the advantage of using a device like OAK-D Lite for stereo vision?
+
+Ans- OAK-D Lite has pre-calibrated cameras with known intrinsic parameters and fixed positioning, simplifying stereo vision calculations.
+
+(-----------------------------------------------------------------------)
+
 
