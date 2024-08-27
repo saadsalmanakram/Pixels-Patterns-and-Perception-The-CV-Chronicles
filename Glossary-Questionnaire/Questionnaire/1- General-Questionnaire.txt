@@ -3838,6 +3838,12 @@ Ans- Concatenating noise vectors helps introduce stochastic features, adding rea
 
 (-------------------------------------------------------------------------)
 
+642- What is a major drawback of StyleGAN1?
+
+Ans- StyleGAN1 suffers from artifacts such as blob structures and location preference issues due to its progressive growing architecture.
+
+(-------------------------------------------------------------------------)
+
 
 
 
