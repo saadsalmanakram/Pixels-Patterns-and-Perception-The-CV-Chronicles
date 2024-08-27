@@ -3394,4 +3394,10 @@ Ans- Yes, the provided Python example demonstrates running inference with OWL-Vi
 
 (------------------------------------------------------------------------)
 
+568- How does OWL-ViT detect objects in an image?
+
+Ans- OWL-ViT detects objects by classifying per-object image embeddings and deriving box coordinates for spatial localization.
+
+(------------------------------------------------------------------------)
+
 
