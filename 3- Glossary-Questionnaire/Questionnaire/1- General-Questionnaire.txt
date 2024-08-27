@@ -5424,3 +5424,10 @@ Ans- It reduces latency and inference cost, optimizing models for resource-const
 
 (-----------------------------------------------------------------------)
 
+903- How do you install the TensorFlow Model Optimization Toolkit?
+
+Ans- Use `pip install -U tensorflow-model-optimization`
+
+(-----------------------------------------------------------------------)
+
+
