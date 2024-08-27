@@ -3466,5 +3466,11 @@ Ans- Transfer learning enhances performance by integrating prior knowledge encod
 
 (------------------------------------------------------------------------)
 
+580- What is a practical application of Transfer Learning in VQA?
+
+Ans- Transfer learning can be applied in VQA by fine-tuning models like ViLT to answer questions based on images.
+
+(------------------------------------------------------------------------)
+
 
 
