@@ -3508,5 +3508,11 @@ Ans- Generative vision models can solve tasks such as noise to image (DCGAN), te
 
 (------------------------------------------------------------------------)
 
+587- Name two types of generative models discussed in the unit.
+
+Ans- GAN-based models and diffusion-based models.
+
+(------------------------------------------------------------------------)
+
 
 
