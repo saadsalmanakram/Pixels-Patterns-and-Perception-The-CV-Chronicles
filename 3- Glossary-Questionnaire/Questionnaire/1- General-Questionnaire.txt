@@ -6426,4 +6426,10 @@ Ans- It provides a bridge between visual features and unseen classes, enabling t
 
 (------------------------------------------------------------------------)
 
+1070- Can zero-shot learning be considered an unsupervised learning problem?
+
+Ans- No, it is still a form of supervised learning as it involves learning from labeled semantic information rather than unlabeled data.
+
+(------------------------------------------------------------------------)
+
 
