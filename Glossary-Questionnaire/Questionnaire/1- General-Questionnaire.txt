@@ -3340,5 +3340,20 @@ Ans- Box coordinates are derived from token representations through a small MLP 
 
 (------------------------------------------------------------------------)
 
+559- What is the significance of OWL-ViT’s shared embedding space for vision and text?
 
+Ans- The shared embedding space enables OWL-ViT to detect objects based on both images and textual queries.
 
+(------------------------------------------------------------------------)
+
+560- What is an example use case of OWL-ViT?
+
+Ans- OWL-ViT can detect objects like "cat tail," which may not be explicitly present in any object detection dataset, using text queries and images.
+
+(------------------------------------------------------------------------)
+
+561- How does OWL-ViT handle open-vocabulary object detection?
+
+Ans- OWL-ViT excels at open-vocabulary detection by using a shared embedding space that allows it to identify objects not seen during training.
+
+(------------------------------------------------------------------------)
