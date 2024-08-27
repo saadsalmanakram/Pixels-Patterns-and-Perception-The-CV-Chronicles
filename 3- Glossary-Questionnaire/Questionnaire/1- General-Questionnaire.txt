@@ -4860,4 +4860,10 @@ Ans- SDFs allow for efficient computation of intersections between lines and sur
 
 (-----------------------------------------------------------------------)
 
+809- What is the primary application of volumetric data in NeRF?
+
+Ans- In NeRF, volumetric data is used to represent solid objects using neural radiance fields.
+
+(-----------------------------------------------------------------------)
+
 
