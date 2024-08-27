@@ -5082,4 +5082,10 @@ Ans- Raw images may need rectification to correct slight deviations in alignment
 
 (-----------------------------------------------------------------------)
 
+846- What is a Neural Radiance Field (NeRF)?
+
+Ans- A NeRF is a neural network-based model that stores and represents 3D scenes implicitly by mapping positions and viewing directions to color and density.
+
+(-----------------------------------------------------------------------)
+
 
