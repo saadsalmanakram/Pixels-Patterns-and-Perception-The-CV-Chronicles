@@ -6066,3 +6066,9 @@ Ans- Mode collapse occurs when the Generator produces limited varieties of outpu
 
 (-----------------------------------------------------------------------)
 
+1010- What are some alternative methods to GANs for medical image generation?
+
+Ans- Diffusion models, such as Medfusion, have been explored as alternatives to GANs for generating medical images.
+
+(-----------------------------------------------------------------------)
+
