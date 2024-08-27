@@ -3178,3 +3178,9 @@ Ans- CLIP’s proficiency in zero-shot learning and its ability to classify imag
 
 (------------------------------------------------------------------------)
 
+532- Why is retraining necessary when switching encoders in CLIP?
+
+Ans- Retraining is necessary because changing encoders alters the embedding distribution, requiring the model to learn new correspondences between images and text.
+
+(------------------------------------------------------------------------)
+
