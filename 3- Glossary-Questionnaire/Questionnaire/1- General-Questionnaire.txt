@@ -5706,6 +5706,12 @@ Ans- While robust, CAD & Blender are limited in generating diversity, quantity, 
 
 (-----------------------------------------------------------------------)
 
+950- How do privacy attacks affect synthetic data?
+
+Ans- Synthetic data is vulnerable to privacy attacks if it unintentionally reveals patterns or information from the original dataset it was based on.
+
+(-----------------------------------------------------------------------)
+
 
 
 
