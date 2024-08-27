@@ -3706,6 +3706,12 @@ Ans- VAEs provide a rich probabilistic framework for generating new samples that
 
 (------------------------------------------------------------------------)
 
+620- What are Generative Adversarial Networks (GANs)?
+
+Ans- GANs are deep learning models that consist of two networks, a generator and a discriminator, which are trained simultaneously in an adversarial setting to produce and evaluate synthetic data.
+
+(------------------------------------------------------------------------)
+
 
 
 
