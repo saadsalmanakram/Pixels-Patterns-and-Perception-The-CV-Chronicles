@@ -3898,6 +3898,12 @@ Ans- It uses two GANs: one translates from domain X to Y, and the other from Y t
 
 (-------------------------------------------------------------------------)
 
+650- What is the purpose of PatchGAN discriminators in CycleGAN?
+
+Ans- PatchGAN discriminators assess image patches rather than whole images, enhancing localized realism in the generated images.
+
+(-------------------------------------------------------------------------)
+
 
 
 
