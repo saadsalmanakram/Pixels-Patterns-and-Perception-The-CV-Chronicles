@@ -6018,6 +6018,12 @@ Ans- BlenderProc must be run inside Blender’s Python environment (bpy) to acce
 
 (-----------------------------------------------------------------------)
 
+1002- What types of data can BlenderProc generate?
+
+Ans- BlenderProc can generate images with annotations for segmentation, depth, normal, and pose estimation.
+
+(-----------------------------------------------------------------------)
+
 
 
 
