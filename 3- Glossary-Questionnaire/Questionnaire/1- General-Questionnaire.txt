@@ -4836,5 +4836,10 @@ Ans- Volumetric data encodes information about 3D space, often representing tran
 
 (-----------------------------------------------------------------------)
 
+805- How is volumetric data commonly represented?
+
+Ans- Volumetric data is often represented as a volumetric grid, with data points found by trilinear interpolation.
+
+(-----------------------------------------------------------------------)
 
 
