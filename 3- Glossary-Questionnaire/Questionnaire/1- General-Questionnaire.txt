@@ -5364,3 +5364,9 @@ Ans- Generating predictions or outputs based on incoming data using the deployed
 
 (-----------------------------------------------------------------------)
 
+893- How does Kubernetes assist in model deployment?
+
+Ans- By providing a scalable and reliable container orchestration platform for deploying models.
+
+(-----------------------------------------------------------------------)
+
