@@ -4132,6 +4132,12 @@ Ans- Yes, you can remove LoRA weights using the unfuse_lora() method, which rest
 
 (-----------------------------------------------------------------------)
 
+689- What is the typical size range for LoRA weights?
+
+Ans- LoRA weights typically range from 50-500MB.
+
+(-----------------------------------------------------------------------)
+
 
 
 
