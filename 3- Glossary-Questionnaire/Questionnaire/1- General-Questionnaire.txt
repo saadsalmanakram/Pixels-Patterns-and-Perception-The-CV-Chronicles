@@ -4606,3 +4606,9 @@ Ans- It uses a small hole to project an inverted image of a scene onto a screen 
 
 (-----------------------------------------------------------------------)
 
+767- How does the pinhole camera model apply to 3D graphics?
+
+Ans- It provides a simple way to project 3D points onto a 2D plane, mimicking real-world image formation.
+
+(-----------------------------------------------------------------------)
+
