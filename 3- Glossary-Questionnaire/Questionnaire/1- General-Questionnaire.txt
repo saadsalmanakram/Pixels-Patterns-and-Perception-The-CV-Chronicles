@@ -4896,4 +4896,10 @@ Ans- A collection of methods to generate views from new camera angles that are c
 
 (-----------------------------------------------------------------------)
 
+815- What are the two general classes of methods in NVS?
+
+Ans- Methods that generate an intermediate 3D representation and those that directly produce a new image.
+
+(-----------------------------------------------------------------------)
+
 
