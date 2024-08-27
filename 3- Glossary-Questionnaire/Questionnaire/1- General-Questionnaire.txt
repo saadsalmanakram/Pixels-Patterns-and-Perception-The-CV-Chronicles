@@ -5496,6 +5496,12 @@ Ans- It allows training in Python and deploying in C#/C++/Java applications.
 
 (-----------------------------------------------------------------------)
 
+915- What is TensorRT?
+
+Ans- NVIDIA’s SDK for optimizing deep learning models for high-performance inference.
+
+(-----------------------------------------------------------------------)
+
 
 
 
