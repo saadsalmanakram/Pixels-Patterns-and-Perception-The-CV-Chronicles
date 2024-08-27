@@ -6529,4 +6529,10 @@ Ans- Both aim to classify unseen classes, but CLIP generalizes further by learni
 
 (------------------------------------------------------------------------)
 
+1087- Name some datasets commonly used for evaluating Zero-shot Learning.
+
+Ans- Popular datasets include Animal with Attributes (AwA), Caltech-UCSD-Birds-200-2011 (CUB), SUN, Attribute Pascal and Yahoo dataset (aPY), and ILSVRC.
+
+(------------------------------------------------------------------------)
+
 
