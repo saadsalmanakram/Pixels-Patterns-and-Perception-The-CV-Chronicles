@@ -5250,3 +5250,9 @@ Ans- Hardware accelerators, such as NVIDIA GPUs and Intel hardware, can be used 
 
 (-----------------------------------------------------------------------)
 
+874- What trade-offs exist between accuracy, performance, and resource usage in model deployment?
+
+Ans- High accuracy often demands more resources and may reduce performance, while optimizing for speed or resource efficiency might lower accuracy.
+
+(-----------------------------------------------------------------------)
+
