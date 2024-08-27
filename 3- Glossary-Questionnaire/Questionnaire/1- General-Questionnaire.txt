@@ -6679,4 +6679,10 @@ Ans- They provide real-world examples that illustrate the challenges and importa
 
 (------------------------------------------------------------------------)
 
+1112- What is ImageNet Roulette?
+
+Ans- A web application that exposed biases in AI models by returning offensive labels based on images uploaded by users.
+
+(------------------------------------------------------------------------)
+
 
