@@ -5208,5 +5208,11 @@ Ans- After training, the next step is often model deployment, but further optimi
 
 (-----------------------------------------------------------------------)
 
+867- What is model optimization?
+
+Ans- Model optimization involves modifying a trained model to enhance its efficiency, making it suitable for deployment on devices with lower hardware specifications.
+
+(-----------------------------------------------------------------------)
+
 
 
