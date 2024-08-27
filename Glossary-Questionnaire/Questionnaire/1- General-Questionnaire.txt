@@ -3676,6 +3676,12 @@ Ans- The VAE loss function consists of the reconstruction loss and the KL diverg
 
 (------------------------------------------------------------------------)
 
+615- What is the KL divergence in the context of VAEs?
+
+Ans- KL divergence measures how closely the learned distribution in the latent space resembles the prior distribution, typically a Gaussian.
+
+(------------------------------------------------------------------------)
+
 
 
 
