@@ -5664,6 +5664,12 @@ Ans- A data generator model can be trained to produce de-biased synthetic data, 
 
 (-----------------------------------------------------------------------)
 
+943- Why might synthetic data be particularly useful in healthcare?
+
+Ans- Synthetic data can simulate medical data while protecting patient privacy, enabling data sharing and research without exposing sensitive information.
+
+(-----------------------------------------------------------------------)
+
 
 
 
