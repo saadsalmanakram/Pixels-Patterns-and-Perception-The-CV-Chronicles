@@ -5766,6 +5766,12 @@ Ans- It provides 22K frame pairs with ground truth flow for training optical flo
 
 (-----------------------------------------------------------------------)
 
+960- Why is the Monkaa dataset significant?
+
+Ans- It includes 8,591 stereo frames useful for training algorithms on disparity and optical flow.
+
+(-----------------------------------------------------------------------)
+
 
 
 
