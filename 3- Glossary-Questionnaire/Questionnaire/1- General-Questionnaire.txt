@@ -5862,6 +5862,12 @@ Ans- It provides high-quality images with variations in age, ethnicity, and back
 
 (-----------------------------------------------------------------------)
 
+976- What does the Pix3D dataset provide?
+
+Ans- It offers image-shape pairs with pixel-level 2D-3D alignment for shape-related tasks.
+
+(-----------------------------------------------------------------------)
+
 
 
 
