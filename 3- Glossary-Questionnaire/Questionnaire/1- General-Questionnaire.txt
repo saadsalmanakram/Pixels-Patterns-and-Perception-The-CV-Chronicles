@@ -6186,4 +6186,8 @@ Ans- It allows for generating entirely new samples when no real data is availabl
 
 (-----------------------------------------------------------------------)
 
+1030- How does using diffusion models contribute to preserving privacy in data collection?
 
+Ans- It enables the creation of synthetic datasets that avoid revealing personal or sensitive information from real data sources.
+
+(-----------------------------------------------------------------------)
