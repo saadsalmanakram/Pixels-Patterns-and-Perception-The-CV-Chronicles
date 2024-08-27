@@ -4414,6 +4414,12 @@ Ans- Lossless codecs compress data without quality loss, while lossy codecs comp
 
 (-----------------------------------------------------------------------)
 
+735- Why are codecs important in video processing?
+
+Ans- Codecs are essential for reducing file size for storage and transmission while maintaining an acceptable level of quality.
+
+(-----------------------------------------------------------------------)
+
 
 
 
