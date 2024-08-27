@@ -3718,6 +3718,12 @@ Ans- GANs were introduced by Ian Goodfellow and his colleagues in 2014.
 
 (------------------------------------------------------------------------)
 
+622- What is the core idea behind GANs?
+
+Ans- The core idea is to train a generator to create data indistinguishable from real data, while a discriminator tries to differentiate between real and generated data.
+
+(------------------------------------------------------------------------)
+
 
 
 
