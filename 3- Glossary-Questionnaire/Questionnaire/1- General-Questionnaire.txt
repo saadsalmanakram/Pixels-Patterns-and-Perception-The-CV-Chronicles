@@ -4408,6 +4408,12 @@ Ans- The two main types of codecs are lossless codecs and lossy codecs.
 
 (-----------------------------------------------------------------------)
 
+734- How do lossless codecs differ from lossy codecs?
+
+Ans- Lossless codecs compress data without quality loss, while lossy codecs compress by removing some data, resulting in a loss of quality.
+
+(-----------------------------------------------------------------------)
+
 
 
 
