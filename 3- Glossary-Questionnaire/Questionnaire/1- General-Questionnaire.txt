@@ -4848,4 +4848,10 @@ Ans- An implicit surface defines a 3D shape by mapping points in space to a valu
 
 (-----------------------------------------------------------------------)
 
+807- What is a signed distance function (SDF)?
+
+Ans- An SDF is a function that maps each point in space to the shortest distance to the surface, with positive values outside and negative inside.
+
+(-----------------------------------------------------------------------)
+
 
