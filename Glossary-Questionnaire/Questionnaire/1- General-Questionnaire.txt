@@ -3448,5 +3448,11 @@ Ans- Transfer learning is resource-efficient, requires less labeled data, and le
 
 (------------------------------------------------------------------------)
 
+577- What is Domain Shift in Transfer Learning?
+
+Ans- Domain shift occurs when adapting knowledge from the source domain to the target domain is challenging due to different data distributions.
+
+(------------------------------------------------------------------------)
+
 
 
