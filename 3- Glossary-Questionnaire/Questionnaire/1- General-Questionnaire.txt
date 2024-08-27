@@ -5226,5 +5226,11 @@ Ans- Pruning removes redundant or unimportant connections in the model to reduce
 
 (-----------------------------------------------------------------------)
 
+870- What is quantization in model optimization?
+
+Ans- Quantization reduces the precision of model weights, converting them to lower-precision formats to decrease memory footprint and increase inference speed.
+
+(-----------------------------------------------------------------------)
+
 
 
