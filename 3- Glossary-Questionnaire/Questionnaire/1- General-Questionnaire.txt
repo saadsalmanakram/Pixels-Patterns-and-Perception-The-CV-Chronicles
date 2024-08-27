@@ -6559,4 +6559,10 @@ Ans- They ensure consistent and comparable assessment of different ZSL methods a
 
 (------------------------------------------------------------------------)
 
+1092- How does CLIP differ from traditional ZSL approaches in terms of data use?
+
+Ans- CLIP directly learns from raw text and images, unlike traditional ZSL which often relies on predefined semantic embeddings.
+
+(------------------------------------------------------------------------)
+
 
