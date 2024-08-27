@@ -5418,3 +5418,9 @@ Ans- It reduces model size by converting weights to 8-bit precision.
 
 (-----------------------------------------------------------------------)
 
+902- How does TMO help in model deployment on edge devices?
+
+Ans- It reduces latency and inference cost, optimizing models for resource-constrained environments.
+
+(-----------------------------------------------------------------------)
+
