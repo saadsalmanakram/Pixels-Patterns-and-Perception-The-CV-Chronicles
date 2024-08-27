@@ -5220,5 +5220,11 @@ Ans- Optimization is crucial to ensure that models can run efficiently on device
 
 (-----------------------------------------------------------------------)
 
+869- What is pruning in model optimization?
+
+Ans- Pruning removes redundant or unimportant connections in the model to reduce its size and complexity.
+
+(-----------------------------------------------------------------------)
+
 
 
