@@ -4944,4 +4944,10 @@ Ans- A diffusion model that directly predicts a new view image from a single inp
 
 (-----------------------------------------------------------------------)
 
+823- How does Zero123 differ from PixelNeRF?
+
+Ans- Zero123 directly generates new views without creating an intermediate 3D representation.
+
+(-----------------------------------------------------------------------)
+
 
