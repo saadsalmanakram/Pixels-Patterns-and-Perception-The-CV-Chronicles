@@ -3214,3 +3214,9 @@ Ans- The Unimodal Text Encoder aligns image and text representations using contr
 
 (------------------------------------------------------------------------)
 
+538- How does the Image-Grounded Text Encoder in BLIP differ from the Unimodal Text Encoder?
+
+Ans- The Image-Grounded Text Encoder uses cross-attention layers to integrate image and text embeddings, unlike the Unimodal Text Encoder.
+
+(------------------------------------------------------------------------)
+
