@@ -4234,6 +4234,18 @@ Ans- Higher IoU values reflect better alignment between predicted and actual obj
 
 (-----------------------------------------------------------------------)
 
+705- what is image segmentation?
+
+Ans- Image segmentation is the process of dividing an image into meaningful segments, often by assigning a class to each pixel.
+
+(-----------------------------------------------------------------------)
+
+706- Why is image segmentation important?
+
+Ans- It enables the identification of different objects and regions within an image, which is crucial in applications like autonomous driving and agriculture.
+
+(-----------------------------------------------------------------------)
+
 
 
 
