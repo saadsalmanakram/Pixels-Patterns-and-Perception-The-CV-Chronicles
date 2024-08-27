@@ -5046,4 +5046,10 @@ Ans- Disparity refers to the difference in the pixel coordinates of a point in t
 
 (-----------------------------------------------------------------------)
 
+840- Why is it challenging to determine the position and orientation of cameras using a smartphone?
+
+Ans- Smartphones lack fixed, pre-calibrated camera setups, making it difficult to accurately determine these parameters without additional calibration.
+
+(-----------------------------------------------------------------------)
+
 
