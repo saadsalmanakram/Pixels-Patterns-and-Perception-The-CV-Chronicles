@@ -5262,3 +5262,15 @@ Ans- Prioritizing accuracy typically results in slower inference times and highe
 
 (-----------------------------------------------------------------------)
 
+876- Why might you need to balance accuracy, performance, and resource usage?
+
+Ans- Balancing these factors is essential to ensure that the deployed model meets the specific needs of the application, such as running efficiently on resource-constrained devices while maintaining acceptable accuracy.
+
+(-----------------------------------------------------------------------)
+
+877- Why might a large, high-accuracy model be problematic for deployment?
+
+Ans- Large models with high accuracy may require excessive time for inference and large amounts of memory, making them unsuitable for devices with limited resources.
+
+(-----------------------------------------------------------------------)
+
