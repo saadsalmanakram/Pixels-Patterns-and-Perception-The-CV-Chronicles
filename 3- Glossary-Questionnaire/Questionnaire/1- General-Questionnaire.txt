@@ -6637,4 +6637,10 @@ Ans- Unchecked bias can perpetuate inequalities and result in unfair or harmful 
 
 (------------------------------------------------------------------------)
 
+1105- What are some common types of biases in computer vision models?
+
+Ans- Label bias, selection bias, and algorithmic bias are common in CV models.
+
+(------------------------------------------------------------------------)
+
 
