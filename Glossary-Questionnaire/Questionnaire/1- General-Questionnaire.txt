@@ -3586,5 +3586,12 @@ Ans- It analyzes what FID considers important in an image and how ImageNet featu
 
 (------------------------------------------------------------------------)
 
+600- What is an autoencoder?
+
+Ans- An autoencoder is a type of neural network used for unsupervised learning, designed to compress input data into a lower-dimensional representation and then reconstruct it.
+
+(------------------------------------------------------------------------)
+
+
 
 
