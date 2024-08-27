@@ -3442,4 +3442,11 @@ Ans- Transfer learning uses pretrained model weights as initial weights to solve
 
 (------------------------------------------------------------------------)
 
+576- What are the advantages of Transfer Learning?
+
+Ans- Transfer learning is resource-efficient, requires less labeled data, and leverages existing knowledge for better performance.
+
+(------------------------------------------------------------------------)
+
+
 
