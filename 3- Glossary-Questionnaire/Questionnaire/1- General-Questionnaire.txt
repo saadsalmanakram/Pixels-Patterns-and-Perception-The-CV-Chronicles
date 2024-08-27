@@ -4372,6 +4372,12 @@ Ans- Video resolution refers to the number of pixels in each frame or the size o
 
 (-----------------------------------------------------------------------)
 
+728- What is the frame rate in a video?
+
+Ans- The frame rate is the number of frames displayed per second, giving the impression of motion.
+
+(-----------------------------------------------------------------------)
+
 
 
 
