@@ -4926,4 +4926,10 @@ Ans- A method that directly generates NeRF parameters from one or more input ima
 
 (-----------------------------------------------------------------------)
 
+820- How does PixelNeRF differ from the original NeRF?
+
+Ans- It conditions the NeRF on spatial features from input images rather than using a simple MLP.
+
+(-----------------------------------------------------------------------)
+
 
