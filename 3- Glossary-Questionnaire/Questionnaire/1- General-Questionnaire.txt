@@ -5970,6 +5970,12 @@ Ans- PBR uses material properties like albedo, roughness, and metalness to simul
 
 (-----------------------------------------------------------------------)
 
+994- What role do textures play in PBR?
+
+Ans- Textures in PBR add surface details like bumps and scratches, making objects look more realistic by mimicking real-world imperfections.
+
+(-----------------------------------------------------------------------)
+
 
 
 
