@@ -3922,6 +3922,12 @@ Ans- It maintains the structural integrity of images during translation, prevent
 
 (-------------------------------------------------------------------------)
 
+654- How is adversarial loss integrated with cycle consistency loss in CycleGAN?
+
+Ans- Both losses are combined to form a comprehensive loss function, optimized simultaneously to improve the quality of generated images.
+
+(-------------------------------------------------------------------------)
+
 
 
 
