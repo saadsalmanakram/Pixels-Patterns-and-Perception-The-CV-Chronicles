@@ -5190,3 +5190,9 @@ Ans- NeRF uses neural networks, which are capable of approximating any continuou
 
 (-----------------------------------------------------------------------)
 
+864- What are some key areas of research within the NeRF field?
+
+Ans- Key research areas include generative NeRFs, deformable NeRFs, compositionality, and real-time training and inference.
+
+(-----------------------------------------------------------------------)
+
