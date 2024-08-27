@@ -3082,3 +3082,9 @@ Ans- If the samples are dissimilar (yi = yi), the loss maximizes their distance,
 
 (------------------------------------------------------------------------)
 
+516- Why is a margin ϵ used in contrastive loss?
+
+Ans- The margin ϵ prevents the embeddings of dissimilar samples from being pushed too far apart, which could lead to over-separation and poor generalization.
+
+(------------------------------------------------------------------------)
+
