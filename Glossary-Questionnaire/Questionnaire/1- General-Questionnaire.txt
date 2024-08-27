@@ -3286,4 +3286,10 @@ Ans- Unlike CLIP, which focuses on image-text alignment, BLIP also includes comp
 
 (------------------------------------------------------------------------)
 
+550- What advancements does BLIP-2 bring to multimodal learning?
+
+Ans- BLIP-2 enhances the model’s capabilities in tasks like visual question answering and demonstrates more efficient processing of multimodal data.
+
+(------------------------------------------------------------------------)
+
 
