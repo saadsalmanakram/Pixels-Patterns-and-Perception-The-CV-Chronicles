@@ -5244,4 +5244,9 @@ Ans- Low-rank approximation reduces large matrices in the model to smaller ones,
 
 (-----------------------------------------------------------------------)
 
+873- How do hardware accelerators help in model optimization?
+
+Ans- Hardware accelerators, such as NVIDIA GPUs and Intel hardware, can be used to run optimization processes like pruning and quantization more efficiently.
+
+(-----------------------------------------------------------------------)
 
