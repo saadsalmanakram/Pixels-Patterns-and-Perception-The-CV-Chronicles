@@ -4366,6 +4366,12 @@ Ans- A video consists of multiple frames shown sequentially, while a static imag
 
 (-----------------------------------------------------------------------)
 
+727- What does video resolution refer to?
+
+Ans- Video resolution refers to the number of pixels in each frame or the size of each frame in the video.
+
+(-----------------------------------------------------------------------)
+
 
 
 
