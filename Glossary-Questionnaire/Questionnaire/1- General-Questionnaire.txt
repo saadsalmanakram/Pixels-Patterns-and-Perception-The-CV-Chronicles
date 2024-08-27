@@ -3130,3 +3130,9 @@ Ans- CLIP allows users to switch the standard encoders, such as Vision Transform
 
 (------------------------------------------------------------------------)
 
+524- What are some key use cases for CLIP?
+
+Ans- CLIP can be used for zero-shot image classification, similarity search, and as conditioning in diffusion models.
+
+(------------------------------------------------------------------------)
+
