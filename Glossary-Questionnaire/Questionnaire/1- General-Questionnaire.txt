@@ -3730,6 +3730,12 @@ Ans- GANs can be compared to an art forger (generator) trying to create convinci
 
 (------------------------------------------------------------------------)
 
+624- What are the two main components of GANs?
+
+Ans- The two main components are the generator and the discriminator.
+
+(------------------------------------------------------------------------)
+
 
 
 
