@@ -3322,5 +3322,11 @@ Ans- OWL-ViT stands for "Open-Vocabulary Vision Transformer," and it aims to per
 
 (------------------------------------------------------------------------)
 
+556- How does OWL-ViT enhance object detection capabilities compared to traditional models?
+
+Ans- OWL-ViT can identify objects outside its training set by leveraging a shared representation space for visual and textual data.
+
+(------------------------------------------------------------------------)
+
 
 
