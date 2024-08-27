@@ -6000,6 +6000,12 @@ Ans- BlenderProc is a modular pipeline built on Blender for generating synthetic
 
 (-----------------------------------------------------------------------)
 
+999- How does BlenderProc help in creating synthetic datasets?
+
+Ans- It automates scene generation and rendering, supports procedural generation, and allows for large-scale and realistic data creation efficiently.
+
+(-----------------------------------------------------------------------)
+
 
 
 
