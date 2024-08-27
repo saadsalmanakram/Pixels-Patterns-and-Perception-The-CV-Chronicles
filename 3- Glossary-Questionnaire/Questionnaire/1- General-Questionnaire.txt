@@ -4674,3 +4674,9 @@ Ans- Apply the world-to-camera matrix first to transform points to the camera's 
 
 (-----------------------------------------------------------------------)
 
+778- What additional features might more complex camera models include?
+
+Ans- They might model lens distortion and other real-world imperfections.
+
+(-----------------------------------------------------------------------)
+
