@@ -6300,5 +6300,11 @@ Ans- `point-cloud-utils` and `open3d`.
 
 (-----------------------------------------------------------------------)
 
+1049- What does the PLY format stand for and what does it contain?
+
+Ans- PLY stands for Polygon File Format; it contains a list of vertices and faces representing 3D objects.
+
+(-----------------------------------------------------------------------)
+
 
 
