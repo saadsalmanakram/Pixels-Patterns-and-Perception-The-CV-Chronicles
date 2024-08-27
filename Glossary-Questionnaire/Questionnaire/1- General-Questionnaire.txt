@@ -3814,6 +3814,12 @@ Ans- Vanilla GANs lack control over specific features of generated images, leadi
 
 (------------------------------------------------------------------------)
 
+638- What are the main components of StyleGAN1?
+
+Ans- StyleGAN1 introduces a mapping network, Adaptive Instance Normalization (AdaIN), and concatenation of noise vectors to enhance control and image quality.
+
+(------------------------------------------------------------------------)
+
 
 
 
