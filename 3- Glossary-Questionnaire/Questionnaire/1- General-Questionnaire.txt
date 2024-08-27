@@ -6351,6 +6351,7 @@ Ans- Domain adaptation involves adjusting a model trained on one domain to work 
 1057- What is zero-shot learning (ZSL)?
 
 Ans- ZSL is a setup where a model predicts classes it hasn't seen during training using additional semantic information.
+     ZSL is a machine learning technique where models classify objects from unseen classes using auxiliary information like semantic embeddings.
 
 (-----------------------------------------------------------------------)
 
