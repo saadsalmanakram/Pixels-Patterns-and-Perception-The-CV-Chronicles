@@ -4090,6 +4090,12 @@ Ans- Unlike traditional fine-tuning that requires large datasets, Dreambooth req
 
 (-----------------------------------------------------------------------)
 
+682- Can Dreambooth be combined with other techniques?
+
+Ans- Yes, Dreambooth can be combined with techniques like Low-Rank Adaptation (LoRA) to improve efficiency and performance.
+
+(-----------------------------------------------------------------------)
+
 
 
 
