@@ -6120,4 +6120,10 @@ Ans- It involves adding Gaussian noise to input data and training the model to r
 
 (-----------------------------------------------------------------------)
 
+1019- What are the main components of a diffusion model like Stable Diffusion?
+
+Ans- The main components are the diffusion process, image encoder/decoder, and optional conditional encoder.
+
+(-----------------------------------------------------------------------)
+
 
