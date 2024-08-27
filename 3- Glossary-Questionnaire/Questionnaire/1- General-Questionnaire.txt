@@ -4968,4 +4968,10 @@ Ans- A much larger dataset from ObjaverseXL.
 
 (-----------------------------------------------------------------------)
 
+827- What is the purpose of the loss function in PixelNeRF?
+
+Ans- To penalize errors in reconstructing the predicted novel views.
+
+(-----------------------------------------------------------------------)
+
 
