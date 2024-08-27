@@ -6535,4 +6535,10 @@ Ans- Popular datasets include Animal with Attributes (AwA), Caltech-UCSD-Birds-2
 
 (------------------------------------------------------------------------)
 
+1088- Why is GZSL considered closer to real-world use cases than ZSL?
+
+Ans- GZSL is closer to real-world scenarios because it requires the model to classify both seen and unseen classes.
+
+(------------------------------------------------------------------------)
+
 
