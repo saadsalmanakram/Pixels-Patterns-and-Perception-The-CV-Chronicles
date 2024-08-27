@@ -6228,3 +6228,10 @@ Ans- Ensure that the synthetic data generation process includes a diverse range 
 
 (-----------------------------------------------------------------------)
 
+1037- What are some considerations regarding the computational cost of generating synthetic data?
+
+Ans- High-quality synthetic data generation can be resource-intensive, so it's important to weigh the benefits against the computational costs.
+
+(-----------------------------------------------------------------------)
+
+
