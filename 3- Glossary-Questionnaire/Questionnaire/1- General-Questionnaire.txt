@@ -6474,4 +6474,10 @@ Ans- OSR deals with detecting whether an instance belongs to seen or unseen clas
 
 (------------------------------------------------------------------------)
 
+1078- What distinguishes out-of-distribution (OOD) detection from zero-shot learning?
+
+Ans- OOD detection identifies data that deviates from the training distribution, while ZSL predicts unseen classes using auxiliary information.
+
+(------------------------------------------------------------------------)
+
 
