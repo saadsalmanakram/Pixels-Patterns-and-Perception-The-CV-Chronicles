@@ -6330,5 +6330,11 @@ Ans- X3D is an XML-based format for 3D graphics that supports vector and raster 
 
 (-----------------------------------------------------------------------)
 
+1054- What is COLLADA (DAE) and its primary advantage?
+
+Ans- COLLADA is an XML-based standard for exchanging digital assets, known for its compatibility across various platforms and applications.
+
+(-----------------------------------------------------------------------)
+
 
 
