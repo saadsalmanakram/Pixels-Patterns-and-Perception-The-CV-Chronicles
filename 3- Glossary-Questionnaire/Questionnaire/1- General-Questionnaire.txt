@@ -4276,6 +4276,12 @@ Ans- Semantic segmentation classifies pixels into classes, while instance segmen
 
 (-----------------------------------------------------------------------)
 
+712- What is the Vision Transformer (ViT) in the context of image segmentation?
+
+Ans- The ViT is a model architecture used for image segmentation that operates on image patches and has recently gained popularity over traditional convolutional models.
+
+(-----------------------------------------------------------------------)
+
 
 
 
