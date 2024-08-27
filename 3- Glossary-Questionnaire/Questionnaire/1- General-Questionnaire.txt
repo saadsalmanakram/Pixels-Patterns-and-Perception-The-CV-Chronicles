@@ -6589,4 +6589,10 @@ Ans- The SUN dataset provides a large-scale scene attribute database, useful for
 
 (------------------------------------------------------------------------)
 
+1097- In the context of ZSL, what are the advantages of using a dataset like AwA?
+
+Ans- AwA's attribute-based classification supports transfer-learning algorithms, making it ideal for benchmarking ZSL methods.
+
+(------------------------------------------------------------------------)
+
 
