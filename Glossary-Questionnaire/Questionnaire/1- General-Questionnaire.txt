@@ -3382,4 +3382,10 @@ Ans- OWL-ViT’s ability to use both images and textual queries for detection en
 
 (------------------------------------------------------------------------)
 
+566- What kind of models does OWL-ViT build upon, and how does it improve upon them?
+
+Ans- OWL-ViT builds upon models like CLIP by integrating object detection capabilities, allowing for open-vocabulary detection.
+
+(------------------------------------------------------------------------)
+
 
