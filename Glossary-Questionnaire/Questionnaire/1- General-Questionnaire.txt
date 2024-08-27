@@ -3628,6 +3628,12 @@ Ans- The typical loss function is the mean squared error (MSE) between the origi
 
 (------------------------------------------------------------------------)
 
+607- Can autoencoders be used for data denoising?
+
+Ans- Yes, autoencoders can be trained to remove noise from data by learning to reconstruct clean versions of noisy inputs.
+
+(------------------------------------------------------------------------)
+
 
 
 
