@@ -6583,4 +6583,10 @@ Ans- The CUB dataset includes detailed annotations like part locations, binary a
 
 (------------------------------------------------------------------------)
 
+1096- How does the SUN dataset contribute to ZSL evaluation?
+
+Ans- The SUN dataset provides a large-scale scene attribute database, useful for high-level scene understanding and recognition tasks in ZSL.
+
+(------------------------------------------------------------------------)
+
 
