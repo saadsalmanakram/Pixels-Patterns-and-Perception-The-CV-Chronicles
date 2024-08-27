@@ -4390,6 +4390,12 @@ Ans- Bitrate is the quantity of data used to describe audio and video, influenci
 
 (-----------------------------------------------------------------------)
 
+731- How is bitrate typically measured?
+
+Ans- Bitrate is commonly expressed in megabytes per second (mbps) or kilobytes per second (kbps).
+
+(-----------------------------------------------------------------------)
+
 
 
 
