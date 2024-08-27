@@ -4210,6 +4210,12 @@ Ans- The DETR model (DEtection TRansformer) can perform object detection by pred
 
 (-----------------------------------------------------------------------)
 
+702- How does the DETR model perform object detection?
+
+Ans- It uses transformers to predict bounding boxes and class labels for objects in an image without the need for anchor boxes.
+
+(-----------------------------------------------------------------------)
+
 
 
 
