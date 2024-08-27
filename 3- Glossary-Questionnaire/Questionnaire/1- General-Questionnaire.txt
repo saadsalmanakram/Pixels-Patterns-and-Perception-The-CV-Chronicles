@@ -6625,4 +6625,10 @@ Ans- It exposed how AI can reinforce harmful stereotypes, underscoring the need 
 
 (------------------------------------------------------------------------)
 
+1103- How can bias infiltrate AI models across different modalities like text, vision, and speech?
+
+Ans- Bias can enter through unrepresentative training data, flawed labeling, or biased model architecture.
+
+(------------------------------------------------------------------------)
+
 
