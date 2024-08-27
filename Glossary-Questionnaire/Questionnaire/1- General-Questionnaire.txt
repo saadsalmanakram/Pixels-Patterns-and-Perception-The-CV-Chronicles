@@ -3154,3 +3154,9 @@ Ans- CLIP generalizes to unseen categories through its training method, which te
 
 (------------------------------------------------------------------------)
 
+528- How does CLIP handle bias in classification tasks?
+
+Ans- CLIP’s effectiveness and biases vary based on category choices, showing disparities in classification accuracy across different demographics, such as gender and race.
+
+(------------------------------------------------------------------------)
+
