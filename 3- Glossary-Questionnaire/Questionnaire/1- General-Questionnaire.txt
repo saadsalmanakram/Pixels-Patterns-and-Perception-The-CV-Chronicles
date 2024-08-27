@@ -4932,4 +4932,10 @@ Ans- It conditions the NeRF on spatial features from input images rather than us
 
 (-----------------------------------------------------------------------)
 
+821- What is the main objective of PixelNeRF during training?
+
+Ans- To predict a single novel view from a new camera angle, minimizing the mean-squared error between the rendered and expected views.
+
+(-----------------------------------------------------------------------)
+
 
