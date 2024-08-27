@@ -5964,6 +5964,12 @@ Ans- PBR is a rendering technique that simulates how light interacts with materi
 
 (-----------------------------------------------------------------------)
 
+993- How does PBR handle different materials in rendering?
+
+Ans- PBR uses material properties like albedo, roughness, and metalness to simulate how different materials reflect and absorb light.
+
+(-----------------------------------------------------------------------)
+
 
 
 
