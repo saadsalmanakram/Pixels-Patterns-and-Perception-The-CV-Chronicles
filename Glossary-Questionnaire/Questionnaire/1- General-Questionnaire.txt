@@ -3268,4 +3268,10 @@ Ans- Contrastive loss helps align image and text representations, enhancing the 
 
 (------------------------------------------------------------------------)
 
+547- How is cross-attention used in BLIP's architecture?
+
+Ans- Cross-attention layers in the Image-Grounded Text Encoder integrate and align image and text embeddings for multimodal representation.
+
+(------------------------------------------------------------------------)
+
 
