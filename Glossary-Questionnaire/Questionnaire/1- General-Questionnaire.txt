@@ -3220,3 +3220,9 @@ Ans- The Image-Grounded Text Encoder uses cross-attention layers to integrate im
 
 (------------------------------------------------------------------------)
 
+539- What is the purpose of the Image-Grounded Text Decoder in BLIP?
+
+Ans- It generates text in an autoregressive manner, supporting tasks like captioning and visual question answering.
+
+(------------------------------------------------------------------------)
+
