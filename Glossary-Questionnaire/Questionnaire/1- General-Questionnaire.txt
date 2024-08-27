@@ -3760,6 +3760,12 @@ Ans- VAEs are generally easier to train and more stable compared to GANs.
 
 (------------------------------------------------------------------------)
 
+629- What are some common applications for GANs?
+
+Ans- GANs are used for image generation, super-resolution, and image-to-image translation.
+
+(------------------------------------------------------------------------)
+
 
 
 
