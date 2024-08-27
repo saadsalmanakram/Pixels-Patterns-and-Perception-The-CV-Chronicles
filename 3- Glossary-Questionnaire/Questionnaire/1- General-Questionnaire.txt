@@ -6414,4 +6414,10 @@ Ans- From initial exploration in 2008 to significant advancements with CLIP in 2
 
 (------------------------------------------------------------------------)
 
+1068- How do humans recognize objects they haven’t seen before?
+
+Ans- By using related information about known objects to infer characteristics of the new object.
+
+(------------------------------------------------------------------------)
+
 
