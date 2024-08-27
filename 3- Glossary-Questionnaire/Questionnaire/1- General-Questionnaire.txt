@@ -5022,4 +5022,10 @@ Ans- The focal length, in pixels, is crucial for mapping 3D points to the 2D ima
 
 (-----------------------------------------------------------------------)
 
+836- What role do the intrinsic parameters of a camera play in stereo vision?
+
+Ans- Intrinsic parameters like focal length and the principal point location are essential for accurate image-to-world coordinate mapping.
+
+(-----------------------------------------------------------------------)
+
 
