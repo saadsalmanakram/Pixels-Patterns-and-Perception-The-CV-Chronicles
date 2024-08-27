@@ -5130,4 +5130,16 @@ Ans- The key equation integrates the product of transmittance, density, and colo
 
 (-----------------------------------------------------------------------)
 
+854- Why is positional encoding used in NeRFs?
+
+Ans- Positional encoding is used to capture high-frequency variations in scene parameters, improving the model's ability to represent fine details.
+
+(-----------------------------------------------------------------------)
+
+855- What are the challenges associated with the original NeRF implementation?
+
+Ans- The original NeRF requires long training times, often taking days on powerful GPUs.
+
+(-----------------------------------------------------------------------)
+
 
