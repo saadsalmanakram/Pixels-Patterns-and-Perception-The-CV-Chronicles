@@ -4600,3 +4600,9 @@ Ans- To simulate how real-world scenes are captured and rendered in a digital fo
 
 (-----------------------------------------------------------------------)
 
+766- What is the basic principle of a pinhole camera?
+
+Ans- It uses a small hole to project an inverted image of a scene onto a screen or film inside a lightproof box.
+
+(-----------------------------------------------------------------------)
+
