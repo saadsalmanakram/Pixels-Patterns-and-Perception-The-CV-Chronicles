@@ -6565,4 +6565,10 @@ Ans- CLIP directly learns from raw text and images, unlike traditional ZSL which
 
 (------------------------------------------------------------------------)
 
+1093- What kind of information is used in ZSL to classify unseen classes?
+
+Ans- ZSL uses auxiliary information like semantic embeddings or attributes to classify unseen classes.
+
+(------------------------------------------------------------------------)
+
 
