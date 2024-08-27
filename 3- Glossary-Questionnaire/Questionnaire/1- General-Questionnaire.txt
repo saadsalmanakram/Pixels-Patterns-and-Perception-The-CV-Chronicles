@@ -4758,5 +4758,11 @@ Ans- Scaling is the process of uniformly increasing or decreasing the size of an
 
 (-----------------------------------------------------------------------)
 
+792- What is the scaling matrix for a 3D object?
+
+Ans- The scaling matrix is a diagonal matrix with scale factors sx, sy, and sz along the diagonal.
+
+(-----------------------------------------------------------------------)
+
 
 
