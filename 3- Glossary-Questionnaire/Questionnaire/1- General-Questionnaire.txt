@@ -6492,5 +6492,11 @@ Ans- The papers explored zero-shot learning in natural language processing and c
 
 (------------------------------------------------------------------------)
 
+1081- What notable work did OpenAI’s GPT-3 contribute to zero-shot learning?
+
+Ans- GPT-3 demonstrated impressive zero-shot performance in natural language processing tasks.
+
+(------------------------------------------------------------------------)
+
 
 
