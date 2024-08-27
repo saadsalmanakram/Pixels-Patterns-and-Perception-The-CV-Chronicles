@@ -3172,3 +3172,9 @@ Ans- CLIP showed gender classification accuracy over 96% and racial classificati
 
 (------------------------------------------------------------------------)
 
+531- What distinguishes CLIP from other multimodal models?
+
+Ans- CLIP’s proficiency in zero-shot learning and its ability to classify images based on text descriptions without category-specific training set it apart from other multimodal models.
+
+(------------------------------------------------------------------------)
+
