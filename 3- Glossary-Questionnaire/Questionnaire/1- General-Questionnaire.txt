@@ -4270,6 +4270,12 @@ Ans- Panoptic segmentation combines semantic and instance segmentation by assign
 
 (-----------------------------------------------------------------------)
 
+711- How do semantic and instance segmentation differ?
+
+Ans- Semantic segmentation classifies pixels into classes, while instance segmentation also differentiates between individual instances of the same class.
+
+(-----------------------------------------------------------------------)
+
 
 
 
