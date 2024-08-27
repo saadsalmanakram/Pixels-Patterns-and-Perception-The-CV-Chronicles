@@ -5376,3 +5376,9 @@ Ans- An emerging practice that applies DevOps principles to machine learning, en
 
 (-----------------------------------------------------------------------)
 
+895- What is load testing in the context of model deployment?
+
+Ans- Simulating varying workloads to test the model’s responsiveness under different conditions.
+
+(-----------------------------------------------------------------------)
+
