@@ -5058,4 +5058,10 @@ Ans- OAK-D Lite has pre-calibrated cameras with known intrinsic parameters and f
 
 (-----------------------------------------------------------------------)
 
+842- Why do the v-coordinates (vertical) of a point in stereo images remain the same?
+
+Ans- The v-coordinates remain the same because the cameras are aligned in the same vertical plane.
+
+(-----------------------------------------------------------------------)
+
 
