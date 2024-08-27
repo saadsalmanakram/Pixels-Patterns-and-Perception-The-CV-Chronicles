@@ -6607,4 +6607,10 @@ Ans- GZSL's ability to classify both seen and unseen classes simulates more real
 
 (------------------------------------------------------------------------)
 
+1100- What is the primary goal of Zero-shot Learning?
+
+Ans- The primary goal is to enable models to classify new, unseen classes using knowledge transferred from seen classes.
+
+(------------------------------------------------------------------------)
+
 
