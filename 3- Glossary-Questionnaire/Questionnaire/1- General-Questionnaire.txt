@@ -6264,5 +6264,11 @@ Ans- Continuous monitoring ensures the model adapts to new trends or data variat
 
 (-----------------------------------------------------------------------)
 
+1043- What is a point cloud?
+
+Ans- A point cloud is a collection of points in 3D space, each with coordinates and potentially additional attributes like color and albedo.
+
+(-----------------------------------------------------------------------)
+
 
 
