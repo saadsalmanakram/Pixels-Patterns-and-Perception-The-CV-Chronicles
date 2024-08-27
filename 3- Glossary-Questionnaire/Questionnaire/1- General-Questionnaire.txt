@@ -6462,4 +6462,10 @@ Ans- Conditional Variational Autoencoder (CVAE).
 
 (------------------------------------------------------------------------)
 
+1076- How does zero-shot learning differ from domain adaptation?
+
+Ans- ZSL aims to recognize unseen classes without any data, while domain adaptation adjusts models to work across different but related domains with labeled data.
+
+(------------------------------------------------------------------------)
+
 
