@@ -6090,4 +6090,10 @@ Ans- DCGAN uses strided convolutions instead of max-pooling for downsampling, pr
 
 (-----------------------------------------------------------------------)
 
+1014- What is the output size of the Generator network in DCGAN?
+
+Ans- The Generator produces images of size 128x128x3.
+
+(-----------------------------------------------------------------------)
+
 
