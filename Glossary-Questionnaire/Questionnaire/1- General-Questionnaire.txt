@@ -4144,6 +4144,12 @@ Ans- Dreambooth reduces the need for large datasets and extensive computation by
 
 (-----------------------------------------------------------------------)
 
+691- What kind of images can Dreambooth generate after training?
+
+Ans- Dreambooth can generate new images of the trained subject or style in diverse poses and backgrounds.
+
+(-----------------------------------------------------------------------)
+
 
 
 
