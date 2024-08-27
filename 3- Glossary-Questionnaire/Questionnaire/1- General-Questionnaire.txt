@@ -4612,3 +4612,9 @@ Ans- It provides a simple way to project 3D points onto a 2D plane, mimicking re
 
 (-----------------------------------------------------------------------)
 
+768- What is the image formation process in a pinhole camera?
+
+Ans- Light rays pass through the pinhole and form an inverted image on the opposite side of the box.
+
+(-----------------------------------------------------------------------)
+
