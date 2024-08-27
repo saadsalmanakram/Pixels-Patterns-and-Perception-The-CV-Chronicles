@@ -4662,3 +4662,9 @@ Ans- To account for image flipping due to the negative Z-axis convention.
 
 (-----------------------------------------------------------------------)
 
+776- What is the role of the world-to-camera matrix?
+
+Ans- It transforms 3D world coordinates into the camera’s coordinate system.
+
+(-----------------------------------------------------------------------)
+
