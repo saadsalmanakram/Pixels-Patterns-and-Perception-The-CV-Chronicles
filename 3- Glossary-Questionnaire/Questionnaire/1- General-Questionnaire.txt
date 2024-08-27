@@ -6667,4 +6667,10 @@ Ans- Bias can be mitigated through data augmentation, algorithmic adjustments, a
 
 (------------------------------------------------------------------------)
 
+1110- Why is it important to mitigate bias specifically in CV models?
+
+Ans- To ensure that AI systems are equitable and do not disproportionately impact specific groups.
+
+(------------------------------------------------------------------------)
+
 
