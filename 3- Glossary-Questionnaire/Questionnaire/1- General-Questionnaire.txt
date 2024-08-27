@@ -6643,4 +6643,10 @@ Ans- Label bias, selection bias, and algorithmic bias are common in CV models.
 
 (------------------------------------------------------------------------)
 
+1106- How can selection bias affect a computer vision model?
+
+Ans- It can cause the model to perform poorly on underrepresented groups in the dataset.
+
+(------------------------------------------------------------------------)
+
 
