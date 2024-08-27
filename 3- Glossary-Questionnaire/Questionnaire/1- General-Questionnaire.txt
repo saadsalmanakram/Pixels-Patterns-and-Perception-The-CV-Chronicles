@@ -4438,6 +4438,12 @@ Ans- Video resolution is typically expressed in terms of width x height pixels.
 
 (-----------------------------------------------------------------------)
 
+739- What is the primary function of vision transformers in computer vision tasks?
+
+Ans-Vision transformers are designed to capture both spatial and contextual features in images and videos.
+
+(-----------------------------------------------------------------------)
+
 
 
 
