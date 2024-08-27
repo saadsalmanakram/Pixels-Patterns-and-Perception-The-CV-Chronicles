@@ -5634,6 +5634,12 @@ Ans- Synthetic data can supplement or replace real data in some cases, but it ma
 
 (-----------------------------------------------------------------------)
 
+938- How can synthetic data help with privacy concerns?
+
+Ans- Synthetic data can replicate the distribution of real data without revealing specific details about individual data points, thereby protecting privacy.
+
+(-----------------------------------------------------------------------)
+
 
 
 
