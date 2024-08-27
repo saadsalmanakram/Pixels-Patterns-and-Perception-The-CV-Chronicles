@@ -3694,6 +3694,18 @@ Ans- The probabilistic nature allows VAEs to generate diverse and realistic new 
 
 (------------------------------------------------------------------------)
 
+618- Why is balancing the reconstruction loss and latent loss important in VAEs?
+
+Ans- A good balance ensures that the VAE can generate high-quality images that are both similar to the training data and diverse.
+
+(------------------------------------------------------------------------)
+
+619- What is the advantage of using VAEs for generative tasks?
+
+Ans- VAEs provide a rich probabilistic framework for generating new samples that capture the underlying data distribution.
+
+(------------------------------------------------------------------------)
+
 
 
 
