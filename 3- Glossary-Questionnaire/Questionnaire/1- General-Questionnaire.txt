@@ -4764,5 +4764,11 @@ Ans- The scaling matrix is a diagonal matrix with scale factors sx, sy, and sz a
 
 (-----------------------------------------------------------------------)
 
+793- What is a rotation in 3D transformations?
+
+Ans- A rotation changes the orientation of an object around a specified axis in 3D space.
+
+(-----------------------------------------------------------------------)
+
 
 
