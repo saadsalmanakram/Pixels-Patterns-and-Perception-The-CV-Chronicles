@@ -5118,4 +5118,10 @@ Ans- NeRF approximates a continuous function that maps 3D positions and 2D viewi
 
 (-----------------------------------------------------------------------)
 
+852- What is volumetric rendering in the context of NeRFs?
+
+Ans- Volumetric rendering in NeRFs is the process of combining color and density outputs along camera rays to generate a 2D image, and it is differentiable for backpropagation.
+
+(-----------------------------------------------------------------------)
+
 
