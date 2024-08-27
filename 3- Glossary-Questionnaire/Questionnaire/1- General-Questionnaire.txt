@@ -5670,6 +5670,12 @@ Ans- Synthetic data can simulate medical data while protecting patient privacy, 
 
 (-----------------------------------------------------------------------)
 
+944- What is the role of deep generative models in synthetic data generation?
+
+Ans- Deep generative models like GANs can expand datasets, tackle data imbalance, and address privacy issues by creating realistic synthetic data.
+
+(-----------------------------------------------------------------------)
+
 
 
 
