@@ -6191,3 +6191,10 @@ Ans- It allows for generating entirely new samples when no real data is availabl
 Ans- It enables the creation of synthetic datasets that avoid revealing personal or sensitive information from real data sources.
 
 (-----------------------------------------------------------------------)
+
+1031- What is overfitting in machine learning?
+
+Ans- Overfitting occurs when a model learns the training data too well, including noise and patterns specific to the training set, leading to poor performance on new, unseen data.
+
+(-----------------------------------------------------------------------)
+
