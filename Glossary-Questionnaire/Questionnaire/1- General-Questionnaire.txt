@@ -3940,6 +3940,12 @@ Ans- Identity loss ensures that images already in the target style remain unchan
 
 (-------------------------------------------------------------------------)
 
+657- What role does the lambda term play in identity loss?
+
+Ans- The lambda term adjusts the weight of identity loss relative to other loss components, balancing its influence on the model's training.
+
+(-------------------------------------------------------------------------)
+
 
 
 
