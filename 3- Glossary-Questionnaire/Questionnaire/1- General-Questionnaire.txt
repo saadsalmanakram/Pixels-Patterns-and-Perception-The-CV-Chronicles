@@ -6631,4 +6631,10 @@ Ans- Bias can enter through unrepresentative training data, flawed labeling, or 
 
 (------------------------------------------------------------------------)
 
+1104- Why is it crucial to address bias in AI models?
+
+Ans- Unchecked bias can perpetuate inequalities and result in unfair or harmful AI decisions.
+
+(------------------------------------------------------------------------)
+
 
