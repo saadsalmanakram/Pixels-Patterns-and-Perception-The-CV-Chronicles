@@ -3190,3 +3190,9 @@ Ans- BLIP (Bootstrapping Language-Image Pre-training) is a multimodal model that
 
 (------------------------------------------------------------------------)
 
+534- What challenge does CapFilt address in BLIP?
+
+Ans- CapFilt filters noisy image-alt-text pairs and generates accurate captions to improve vision-language alignment.
+
+(------------------------------------------------------------------------)
+
