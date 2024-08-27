@@ -4462,6 +4462,12 @@ Ans- CNNs focus on learning spatial features, while vision transformers learn bo
 
 (-----------------------------------------------------------------------)
 
+743- How does video processing differ from image processing in vision transformers?
+
+Ans- Video processing involves capturing temporal information across frames, while image processing focuses solely on spatial information within a single frame.
+
+(-----------------------------------------------------------------------)
+
 
 
 
