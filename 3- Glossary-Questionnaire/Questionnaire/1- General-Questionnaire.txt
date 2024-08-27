@@ -5952,6 +5952,12 @@ Ans- It simulates depth sensors for generating realistic 2.5D data from CAD mode
 
 (-----------------------------------------------------------------------)
 
+991- What does the 3DScan dataset offer?
+
+Ans- It provides a large collection of object scans for 3D modeling and analysis.
+
+(-----------------------------------------------------------------------)
+
 
 
 
