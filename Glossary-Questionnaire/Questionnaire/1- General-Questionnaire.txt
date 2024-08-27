@@ -3357,3 +3357,11 @@ Ans- OWL-ViT can detect objects like "cat tail," which may not be explicitly pre
 Ans- OWL-ViT excels at open-vocabulary detection by using a shared embedding space that allows it to identify objects not seen during training.
 
 (------------------------------------------------------------------------)
+
+562- What role does contrastive loss play in the pre-training stage of OWL-ViT?
+
+Ans- Contrastive loss helps OWL-ViT learn a shared representation space for both visual and textual data during pre-training.
+
+(------------------------------------------------------------------------)
+
+
