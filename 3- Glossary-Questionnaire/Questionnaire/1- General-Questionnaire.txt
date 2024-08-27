@@ -5172,4 +5172,10 @@ Ans- Current advancements include faster training and rendering methods like VR-
 
 (-----------------------------------------------------------------------)
 
+861- What is the significance of NeRFs in the development of the Metaverse?
+
+Ans- NeRFs could enable realistic, real-time rendering of 3D scenes, a crucial component for creating immersive environments in the Metaverse.
+
+(-----------------------------------------------------------------------)
+
 
