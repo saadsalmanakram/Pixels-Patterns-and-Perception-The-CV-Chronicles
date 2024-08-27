@@ -6613,4 +6613,10 @@ Ans- The primary goal is to enable models to classify new, unseen classes using 
 
 (------------------------------------------------------------------------)
 
+1101- What was the ImageNet Roulette case study about?
+
+Ans- It highlighted the potential for bias and stereotyping in AI models trained on large image datasets.
+
+(------------------------------------------------------------------------)
+
 
