@@ -5040,4 +5040,10 @@ Ans- Depth is calculated by analyzing the disparity (difference in the horizonta
 
 (-----------------------------------------------------------------------)
 
+839- What is disparity in the context of stereo vision?
+
+Ans- Disparity refers to the difference in the pixel coordinates of a point in the left and right images, which is used to determine depth.
+
+(-----------------------------------------------------------------------)
+
 
