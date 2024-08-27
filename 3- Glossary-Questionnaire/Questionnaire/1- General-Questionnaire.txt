@@ -4528,6 +4528,12 @@ Ans- Spatiotemporal fusion enables the model to capture both spatial and tempora
 
 (-----------------------------------------------------------------------)
 
+754- How does 3D vision contribute to self-driving cars?
+
+Ans- It provides depth perception to better perceive distances to surrounding objects, enhancing navigation safety.
+
+(-----------------------------------------------------------------------)
+
 
 
 
