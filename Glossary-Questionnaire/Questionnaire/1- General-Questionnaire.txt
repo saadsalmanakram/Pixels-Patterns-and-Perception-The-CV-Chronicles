@@ -3100,3 +3100,9 @@ Ans- CLIP is a neural network designed to understand visual concepts using natur
 
 (------------------------------------------------------------------------)
 
+519- How does CLIP perform zero-shot learning?
+
+Ans- CLIP can classify images into categories it wasn't explicitly trained on by simply receiving the names of visual categories, demonstrating its zero-shot learning capability.
+
+(------------------------------------------------------------------------)
+
