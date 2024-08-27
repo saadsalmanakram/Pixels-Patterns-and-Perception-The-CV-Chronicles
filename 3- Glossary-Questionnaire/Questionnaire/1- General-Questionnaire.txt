@@ -4378,6 +4378,12 @@ Ans- The frame rate is the number of frames displayed per second, giving the imp
 
 (-----------------------------------------------------------------------)
 
+729- How does frame rate influence the motion in a video?
+
+Ans- Higher frame rates result in smoother motion.
+
+(-----------------------------------------------------------------------)
+
 
 
 
