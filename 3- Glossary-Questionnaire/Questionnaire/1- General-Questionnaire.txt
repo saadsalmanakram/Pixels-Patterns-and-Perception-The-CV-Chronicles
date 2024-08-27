@@ -5466,5 +5466,11 @@ Ans- Achieves 4x reduction in model size and memory bandwidth requirements.
 
 (-----------------------------------------------------------------------)
 
+910- What is ONNX Runtime?
+
+Ans- A cross-platform machine learning model accelerator that supports multiple frameworks.
+
+(-----------------------------------------------------------------------)
+
 
 
