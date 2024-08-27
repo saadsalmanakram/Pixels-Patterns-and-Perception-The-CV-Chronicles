@@ -3640,6 +3640,12 @@ Ans- Common applications include data denoising, dimensionality reduction, anoma
 
 (------------------------------------------------------------------------)
 
+609- How does a sparse autoencoder differ from a vanilla autoencoder?
+
+Ans- A sparse autoencoder introduces a sparsity constraint on the hidden units, forcing the model to learn more efficient and compact representations.
+
+(------------------------------------------------------------------------)
+
 
 
 
