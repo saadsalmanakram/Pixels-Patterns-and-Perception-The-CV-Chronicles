@@ -3778,6 +3778,12 @@ Ans- GANs would be preferred due to their ability to generate high-quality image
 
 (------------------------------------------------------------------------)
 
+632- Which model might be preferred for tasks requiring stability and ease of training?
+
+Ans- VAEs would be preferred for their stability and easier training process.
+
+(------------------------------------------------------------------------)
+
 
 
 
