@@ -4084,6 +4084,12 @@ Ans- The primary advantage is the ability to personalize models with very few im
 
 (-----------------------------------------------------------------------)
 
+681- How does Dreambooth differ from traditional fine-tuning techniques?
+
+Ans- Unlike traditional fine-tuning that requires large datasets, Dreambooth requires only a few example images.
+
+(-----------------------------------------------------------------------)
+
 
 
 
