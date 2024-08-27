@@ -3964,6 +3964,12 @@ Ans- Diffusion models use a two-stage process involving noise addition and remov
 
 (-------------------------------------------------------------------------)
 
+661- What are the major subcategories of diffusion models?
+
+Ans- The major subcategories of diffusion models are Denoising Diffusion Probabilistic Models (DDPMs), Noise Conditioned Score Networks (NCSNs), and Stochastic Differential Equations (SDEs).
+
+(-------------------------------------------------------------------------)
+
 
 
 
