@@ -5844,6 +5844,12 @@ Ans- It is a synthetic dataset for training human action recognition networks.
 
 (-----------------------------------------------------------------------)
 
+973- How does Surreal enhance human depth estimation?
+
+Ans- It offers synthetic images with ground truth poses, depth maps, and segmentation masks for human part segmentation.
+
+(-----------------------------------------------------------------------)
+
 
 
 
