@@ -5742,6 +5742,12 @@ Ans- A black-box model is a type of model or system where the internal workings 
 
 (-----------------------------------------------------------------------)
 
+956- What is the Middlebury dataset used for?
+
+Ans- It provides high-resolution stereo sequences for evaluating optical flow and stereo vision algorithms.
+
+(-----------------------------------------------------------------------)
+
 
 
 
