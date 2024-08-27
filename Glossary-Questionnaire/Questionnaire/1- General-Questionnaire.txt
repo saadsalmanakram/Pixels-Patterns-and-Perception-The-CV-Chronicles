@@ -3820,6 +3820,12 @@ Ans- StyleGAN1 introduces a mapping network, Adaptive Instance Normalization (Ad
 
 (------------------------------------------------------------------------)
 
+639- What is the benefit of the mapping network in StyleGAN1?
+
+Ans- The mapping network disentangles the latent code, allowing for more granular control over generated image features.
+
+(-------------------------------------------------------------------------)
+
 
 
 
