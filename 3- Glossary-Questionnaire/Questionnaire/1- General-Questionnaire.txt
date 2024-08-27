@@ -5016,4 +5016,10 @@ Ans- The baseline is the distance between the two cameras in a stereo setup, usu
 
 (-----------------------------------------------------------------------)
 
+835- What is the significance of the focal length in stereo vision?
+
+Ans- The focal length, in pixels, is crucial for mapping 3D points to the 2D image plane and for calculating depth.
+
+(-----------------------------------------------------------------------)
+
 
