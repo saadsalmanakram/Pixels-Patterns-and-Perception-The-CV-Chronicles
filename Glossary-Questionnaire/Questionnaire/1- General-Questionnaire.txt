@@ -4222,6 +4222,12 @@ Ans- IoU measures the overlap between the predicted bounding box and the ground 
 
 (-----------------------------------------------------------------------)
 
+704- Why is Mean Average Precision (mAP) important for evaluating object detection models?
+
+Ans- mAP combines precision and recall across various IoU thresholds, providing a comprehensive assessment of model performance.
+
+(-----------------------------------------------------------------------)
+
 
 
 
