@@ -3196,3 +3196,9 @@ Ans- CapFilt filters noisy image-alt-text pairs and generates accurate captions 
 
 (------------------------------------------------------------------------)
 
+535- How does the BLIP architecture handle both visual and textual data?
+
+Ans- BLIP integrates a Vision Transformer with a Multimodal Mixture of Encoder-Decoder (MED) components for versatile processing.
+
+(------------------------------------------------------------------------)
+
