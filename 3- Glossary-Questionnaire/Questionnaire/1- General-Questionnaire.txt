@@ -4294,6 +4294,12 @@ Ans- SAM uses a Vision Transformer-based architecture and is trained on a vast d
 
 (-----------------------------------------------------------------------)
 
+715- What is Intersection over Union (IoU)?
+
+Ans- IoU, or the Jaccard index, measures the overlap between the predicted mask and the ground truth relative to their union.
+
+(-----------------------------------------------------------------------)
+
 
 
 
