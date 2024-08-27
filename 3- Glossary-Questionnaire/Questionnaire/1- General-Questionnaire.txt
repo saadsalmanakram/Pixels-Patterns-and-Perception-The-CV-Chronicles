@@ -5358,3 +5358,9 @@ Ans- A high-performance, language-agnostic framework for efficient communication
 
 (-----------------------------------------------------------------------)
 
+892- What role does inference play in the deployment process?
+
+Ans- Generating predictions or outputs based on incoming data using the deployed model.
+
+(-----------------------------------------------------------------------)
+
