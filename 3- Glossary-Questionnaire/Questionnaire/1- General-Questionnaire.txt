@@ -5682,6 +5682,12 @@ Ans- Use cases include medical image generation, autonomous driving, wildlife mo
 
 (-----------------------------------------------------------------------)
 
+946- How does synthetic data contribute to robustness in machine learning models?
+
+Ans- Synthetic data can be used to augment real data, providing diverse scenarios that improve the robustness of machine learning models.
+
+(-----------------------------------------------------------------------)
+
 
 
 
