@@ -6517,4 +6517,10 @@ Ans- Semantic embeddings are vector representations of semantic information used
 
 (------------------------------------------------------------------------)
 
+1085- How do semantic embeddings enable Zero-shot Learning?
+
+Ans- Semantic embeddings help the model project image features into a semantic space, allowing the classification of unseen classes by finding the nearest embedding.
+
+(------------------------------------------------------------------------)
+
 
