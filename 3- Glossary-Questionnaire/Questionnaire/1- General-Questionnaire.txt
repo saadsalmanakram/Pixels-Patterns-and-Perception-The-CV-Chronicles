@@ -6571,4 +6571,10 @@ Ans- ZSL uses auxiliary information like semantic embeddings or attributes to cl
 
 (------------------------------------------------------------------------)
 
+1094- Why is it challenging to classify unseen classes based solely on images in ZSL?
+
+Ans- Images alone lack the necessary information to generalize to unseen classes, making semantic embeddings essential for classification.
+
+(------------------------------------------------------------------------)
+
 
