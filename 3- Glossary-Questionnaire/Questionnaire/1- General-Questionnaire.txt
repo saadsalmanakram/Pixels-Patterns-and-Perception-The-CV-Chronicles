@@ -6054,3 +6054,9 @@ Ans- The Discriminator evaluates images and attempts to classify them as either 
 
 (-----------------------------------------------------------------------)
 
+1008- Describe the architecture of the Generator in DCGAN.
+
+Ans- The Generator takes a 100-dimensional vector as input and uses several Conv2D layers, Batch Normalization, ReLU, and Tanh activation to generate 128x128x3 images.
+
+(-----------------------------------------------------------------------)
+
