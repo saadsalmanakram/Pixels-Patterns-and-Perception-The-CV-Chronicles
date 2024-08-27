@@ -6114,4 +6114,10 @@ Ans- A diffusion model learns to denoise Gaussian noise step-by-step to generate
 
 (-----------------------------------------------------------------------)
 
+1018- How does the training process of a diffusion model work?
+
+Ans- It involves adding Gaussian noise to input data and training the model to reverse this process and denoise the data.
+
+(-----------------------------------------------------------------------)
+
 
