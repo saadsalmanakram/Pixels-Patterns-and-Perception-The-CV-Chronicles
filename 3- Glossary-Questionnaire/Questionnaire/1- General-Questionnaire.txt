@@ -6336,5 +6336,11 @@ Ans- COLLADA is an XML-based standard for exchanging digital assets, known for i
 
 (-----------------------------------------------------------------------)
 
+1055- Why is generalization important in model training?
+
+Ans- Generalization allows a model to apply learned knowledge to new, unseen data rather than just memorizing the training examples.
+
+(-----------------------------------------------------------------------)
+
 
 
