@@ -5910,6 +5910,12 @@ Ans- It bridges the gap between real and simulation environments for object reco
 
 (-----------------------------------------------------------------------)
 
+984- How does Falling Things contribute to object detection?
+
+Ans- It includes synthetic images for 3D object detection and pose estimation.
+
+(-----------------------------------------------------------------------)
+
 
 
 
