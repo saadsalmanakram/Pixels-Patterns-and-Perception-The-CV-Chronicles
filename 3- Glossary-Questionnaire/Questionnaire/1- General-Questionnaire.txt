@@ -5514,6 +5514,13 @@ Ans- Running trained deep learning models with optimized performance on NVIDIA h
 
 (-----------------------------------------------------------------------)
 
+918- How do you install TensorRT?
+
+Ans- Use `pip install tensorrt`.
+
+(-----------------------------------------------------------------------)
+
+
 
 
 
