@@ -3556,5 +3556,11 @@ Ans- Other metrics include SSIM, PSNR, Inception Score (IS), and CLIP Score.
 
 (------------------------------------------------------------------------)
 
+595- What is the SSIM metric?
+
+Ans- SSIM (Structural Similarity Index) measures the similarity between two images, with a score range from 0 to 1, where 1 indicates a perfect match.
+
+(------------------------------------------------------------------------)
+
 
 
