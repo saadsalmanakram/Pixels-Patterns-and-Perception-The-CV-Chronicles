@@ -6390,3 +6390,9 @@ Ans- GZSL allows for both seen and unseen classes in the test set, making it mor
 
 (-----------------------------------------------------------------------)
 
+1064- When did the term "zero-shot learning" first appear?
+
+Ans- In 2009, during a NeurIPS conference paper co-authored by Geoffrey Hinton.
+
+(-----------------------------------------------------------------------)
+
