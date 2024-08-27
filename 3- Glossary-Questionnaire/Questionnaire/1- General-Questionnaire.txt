@@ -6132,4 +6132,10 @@ Ans- They compress images into a smaller dimensional space and then reconstruct 
 
 (-----------------------------------------------------------------------)
 
+1021- Why might synthetic data be used in medical imaging?
+
+Ans- It helps overcome the challenge of limited real data and high cost of gathering medical images.
+
+(-----------------------------------------------------------------------)
+
 
