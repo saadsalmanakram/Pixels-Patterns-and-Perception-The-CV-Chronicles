@@ -4192,6 +4192,12 @@ Ans- While image classification identifies objects in an image, object detection
 
 (-----------------------------------------------------------------------)
 
+699- What is the difference between classification and localization in computer vision?
+
+Ans- Classification assigns a label to the entire image, while localization finds the position of objects within the image.
+
+(-----------------------------------------------------------------------)
+
 
 
 
