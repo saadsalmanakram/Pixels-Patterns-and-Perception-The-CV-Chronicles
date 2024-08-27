@@ -4336,6 +4336,12 @@ Ans- In autonomous driving, segmentation is used to identify lanes, sidewalks, a
 
 (-----------------------------------------------------------------------)
 
+722- What role does segmentation play in agriculture?
+
+Ans- Segmentation in agriculture helps in identifying different land sections and assessing crop growth stages.
+
+(-----------------------------------------------------------------------)
+
 
 
 
