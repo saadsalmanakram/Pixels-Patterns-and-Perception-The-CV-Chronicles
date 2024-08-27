@@ -4384,6 +4384,12 @@ Ans- Higher frame rates result in smoother motion.
 
 (-----------------------------------------------------------------------)
 
+730- What is bitrate in the context of video processing?
+
+Ans- Bitrate is the quantity of data used to describe audio and video, influencing quality and bandwidth requirements.
+
+(-----------------------------------------------------------------------)
+
 
 
 
