@@ -5256,3 +5256,9 @@ Ans- High accuracy often demands more resources and may reduce performance, whil
 
 (-----------------------------------------------------------------------)
 
+875- How does focusing on accuracy affect model performance and resource usage?
+
+Ans- Prioritizing accuracy typically results in slower inference times and higher resource usage.
+
+(-----------------------------------------------------------------------)
+
