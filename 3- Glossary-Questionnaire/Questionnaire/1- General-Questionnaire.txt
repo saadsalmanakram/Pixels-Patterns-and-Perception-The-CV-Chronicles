@@ -6468,4 +6468,10 @@ Ans- ZSL aims to recognize unseen classes without any data, while domain adaptat
 
 (------------------------------------------------------------------------)
 
+1077- What is the key difference between open set recognition (OSR) and zero-shot learning (ZSL)?
+
+Ans- OSR deals with detecting whether an instance belongs to seen or unseen classes, while ZSL focuses on classifying unseen classes using additional semantic information.
+
+(------------------------------------------------------------------------)
+
 
