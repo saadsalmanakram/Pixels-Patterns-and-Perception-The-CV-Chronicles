@@ -6030,6 +6030,12 @@ Ans- Procedural generation allows BlenderProc to automatically create diverse an
 
 (-----------------------------------------------------------------------)
 
+1004- How does BlenderProc support large-scale scene generation?
+
+Ans- It supports parallel processing and scripting, making it efficient for generating a large number of scenes.
+
+(-----------------------------------------------------------------------)
+
 
 
 
