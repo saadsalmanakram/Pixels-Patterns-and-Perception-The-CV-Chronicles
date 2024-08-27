@@ -6577,4 +6577,10 @@ Ans- Images alone lack the necessary information to generalize to unseen classes
 
 (------------------------------------------------------------------------)
 
+1095- What makes the CUB dataset suitable for fine-grained visual categorization in ZSL?
+
+Ans- The CUB dataset includes detailed annotations like part locations, binary attributes, and textual descriptions, aiding fine-grained classification.
+
+(------------------------------------------------------------------------)
+
 
