@@ -4734,5 +4734,11 @@ Ans- A homogeneous coordinate in 3D is an extension of Cartesian coordinates, ad
 
 (-----------------------------------------------------------------------)
 
+788- How are transformations applied differently in OpenGL and DirectX?
+
+Ans- In OpenGL, transformations are applied using column vectors, while in DirectX, row vectors are used.
+
+(-----------------------------------------------------------------------)
+
 
 
