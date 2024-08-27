@@ -3532,5 +3532,11 @@ Ans- Evaluating generative models is challenging because there's often no solid 
 
 (------------------------------------------------------------------------)
 
+591- What is the most commonly used metric for evaluating generative models?
+
+Ans- The Fréchet Inception Distance (FID) is the most commonly used metric.
+
+(------------------------------------------------------------------------)
+
 
 
