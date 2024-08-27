@@ -4108,6 +4108,12 @@ Ans- Dreambooth enables models to learn specific subjects or styles, allowing fo
 
 (-----------------------------------------------------------------------)
 
+685- What are the requirements to use Dreambooth effectively?
+
+Ans- Dreambooth requires only a few images of the subject or style you want the model to learn.
+
+(-----------------------------------------------------------------------)
+
 
 
 
