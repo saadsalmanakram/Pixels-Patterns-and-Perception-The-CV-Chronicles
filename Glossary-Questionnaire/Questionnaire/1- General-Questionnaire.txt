@@ -4204,6 +4204,13 @@ Ans- Object detection locates objects in an image and assigns them a class label
 
 (-----------------------------------------------------------------------)
 
+701- What is an example of an object detection model using transformers?
+
+Ans- The DETR model (DEtection TRansformer) can perform object detection by predicting bounding boxes directly from image inputs.
+
+(-----------------------------------------------------------------------)
+
+
 
 
 
