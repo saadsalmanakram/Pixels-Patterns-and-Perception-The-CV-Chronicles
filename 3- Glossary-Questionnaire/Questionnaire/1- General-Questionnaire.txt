@@ -5676,6 +5676,12 @@ Ans- Deep generative models like GANs can expand datasets, tackle data imbalance
 
 (-----------------------------------------------------------------------)
 
+945- What are some use cases of synthetic data in real-world applications?
+
+Ans- Use cases include medical image generation, autonomous driving, wildlife monitoring, and industrial sorting tasks.
+
+(-----------------------------------------------------------------------)
+
 
 
 
