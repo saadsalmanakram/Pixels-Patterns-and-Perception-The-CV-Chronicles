@@ -3736,6 +3736,12 @@ Ans- The two main components are the generator and the discriminator.
 
 (------------------------------------------------------------------------)
 
+625- What is the role of the generator in a GAN?
+
+Ans- The generator creates synthetic data samples from random noise to deceive the discriminator.
+
+(------------------------------------------------------------------------)
+
 
 
 
