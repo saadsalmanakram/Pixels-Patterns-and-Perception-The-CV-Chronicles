@@ -3418,4 +3418,10 @@ Ans- OWL-ViT's ability to detect a broader range of objects could revolutionize 
 
 (------------------------------------------------------------------------)
 
+572- What is Zero-shot learning?
+
+Ans- Zero-shot learning involves solving tasks with no training examples using a large pretrained model.
+
+(------------------------------------------------------------------------)
+
 
