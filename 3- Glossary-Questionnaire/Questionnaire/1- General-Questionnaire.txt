@@ -5976,6 +5976,12 @@ Ans- Textures in PBR add surface details like bumps and scratches, making object
 
 (-----------------------------------------------------------------------)
 
+995- How does PBR improve the realism of synthetic images?
+
+Ans- By accurately simulating light behavior and material interactions, PBR creates images that closely resemble real-world scenes.
+
+(-----------------------------------------------------------------------)
+
 
 
 
