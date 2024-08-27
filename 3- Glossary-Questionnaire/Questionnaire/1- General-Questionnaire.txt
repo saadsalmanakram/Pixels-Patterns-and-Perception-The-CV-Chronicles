@@ -4300,6 +4300,11 @@ Ans- IoU, or the Jaccard index, measures the overlap between the predicted mask 
 
 (-----------------------------------------------------------------------)
 
+716- What is pixel accuracy in image segmentation?
+
+Ans- Pixel accuracy is the ratio of correctly classified pixels to the total number of pixels in an image.
+
+(-----------------------------------------------------------------------)
 
 
 
