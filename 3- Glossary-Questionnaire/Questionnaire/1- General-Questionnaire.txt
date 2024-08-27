@@ -5274,3 +5274,9 @@ Ans- Large models with high accuracy may require excessive time for inference an
 
 (-----------------------------------------------------------------------)
 
+878- What should be considered when deploying a model on edge devices?
+
+Ans- Consider the device's resource limitations, latency requirements, power consumption, and hardware compatibility, and apply the necessary optimizations to ensure smooth operation.
+
+(-----------------------------------------------------------------------)
+
