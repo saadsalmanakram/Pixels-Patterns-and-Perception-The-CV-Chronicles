@@ -5532,6 +5532,18 @@ Ans- A toolkit for optimizing and deploying deep learning models on Intel hardwa
 
 (-----------------------------------------------------------------------)
 
+921- What are the key benefits of using OpenVINO?
+
+Ans- Best-in-class performance, minimal external dependencies, and flexible deployment.
+
+(-----------------------------------------------------------------------)
+
+922- How does OpenVINO improve inference performance?
+
+Ans- By optimizing models for Intel processors and various hardware platforms.
+
+(-----------------------------------------------------------------------)
+
 
 
 
