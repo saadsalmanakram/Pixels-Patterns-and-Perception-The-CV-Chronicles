@@ -3886,6 +3886,12 @@ Ans- It involves translating images between two distinct domains without direct 
 
 (-------------------------------------------------------------------------)
 
+648- What are the main components of CycleGAN?
+
+Ans- The main components include a dual GAN structure, PatchGAN discriminators, specialized generator architecture, cycle consistency loss, least-square loss, and optional identity loss.
+
+(-------------------------------------------------------------------------)
+
 
 
 
