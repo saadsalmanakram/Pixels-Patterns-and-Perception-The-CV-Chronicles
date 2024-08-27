@@ -5508,6 +5508,12 @@ Ans- By reducing latency and increasing throughput during inference.
 
 (-----------------------------------------------------------------------)
 
+917- What is the main use case for TensorRT?
+
+Ans- Running trained deep learning models with optimized performance on NVIDIA hardware.
+
+(-----------------------------------------------------------------------)
+
 
 
 
