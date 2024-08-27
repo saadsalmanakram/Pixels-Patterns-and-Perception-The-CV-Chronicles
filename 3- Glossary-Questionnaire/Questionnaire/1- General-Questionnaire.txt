@@ -5892,6 +5892,12 @@ Ans- It provides accurate 6D poses of objects from extensive video frames.
 
 (-----------------------------------------------------------------------)
 
+981- What is the focus of the 4D Light Field Dataset?
+
+Ans- It is used for depth estimation in densely sampled 4D light fields.
+
+(-----------------------------------------------------------------------)
+
 
 
 
