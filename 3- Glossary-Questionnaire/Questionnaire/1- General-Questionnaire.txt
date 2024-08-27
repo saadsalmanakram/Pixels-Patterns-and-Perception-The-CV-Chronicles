@@ -5460,5 +5460,11 @@ Ans- It models quantization errors during both forward and backward passes.
 
 (-----------------------------------------------------------------------)
 
+909- What is the advantage of using INT8 models in PyTorch?
+
+Ans- Achieves 4x reduction in model size and memory bandwidth requirements.
+
+(-----------------------------------------------------------------------)
+
 
 
