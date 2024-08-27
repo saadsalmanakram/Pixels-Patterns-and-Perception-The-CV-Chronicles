@@ -6444,4 +6444,10 @@ Ans- These methods project images and semantic features into a common embedding 
 
 (------------------------------------------------------------------------)
 
+1073- How do generative-based methods differ from embedding-based methods?
+
+Ans- Generative methods create synthetic data for unseen classes using generative models, turning the zero-shot problem into a supervised learning problem.
+
+(------------------------------------------------------------------------)
+
 
