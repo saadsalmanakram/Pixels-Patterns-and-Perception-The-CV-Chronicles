@@ -6156,4 +6156,10 @@ Ans- It involves adding a new token to the model’s vocabulary and fine-tuning 
 
 (-----------------------------------------------------------------------)
 
+1025- How does LoRA (Low-Rank Adaptation) improve the training process of generative models?
+
+Ans- LoRA uses smaller update matrices to adapt the model with fewer parameters, making fine-tuning faster and more efficient.
+
+(-----------------------------------------------------------------------)
+
 
