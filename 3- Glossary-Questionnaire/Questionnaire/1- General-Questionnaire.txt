@@ -6042,9 +6042,15 @@ Ans- Yes, BlenderProc can be used in Google Colab with provided notebooks for ru
 
 (-----------------------------------------------------------------------)
 
+1006- What is the role of the Generator in a GAN?
 
+Ans- The Generator creates synthetic images from random noise with the goal of making them indistinguishable from real images.
 
+(-----------------------------------------------------------------------)
 
+1007- What is the role of the Discriminator in a GAN?
 
+Ans- The Discriminator evaluates images and attempts to classify them as either real or synthetic.
 
+(-----------------------------------------------------------------------)
 
