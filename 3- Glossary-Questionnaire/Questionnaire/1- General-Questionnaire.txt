@@ -4486,6 +4486,12 @@ Ans- Uniform Frame Sampling involves sampling frames from a video clip, embeddin
 
 (-----------------------------------------------------------------------)
 
+747- What is Tubelet Embedding, and how does it differ from Uniform Frame Sampling?
+
+Ans- Tubelet Embedding extracts spatiotemporal tubes from video, fusing spatial and temporal information during tokenization, unlike Uniform Frame Sampling.
+
+(-----------------------------------------------------------------------)
+
 
 
 
