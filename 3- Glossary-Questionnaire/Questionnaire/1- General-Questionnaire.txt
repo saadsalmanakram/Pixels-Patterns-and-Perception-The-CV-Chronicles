@@ -6306,5 +6306,11 @@ Ans- PLY stands for Polygon File Format; it contains a list of vertices and face
 
 (-----------------------------------------------------------------------)
 
+1050- What is the STL format used for?
+
+Ans- STL format is used for representing 3D models with triangular facets, but it does not include color or texture information.
+
+(-----------------------------------------------------------------------)
+
 
 
