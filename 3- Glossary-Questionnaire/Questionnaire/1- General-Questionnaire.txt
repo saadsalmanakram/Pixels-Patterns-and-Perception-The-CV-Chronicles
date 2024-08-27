@@ -4588,3 +4588,9 @@ Ans- The resurgence was marked by the introduction of affordable, high-quality V
 
 (-----------------------------------------------------------------------)
 
+764- What is a camera model in computer graphics?
+
+Ans- A camera model describes how a 3D scene is projected onto a 2D image plane.
+
+(-----------------------------------------------------------------------)
+
