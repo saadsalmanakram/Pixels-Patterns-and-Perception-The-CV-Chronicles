@@ -4048,6 +4048,12 @@ Ans- By integrating cross-attention layers in the U-Net to process text conditio
 
 (-----------------------------------------------------------------------)
 
+675- Q: How can you use text-to-image models in Diffusers?
+
+Ans- By initializing the pipeline with a text prompt and inferring the image using the Diffusers library.
+
+(-----------------------------------------------------------------------)
+
 
 
 
