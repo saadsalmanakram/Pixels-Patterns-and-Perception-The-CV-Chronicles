@@ -6366,3 +6366,9 @@ Ans- Generalization involves recognizing new examples from the same distribution
 
 (-----------------------------------------------------------------------)
 
+1060- Why might a model trained on cat selfies struggle with cartoon cats?
+
+Ans- Because cat selfies and cartoon cats come from different distributions, and the model may not generalize well across these domains.
+
+(-----------------------------------------------------------------------)
+
