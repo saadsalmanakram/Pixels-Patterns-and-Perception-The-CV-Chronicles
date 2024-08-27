@@ -5586,6 +5586,12 @@ Ans- It leverages specialized hardware optimizations while maintaining ease of u
 
 (-----------------------------------------------------------------------)
 
+930- What is EdgeTPU?
+
+Ans- Google’s ASIC designed for running AI models at the edge with high performance in a small footprint.
+
+(-----------------------------------------------------------------------)
+
 
 
 
