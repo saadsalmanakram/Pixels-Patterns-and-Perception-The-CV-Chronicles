@@ -3208,3 +3208,9 @@ Ans- The Vision Transformer in BLIP is responsible for visual data processing us
 
 (------------------------------------------------------------------------)
 
+537- What is the function of the Unimodal Text Encoder in BLIP?
+
+Ans- The Unimodal Text Encoder aligns image and text representations using contrastive loss, similar to CLIP.
+
+(------------------------------------------------------------------------)
+
