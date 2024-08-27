@@ -5688,6 +5688,12 @@ Ans- Synthetic data can be used to augment real data, providing diverse scenario
 
 (-----------------------------------------------------------------------)
 
+947- Can synthetic data handle rare events or outliers effectively?
+
+Ans- Synthetic data may struggle to accurately capture rare events or outliers, which are often found in real data, making it a challenge.
+
+(-----------------------------------------------------------------------)
+
 
 
 
