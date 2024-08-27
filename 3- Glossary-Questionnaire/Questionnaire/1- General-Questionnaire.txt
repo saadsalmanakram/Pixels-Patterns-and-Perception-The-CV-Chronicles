@@ -5382,3 +5382,9 @@ Ans- Simulating varying workloads to test the model’s responsiveness under dif
 
 (-----------------------------------------------------------------------)
 
+896- What is anomaly detection, and why is it critical in model deployment?
+
+Ans- Detecting deviations in model behavior to identify issues like distribution shifts in real-time.
+
+(-----------------------------------------------------------------------)
+
