@@ -3538,5 +3538,11 @@ Ans- The Fréchet Inception Distance (FID) is the most commonly used metric.
 
 (------------------------------------------------------------------------)
 
+592- What does a lower FID score indicate?
+
+Ans- A lower FID score indicates better perceived quality of the generated images.
+
+(------------------------------------------------------------------------)
+
 
 
