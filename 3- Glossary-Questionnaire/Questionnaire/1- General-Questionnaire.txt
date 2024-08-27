@@ -5238,5 +5238,10 @@ Ans- Knowledge distillation transfers knowledge from a larger, more complex mode
 
 (-----------------------------------------------------------------------)
 
+872- What is low-rank approximation?
+
+Ans- Low-rank approximation reduces large matrices in the model to smaller ones, lowering memory usage and computational costs.
+
+(-----------------------------------------------------------------------)
 
 
