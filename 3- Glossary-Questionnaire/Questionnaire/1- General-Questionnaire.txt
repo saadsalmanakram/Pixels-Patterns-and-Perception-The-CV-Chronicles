@@ -7157,4 +7157,10 @@ Ans- The H3 mechanism is a data-controlled, parametric decomposition acting as a
 
 (------------------------------------------------------------------------)
 
+1191- How does Hyena achieve computational efficiency?
+
+Ans- Hyena achieves computational efficiency with an evaluation time complexity of O(L x Log^2 L), using fast Fourier transform (FFT) algorithms.
+
+(------------------------------------------------------------------------)
+
 
