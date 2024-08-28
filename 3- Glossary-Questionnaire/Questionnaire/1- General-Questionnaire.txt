@@ -7211,4 +7211,10 @@ Ans- Hyena's ability to process larger, high-resolution images and smaller patch
 
 (------------------------------------------------------------------------)
 
+1200- What is I-JEPA?
+
+Ans- I-JEPA is a self-supervised learning model by Meta AI (2023) that predicts abstract representations instead of pixel-level reconstructions, improving semantic feature learning.
+
+(------------------------------------------------------------------------)
+
 
