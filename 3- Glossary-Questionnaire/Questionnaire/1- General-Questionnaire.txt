@@ -6967,4 +6967,10 @@ Ans- It models long sequences by parallel processing local blocks while recurren
 
 (------------------------------------------------------------------------)
 
+1160- How does RetNet optimize GPU usage during training?
+
+Ans- By incorporating both parallel and chunkwise recurrent representations to handle long sequences efficiently.
+
+(------------------------------------------------------------------------)
+
 
