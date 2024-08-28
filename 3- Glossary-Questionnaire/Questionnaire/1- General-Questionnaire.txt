@@ -6979,4 +6979,11 @@ Ans- RetNet uses the recurrent representation during inference to enable autoreg
 
 (------------------------------------------------------------------------)
 
+RMT (Retentive Networks Meet Vision Transformers)
+
+1162- What is RMT, and how does it relate to RetNet?
+
+Ans- RMT is a vision backbone inspired by RetNet, designed to enhance Vision Transformers with explicit spatial priors and reduced computational complexity.
+
+(------------------------------------------------------------------------)
 
