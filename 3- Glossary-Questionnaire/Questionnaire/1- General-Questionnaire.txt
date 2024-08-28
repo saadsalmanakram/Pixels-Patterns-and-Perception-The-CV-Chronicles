@@ -7049,3 +7049,9 @@ Ans- Vision Transformers lack the inductive bias present in CNNs, which is cruci
 
 (------------------------------------------------------------------------)
 
+1173- What approach does Hiera use to simplify the base architecture MViTv2?
+
+Ans- Hiera simplifies MViTv2 by removing components like relative position embeddings and convolutions, relying instead on pretraining with MAE to retain accuracy and speed.
+
+(------------------------------------------------------------------------)
+
