@@ -7205,3 +7205,10 @@ Ans- Hyena contributes by providing a simpler, faster alternative to attention m
 
 (------------------------------------------------------------------------)
 
+1199- Why is Hyena particularly beneficial for Medical Imaging and Remote Sensing?
+
+Ans- Hyena's ability to process larger, high-resolution images and smaller patches with less GPU memory makes it ideal for detailed feature representation in these fields.
+
+(------------------------------------------------------------------------)
+
+
