@@ -6925,4 +6925,10 @@ Ans- AI systems should promote social justice, fairness, and inclusiveness to be
 
 (------------------------------------------------------------------------)
 
+1153- What are Model Cards and their purpose?
+
+Ans- Files accompanying models to provide transparency on their use, limitations, and training details.
+
+(------------------------------------------------------------------------)
+
 
