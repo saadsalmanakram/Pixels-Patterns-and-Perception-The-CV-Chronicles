@@ -7072,3 +7072,10 @@ Ans- Removing convolutions initially decreased accuracy but ultimately led to a 
 Ans- MAE is an unsupervised training method that encodes and predicts missing patches in images, playing a crucial role in pretraining Hiera to learn spatial biases.
 
 (------------------------------------------------------------------------)
+
+1177- Why is Hiera significant in the development of vision models?
+
+Ans- Hiera shows that complex architectural modifications in vision transformers are unnecessary when a strong pretraining task is used, leading to faster and more accurate models.
+
+(------------------------------------------------------------------------)
+
