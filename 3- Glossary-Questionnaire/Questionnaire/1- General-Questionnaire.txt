@@ -6763,4 +6763,9 @@ Ans- To ensure models are fair, inclusive, and do not perpetuate harmful stereot
 
 (------------------------------------------------------------------------)
 
+1126- What role does the community play in addressing biases in AI models?
+
+Ans- The community fosters open dialogues, promoting ethical practices in AI development.
+
+(------------------------------------------------------------------------)
 
