@@ -7115,3 +7115,10 @@ Ans- Hiera's distinction lies in simplifying the architecture by focusing on a s
 
 (------------------------------------------------------------------------)
 
+1184- What is Hyena?
+
+Ans- Hyena is a computational operator designed as a subquadratic alternative to the attention mechanism, featuring long convolutions and data-controlled gating.
+
+(------------------------------------------------------------------------)
+
+
