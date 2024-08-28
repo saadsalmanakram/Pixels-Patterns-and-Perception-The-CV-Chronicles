@@ -7067,3 +7067,8 @@ Ans- Removing convolutions initially decreased accuracy but ultimately led to a 
 
 (------------------------------------------------------------------------)
 
+1176- What is Masked Autoencoder (MAE) and its role in Hiera?
+
+Ans- MAE is an unsupervised training method that encodes and predicts missing patches in images, playing a crucial role in pretraining Hiera to learn spatial biases.
+
+(------------------------------------------------------------------------)
