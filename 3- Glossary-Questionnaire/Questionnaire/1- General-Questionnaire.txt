@@ -6931,4 +6931,10 @@ Ans- Files accompanying models to provide transparency on their use, limitations
 
 (------------------------------------------------------------------------)
 
+1154- What is a Retentive Network (RetNet)?
+
+Ans- A RetNet is a foundational architecture designed to address challenges in large language models by combining parallelism and recurrence in training and inference.
+
+(------------------------------------------------------------------------)
+
 
