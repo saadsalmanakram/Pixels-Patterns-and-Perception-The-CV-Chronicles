@@ -7037,3 +7037,9 @@ Ans- Unlike traditional ViTs, Hiera leverages hierarchical design and a strong p
 
 (------------------------------------------------------------------------)
 
+1171- What is the role of CNNs in computer vision tasks?
+
+Ans- CNNs are well-suited for capturing hierarchical and spatial structures in visual data, using fewer channels and higher spatial resolution in early stages.
+
+(------------------------------------------------------------------------)
+
