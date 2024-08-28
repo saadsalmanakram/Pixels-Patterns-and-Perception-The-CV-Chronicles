@@ -7133,4 +7133,10 @@ Ans- Hyena was developed by Hazy Research.
 
 (------------------------------------------------------------------------)
 
+1187- What are long convolutions in the context of Hyena?
+
+Ans- Long convolutions are convolutions with kernels the size of the input, enabling global receptive fields for better contextual understanding.
+
+(------------------------------------------------------------------------)
+
 
