@@ -6757,4 +6757,10 @@ Ans- It spurred a broader conversation on the ethical responsibilities of creati
 
 (------------------------------------------------------------------------)
 
+1125- Why is it important to evaluate bias in computer vision models?
+
+Ans- To ensure models are fair, inclusive, and do not perpetuate harmful stereotypes or discrimination.
+
+(------------------------------------------------------------------------)
+
 
