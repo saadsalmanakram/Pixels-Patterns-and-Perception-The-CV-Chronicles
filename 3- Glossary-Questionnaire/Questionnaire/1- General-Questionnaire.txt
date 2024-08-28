@@ -6865,3 +6865,9 @@ Ans- Bias in AI refers to the prejudices reflected in algorithm outputs due to b
 
 (------------------------------------------------------------------------)
 
+1143- How do biases affect AI models?
+
+Ans- Biases can disrupt ethical development and lead to unfair outcomes in AI applications.
+
+(------------------------------------------------------------------------)
+
