@@ -7241,3 +7241,9 @@ Ans- They reconstruct the input image by predicting masked patches at the pixel 
 
 (------------------------------------------------------------------------)
 
+1205- What is a drawback of generative methods?
+
+Ans- They are computationally expensive and require large datasets for effective training.
+
+(------------------------------------------------------------------------)
+
