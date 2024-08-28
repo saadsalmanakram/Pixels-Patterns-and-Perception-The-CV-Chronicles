@@ -7005,3 +7005,11 @@ Ans- Unlike RetNet, RMT uses MaSA for both training and inference without switch
 
 (------------------------------------------------------------------------)
 
+ViR (Vision Retention Networks)
+
+1166- What is ViR, and how is it inspired by RetNet?
+
+Ans- ViR is a vision backbone inspired by RetNet, replacing Multi-Head Attention with Multi-Head Retention (MHR) for scalable image processing.
+
+(------------------------------------------------------------------------)
+
