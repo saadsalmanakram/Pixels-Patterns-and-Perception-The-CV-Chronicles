@@ -7253,3 +7253,9 @@ Ans- A self-supervised approach where two networks are trained to produce simila
 
 (------------------------------------------------------------------------)
 
+1207- What problem can occur with Joint-Embedding Architectures?
+
+Ans- Representation collapse, where the model produces the same output regardless of the input.
+
+(------------------------------------------------------------------------)
+
