@@ -6805,3 +6805,9 @@ Ans- It demonstrated how AI models could go wrong due to biases in data labeling
 
 (------------------------------------------------------------------------)
 
+1133- Why was ImageNet Roulette considered problematic?
+
+Ans- The experiment highlighted the risks of unchecked biases in AI models.
+
+(------------------------------------------------------------------------)
+
