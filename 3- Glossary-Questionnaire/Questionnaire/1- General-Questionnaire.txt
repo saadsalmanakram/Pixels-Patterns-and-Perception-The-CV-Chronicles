@@ -6961,4 +6961,10 @@ Ans- It facilitates memory-efficient and low-latency inference with O(1) complex
 
 (------------------------------------------------------------------------)
 
+1159- What is the Chunkwise Recurrent Representation in RetNet?
+
+Ans- It models long sequences by parallel processing local blocks while recurrently encoding global blocks to optimize memory usage.
+
+(------------------------------------------------------------------------)
+
 
