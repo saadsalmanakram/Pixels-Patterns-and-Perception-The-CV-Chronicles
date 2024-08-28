@@ -7163,4 +7163,10 @@ Ans- Hyena achieves computational efficiency with an evaluation time complexity 
 
 (------------------------------------------------------------------------)
 
+1192- What is the primary advantage of Hyena over traditional attention mechanisms?
+
+Ans- The primary advantage of Hyena is its subquadratic computational complexity, which leads to faster and more memory-efficient processing.
+
+(------------------------------------------------------------------------)
+
 
