@@ -6973,4 +6973,10 @@ Ans- By incorporating both parallel and chunkwise recurrent representations to h
 
 (------------------------------------------------------------------------)
 
+1161- How does RetNet handle inference?
+
+Ans- RetNet uses the recurrent representation during inference to enable autoregressive decoding with reduced memory usage and latency.
+
+(------------------------------------------------------------------------)
+
 
