@@ -7025,3 +7025,9 @@ Ans- In ViR, positional embedding is added to patch embedding before appending t
 
 (------------------------------------------------------------------------)
 
+1169- What is Hiera in the context of vision models?
+
+Ans- Hiera is a hierarchical vision transformer architecture designed to achieve high accuracy and speed by removing unnecessary complexity through pretraining with a strong visual pretext task.
+
+(------------------------------------------------------------------------)
+
