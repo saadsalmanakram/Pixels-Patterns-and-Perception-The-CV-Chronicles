@@ -7109,3 +7109,9 @@ Ans- This trade-off helps in capturing low-level features early and more complex
 
 (------------------------------------------------------------------------)
 
+1183- What distinguishes Hiera's approach from other vision models?
+
+Ans- Hiera's distinction lies in simplifying the architecture by focusing on a strong pretraining task instead of adding complex components.
+
+(------------------------------------------------------------------------)
+
