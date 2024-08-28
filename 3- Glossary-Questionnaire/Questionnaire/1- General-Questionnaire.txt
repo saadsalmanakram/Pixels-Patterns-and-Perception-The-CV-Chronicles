@@ -6697,4 +6697,10 @@ Ans- To highlight inherent biases in AI models trained on the ImageNet dataset.
 
 (------------------------------------------------------------------------)
 
+1115- What dataset was used to train the model in ImageNet Roulette?
+
+Ans- The “person” category from the ImageNet dataset.
+
+(------------------------------------------------------------------------)
+
 
