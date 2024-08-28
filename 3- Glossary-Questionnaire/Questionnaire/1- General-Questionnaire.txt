@@ -7151,4 +7151,10 @@ Ans- Hyena uses element-wise gating to control information flow and maintain dat
 
 (------------------------------------------------------------------------)
 
+1190- What is the H3 mechanism?
+
+Ans- The H3 mechanism is a data-controlled, parametric decomposition acting as a surrogate attention mechanism, and is the foundation of Hyena.
+
+(------------------------------------------------------------------------)
+
 
