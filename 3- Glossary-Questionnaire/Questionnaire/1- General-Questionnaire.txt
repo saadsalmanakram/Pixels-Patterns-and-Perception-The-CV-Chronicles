@@ -7013,3 +7013,9 @@ Ans- ViR is a vision backbone inspired by RetNet, replacing Multi-Head Attention
 
 (------------------------------------------------------------------------)
 
+1167- How does Multi-Head Retention (MHR) in ViR differ from Multi-Head Attention?
+
+Ans- MHR is free of gating functions and can switch between parallel, recurrent, or chunkwise modes.
+
+(------------------------------------------------------------------------)
+
