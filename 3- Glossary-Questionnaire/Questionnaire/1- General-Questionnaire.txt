@@ -6703,4 +6703,10 @@ Ans- The “person” category from the ImageNet dataset.
 
 (------------------------------------------------------------------------)
 
+1116- What is the main issue with the labels in ImageNet?
+
+Ans- The labels were often offensive, stereotypical, and inappropriate, particularly concerning race and gender.
+
+(------------------------------------------------------------------------)
+
 
