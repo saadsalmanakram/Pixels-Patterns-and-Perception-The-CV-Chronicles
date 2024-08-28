@@ -7091,3 +7091,9 @@ Ans- Hiera is derived from MViTv2, a hierarchical architecture that models multi
 
 (------------------------------------------------------------------------)
 
+1180- What did the authors of Hiera prove with their approach?
+
+Ans- They proved that a strong pretraining task like MAE can replace complex hierarchical components, resulting in a faster and more accurate vision transformer.
+
+(------------------------------------------------------------------------)
+
