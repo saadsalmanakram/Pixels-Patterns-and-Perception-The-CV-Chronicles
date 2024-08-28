@@ -7247,3 +7247,9 @@ Ans- They are computationally expensive and require large datasets for effective
 
 (------------------------------------------------------------------------)
 
+1206- What is a Joint-Embedding Architecture?
+
+Ans- A self-supervised approach where two networks are trained to produce similar embeddings for different views of the same image.
+
+(------------------------------------------------------------------------)
+
