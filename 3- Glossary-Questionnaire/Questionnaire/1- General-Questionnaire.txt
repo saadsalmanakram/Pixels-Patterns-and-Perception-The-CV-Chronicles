@@ -6943,4 +6943,10 @@ Ans- RetNet addresses training parallelism, low-cost inference, and good perform
 
 (------------------------------------------------------------------------)
 
+1156- What is the Multi-Scale Retention (MSR) mechanism in RetNet?
+
+Ans- MSR is an alternative to multi-head attention that enables parallel training and efficient, recurrent inference.
+
+(------------------------------------------------------------------------)
+
 
