@@ -6901,4 +6901,10 @@ Ans- Human rights, peaceful societies, diversity, inclusiveness, and environment
 
 (------------------------------------------------------------------------)
 
+1149- What is the principle of Proportionality and Do No Harm in AI Ethics?
+
+Ans- AI systems should not exceed what is necessary for a legitimate aim, and risk assessments should prevent harm.
+
+(------------------------------------------------------------------------)
+
 
