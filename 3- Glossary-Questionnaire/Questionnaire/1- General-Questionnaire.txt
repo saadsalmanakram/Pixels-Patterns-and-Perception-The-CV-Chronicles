@@ -7229,3 +7229,9 @@ Ans- They create similar embeddings for different views of the same image using 
 
 (------------------------------------------------------------------------)
 
+1203- What is a drawback of invariance-based methods?
+
+Ans- They introduce strong biases that may not be suitable for certain downstream tasks.
+
+(------------------------------------------------------------------------)
+
