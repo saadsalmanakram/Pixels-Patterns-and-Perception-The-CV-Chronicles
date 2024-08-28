@@ -7103,3 +7103,9 @@ Ans- The replacement initially decreased accuracy but ultimately increased model
 
 (------------------------------------------------------------------------)
 
+1182- Why is spatial resolution traded for channel capacity in hierarchical models like MViTv2?
+
+Ans- This trade-off helps in capturing low-level features early and more complex features later in the model, improving overall representation learning.
+
+(------------------------------------------------------------------------)
+
