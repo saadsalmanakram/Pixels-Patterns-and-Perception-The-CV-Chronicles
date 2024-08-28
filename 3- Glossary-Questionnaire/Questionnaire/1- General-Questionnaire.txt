@@ -6895,4 +6895,10 @@ Ans- To provide a global standard for AI ethics with actionable policy recommend
 
 (------------------------------------------------------------------------)
 
+1148- What are the core values of UNESCO’s AI Ethics recommendation?
+
+Ans- Human rights, peaceful societies, diversity, inclusiveness, and environmental flourishing.
+
+(------------------------------------------------------------------------)
+
 
