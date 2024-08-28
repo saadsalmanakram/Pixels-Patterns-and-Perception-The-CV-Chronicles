@@ -6745,4 +6745,10 @@ Ans- Concepts that cannot be visually represented, leading to irrelevant and bia
 
 (------------------------------------------------------------------------)
 
+1123- What steps were taken to ensure privacy in the ImageNet dataset?
+
+Ans- Face-blurring and image obfuscation techniques were applied to protect individuals' privacy.
+
+(------------------------------------------------------------------------)
+
 
