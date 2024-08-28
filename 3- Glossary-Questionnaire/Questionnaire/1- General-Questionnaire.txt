@@ -7043,3 +7043,9 @@ Ans- CNNs are well-suited for capturing hierarchical and spatial structures in v
 
 (------------------------------------------------------------------------)
 
+1172- What challenges do Vision Transformers face in comparison to CNNs?
+
+Ans- Vision Transformers lack the inductive bias present in CNNs, which is crucial for efficiently processing visual data.
+
+(------------------------------------------------------------------------)
+
