@@ -7019,3 +7019,9 @@ Ans- MHR is free of gating functions and can switch between parallel, recurrent,
 
 (------------------------------------------------------------------------)
 
+1168- What role does positional embedding play in ViR?
+
+Ans- In ViR, positional embedding is added to patch embedding before appending the [class] token, differing from standard ViT practices.
+
+(------------------------------------------------------------------------)
+
