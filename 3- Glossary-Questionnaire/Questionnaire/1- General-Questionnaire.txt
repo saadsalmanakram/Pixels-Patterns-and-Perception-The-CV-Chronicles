@@ -7139,4 +7139,10 @@ Ans- Long convolutions are convolutions with kernels the size of the input, enab
 
 (------------------------------------------------------------------------)
 
+1188- What is an implicit convolution in Hyena?
+
+Ans- Implicit convolutions learn a function to recover convolution filter values rather than directly learning the filter weights.
+
+(------------------------------------------------------------------------)
+
 
