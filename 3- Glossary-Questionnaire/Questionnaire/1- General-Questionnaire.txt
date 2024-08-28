@@ -7217,4 +7217,10 @@ Ans- I-JEPA is a self-supervised learning model by Meta AI (2023) that predicts 
 
 (------------------------------------------------------------------------)
 
+1201- What are the two main approaches in self-supervised learning for images?
+
+Ans- Invariance-based methods and generative methods.
+
+(------------------------------------------------------------------------)
+
 
