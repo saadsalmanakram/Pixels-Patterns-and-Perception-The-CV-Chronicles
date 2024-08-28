@@ -6847,3 +6847,15 @@ Ans- The technology’s misuse can lead to harmful consequences, such as spreadi
 
 (------------------------------------------------------------------------)
 
+1140- Why is the use of deepfakes in political contexts particularly concerning?
+
+Ans- They can manipulate public opinion and incite division during sensitive times like elections.
+
+(------------------------------------------------------------------------)
+
+1141- What is AI Ethics?
+
+Ans- AI Ethics refers to the values, principles, and techniques that guide moral conduct in AI development and use.
+
+(------------------------------------------------------------------------)
+
