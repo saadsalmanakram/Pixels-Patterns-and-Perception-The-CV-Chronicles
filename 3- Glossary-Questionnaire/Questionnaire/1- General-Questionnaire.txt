@@ -6811,3 +6811,9 @@ Ans- The experiment highlighted the risks of unchecked biases in AI models.
 
 (------------------------------------------------------------------------)
 
+1134- What were the after-effects of the ImageNet Roulette project?
+
+Ans- It led to significant corrections in the ImageNet dataset and sparked discussions on mitigating AI risks.
+
+(------------------------------------------------------------------------)
+
