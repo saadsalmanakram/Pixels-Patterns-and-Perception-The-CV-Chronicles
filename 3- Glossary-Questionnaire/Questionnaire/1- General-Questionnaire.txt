@@ -6835,3 +6835,8 @@ Ans- Deepfakes are synthetic media created using deep generative models to manip
 
 (------------------------------------------------------------------------)
 
+1138- What are the potential dangers of deepfakes?
+
+Ans- They can spread misinformation, cause outrage, and have lifelong impacts on victims.
+
+(------------------------------------------------------------------------)
