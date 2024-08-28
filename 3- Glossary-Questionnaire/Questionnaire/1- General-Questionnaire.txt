@@ -6781,3 +6781,9 @@ Ans- To reduce overrepresentation of certain attributes and ensure a more equita
 
 (------------------------------------------------------------------------)
 
+1129- How did the ImageNet team address the issue of offensive synsets?
+
+Ans- They manually classified synsets as offensive, sensitive, or safe and removed the offensive ones.
+
+(------------------------------------------------------------------------)
+
