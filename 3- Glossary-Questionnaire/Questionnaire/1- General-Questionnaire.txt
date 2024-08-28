@@ -6859,3 +6859,9 @@ Ans- AI Ethics refers to the values, principles, and techniques that guide moral
 
 (------------------------------------------------------------------------)
 
+1142- What is bias in AI?
+
+Ans- Bias in AI refers to the prejudices reflected in algorithm outputs due to biased data or assumptions during development.
+
+(------------------------------------------------------------------------)
+
