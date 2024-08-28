@@ -6739,4 +6739,10 @@ Ans- WordNet is a database of word classifications that formed the basis for Ima
 
 (------------------------------------------------------------------------)
 
+1122- What are non-imageable concepts, and why are they problematic in datasets?
+
+Ans- Concepts that cannot be visually represented, leading to irrelevant and biased classifications.
+
+(------------------------------------------------------------------------)
+
 
