@@ -6949,4 +6949,10 @@ Ans- MSR is an alternative to multi-head attention that enables parallel trainin
 
 (------------------------------------------------------------------------)
 
+1157- How does RetNet's Parallel Representation work?
+
+Ans- It enables efficient training on GPUs, similar to self-attention in Transformers.
+
+(------------------------------------------------------------------------)
+
 
