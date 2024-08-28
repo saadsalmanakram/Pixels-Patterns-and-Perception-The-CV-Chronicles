@@ -7187,4 +7187,10 @@ Ans- Hyena's global context awareness and efficient GPU memory usage make it sui
 
 (------------------------------------------------------------------------)
 
+1196- Can Hyena replace attention in ViT, Swin, and DeiT backbones?
+
+Ans- Yes, Hyena can be used as a direct drop-in replacement in ViT, Swin, and DeiT backbones for efficient processing.
+
+(------------------------------------------------------------------------)
+
 
