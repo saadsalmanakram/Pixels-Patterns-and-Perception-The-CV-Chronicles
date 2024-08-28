@@ -6987,3 +6987,9 @@ Ans- RMT is a vision backbone inspired by RetNet, designed to enhance Vision Tra
 
 (------------------------------------------------------------------------)
 
+1163- What is Manhattan Self-Attention (MaSA) in RMT?
+
+Ans- MaSA introduces a spatial decay matrix based on Manhattan distance, adjusting attention scores based on token distance.
+
+(------------------------------------------------------------------------)
+
