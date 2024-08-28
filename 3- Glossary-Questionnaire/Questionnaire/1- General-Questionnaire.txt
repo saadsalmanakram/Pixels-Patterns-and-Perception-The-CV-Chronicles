@@ -6775,3 +6775,9 @@ Ans- They can lead to significant harm to individuals and groups by reinforcing 
 
 (------------------------------------------------------------------------)
 
+1128- What is the importance of balancing datasets like ImageNet?
+
+Ans- To reduce overrepresentation of certain attributes and ensure a more equitable model output.
+
+(------------------------------------------------------------------------)
+
