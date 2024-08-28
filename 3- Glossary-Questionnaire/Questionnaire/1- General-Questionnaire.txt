@@ -6715,4 +6715,10 @@ Ans- Biases crept in due to the structure of WordNet and the improper preparatio
 
 (------------------------------------------------------------------------)
 
+1118- What were the implications of the ImageNet Roulette experiment?
+
+Ans- It exposed deep-rooted biases and prompted discussions on the ethical considerations in AI.
+
+(------------------------------------------------------------------------)
+
 
