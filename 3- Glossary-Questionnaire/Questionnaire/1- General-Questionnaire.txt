@@ -7061,3 +7061,9 @@ Ans- They were removed because they added unnecessary complexity without improvi
 
 (------------------------------------------------------------------------)
 
+1175- How does the removal of convolutions affect Hiera's performance?
+
+Ans- Removing convolutions initially decreased accuracy but ultimately led to a simpler model with improved speed, especially after refining the use of max pooling layers.
+
+(------------------------------------------------------------------------)
+
