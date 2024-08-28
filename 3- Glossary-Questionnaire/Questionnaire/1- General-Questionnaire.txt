@@ -7169,4 +7169,10 @@ Ans- The primary advantage of Hyena is its subquadratic computational complexity
 
 (------------------------------------------------------------------------)
 
+1193- How does Hyena generalize the H3 layer?
+
+Ans- Hyena generalizes the H3 layer by extending it recursively with different parameterizations for long convolutions.
+
+(------------------------------------------------------------------------)
+
 
