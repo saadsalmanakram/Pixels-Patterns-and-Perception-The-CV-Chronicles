@@ -6769,3 +6769,9 @@ Ans- The community fosters open dialogues, promoting ethical practices in AI dev
 
 (------------------------------------------------------------------------)
 
+1127- What are the consequences of deploying biased AI models in real-world applications?
+
+Ans- They can lead to significant harm to individuals and groups by reinforcing stereotypes and discrimination.
+
+(------------------------------------------------------------------------)
+
