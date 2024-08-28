@@ -7031,3 +7031,9 @@ Ans- Hiera is a hierarchical vision transformer architecture designed to achieve
 
 (------------------------------------------------------------------------)
 
+1170- How does Hiera differ from traditional Vision Transformers (ViTs)?
+
+Ans- Unlike traditional ViTs, Hiera leverages hierarchical design and a strong pretraining task (MAE) to enhance performance without adding complexity.
+
+(------------------------------------------------------------------------)
+
