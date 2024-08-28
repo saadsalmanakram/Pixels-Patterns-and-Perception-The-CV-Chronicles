@@ -6840,3 +6840,10 @@ Ans- Deepfakes are synthetic media created using deep generative models to manip
 Ans- They can spread misinformation, cause outrage, and have lifelong impacts on victims.
 
 (------------------------------------------------------------------------)
+
+1139- What ethical concerns do deepfakes raise?
+
+Ans- The technology’s misuse can lead to harmful consequences, such as spreading false information.
+
+(------------------------------------------------------------------------)
+
