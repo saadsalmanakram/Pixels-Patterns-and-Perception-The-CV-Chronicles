@@ -6889,4 +6889,10 @@ Ans- A set of 23 guidelines developed in 2017 for the responsible development of
 
 (------------------------------------------------------------------------)
 
+1147- What was the purpose of the UNESCO report on AI Ethics?
+
+Ans- To provide a global standard for AI ethics with actionable policy recommendations.
+
+(------------------------------------------------------------------------)
+
 
