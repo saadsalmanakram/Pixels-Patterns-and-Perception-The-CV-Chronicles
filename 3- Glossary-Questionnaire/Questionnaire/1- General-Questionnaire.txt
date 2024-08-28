@@ -7181,4 +7181,10 @@ Ans- Hyena has shown promise in domains like DNA sequence modeling, large langua
 
 (------------------------------------------------------------------------)
 
+1195- What makes Hyena suitable for computer vision tasks?
+
+Ans- Hyena's global context awareness and efficient GPU memory usage make it suitable for high-resolution image processing and small-patch feature representation in computer vision.
+
+(------------------------------------------------------------------------)
+
 
