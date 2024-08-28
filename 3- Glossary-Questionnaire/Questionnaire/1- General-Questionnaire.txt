@@ -6751,4 +6751,10 @@ Ans- Face-blurring and image obfuscation techniques were applied to protect indi
 
 (------------------------------------------------------------------------)
 
+1124- How did ImageNet Roulette impact the AI community?
+
+Ans- It spurred a broader conversation on the ethical responsibilities of creating fair and unbiased training data.
+
+(------------------------------------------------------------------------)
+
 
