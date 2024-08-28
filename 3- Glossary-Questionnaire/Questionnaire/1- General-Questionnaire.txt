@@ -7199,4 +7199,9 @@ Ans- Implicit convolution allows Hyena to efficiently handle long sequences by l
 
 (------------------------------------------------------------------------)
 
+1198- How does Hyena contribute to the development of efficient architectures?
+
+Ans- Hyena contributes by providing a simpler, faster alternative to attention mechanisms, inspiring further efficient architectures like Mamba.
+
+(------------------------------------------------------------------------)
 
