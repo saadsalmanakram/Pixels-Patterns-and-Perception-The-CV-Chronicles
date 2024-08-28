@@ -7175,4 +7175,10 @@ Ans- Hyena generalizes the H3 layer by extending it recursively with different p
 
 (------------------------------------------------------------------------)
 
+1194- In what domains has Hyena shown promise?
+
+Ans- Hyena has shown promise in domains like DNA sequence modeling, large language models, and computer vision tasks.
+
+(------------------------------------------------------------------------)
+
 
