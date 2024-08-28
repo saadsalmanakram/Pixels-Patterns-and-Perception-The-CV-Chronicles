@@ -6691,4 +6691,10 @@ Ans- Artist Trevor Paglen and researcher Kate Crawford.
 
 (------------------------------------------------------------------------)
 
+1114- What was the primary motivation behind ImageNet Roulette?
+
+Ans- To highlight inherent biases in AI models trained on the ImageNet dataset.
+
+(------------------------------------------------------------------------)
+
 
