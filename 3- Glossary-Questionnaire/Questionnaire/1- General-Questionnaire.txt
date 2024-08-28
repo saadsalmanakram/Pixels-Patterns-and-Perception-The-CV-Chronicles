@@ -7127,4 +7127,10 @@ Ans- Hyena was developed to address the quadratic computational cost of attentio
 
 (------------------------------------------------------------------------)
 
+1186- Who developed Hyena?
+
+Ans- Hyena was developed by Hazy Research.
+
+(------------------------------------------------------------------------)
+
 
