@@ -6721,4 +6721,16 @@ Ans- It exposed deep-rooted biases and prompted discussions on the ethical consi
 
 (------------------------------------------------------------------------)
 
+1119- What was the response of the ImageNet team after the ImageNet Roulette controversy?
+
+Ans- The ImageNet team removed offensive synsets and worked on balancing the dataset to address biases.
+
+(------------------------------------------------------------------------)
+
+1120- What solutions were proposed by the ImageNet team to mitigate biases?
+
+Ans- Removing offensive synsets, improving diversity in images, and applying image obfuscation techniques.
+
+(------------------------------------------------------------------------)
+
 
