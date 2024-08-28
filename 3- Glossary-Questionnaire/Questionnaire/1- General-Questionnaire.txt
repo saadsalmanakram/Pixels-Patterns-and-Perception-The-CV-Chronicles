@@ -6709,4 +6709,10 @@ Ans- The labels were often offensive, stereotypical, and inappropriate, particul
 
 (------------------------------------------------------------------------)
 
+1117- How did biases in ImageNet Roulette arise?
+
+Ans- Biases crept in due to the structure of WordNet and the improper preparation of training data.
+
+(------------------------------------------------------------------------)
+
 
