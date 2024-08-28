@@ -6871,3 +6871,10 @@ Ans- Biases can disrupt ethical development and lead to unfair outcomes in AI ap
 
 (------------------------------------------------------------------------)
 
+1144- What are the key areas where AI Ethics is crucial?
+
+Ans- Consent, algorithm transparency, detection of synthetic media, and public awareness are critical areas.
+
+(------------------------------------------------------------------------)
+
+
