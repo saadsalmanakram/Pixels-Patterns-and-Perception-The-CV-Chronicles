@@ -7223,4 +7223,9 @@ Ans- Invariance-based methods and generative methods.
 
 (------------------------------------------------------------------------)
 
+1202- How do invariance-based methods work?
+
+Ans- They create similar embeddings for different views of the same image using hand-crafted augmentations like rotation and scaling.
+
+(------------------------------------------------------------------------)
 
