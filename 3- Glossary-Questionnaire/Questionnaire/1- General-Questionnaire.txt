@@ -6955,4 +6955,10 @@ Ans- It enables efficient training on GPUs, similar to self-attention in Transfo
 
 (------------------------------------------------------------------------)
 
+1158- What is the purpose of Recurrent Representation in RetNet?
+
+Ans- It facilitates memory-efficient and low-latency inference with O(1) complexity.
+
+(------------------------------------------------------------------------)
+
 
