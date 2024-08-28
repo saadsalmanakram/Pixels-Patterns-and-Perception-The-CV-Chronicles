@@ -6999,3 +6999,9 @@ Ans- MaSAD decomposes attention along horizontal and vertical axes, maintaining 
 
 (------------------------------------------------------------------------)
 
+1165- How does RMT differ from RetNet in training and inference?
+
+Ans- Unlike RetNet, RMT uses MaSA for both training and inference without switching between parallel and recurrent modes.
+
+(------------------------------------------------------------------------)
+
