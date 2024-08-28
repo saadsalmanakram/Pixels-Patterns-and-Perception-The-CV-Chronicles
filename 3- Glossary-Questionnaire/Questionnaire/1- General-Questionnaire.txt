@@ -7055,3 +7055,9 @@ Ans- Hiera simplifies MViTv2 by removing components like relative position embed
 
 (------------------------------------------------------------------------)
 
+1174- Why were relative position embeddings removed in Hiera?
+
+Ans- They were removed because they added unnecessary complexity without improving performance when pretraining with MAE.
+
+(------------------------------------------------------------------------)
+
