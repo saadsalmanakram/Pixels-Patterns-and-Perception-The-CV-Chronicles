@@ -6817,3 +6817,9 @@ Ans- It led to significant corrections in the ImageNet dataset and sparked discu
 
 (------------------------------------------------------------------------)
 
+1135- What ethical concerns does the ImageNet Roulette case raise?
+
+Ans- The case underscores the importance of addressing biases and the ethical use of AI.
+
+(------------------------------------------------------------------------)
+
