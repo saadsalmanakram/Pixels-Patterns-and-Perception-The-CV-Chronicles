@@ -6993,3 +6993,9 @@ Ans- MaSA introduces a spatial decay matrix based on Manhattan distance, adjusti
 
 (------------------------------------------------------------------------)
 
+1164- What is Decomposed Manhattan Self-Attention (MaSAD)?
+
+Ans- MaSAD decomposes attention along horizontal and vertical axes, maintaining global information with linear complexity.
+
+(------------------------------------------------------------------------)
+
