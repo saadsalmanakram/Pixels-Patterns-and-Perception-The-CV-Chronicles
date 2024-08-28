@@ -6823,3 +6823,9 @@ Ans- The case underscores the importance of addressing biases and the ethical us
 
 (------------------------------------------------------------------------)
 
+1136- What measures were taken by the ImageNet team following the case?
+
+Ans- They implemented face obfuscation, removed harmful synsets, and eliminated triggering images.
+
+(------------------------------------------------------------------------)
+
