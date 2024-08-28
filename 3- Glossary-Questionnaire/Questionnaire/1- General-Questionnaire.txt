@@ -6877,4 +6877,10 @@ Ans- Consent, algorithm transparency, detection of synthetic media, and public a
 
 (------------------------------------------------------------------------)
 
+1145- What are Asimov’s Three Laws of Robotics?
+
+Ans- They are principles designed to prevent robots from harming humans and ensure their ethical behavior.
+
+(------------------------------------------------------------------------)
+
 
