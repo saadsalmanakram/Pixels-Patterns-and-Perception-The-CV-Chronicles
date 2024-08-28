@@ -6883,4 +6883,10 @@ Ans- They are principles designed to prevent robots from harming humans and ensu
 
 (------------------------------------------------------------------------)
 
+1146- What are the Asilomar AI Principles?
+
+Ans- A set of 23 guidelines developed in 2017 for the responsible development of AI.
+
+(------------------------------------------------------------------------)
+
 
