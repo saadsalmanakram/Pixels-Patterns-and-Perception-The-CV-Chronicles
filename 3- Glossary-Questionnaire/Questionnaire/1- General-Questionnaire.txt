@@ -6919,4 +6919,10 @@ Ans- Human oversight ensures that AI systems do not replace human responsibility
 
 (------------------------------------------------------------------------)
 
+1152- What does the principle of Fairness and Non-Discrimination in AI entail?
+
+Ans- AI systems should promote social justice, fairness, and inclusiveness to benefit all individuals equally.
+
+(------------------------------------------------------------------------)
+
 
