@@ -7079,3 +7079,9 @@ Ans- Hiera shows that complex architectural modifications in vision transformers
 
 (------------------------------------------------------------------------)
 
+1178- How does Hiera challenge the conventional design of hierarchical vision models?
+
+Ans- Hiera challenges the need for intricate hierarchical designs by demonstrating that pretraining alone can yield high-performing models.
+
+(------------------------------------------------------------------------)
+
