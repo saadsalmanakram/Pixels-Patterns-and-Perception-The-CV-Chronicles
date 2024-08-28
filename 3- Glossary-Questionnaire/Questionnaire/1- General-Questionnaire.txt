@@ -7193,4 +7193,10 @@ Ans- Yes, Hyena can be used as a direct drop-in replacement in ViT, Swin, and De
 
 (------------------------------------------------------------------------)
 
+1197- What is the significance of implicit convolution in Hyena?
+
+Ans- Implicit convolution allows Hyena to efficiently handle long sequences by learning a mapping function instead of direct filter values.
+
+(------------------------------------------------------------------------)
+
 
