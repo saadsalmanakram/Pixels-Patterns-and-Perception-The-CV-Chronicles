@@ -6799,3 +6799,9 @@ Ans- It shows how unexamined biases in datasets can lead to harmful consequences
 
 (------------------------------------------------------------------------)
 
+1132- What was the ImageNet Roulette case study about?
+
+Ans- It demonstrated how AI models could go wrong due to biases in data labeling and processing.
+
+(------------------------------------------------------------------------)
+
