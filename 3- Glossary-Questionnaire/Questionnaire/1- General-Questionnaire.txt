@@ -6829,3 +6829,9 @@ Ans- They implemented face obfuscation, removed harmful synsets, and eliminated 
 
 (------------------------------------------------------------------------)
 
+1137- What are deepfakes?
+
+Ans- Deepfakes are synthetic media created using deep generative models to manipulate images or videos.
+
+(------------------------------------------------------------------------)
+
