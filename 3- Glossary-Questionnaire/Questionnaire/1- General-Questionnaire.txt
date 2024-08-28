@@ -6907,4 +6907,16 @@ Ans- AI systems should not exceed what is necessary for a legitimate aim, and ri
 
 (------------------------------------------------------------------------)
 
+1150- Why is transparency important in AI systems?
+
+Ans- Transparency ensures ethical deployment and helps build trust in AI technologies.
+
+(------------------------------------------------------------------------)
+
+1151- What role does human oversight play in AI Ethics?
+
+Ans- Human oversight ensures that AI systems do not replace human responsibility and accountability.
+
+(------------------------------------------------------------------------)
+
 
