@@ -7097,3 +7097,9 @@ Ans- They proved that a strong pretraining task like MAE can replace complex hie
 
 (------------------------------------------------------------------------)
 
+1181- What was the effect of replacing convolutions with max pooling in Hiera?
+
+Ans- The replacement initially decreased accuracy but ultimately increased model speed after further refinement.
+
+(------------------------------------------------------------------------)
+
