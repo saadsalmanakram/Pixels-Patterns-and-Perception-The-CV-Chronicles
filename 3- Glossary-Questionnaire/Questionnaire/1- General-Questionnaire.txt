@@ -6793,3 +6793,9 @@ Ans- ImageNet is a large-scale dataset that set the benchmark for object recogni
 
 (------------------------------------------------------------------------)
 
+1131- How does ImageNet Roulette illustrate the importance of ethical considerations in AI?
+
+Ans- It shows how unexamined biases in datasets can lead to harmful consequences, highlighting the need for ethical vigilance in AI development.
+
+(------------------------------------------------------------------------)
+
