@@ -7145,4 +7145,10 @@ Ans- Implicit convolutions learn a function to recover convolution filter values
 
 (------------------------------------------------------------------------)
 
+1189- How does Hyena use gating mechanisms?
+
+Ans- Hyena uses element-wise gating to control information flow and maintain data dependency, similar to attention mechanisms.
+
+(------------------------------------------------------------------------)
+
 
