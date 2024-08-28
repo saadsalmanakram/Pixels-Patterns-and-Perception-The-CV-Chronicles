@@ -6787,3 +6787,9 @@ Ans- They manually classified synsets as offensive, sensitive, or safe and remov
 
 (------------------------------------------------------------------------)
 
+1130- What is the significance of ImageNet in the field of computer vision?
+
+Ans- ImageNet is a large-scale dataset that set the benchmark for object recognition, influencing the development of AI models.
+
+(------------------------------------------------------------------------)
+
