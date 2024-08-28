@@ -7235,3 +7235,9 @@ Ans- They introduce strong biases that may not be suitable for certain downstrea
 
 (------------------------------------------------------------------------)
 
+1204- How do generative methods work?
+
+Ans- They reconstruct the input image by predicting masked patches at the pixel or token level.
+
+(------------------------------------------------------------------------)
+
