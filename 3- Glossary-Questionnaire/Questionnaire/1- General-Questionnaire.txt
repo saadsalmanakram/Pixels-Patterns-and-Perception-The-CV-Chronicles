@@ -7085,3 +7085,9 @@ Ans- Hiera challenges the need for intricate hierarchical designs by demonstrati
 
 (------------------------------------------------------------------------)
 
+1179- What is the base architecture from which Hiera is derived?
+
+Ans- Hiera is derived from MViTv2, a hierarchical architecture that models multi-scale representations across four stages.
+
+(------------------------------------------------------------------------)
+
