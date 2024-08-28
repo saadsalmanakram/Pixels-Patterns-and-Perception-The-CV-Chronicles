@@ -6733,4 +6733,10 @@ Ans- Removing offensive synsets, improving diversity in images, and applying ima
 
 (------------------------------------------------------------------------)
 
+1121- What is WordNet, and how is it related to ImageNet?
+
+Ans- WordNet is a database of word classifications that formed the basis for ImageNet’s structure, contributing to the biases in the dataset.
+
+(------------------------------------------------------------------------)
+
 
