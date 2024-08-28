@@ -7121,4 +7121,10 @@ Ans- Hyena is a computational operator designed as a subquadratic alternative to
 
 (------------------------------------------------------------------------)
 
+1185- Why was Hyena developed?
+
+Ans- Hyena was developed to address the quadratic computational cost of attention mechanisms, providing a more efficient approach with subquadratic complexity.
+
+(------------------------------------------------------------------------)
+
 
