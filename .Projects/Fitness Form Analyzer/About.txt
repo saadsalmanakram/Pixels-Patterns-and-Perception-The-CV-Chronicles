@@ -1,0 +1,1 @@
+A system that uses CV to analyze users’ exercise forms in real time, providing personalized feedback and corrections to improve technique and prevent injuries.
