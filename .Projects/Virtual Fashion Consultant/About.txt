@@ -1,0 +1,1 @@
+An application that uses CV to analyze a user's wardrobe through images and suggests new outfits based on current fashion trends, body types, and individual style preferences.

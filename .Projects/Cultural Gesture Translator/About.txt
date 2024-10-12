@@ -1,0 +1,1 @@
+Model that recognizes and translates gestures from various cultures into their meanings. This could be used in intercultural communication, helping people understand the significance of specific gestures in different cultures.
